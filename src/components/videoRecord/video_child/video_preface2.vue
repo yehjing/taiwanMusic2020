@@ -8,96 +8,103 @@
     </div>
     <!-- <hr> -->
     <!-- <p class="firstRow"></p> -->
-    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;有鑑於本年鑑所記載的內容主要為2019年度臺灣音樂活動，影音紀錄更能幫助民眾理解以音樂為主體的各項音樂動態，《2019臺灣音樂年鑑》工作團隊擇選具有代表性的音樂活動影像，以做為《2019臺灣音樂年鑑》的保存與補充資料。本年鑑共收錄51支臺灣音樂影音紀錄，其中藝術（當代創作）篇共收錄9支影片。</p>
+    <p>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;有鑑於本年鑑所記載的內容主要為2020年度臺灣音樂活動，影音紀錄更能幫助民眾理解以音樂為主體的各項音樂動態，《2020臺灣音樂年鑑》工作團隊擇選具有代表性的音樂活動影像，以做為《2020臺灣音樂年鑑》的保存與補充資料。本年鑑共收錄51支臺灣音樂影音紀錄，其中藝術（當代創作）篇共收錄9支影片。
+    </p>
+
     <table rules="all" style="border:1px solid" cellpadding="5">
       <tbody>
         <tr>
           <td class="tableCenter">
-            子計畫
+            <p>子計畫</p>
           </td>
           <td class="tableCenter">
-            序號
+            <p>序號</p>
           </td>
           <td class="tableCenter">
-            標題名稱
-          </td>
-        </tr>
-        <tr>
-          <td rowspan="5">
-            國樂
-          </td>
-          <td class="tableCenter">
-            1
-          </td>
-          <td>
-            臺北市立國樂團2019年回顧影片
-          </td>
-        </tr>
-        <tr>
-          <td class="tableCenter">
-            2
-          </td>
-          <td>
-            2019竹塹國樂節－風吹樂動「聚菁匯城」閉幕音樂會《北管印象》片段
-          </td>
-        </tr>
-        <tr>
-          <td class="tableCenter">
-            3
-          </td>
-          <td>
-            2019國樂聯合創作發表會《社戲》片段
-          </td>
-        </tr>
-        <tr>
-          <td class="tableCenter">
-            4
-          </td>
-          <td>
-            桃園市國樂團2019年回顧影片
-          </td>
-        </tr>
-        <tr>
-          <td class="tableCenter">
-            5
-          </td>
-          <td>
-            臺灣國樂團「花漾寶島」《繁花》演出實況
+            <p>標題名稱</p>
           </td>
         </tr>
         <tr>
           <td rowspan="4">
-            西樂及混合編制
+            <p>國樂</p>
           </td>
           <td class="tableCenter">
-            1
+            <p>1</p>
           </td>
           <td>
-            《春華秋水》德國E-MEX樂團與臺灣中青世代作曲家「2019臺灣音樂憶像系列」音樂會演出選粹
+            <p>桃園市國樂團2020年度回顧</p>
           </td>
         </tr>
         <tr>
           <td class="tableCenter">
-            2
+            <p>2</p>
           </td>
           <td>
-            2019 TSO 50週年團慶音樂會－溫隆信《臺北交響曲》第五樂章〈終曲〉選粹
+            <p>臺北市立國樂團「望春風－網路直播音樂會」《絲路樂舞》演出片段</p>
           </td>
         </tr>
         <tr>
           <td class="tableCenter">
-            3
+            <p>3</p>
           </td>
           <td>
-            2019臺南藝術節閉幕製作－音樂劇場《聽海日記》
+            <p>台南樂集2020年度回顧</p>
           </td>
         </tr>
         <tr>
           <td class="tableCenter">
-            4
+            <p>4</p>
           </td>
           <td>
-            2019 ACL「音樂台灣」2019作曲聯展－高雄場選粹：許常惠《鄉愁三調》
+            <p>臺灣國樂團「破繭重生」音樂會《破繭重生》第三樂章〈起靈〉</p>
+          </td>
+        </tr>
+        <tr>
+          <td rowspan="5">
+            <p>西樂及混合編制</p>
+          </td>
+          <td class="tableCenter">
+            <p>1</p>
+          </td>
+          <td>
+            <p>
+              2020臺灣音樂憶像「來自故鄉的思念」蕭泰然逝世五周年紀念系列選粹：蕭泰然《原住民組曲》
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tableCenter">
+            <p>2</p>
+          </td>
+          <td>
+            <p>2020臺北市音樂季音樂劇場「燈．影」選粹：潘皇龍《大燈對》管弦交響協奏曲</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tableCenter">
+            <p>3</p>
+          </td>
+          <td>
+            <p>2020臺灣音樂憶像「聲迴臺灣」合唱專場選粹：余忠元《梅落》為混聲合唱</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tableCenter">
+            <p>4</p>
+          </td>
+          <td>
+            <p>
+              2020中華民國聖樂促進會「台灣之聲：管弦樂篇」選粹：陳茂萱《一言九鼎》第一號鋼琴協奏曲
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tableCenter">
+            <p>5</p>
+          </td>
+          <td>
+            <p>亞洲作曲家聯盟台灣總會「音樂台灣2020作曲聯展」選粹：林進祐《台中頌》</p>
           </td>
         </tr>
       </tbody>
