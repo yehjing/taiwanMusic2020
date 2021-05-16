@@ -30,7 +30,7 @@
         <li @click="hiddenMenu"><router-link :to="'/comment'">文化評論</router-link></li>
         <li @click="hiddenMenu"><router-link :to="'/videoRecord'">影音紀錄</router-link></li>
         <li @click="hiddenMenu"><router-link :to="'/indexDir'">附錄</router-link></li>
-        <li @click="hiddenMenu"><router-link :to="'/download'">2019臺灣音樂年鑑<br>全文下載</router-link></li>
+        <li @click="hiddenMenu"><router-link :to="'/download'">2020臺灣音樂年鑑<br>全文下載</router-link></li>
       </ul>
     </div>
     <div @click="hiddenMenu" v-if="isOpen" class="mask"></div>

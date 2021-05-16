@@ -252,22 +252,22 @@ export default new VueRouter({
       component: Comment,
       children: [
         {
-          name: '2019年度臺灣傳統音樂文化與生態論述',
+          name: '2020年度臺灣傳統音樂文化與生態論述',
           path: '/',
           component: Comment_1,
         },
         {
-          name: '2019年度臺灣藝術（當代創作）音樂文化與生態論述',
+          name: '2020年度臺灣藝術（當代創作）音樂文化與生態論述',
           path: 'comment_2',
           component: Comment_2,
         },
         {
-          name: '2019年度臺灣流行音樂文化與生態論述',
+          name: '2020年度臺灣流行音樂文化與生態論述',
           path: 'comment_3',
           component: Comment_3,
         },
         {
-          name: '2019年度臺灣跨界音樂與其他音樂文化與生態論述',
+          name: '2020年度臺灣跨界音樂與其他音樂文化與生態論述',
           path: 'comment_4',
           component: Comment_4,
         },
@@ -504,13 +504,13 @@ export default new VueRouter({
       ],
     },
     {
-      name: '2019臺灣音樂年鑑全文下載',
+      name: '2020臺灣音樂年鑑全文下載',
       path: '/download',
       component: Download,
       children: [
         {
           path: '/',
-          name: '2019臺灣音樂年鑑全文下載',
+          name: '2020臺灣音樂年鑑全文下載',
           component: Download_1,
         },
       ],

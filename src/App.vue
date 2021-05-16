@@ -15,7 +15,7 @@
           <li><router-link :to="'/comment'">文化評論</router-link></li>
           <li><router-link :to="'/videoRecord'">影音紀錄</router-link></li>
           <li><router-link :to="'/indexDir'">附錄</router-link></li>
-          <li><router-link :to="'/download'">2019臺灣音樂年鑑<br>全文下載</router-link></li>
+          <li><router-link :to="'/download'">2020臺灣音樂年鑑<br>全文下載</router-link></li>
         </ul>
       </nav>
       <MobileHomeNav v-show="isHome"/>
@@ -127,7 +127,7 @@ export default {
 <style rel="stylesheet/scss" lang="scss">
 // @import "~bootstrap/scss/bootstrap";
 *{
-  list-style: none;
+  // list-style: none;
   margin: 0 ;
   padding: 0;
   font-family: '微軟正黑體'
