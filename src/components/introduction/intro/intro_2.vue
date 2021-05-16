@@ -7,8 +7,7 @@
     <hr />
     <div >
       <p class="firstRow"></p>
-      <!-- <h3>文化脈絡下的樂音迴響</h3> -->
-      <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;山海交匯的壯闊、多元族群的組成，加上歷史的演進及東西方文化的共生融合，讓臺灣音樂有著豐富的底蘊，展現豐沛的生命力與多樣風格。
+      <!-- <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;山海交匯的壯闊、多元族群的組成，加上歷史的演進及東西方文化的共生融合，讓臺灣音樂有著豐富的底蘊，展現豐沛的生命力與多樣風格。
       </p>
       <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《2019臺灣音樂年鑑》以文字影音詳實記錄見證這一年來臺灣音樂活動的發展，涵蓋音樂展演活動、祭儀活動、推廣教育、傳習活動、國際與兩岸交流、研究與出版、文化政策等多元向度的精彩表現。
       </p>
@@ -20,7 +19,7 @@
       <div style="text-align:right;margin-top:1em">
         <img src="./../../../assets/center2.png" alt="" />
         <br /><span>2020年6月30日</span>
-      </div>
+      </div> -->
     </div>
   </div>
 </template>

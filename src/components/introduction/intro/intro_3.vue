@@ -7,7 +7,7 @@
     <hr />
     <div >
       <p class="firstRow"></p>
-      <p>
+      <!-- <p>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;臺灣音樂，指由臺灣文化所孕育、培養和再生的音樂；是臺灣土地上生活的人們共同產出、分享和傳承的音聲景致。隨著時空歷程的交織，不同族群的音樂文化表現了各具特色的鄉土情感、民族性格和時代精神，融匯而為臺灣音樂之整體內涵與風格。
       </p>
       <p>
@@ -37,9 +37,8 @@
       <br />
       <div class="signTitle" style="text-align:right">主編 / 國立臺灣藝術大學教授</div>
       <div style="text-align:right;margin-top:1em">
-        <!-- <span>張儷瓊</span><br /><span>2020年6月30日</span> -->
         <img src="./../../../assets/sign.jpg" alt="" /><br /><span>2020年6月30日</span>
-      </div>
+      </div> -->
     </div>
   </div>
 </template>
