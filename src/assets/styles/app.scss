@@ -64,6 +64,9 @@ small{
   .wrapContain{
     display: flex;
     flex-direction: column;
+    @include pc{
+      flex-direction: row;
+    }
   }
   .headerContent{
     width: 100%;
@@ -138,6 +141,10 @@ small{
     }
     .linkLeft{
       display: flex;
+      @include pc{
+        flex-direction: column;
+        width: 20%;
+      }
       @include mobile{
         background: #e5e5e5;
         // width: auto;
@@ -163,6 +170,14 @@ small{
         // background: linear-gradient(to bottom, rgba(199, 199, 199, 0.5), rgba(250, 250, 250, 0.5));
         margin-right: .5em;
         border-radius: 5px 5px 0 0;
+        @include pc {
+          border-bottom: 1px solid #ccc;
+          padding-top: 10px;
+          padding-bottom: 10px;
+          margin-right: 0;
+          border-radius:0;
+          background: linear-gradient(to bottom, rgba(199, 199, 199, 0.5), rgba(250, 250, 250, 0.5));
+        }
         @include mobile{
           font-size: .9rem;
           margin-right: 0;
@@ -181,6 +196,9 @@ small{
       }
       .noLeaf{
         width: 12%;
+        @include pc {
+          width: auto;
+        }
         @include mobile{
           width:auto;
         }
@@ -220,11 +238,15 @@ small{
       line-height: 1.5;
       // width: 90%;
       min-height: 720px;
-      max-height: 1000px;
+      // max-height: 1000px;
+      max-height: 1172px;
       // overflow: auto;
       padding: 50px 40px;
       background: #fff;
       box-shadow: 5px 7px 6px 0 rgba(0, 0, 0, 0.16);
+      @include pc{
+        width: 80%;
+      }
       @include mobile{
         padding: 2%;
       }
@@ -430,3 +452,13 @@ h4{
   }
 }
 .suojin{text-indent:2em}
+
+
+// 左側submenu部分
+.webMenuItem{
+  display: none !important;
+  @include pc{
+    background: #fff !important;
+    display: flex !important;
+  }
+}

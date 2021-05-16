@@ -4,15 +4,51 @@
       <div class="middleItem noLeaf" :class="activeName === '' ? 'active' :''" @click="clickLink('')">
         傳統音樂
       </div>
+      <template v-if="activeName === ''">
+        <div class="middleItem noLeaf webMenuItem"
+          :class="{'active': subActive === tab}"
+          v-for="(tab,i) in tabs1" :key="i"
+          @click="changeView(tab)"
+        >
+          {{tab.name}}
+        </div>
+      </template>
       <div class="middleItem noLeaf" :class="activeName === 'videoRecord_01' ? 'active' :''" @click="clickLink('videoRecord_01')">
         藝術（當代創作）音樂
       </div>
+      <template v-if="activeName === 'videoRecord_01'">
+        <div class="middleItem noLeaf webMenuItem"
+          :class="{'active': subActive === tab}"
+          v-for="(tab,i) in tabs2" :key="i"
+          @click="changeView(tab)"
+        >
+          {{tab.name}}
+        </div>
+      </template>
       <div class="middleItem noLeaf" :class="activeName === 'videoRecord_02' ? 'active' :''" @click="clickLink('videoRecord_02')">
         流行音樂
       </div>
+      <template v-if="activeName === 'videoRecord_02'">
+        <div class="middleItem noLeaf webMenuItem"
+          :class="{'active': subActive === tab}"
+          v-for="(tab,i) in tabs3" :key="i"
+          @click="changeView(tab)"
+        >
+          {{tab.name}}
+        </div>
+      </template>
       <div class="middleItem noLeaf" :class="activeName === 'videoRecord_03' ? 'active' :''" @click="clickLink('videoRecord_03')">
         跨界音樂與其他
       </div>
+      <template v-if="activeName === 'videoRecord_03'">
+        <div class="middleItem noLeaf webMenuItem"
+          :class="{'active': subActive === tab}"
+          v-for="(tab,i) in tabs4" :key="i"
+          @click="changeView(tab)"
+        >
+          {{tab.name}}
+        </div>
+      </template>
     </aside>
     <div class="viewRight">
       <router-view></router-view>
@@ -23,22 +59,38 @@
 
 <script>
 import Share from '../share.vue';
+import { tabs1, tabs2, tabs3, tabs4 } from './video_child/tab';
 
 export default {
   components: {
     Share,
   },
+  inject: ['initScroll'],
   data() {
     return {
+      tabs1,
+      tabs2,
+      tabs3,
+      tabs4,
       activeName: '',
+      subActive: '',
     };
   },
   created() {
   },
   methods: {
     clickLink(data) {
-      this.activeName = data;
-      this.$router.push(`/videoRecord/${data}`);
+      if (this.activeName === data) {
+        this.activeName = 'a';
+      } else {
+        this.activeName = data;
+        this.$router.push(`/videoRecord/${data}`);
+      }
+    },
+    changeView(tab) {
+      this.$router.push(`/videoRecord/${tab.path}`);
+      this.subActive = tab;
+      this.initScroll();
     },
   },
 };
