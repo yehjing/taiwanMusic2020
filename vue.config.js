@@ -1,5 +1,5 @@
 module.exports = {
-  publicPath: '/taiwanMusic2019/dist/',
+  publicPath: '/taiwanMusic2020/dist/',
   // publicPath: process.env.NODE_ENV === 'production'
   //   ? 'dist/'
   //   : '/',
