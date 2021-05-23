@@ -33,6 +33,7 @@ import Observed_11 from '@/components/observed/observed_child/observed_11';
 import Observed_12 from '@/components/observed/observed_child/observed_12';
 import Observed_13 from '@/components/observed/observed_child/observed_13';
 import Observed_14 from '@/components/observed/observed_child/observed_14';
+import Observed_15 from '@/components/observed/observed_child/observed_15';
 
 // comment
 import Comment from '@/components/comment';
@@ -243,6 +244,11 @@ export default new VueRouter({
           name: '跨界音樂與其他 / 跨界音樂與其他',
           path: 'Observed_14',
           component: Observed_14,
+        },
+        {
+          name: '2020年度釋奠樂及其他活動觀察與評介',
+          path: 'Observed_15',
+          component: Observed_15,
         },
       ],
     },

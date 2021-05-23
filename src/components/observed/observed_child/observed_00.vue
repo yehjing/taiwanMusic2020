@@ -24,6 +24,7 @@ import Observed7 from './observed_7.vue';
 import Observed8 from './observed_8.vue';
 import Observed9 from './observed_9.vue';
 import Observed10 from './observed_10.vue';
+import Observed15 from './observed_15.vue';
 
 
 const tabs = [
@@ -91,6 +92,12 @@ const tabs = [
     autor: '李秀琴',
     component: Observed10,
     path: 'observed_10',
+  },
+  {
+    name: '2020年度釋奠樂及其他活動觀察與評介',
+    autor: '蔡秉衡',
+    component: Observed15,
+    path: 'observed_15',
   },
 ];
 

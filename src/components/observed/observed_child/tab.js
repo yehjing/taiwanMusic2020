@@ -49,6 +49,11 @@ const tabs1 = [
     autor: '李秀琴',
     path: 'observed_10',
   },
+  {
+    name: '2020年度釋奠樂及其他活動觀察與評介',
+    autor: '蔡秉衡',
+    path: 'observed_15',
+  },
 ];
 const tabs2 = [
   {
