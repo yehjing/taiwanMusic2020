@@ -1,6 +1,6 @@
 <template>
   <section class="mobileHomeNav">
-    <ul>
+    <ul style="list-style:none">
       <li><router-link :to="'/introduction'">序</router-link></li>
       <li><router-link :to="'/idea'">編輯理念<br>與體例說明</router-link></li>
       <li><router-link :to="'/observed'">年度活動<br>觀察與評介</router-link></li>

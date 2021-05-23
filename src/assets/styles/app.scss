@@ -50,7 +50,7 @@ small{
   background-color: #e5e5e5;
   .title{
     align-items: center !important;
-    color: #923b3e !important;
+    color: #7c4787 !important;
     margin-top: 0 !important;
     .cross:hover{
       cursor: pointer;
@@ -87,7 +87,7 @@ small{
   nav{
     width: 100%;
     height: 67.3px;
-    background-color: #923b3e;
+    background-color: #7c4787;
     // background-color: #ffde00;
     display: flex;
     justify-content: center;
@@ -130,11 +130,13 @@ small{
     justify-content: center;
     width: 100%;
     min-height: 960px;
-    background: url('#{$image-path}/bg.png');
+    // background: url('#{$image-path}/bg.png');
+    background: linear-gradient(0deg, #AC65BB,#4F0A5D);
     .insideArea{
       width: 100%;
       min-height: 960px;
-      background: rgba(255, 255, 255, 0.2);
+      // background: rgba(255, 255, 255, 0.2);
+      background: url('#{$image-path}/bg.png');
       // background: linear-gradient(to bottom, rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.6));
       box-sizing: border-box;
       padding: 2%;
@@ -143,7 +145,7 @@ small{
       display: flex;
       @include pc{
         flex-direction: column;
-        width: 20%;
+        width: 15%;
       }
       @include mobile{
         background: #e5e5e5;
@@ -189,7 +191,7 @@ small{
         &.active{
           background: #fff;
           @include mobile{
-            color: #923b3e;
+            color: #7c4787;
             background: #e5e5e5;;
           }
         }

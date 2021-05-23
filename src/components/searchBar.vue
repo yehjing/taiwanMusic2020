@@ -125,7 +125,7 @@ export default {
       left: 0;
       width: 60%;
       height: 100vh;
-      background: #923b3e;
+      background: #7c4787;
       padding: 10% 4% 0 4%;
       z-index: 2;
       // overflow: hidden;
