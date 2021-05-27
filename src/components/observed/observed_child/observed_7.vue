@@ -17,32 +17,31 @@
 <table rules="all" style="border:1px solid" cellpadding="5">
 <tbody>
 <tr>
-<td>
-<p>類別</p>
-<p>族群</p>
+<td class="tableCenter">
+<p>類別/族群</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>展演活動</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>祭儀活動</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>推廣教育</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>傳習活動</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>國際與兩岸交流</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>研究與出版</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>文化政策</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>多元活動</p>
 </td>
 </tr>
@@ -50,25 +49,25 @@
 <td>
 <p>排灣族</p>
 </td>
-<td>
+<td class="tableRight">
 <p>147</p>
 </td>
-<td>
+<td class="tableRight">
 <p>41</p>
 </td>
-<td>
+<td class="tableRight">
 <p>76</p>
 </td>
-<td>
+<td class="tableRight">
 <p>9</p>
 </td>
-<td>
+<td class="tableRight">
 <p>3</p>
 </td>
-<td>
+<td class="tableRight">
 <p>8</p>
 </td>
-<td>
+<td class="tableRight">
 <p>8</p>
 </td>
 <td>&nbsp;</td>
@@ -77,20 +76,20 @@
 <td>
 <p>魯凱族</p>
 </td>
-<td>
+<td class="tableRight">
 <p>19</p>
 </td>
-<td>
+<td class="tableRight">
 <p>6</p>
 </td>
-<td>
+<td class="tableRight">
 <p>15</p>
 </td>
-<td>
+<td class="tableRight">
 <p>1</p>
 </td>
 <td>&nbsp;</td>
-<td>
+<td class="tableRight">
 <p>1</p>
 </td>
 <td>&nbsp;</td>
@@ -100,19 +99,19 @@
 <td>
 <p>拉阿魯哇族</p>
 </td>
-<td>
+<td class="tableRight">
 <p>6</p>
 </td>
 <td>&nbsp;</td>
-<td>
+<td class="tableRight">
 <p>5</p>
 </td>
-<td>
+<td class="tableRight">
 <p>1</p>
 </td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
-<td>
+<td class="tableRight">
 <p>1</p>
 </td>
 <td>&nbsp;</td>
@@ -121,13 +120,13 @@
 <td>
 <p>卡那卡那富族</p>
 </td>
-<td>
+<td class="tableRight">
 <p>5</p>
 </td>
-<td>
+<td class="tableRight">
 <p>2</p>
 </td>
-<td>
+<td class="tableRight">
 <p>2</p>
 </td>
 <td>&nbsp;</td>
@@ -140,14 +139,14 @@
 <td>
 <p>跨族群</p>
 </td>
-<td>
+<td class="tableRight">
 <p>2</p>
 </td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
-<td>
+<td class="tableRight">
 <p>1</p>
 </td>
 <td>&nbsp;</td>
@@ -158,10 +157,10 @@
 <p>馬卡道族</p>
 </td>
 <td>&nbsp;</td>
-<td>
+<td class="tableRight">
 <p>3</p>
 </td>
-<td>
+<td class="tableRight">
 <p>1</p>
 </td>
 <td>&nbsp;</td>
@@ -174,13 +173,13 @@
 <td>
 <p>大武壠族</p>
 </td>
-<td>
+<td class="tableRight">
 <p>1</p>
 </td>
-<td>
+<td class="tableRight">
 <p>2</p>
 </td>
-<td>
+<td class="tableRight">
 <p>3</p>
 </td>
 <td>&nbsp;</td>
@@ -193,18 +192,18 @@
 <td>
 <p>西拉雅族</p>
 </td>
-<td>
+<td class="tableRight">
 <p>1</p>
 </td>
-<td>
+<td class="tableRight">
 <p>9</p>
 </td>
-<td>
+<td class="tableRight">
 <p>1</p>
 </td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
-<td>
+<td class="tableRight">
 <p>2</p>
 </td>
 <td>&nbsp;</td>
@@ -215,13 +214,13 @@
 <p>噶哈巫族</p>
 </td>
 <td>&nbsp;</td>
-<td>
+<td class="tableRight">
 <p>1</p>
 </td>
-<td>
+<td class="tableRight">
 <p>1</p>
 </td>
-<td>
+<td class="tableRight">
 <p>1</p>
 </td>
 <td>&nbsp;</td>
@@ -235,7 +234,7 @@
 </td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
-<td>
+<td class="tableRight">
 <p>1</p>
 </td>
 <td>&nbsp;</td>
@@ -249,7 +248,7 @@
 <p>拍瀑拉族</p>
 </td>
 <td>&nbsp;</td>
-<td>
+<td class="tableRight">
 <p>1</p>
 </td>
 <td>&nbsp;</td>
@@ -263,25 +262,25 @@
 <td>
 <p>總計</p>
 </td>
-<td>
+<td class="tableRight">
 <p>181</p>
 </td>
-<td>
+<td class="tableRight">
 <p>65</p>
 </td>
-<td>
+<td class="tableRight">
 <p>105</p>
 </td>
-<td>
+<td class="tableRight">
 <p>12</p>
 </td>
-<td>
+<td class="tableRight">
 <p>3</p>
 </td>
-<td>
+<td class="tableRight">
 <p>12</p>
 </td>
-<td>
+<td class="tableRight">
 <p>9</p>
 </td>
 <td>&nbsp;</td>
@@ -298,16 +297,16 @@
 <table rules="all" style="border:1px solid" cellpadding="5">
 <tbody>
 <tr>
-<td>
+<td class="tableCenter">
 <p>部落</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>時間</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>祭典名稱</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>辦理地點</p>
 </td>
 </tr>
@@ -425,32 +424,31 @@
 <table rules="all" style="border:1px solid" cellpadding="5">
 <tbody>
 <tr>
-<td>
-<p>類別</p>
-<p>族群</p>
+<td class="tableCenter">
+<p>類別/族群</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>展演活動</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>祭儀活動</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>推廣教育</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>傳習活動</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>國際與兩岸交流</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>研究與出版</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>文化政策</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>多元活動</p>
 </td>
 </tr>
@@ -458,25 +456,25 @@
 <td>
 <p>排灣族</p>
 </td>
-<td>
+<td class="tableRight">
 <p>147</p>
 </td>
-<td>
+<td class="tableRight">
 <p>41</p>
 </td>
-<td>
+<td class="tableRight">
 <p>76</p>
 </td>
-<td>
+<td class="tableRight">
 <p>9</p>
 </td>
-<td>
+<td class="tableRight">
 <p>3</p>
 </td>
-<td>
+<td class="tableRight">
 <p>8</p>
 </td>
-<td>
+<td class="tableRight">
 <p>8</p>
 </td>
 <td>&nbsp;</td>
@@ -487,37 +485,36 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;由上面的表格，在數量的呈現上可以看到排灣族文化生活上精彩而充實的一年，展演活動上幾個值得提出來的活動如許坤仲「技藝傳薪－2020重要傳統表演藝術傳習成果展演」（文化部文化資產園區）、泰武古謠傳唱「歌謠中與禰相遇」（屏東演藝廳音樂廳）、屏東縣台灣原住民文化研究會「109年傳統藝術接班人駐園演出計畫－排灣族口鼻笛」（國立傳統藝術中心蔣渭水演藝廳）、「歌劇魔笛－排灣傳奇」（屏東演藝廳音樂廳）、「LIMA布拉瑞揚舞團五週年特別企劃－開幕之夜」（臺東均一實驗高中明門藝文中心）、「2020 Taiwan PASIWALI Festival原住民族國際音樂節」（臺東森林公園）、草埔青年會與VASA東排灣傳統樂舞團「2020臺灣原住民樂舞饗宴」（國父紀念館大會堂）、「牡丹青年回家吧！ari tjumaq」（屏東縣牡丹部落池山公園）等，排灣族的展演活動數量多且精彩，顯示這個族群對於自身文化的重視程度。</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;阿爆（阿仍仍）的《kinakaian母親的舌頭》獲第三十一屆金曲獎最佳年度專輯獎以及最佳原住民語專輯獎，〈Thank you感謝〉獲第三十一屆金曲獎最佳年度歌曲獎，可以說是2020年流行音樂最閃亮的話題，阿爆（阿仍仍）的魅力橫掃整個典禮會場。本類活動尚需強調的，是排灣族越來越多的官方單位做歌謠出版的事，牡丹鄉公所出版的是族語歌謠專輯《Senai a mapuljat來唱歌吧，我們！》，而排灣族泰武鄉公所，出版了《古調留聲》新書發表會，這2個出版活動，原本只是官方單位出版專輯，但是出版之後無意間引起別的鄉公所的注意，紛紛打聽如何採集鄉內的古謠，如何對外推廣在地歌謠，影響的層面非常大。</p>
 <h4><strong>二、魯凱族</strong></h4>
-<p>魯凱族的紀錄相當多，以下是各類的紀錄數量。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;魯凱族的紀錄相當多，以下是各類的紀錄數量。</p>
 <span>表4：魯凱族年度活動數量一覽表</span>
 <table rules="all" style="border:1px solid" cellpadding="5">
 <tbody>
 <tr>
-<td>
-<p>類別</p>
-<p>族群</p>
+<td class="tableCenter">
+<p>類別/族群</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>展演活動</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>祭儀活動</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>推廣教育</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>傳習活動</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>國際與兩岸交流</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>研究與出版</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>文化政策</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>多元活動</p>
 </td>
 </tr>
@@ -525,20 +522,20 @@
 <td>
 <p>魯凱族</p>
 </td>
-<td>
+<td class="tableRight">
 <p>19</p>
 </td>
-<td>
+<td class="tableRight">
 <p>6</p>
 </td>
-<td>
+<td class="tableRight">
 <p>15</p>
 </td>
-<td>
+<td class="tableRight">
 <p>1</p>
 </td>
 <td>&nbsp;</td>
-<td>
+<td class="tableRight">
 <p>1</p>
 </td>
 <td>&nbsp;</td>
@@ -553,32 +550,31 @@
 <table rules="all" style="border:1px solid" cellpadding="5">
 <tbody>
 <tr>
-<td>
-<p>類別</p>
-<p>族群</p>
+<td class="tableCenter">
+<p>類別/族群</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>展演活動</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>祭儀活動</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>推廣教育</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>傳習活動</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>國際與兩岸交流</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>研究與出版</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>文化政策</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>多元活動</p>
 </td>
 </tr>
@@ -586,19 +582,19 @@
 <td>
 <p>拉阿魯哇族</p>
 </td>
-<td>
+<td class="tableRight">
 <p>6</p>
 </td>
 <td>&nbsp;</td>
-<td>
+<td class="tableRight">
 <p>5</p>
 </td>
-<td>
+<td class="tableRight">
 <p>1</p>
 </td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
-<td>
+<td class="tableRight">
 <p>1</p>
 </td>
 <td>&nbsp;</td>
@@ -610,37 +606,36 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;拉阿魯哇族（Hla'alua）是2014年6月26日官方認定的第十五個臺灣原住民族。拉阿魯哇族早期被歸類為鄒族的一支，和卡那卡那富族被稱為「南鄒」，2014年正名為拉阿魯哇族，主要分布於現今高雄市桃源區。現存有3個部落，分別為「排剪社」（paiciana）、「美壠社」（vilanganu）、「雁爾社」（hlihlara），另有部分族人居住於那瑪夏區瑪雅里一帶。拉阿魯哇族是一個僅約400多人的族群，人口雖少，但是活動卻非常旺盛，每年的「聖貝祭」幾乎已成例行性的祭典。</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;拉阿魯哇族本次的活動紀錄以展演活動和推廣教育為主，祭儀活動因為疫情的因素停辦。展演活動有「拉阿魯哇族－再回到那日昇之地」（臺灣原住民族文化園區）、「拉阿魯哇族樂舞介紹」（臺灣原住民族文化園區）等。推廣教育有「話我家鄉－社區母語劇場」（高雄市桃源鄉高中部落）、「祝福．你來唱！」109年度南區原住民族青年母語及創作歌謠競賽（大仁科技大學原住民族學生資源中心）、《Semenay我們的歌》第七集「不多，但我們的獨特你會愛」（原住民族電視臺）、「原住民音樂與文化（拉阿魯哇族）」（國立屏東大學音樂學系）等。</p>
 <h4><strong>四、卡那卡那富族</strong></h4>
-<p>卡那卡那富族於2020年整年的活動統計如下：</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;卡那卡那富族於2020年整年的活動統計如下：</p>
 <span>表6：卡那卡那富族年度活動數量一覽表</span>
 <table rules="all" style="border:1px solid" cellpadding="5">
 <tbody>
 <tr>
-<td>
-<p>類別</p>
-<p>族群</p>
+<td class="tableCenter">
+<p>類別/族群</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>展演活動</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>祭儀活動</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>推廣教育</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>傳習活動</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>國際與兩岸交流</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>研究與出版</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>文化政策</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>多元活動</p>
 </td>
 </tr>
@@ -648,13 +643,13 @@
 <td>
 <p>卡那卡那富族</p>
 </td>
-<td>
+<td class="tableRight">
 <p>5</p>
 </td>
-<td>
+<td class="tableRight">
 <p>2</p>
 </td>
-<td>
+<td class="tableRight">
 <p>2</p>
 </td>
 <td>&nbsp;</td>
@@ -676,32 +671,31 @@
 <table rules="all" style="border:1px solid" cellpadding="5">
 <tbody>
 <tr>
-<td>
-<p>類別</p>
-<p>族群</p>
+<td class="tableCenter">
+<p>類別/族群</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>展演活動</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>祭儀活動</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>推廣教育</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>傳習活動</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>國際與兩岸交流</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>研究與出版</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>文化政策</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>多元活動</p>
 </td>
 </tr>
@@ -710,10 +704,10 @@
 <p>馬卡道族</p>
 </td>
 <td>&nbsp;</td>
-<td>
+<td class="tableRight">
 <p>3</p>
 </td>
-<td>
+<td class="tableRight">
 <p>1</p>
 </td>
 <td>&nbsp;</td>
@@ -732,32 +726,31 @@
 <table rules="all" style="border:1px solid" cellpadding="5">
 <tbody>
 <tr>
-<td>
-<p>類別</p>
-<p>族群</p>
+<td class="tableCenter">
+<p>類別/族群</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>展演活動</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>祭儀活動</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>推廣教育</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>傳習活動</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>國際與兩岸交流</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>研究與出版</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>文化政策</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>多元活動</p>
 </td>
 </tr>
@@ -765,13 +758,13 @@
 <td>
 <p>大武壠族</p>
 </td>
-<td>
+<td class="tableRight">
 <p>1</p>
 </td>
-<td>
+<td class="tableRight">
 <p>2</p>
 </td>
-<td>
+<td class="tableRight">
 <p>3</p>
 </td>
 <td>&nbsp;</td>
@@ -791,32 +784,31 @@
 <table rules="all" style="border:1px solid" cellpadding="5">
 <tbody>
 <tr>
-<td>
-<p>類別</p>
-<p>族群</p>
+<td class="tableCenter">
+<p>類別/族群</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>展演活動</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>祭儀活動</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>推廣教育</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>傳習活動</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>國際與兩岸交流</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>研究與出版</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>文化政策</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>多元活動</p>
 </td>
 </tr>
@@ -824,18 +816,18 @@
 <td>
 <p>西拉雅族</p>
 </td>
-<td>
+<td class="tableRight">
 <p>1</p>
 </td>
-<td>
+<td class="tableRight">
 <p>9</p>
 </td>
-<td>
+<td class="tableRight">
 <p>1</p>
 </td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
-<td>
+<td class="tableRight">
 <p>2</p>
 </td>
 <td>&nbsp;</td>
@@ -852,32 +844,31 @@
 <table rules="all" style="border:1px solid" cellpadding="5">
 <tbody>
 <tr>
-<td>
-<p>類別</p>
-<p>族群</p>
+<td class="tableCenter">
+<p>類別/族群</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>展演活動</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>祭儀活動</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>推廣教育</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>傳習活動</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>國際與兩岸交流</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>研究與出版</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>文化政策</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>多元活動</p>
 </td>
 </tr>
@@ -886,13 +877,13 @@
 <p>噶哈巫族</p>
 </td>
 <td>&nbsp;</td>
-<td>
+<td class="tableRight">
 <p>1</p>
 </td>
-<td>
+<td class="tableRight">
 <p>1</p>
 </td>
-<td>
+<td class="tableRight">
 <p>1</p>
 </td>
 <td>&nbsp;</td>
@@ -910,32 +901,31 @@
 <table rules="all" style="border:1px solid" cellpadding="5">
 <tbody>
 <tr>
-<td>
-<p>類別</p>
-<p>族群</p>
+<td class="tableCenter">
+<p>類別/族群</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>展演活動</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>祭儀活動</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>推廣教育</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>傳習活動</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>國際與兩岸交流</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>研究與出版</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>文化政策</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>多元活動</p>
 </td>
 </tr>
@@ -945,7 +935,7 @@
 </td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
-<td>
+<td class="tableRight">
 <p>1</p>
 </td>
 <td>&nbsp;</td>
@@ -963,32 +953,31 @@
 <table rules="all" style="border:1px solid" cellpadding="5">
 <tbody>
 <tr>
-<td>
-<p>類別</p>
-<p>族群</p>
+<td class="tableCenter">
+<p>類別/族群</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>展演活動</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>祭儀活動</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>推廣教育</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>傳習活動</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>國際與兩岸交流</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>研究與出版</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>文化政策</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>多元活動</p>
 </td>
 </tr>
@@ -997,7 +986,7 @@
 <p>拍瀑拉族</p>
 </td>
 <td>&nbsp;</td>
-<td>
+<td class="tableRight">
 <p>1</p>
 </td>
 <td>&nbsp;</td>
@@ -1031,7 +1020,7 @@
 <h4><strong>五、口鼻笛進階傳習的豐碩成果</strong></h4>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;文化部的傳統表演藝術傳習工作，經過了幾年的培養，順利產生了第一階段傳習結業的藝生。然而，此階段的結業藝生，結業後因為生計的關係，回復到原來的生活型態，可以發揮其鼻笛技藝的空間不大。再者，2位結業後的藝生想要繼續吹奏口笛鼻笛與歌謠，但是傳統音樂的表演邀約並不多，辛苦習得的技藝因此越來越生疏，狀態打回原點。</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;文化部有感於此，乃依據文化資產保存法第九十二條、文化資產保存法施行細則第三十四條，啟動了「重要傳統表演藝術保存者－排灣族雙管口、鼻笛進階傳習計畫」（第一年）這個方案。文化部文化資產局重要傳統表演藝術保存者進階傳習計畫的傳習目標為：「針對完成文化部登錄重要傳統表演藝術第一階段傳習結業藝生，辦理進階傳習計畫，藉以培育掌握該項傳統表演藝術之文化整體知識、藝能項目之藝術表現特色、適合當代社會環境之藝能表演製作能力等全方位之新生代傳承者。」目標清楚的點出，進階計畫是針對已完成第一階段的結業藝生，所做的下一階段專業訓練。</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;進階藝生第一年的成果展演是2020年7月26日，於屏東縣泰武鄉武潭國小平和分校舉行。因為該次的演出屬於進階藝生計畫案第一次的演出，因此其成效格外引人注意。筆者觀察現場的表現，我們發現謝水能鼻笛團的藝生確實有備而來，音樂會內容有口鼻笛獨奏、口鼻笛合奏、傳統歌謠與鼻笛演出、傳統歌謠與勇士舞演出、鼻笛與神話故事的組合。最難能可貴的，是節目當中安排了鄭尾葉（謝水能藝師的老師）與藝生隔空合奏鼻笛的畫面，祖孫藉由視訊設備同場演出，非常感人。對於該計畫第一年期末音樂會的評價，B委員說：「演奏會型態精心設計，搭配在地耆老、青年會共同演出，說書人細心預備與呈現，讓鼻笛真實回到部落與之共鳴，使在地歌謠樂舞重新組合與詮釋，創造多元音樂型態與在地連結，鼻笛音樂豐富化、意義化與價值功能再提升。」D委員說：「音樂會構成也可見設計及用心，不僅有特色，也能確認藝生的成長。」E委員的評價為：「今天屏東縣台灣原住民文化研究會製作這場鼻笛結合耆老歌謠之表演活動非常有意義，不僅讓鼻笛傳統音樂得以傳習，並且能應用於部落的日常生活中，更讓排灣族的生命中融入更多傳統音樂，讓傳統音樂成為生活之各種情緒之表達。」</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;進階藝生第一年的成果展演是2020年7月26日，於屏東縣泰武鄉武潭國小平和分校舉行。因為該次的演出屬於進階藝生計畫案第一次的演出，因此其成效格外引人注意。筆者觀察現場的表現，我們發現謝水能鼻笛團的藝生確實有備而來，音樂會內容有口鼻笛獨奏、口鼻笛合奏、傳統歌謠與鼻笛演出、傳統歌謠與勇士舞演出、鼻笛與神話故事的組合。最難能可貴的，是節目當中安排了鄭尾葉（謝水能藝師的老師）與藝生隔空合奏鼻笛的畫面，祖孫藉由視訊設備同場演出，非常感人。對於該計畫第一年期末音樂會的評價，B委員說：「<span class="bkt">演奏會型態精心設計，搭配在地耆老、青年會共同演出，說書人細心預備與呈現，讓鼻笛真實回到部落與之共鳴，使在地歌謠樂舞重新組合與詮釋，創造多元音樂型態與在地連結，鼻笛音樂豐富化、意義化與價值功能再提升。</span>」D委員說：「<span class="bkt">音樂會構成也可見設計及用心，不僅有特色，也能確認藝生的成長。</span>」E委員的評價為：「<span class="bkt">今天屏東縣台灣原住民文化研究會製作這場鼻笛結合耆老歌謠之表演活動非常有意義，不僅讓鼻笛傳統音樂得以傳習，並且能應用於部落的日常生活中，更讓排灣族的生命中融入更多傳統音樂，讓傳統音樂成為生活之各種情緒之表達。</span>」</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;期末音樂會固然成功，但是我們仍整理出了幾個有關口笛鼻笛發展上的隱憂，第一個是藝生習藝時的經濟現況，他們需要多一點的經濟協助，讓學習無後顧之憂。第二個是表演團體使用口笛鼻笛的限制，笛子的音律問題似乎成為合奏上常常面臨的障礙。第三個是目前沒有建立口笛鼻笛音樂完整的音樂理論系統，沒有建立完整的系統，口笛鼻笛音樂理論的探討往往是建立在西洋音樂系統之上，跳脫不出。第四個，是口笛鼻笛有關於傳統與非傳統的爭議，在器樂的發展上，這些爭議只會越來越多，值得注意。</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;口笛鼻笛的未來發展，從育才的角度上來看，我們認為學術單位應當提供適當的管道提昇藝生的相關音樂知識，這些管道可以是進入音樂學系攻讀大學學位，也可以是現有的傳習方案當中，增加音樂知識學習的時數。從樂教的角度上看，我們認為中小學學校教科書當中，應增加口笛和鼻笛的內容，讓不同族群的學生都可以認識這項樂器，而國內一年一度的音樂比賽，也應納入雙管鼻笛的項目。從表演的角度來看，應積極設立委託音樂家作口笛鼻笛音樂創作的鼓勵辦法，讓這個樂器多一些與西洋管絃樂合奏的機會。最後，是整合的角度上，我們認為，應設立國家級原住民音樂館，藉以整合不同族群的笛類音樂資源，並擴大口笛鼻笛或各種笛類樂器在國際上的能見度。</p>
 <h3><strong>結語</strong></h3>

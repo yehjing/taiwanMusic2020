@@ -201,7 +201,7 @@ export default new VueRouter({
           component: Observed_5,
         },
         {
-          name: '傳統音樂 / 原住民音樂－太魯閣族、鄒族、撒奇萊雅族、雅美（達悟）族',
+          name: '傳統音樂 / 原住民音樂－泰雅族、太魯閣族、鄒族、撒奇萊雅族、雅美（達悟）族',
           path: 'Observed_6',
           component: Observed_6,
         },
@@ -334,7 +334,7 @@ export default new VueRouter({
           component: VideoRecord_5,
         },
         {
-          name: '傳統音樂 / 原住民音樂－太魯閣族、鄒族、撒奇萊雅族、雅美（達悟）族',
+          name: '傳統音樂 / 原住民音樂－泰雅族、太魯閣族、鄒族、撒奇萊雅族、雅美（達悟）族',
           path: 'videoRecord_6',
           component: VideoRecord_6,
         },

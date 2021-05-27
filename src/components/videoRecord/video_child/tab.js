@@ -20,12 +20,12 @@ const tabs1 = [
     path: 'videoRecord_4',
   },
   {
-    name: '原住民音樂－泰雅族、賽夏族、阿美族、卑南族、雅美（達悟）族',
+    name: '原住民音樂－賽夏族、阿美族、卑南族、雅美（達悟）族',
     autor: '',
     path: 'videoRecord_5',
   },
   {
-    name: '原住民音樂－太魯閣族、鄒族、撒奇萊雅族',
+    name: '原住民音樂－泰雅族、太魯閣族、鄒族、撒奇萊雅族',
     autor: '',
     path: 'videoRecord_6',
   },

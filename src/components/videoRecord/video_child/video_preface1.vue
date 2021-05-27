@@ -17,7 +17,7 @@
           <td class="tableCenter">
             子計畫
           </td>
-          <td width="4%" class="tableCenter">
+          <td class="tableCenter">
             序號
           </td>
           <td class="tableCenter">

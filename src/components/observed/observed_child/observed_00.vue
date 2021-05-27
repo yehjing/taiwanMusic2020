@@ -58,7 +58,7 @@ const tabs = [
     path: 'observed_4',
   },
   {
-    name: '2020年度泰雅族、賽夏族、阿美族、卑南族、雅美（達悟）族音樂活動觀察與評介',
+    name: '2020年度賽夏族、阿美族、卑南族、雅美（達悟）族音樂活動觀察與評介',
     autor: '呂鈺秀',
     component: Observed5,
     path: 'observed_5',
