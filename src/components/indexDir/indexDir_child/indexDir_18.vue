@@ -3,586 +3,378 @@
     <div class="title">
       <h2>道、法教音樂篇</h2>
     </div>
-    <hr>
+    <hr />
     <p class="firstRow"></p>
-    <table rules="all" border="1" style="border:1px solid" cellpadding="5">
+    <table rules="all" border="1" style="border: 1px solid" cellpadding="5">
       <thead>
         <tr>
-          <th style="width:20%">名稱</th>
-          <th style="width:20%">負責人</th>
-          <th style="width:25%">地址/電話</th>
+          <th style="width: 20%">名稱</th>
+          <th style="width: 20%">負責人</th>
+          <th style="width: 25%">地址/電話</th>
           <th>其他聯絡方式</th>
-          <th style="width:25%">備註</th>
+          <th style="width: 25%">備註</th>
         </tr>
       </thead>
       <tbody>
         <tr>
           <td>
-            基隆正一廣遠壇
+            <p>臺北慈雲堂</p>
+          </td>
+          <td>&nbsp;</td>
+          <td>
+            <p>臺北市內湖區康寧路一段156巷57號</p>
+            <p>02-2790-8867</p>
           </td>
           <td>
-            道長<br>李游坤
+            <p>https://www.facebook.com/pages/內湖慈雲堂/439338836649756/</p>
           </td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
           <td>
-            基隆市安樂區安一路100巷32號<br>02-2423-6469
+            <p>北投代天府</p>
           </td>
-          <td></td>
+          <td>&nbsp;</td>
           <td>
-            1984年成立
+            <p>臺北市豐年路一段35之1號</p>
+            <p>02-2891-2767</p>
+          </td>
+          <td>&nbsp;</td>
+          <td>
+            <p>創建於1974年</p>
           </td>
         </tr>
         <tr>
           <td>
-            大龍峒保安宮
+            <p>松山慈惠堂</p>
           </td>
           <td>
-            董事長<br>廖武治
+            <p>郭葉子</p>
           </td>
           <td>
-            臺北市大同區哈密街61號<br>02-2595-1676
+            <p>臺北市信義區福德街251巷33號</p>
+            <p>02-2726-1735</p>
           </td>
           <td>
-            <a target="_" href="http://www.baoan.org.tw/">連結</a>
-            
+            <p>https://www.sstht.org.tw/</p>
           </td>
           <td>
-            1742年創建
-          </td>
-        </tr>
-        <tr>
-          <td>
-            北投慈后宮
-          </td>
-          <td>
-            董事長<br>陳道先
-          </td>
-          <td>
-            臺北市北投區清江路169號<br>02-2891-5323
-          </td>
-          <td>
-            <a target="_" href="http://www.cihougong.org/">連結</a>
-            
-          </td>
-          <td>
-            1918年創建
+            <p>成立於1969年</p>
           </td>
         </tr>
         <tr>
           <td>
-            艋舺啟天宮
+            <p>南港天元殿</p>
+          </td>
+          <td>&nbsp;</td>
+          <td>
+            <p>臺北市南港區三重路49號</p>
+          </td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>
+            <p>三芝富福頂山寺</p>
+          </td>
+          <td>&nbsp;</td>
+          <td>
+            <p>新北市三芝區圓山里二坪頂69號</p>
+            <p>02-2636-7002</p>
+          </td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>
+            <p>三重天巡府</p>
+          </td>
+          <td>&nbsp;</td>
+          <td>
+            <p>新北市三重區五華街75巷4號2樓</p>
+            <p>0910-346-099</p>
           </td>
           <td>
-            楊國村
+            <p>https://www.facebook.com/TianXunFu/</p>
+          </td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>
+            <p>中和濟南宮</p>
+          </td>
+          <td>&nbsp;</td>
+          <td>
+            <p>新北市中和區福美路256巷10號</p>
+            <p>02-2240-1253</p>
           </td>
           <td>
-            臺北市萬華區廣州街253巷27號<br>02-2308-4598
+            <p>https://m.facebook.com/profile.php?id=498374277037829</p>
+          </td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>
+            <p>中國道教經典研究會</p>
           </td>
           <td>
-            <a target="_" href="https://web.archive.org/web/20160213082359/http://chitian.org/main.php">連結</a>
-            
+            <p>道長</p>
+            <p>陳炳松</p>
+            <p>邱玉珠</p>
           </td>
           <td>
-            1841年啟天宮創建，2012年促進會成立。
+            <p>新北市石碇區豐田里磨石坑31號</p>
+            <p>02-2663-9063</p>
+            <p>0970-067-777</p>
+          </td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>
+            <p>汐止拱北殿</p>
+          </td>
+          <td>&nbsp;</td>
+          <td>
+            <p>新北市汐止區汐萬路三段88號</p>
+            <p>02-2646-1878</p>
+          </td>
+          <td>
+            <p>https://www.gbt.tw/h/Index?key=013215999296</p>
+          </td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>
+            <p>金鳳山臺北慈靈宮</p>
+          </td>
+          <td>
+            <p>邱師姐</p>
+          </td>
+          <td>
+            <p>新北市石碇區豐田里磨石坑31號</p>
+            <p>02-2663-9063</p>
+            <p>0932-033-983</p>
+          </td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>
+            <p>金瓜石五府宮</p>
+          </td>
+          <td>&nbsp;</td>
+          <td>
+            <p>新北市瑞芳區山尖路133號</p>
+            <p>02-2496-2281</p>
+          </td>
+          <td>
+            <p>
+              https://b-m.facebook.com/profile.php?id=427967313880463&amp;__tn__=%2As-R
+            </p>
+          </td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>
+            <p>淡水行天武聖宮</p>
+          </td>
+          <td>
+            <p>主持</p>
+            <p>陳俊廷</p>
+          </td>
+          <td>
+            <p>新北市淡水區八勢路一段120號</p>
+            <p>02-2809-2359</p>
+          </td>
+          <td>
+            <p>
+              https://place-of-worship-1260.business.site/?utm_source=gmb&amp;utm_medium=referral
+            </p>
+          </td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>
+            <p>新北三清宮</p>
+          </td>
+          <td>&nbsp;</td>
+          <td>
+            <p>新北市板橋區文化路二段548巷8弄12號</p>
+            <p>0929-544-999</p>
+          </td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>
+            <p>萬里武聖堂</p>
+          </td>
+          <td>&nbsp;</td>
+          <td>
+            <p>新北市萬里區孝七街6號</p>
+            <p>02-2492-1248</p>
+          </td>
+          <td>
+            <p>
+              https://www.facebook.com/萬里協聖堂-1012797448753259/?rf=178375678899827
+            </p>
+          </td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>
+            <p>艋舺帝謙會</p>
+          </td>
+          <td>&nbsp;</td>
+          <td>
+            <p>新北市板橋區江寧路三段85巷5號</p>
+          </td>
+          <td>
+            <p>https://www.facebook.com/帝謙會-1396811787312015/</p>
+          </td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>
+            <p>輔大宗教學系道教學術發展中心</p>
+          </td>
+          <td>&nbsp;</td>
+          <td>
+            <p>新北市新莊區中正路510號</p>
+            <p>02-2905-2791</p>
+          </td>
+          <td>
+            <p>https://www.facebook.com/DRS.FJCU/</p>
+          </td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>
+            <p>正一道教廣盛壇</p>
+          </td>
+          <td>&nbsp;</td>
+          <td>
+            <p>桃園大園區竹圍里竹圍街44-5號</p>
+          </td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>
+            <p>中國武當道教太玄法師協會</p>
+          </td>
+          <td>
+            <p>創會長</p>
+            <p>蕭道賢</p>
+          </td>
+          <td>
+            <p>臺中市北屯區和祥六街2號</p>
+            <p>04-2436-4367</p>
+            <p>0933-531-826</p>
+          </td>
+          <td>
+            <p>https://m.facebook.com/profile.php?id=269680476383444</p>
+          </td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>
+            <p>臺中指微道壇</p>
+          </td>
+          <td>
+            <p>道長</p>
+            <p>林元啟</p>
+          </td>
+          <td>
+            <p>臺中市烏日區中山路三段142號</p>
+            <p>04-2338-1230</p>
+          </td>
+          <td>
+            <p>https://www.facebook.com/pages/指微道壇/319828351391229</p>
+          </td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>
+            <p>竹山守真道房</p>
+          </td>
+          <td>
+            <p>道長</p>
+            <p>陳光村</p>
+          </td>
+          <td>
+            <p>南投縣竹山鎮中山里鯉南路1號（陳東成擇日館）</p>
+            <p>04-9264-3871</p>
+          </td>
+          <td>
+            <p>https://www.facebook.com/stoneace/</p>
+          </td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>
+            <p>海頭社文龍殿</p>
+          </td>
+          <td>&nbsp;</td>
+          <td>
+            <p>臺南市安平區安北路121巷10弄6號</p>
+            <p>06-2286-931</p>
+          </td>
+          <td>&nbsp;</td>
+          <td>
+            <p>創建於1817年</p>
           </td>
         </tr>
         <tr>
           <td>
-            松山慈惠堂
+            <p>礁溪明德道院（前身：三重玉勅明德壇）</p>
           </td>
           <td>
-            郭葉子
+            <p>道長</p>
+            <p>蘇西明</p>
           </td>
           <td>
-            臺北市信義區福德街251巷33號<br>02-2726-1735
+            <p>宜蘭縣礁溪鄉吳沙村四結33-10號</p>
+            <p>02-2978-2428</p>
+            <p>0936-050-367</p>
           </td>
           <td>
-            <a target="_" href="https://www.sstht.org.tw/">連結</a>
-            
+            <p>https://www.facebook.com/groups/taiwan.mingde/</p>
           </td>
           <td>
-            1969年成立
-          </td>
-        </tr>
-        <tr>
-          <td>
-            南港福天宮
-          </td>
-          <td>
-            主委<br>蔡文福
-          </td>
-          <td>
-            臺北市南港區興南街52巷25號<br>02-2783-1743
-          </td>
-          <td>
-            <a target="_" href="https://www.facebook.com/208336599377129/">連結</a>
-            
-          </td>
-          <td>
-            1972年創建
+            <p>弘道會成立於2012年</p>
           </td>
         </tr>
         <tr>
           <td>
-            臺北清微法壇
+            <p>蘇澳指南宮</p>
           </td>
+          <td>&nbsp;</td>
           <td>
-            道長<br>林高文
+            <p>宜蘭縣蘇澳鎮冷泉路9之1號</p>
+            <p>03-997-2213</p>
           </td>
-          <td>
-            0931-263-199
-          </td>
-          <td></td>
-          <td></td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            三重玄聖殿
+            <p>塘岐蕭王府廟</p>
           </td>
+          <td>&nbsp;</td>
           <td>
-            道長<br>吳誠行
+            <p>連江縣北竿鄉中正路70號</p>
+            <p>08-3656-559</p>
           </td>
           <td>
-            新北市三重區仁愛街112巷12號5樓<br>02-2972-5421
+            <p>
+              https://memory.culture.tw/Home/Detail?Id=154716&amp;IndexCode=Culture_Place
+            </p>
           </td>
           <td>
-            <a target="_" href="https://xsd-temple.com.tw/">連結</a>
-            
+            <p>創建於1977年</p>
           </td>
-          <td>
-            1976年由楊敏枝女士創建
-          </td>
-        </tr>
-        <tr>
-          <td>
-            三重玉勅明德壇（臺灣道教明德弘道會）
-          </td>
-          <td>
-            道長<br>蘇西明
-          </td>
-          <td>
-            新北市三重區中央南路50巷4號1樓<br>02-2978-2428<br>0936-050-367
-          </td>
-          <td>
-            <a target="_" href="https://www.facebook.com/tw.mingde/">連結</a>
-            
-          </td>
-          <td>
-            2012年弘道會成立
-          </td>
-        </tr>
-        <tr>
-          <td>
-            三重先嗇宮
-          </td>
-          <td>
-            董事長<br>李乾龍
-          </td>
-          <td>
-            新北市三重區五谷王北街77號<br>02-2995-2345
-          </td>
-          <td>
-            <a target="_" href="https://www.facebook.com/2015sfdt/">連結</a>
-            
-          </td>
-          <td>
-            1755年創建
-          </td>
-        </tr>
-        <tr>
-          <td>
-            三重聖傳福音堂（臺灣臨水文化弘道促進協會）
-          </td>
-          <td>
-            李慧雲
-          </td>
-          <td>
-            新北市三重區捷運路19巷6弄19號2樓<br>02-8981-0858
-          </td>
-          <td>
-            <a target="_" href="http://www.sannai.org/">連結</a>
-            
-          </td>
-          <td>
-            1999年福音堂成立，2015年促進協會成立。
-          </td>
-        </tr>
-        <tr>
-          <td>
-            台灣全真仙觀
-          </td>
-          <td>
-            道長<br>巫平仁
-          </td>
-          <td>
-            新北市土城區南天母路111巷6號<br>02-2268-5118
-          </td>
-          <td>
-            <a target="_" href="https://www.facebook.com/209210456114196/">連結</a>
-            
-          </td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>
-            板橋慈雲堂
-          </td>
-          <td></td>
-          <td>
-            新北市板橋區國泰街107之4號<br>02-2955-0851
-          </td>
-          <td>
-            <a target="_" href="https://www.facebook.com/723890907722863/">連結</a>
-            
-          </td>
-          <td>
-            2015年成立
-          </td>
-        </tr>
-        <tr>
-          <td>
-            真理大學宗教文化與組織管理學系
-          </td>
-          <td>
-            系主任<br>蕭進銘
-          </td>
-          <td>
-            新北市淡水區真理街32號<br>02-2621-2121#2201、2202
-          </td>
-          <td>
-            <a target="_" href="https://religion.au.edu.tw/">連結</a>
-            
-          </td>
-          <td>
-            1996年成立
-          </td>
-        </tr>
-        <tr>
-          <td>
-            新莊地藏庵
-          </td>
-          <td>
-            地藏庵管理委員會
-          </td>
-          <td>
-            新北市新莊區中正路84號<br>02-2993-6810
-          </td>
-          <td>
-            <a target="_" href="http://www.xzdza.org.tw/">連結</a>
-            
-          </td>
-          <td>
-            1757年創建，其大眾爺繞境被列為新北市文化資產，也被認為是官將首的起源地。
-          </td>
-        </tr>
-        <tr>
-          <td>
-            輔仁大學宗教學系
-          </td>
-          <td>
-            系主任<br>鄭印君
-          </td>
-          <td>
-            新北市新莊區中正路510號<br>02-2905-2603
-          </td>
-          <td>
-            <a target="_" href="http://www.rsd.fju.edu.tw/">連結</a>
-            
-          </td>
-          <td>
-            1988年成立
-          </td>
-        </tr>
-        <tr>
-          <td>
-            三芝瑤聖宮
-          </td>
-          <td>
-            張雪娥
-          </td>
-          <td>
-            新北市三芝區茂長里陳厝坑7鄰51之1<br>02-8635-2668
-          </td>
-          <td>
-            <a target="_" href="http://yaochengtemple.blogspot.com/">連結</a>
-            
-          </td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>
-            中和區恩太宮
-          </td>
-          <td>
-            林高文
-          </td>
-          <td>
-            新北市中和區興南路二段114巷21弄5號<br>02-2946-4323
-          </td>
-          <td></td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>
-            樹林濟安宮
-          </td>
-          <td>
-            董事長<br>陳黃綠妹
-          </td>
-          <td>
-            新北市樹林區保安街一段32號<br>02-2681-2624
-          </td>
-          <td>
-            <a target="_" href="http://www.jian.org.tw/">連結</a>
-            
-          </td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>
-            中華世界大同龍華聖道會
-          </td>
-          <td>
-            第三屆理事長<br>陳瑞南
-          </td>
-          <td>
-            新北市淡水區民權路19號2樓之5（竹圍南加州大樓社區）<br>02-2808-0343<br>0983-162-798
-          </td>
-          <td></td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>
-            中國道教經典研究會
-          </td>
-          <td>
-            道長<br>陳炳松<br>邱玉珠
-          </td>
-          <td>
-            新北市石碇區豐田里磨石坑31號<br>02-2663-9063<br>0970-067-777
-          </td>
-          <td></td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>
-            天道監修宮
-          </td>
-          <td>
-            黃國政
-          </td>
-          <td>
-            臺中市龍井區觀光路36巷18號<br>04-2635-2446
-          </td>
-          <td>
-            <a target="_" href="https://www.facebook.com/TianDaoJianXiuGong/">連結</a>
-            
-          </td>
-          <td>
-            1976年創建
-          </td>
-        </tr>
-        <tr>
-          <td>
-            臺中純陽宗壇
-          </td>
-          <td>
-            道長<br>林元陽（本名林志堅）
-          </td>
-          <td>
-            臺中市南屯區文心南三路535之1號<br>04-2475-4668
-          </td>
-          <td>
-            <a target="_" href="https://www.facebook.com/tsunyangtaoistpriest/">連結</a>
-            
-          </td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>
-            嘉義市城隍廟
-          </td>
-          <td>
-            董事長<br>賴永川
-          </td>
-          <td>
-            嘉義市吳鳳北路168號<br>05-222-4116
-          </td>
-          <td>
-            <a target="_" href="https://www.facebook.com/cycht/">連結</a>
-            
-          </td>
-          <td>
-            1715年創建，古名「諸羅城隍廟」，是當時諸羅縣轄域的第一座官設城隍廟。
-          </td>
-        </tr>
-        <tr>
-          <td>
-            八吉境總趕宮
-          </td>
-          <td></td>
-          <td>
-            臺南市中西區中正路131巷13號<br>06-225-1618
-          </td>
-          <td>
-            <a target="_" href="https://www.facebook.com/513521462110595/">連結</a>
-            
-          </td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>
-            安平城隍廟
-          </td>
-          <td></td>
-          <td>
-            臺南市安平路121巷1號<br>06-222-7187
-          </td>
-          <td></td>
-          <td>
-            1749年創建
-          </td>
-        </tr>
-        <tr>
-          <td>
-            安平開臺天后宮
-          </td>
-          <td>
-            主委<br>張省吾
-          </td>
-          <td>
-            臺南市安平區國勝路33號<br>06-223-8695
-          </td>
-          <td>
-            <a target="_" href="http://www.anping-matsu.org.tw/">連結</a>
-            
-          </td>
-          <td>
-            1668年創建
-          </td>
-        </tr>
-        <tr>
-          <td>
-            府城玄昌壇（養正書院）
-          </td>
-          <td>
-            張志瑋
-          </td>
-          <td>
-            臺南市南區新興路439巷3號
-          </td>
-          <td>
-            <a target="_" href="https://www.facebook.com/604073843032176/">連結</a>
-            
-          </td>
-          <td>
-            2014年成立小法團
-          </td>
-        </tr>
-        <tr>
-          <td>
-            將軍苓子寮保濟宮
-          </td>
-          <td></td>
-          <td>
-            臺南市將軍區苓保31號<br>06-794-0135
-          </td>
-          <td>
-            <a target="_" href="https://www.facebook.com/bauchigung">連結</a>
-            
-          </td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>
-            臺南天師府
-          </td>
-          <td></td>
-          <td>
-            臺南市關廟區南雄路二段875巷88號<br>06-596-5255
-          </td>
-          <td>
-            <a target="_" href="https://www.facebook.com/707212695963371/">連結</a>
-            
-          </td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>
-            臺南紫龍宮
-          </td>
-          <td>
-            主委<br>孫蘭
-          </td>
-          <td>
-            臺南市永康區復國一路67巷15之2號<br>06-313-9303
-          </td>
-          <td>
-            <a target="_" href="https://www.facebook.com/346085912241125/">連結</a>
-            
-          </td>
-          <td>
-            1990年創建
-          </td>
-        </tr>
-        <tr>
-          <td>
-            三界混真壇
-          </td>
-          <td>
-            道長<br>李安雄
-          </td>
-          <td>
-            臺南市永康區大灣二街118號
-          </td>
-          <td></td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>
-            東港東隆宮
-          </td>
-          <td>
-            董事長<br>伍水源
-          </td>
-          <td>
-            屏東縣東港鎮東隆街21之1號<br>08-832-2961
-          </td>
-          <td>
-            <a target="_" href="http://www.66.org.tw/index.php">連結</a>
-            
-          </td>
-          <td>
-            1706 年創建，其三年一科的「東港迎王平安祭典」為國家指定重要民俗及有關文物。
-          </td>
-        </tr>
-        <tr>
-          <td>
-            外澳接天宮
-          </td>
-          <td>
-            主委<br>林尤煌
-          </td>
-          <td>
-            宜蘭縣頭城鎮濱海路二段1巷21號<br>03-977-4061
-          </td>
-          <td>
-            <a target="_" href="http://www.jtain.com.tw/">連結</a>
-            
-          </td>
-          <td>
-            1822年創建，原名「接天廟」，1987年更名為「接天宮」。
-          </td>
-        </tr>
-        <tr>
-          <td>
-            蘇澳指南宮
-          </td>
-          <td></td>
-          <td>
-            宜蘭縣蘇澳鎮冷泉路9之1號<br>03-997-2213
-          </td>
-          <td></td>
-          <td></td>
         </tr>
       </tbody>
     </table>

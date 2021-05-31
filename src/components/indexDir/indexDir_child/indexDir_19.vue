@@ -3,3073 +3,3086 @@
     <div class="title">
       <h2>國樂篇</h2>
     </div>
-    <hr>
+    <hr />
     <p class="firstRow"></p>
     <h3>一、大型樂團</h3>
-    <table rules="all" border="1" style="border:1px solid" cellpadding="5">
+    <table rules="all" border="1" style="border: 1px solid" cellpadding="5">
       <thead>
         <tr>
-          <th style="width:20%">名稱</th>
-          <th style="width:20%">負責人</th>
-          <th style="width:25%">地址/電話</th>
+          <th style="width: 20%">名稱</th>
+          <th style="width: 20%">負責人</th>
+          <th style="width: 25%">地址/電話</th>
           <th>其他聯絡方式</th>
-          <th style="width:25%">備註</th>
+          <th style="width: 25%">備註</th>
         </tr>
       </thead>
       <tbody>
         <tr>
           <td>
-            臺灣國樂團
+            <p>臺灣國樂團</p>
           </td>
           <td>
-            團長<br>劉麗貞
+            <p>團長</p>
+            <p>劉麗貞</p>
           </td>
           <td>
-            臺北市士林區文林路751號
-            <br />
-            02-8866-9600
+            <p>臺北市士林區文林路751號</p>
+            <p>02-8866-9600</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/ncftanco/">連結</a>
-            
+            <p>https://www.facebook.com/ncftanco/</p>
           </td>
           <td>
-            1984年成立
+            <p>成立於1984年</p>
           </td>
         </tr>
         <tr>
           <td>
-            臺北市立國樂團
+            <p>臺北市立國樂團</p>
           </td>
           <td>
-            團長<br>鄭立彬
+            <p>團長</p>
+            <p>鄭立彬</p>
           </td>
           <td>
-            臺北市中正區中華路一段53號
-            <br />
-            02-2383-2170
+            <p>臺北市中正區中華路一段53號</p>
+            <p>02-2383-2170</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/bravoTCO/">連結</a>
-            
+            <p>https://www.facebook.com/bravoTCO/</p>
           </td>
           <td>
-            1979年成立
+            <p>成立於1979年</p>
           </td>
         </tr>
         <tr>
           <td>
-            臺北市立國樂團附設學院國樂團
+            <p>臺北市立國樂團附設學院國樂團</p>
           </td>
           <td>
-            團長<br>鄭立彬
-            <br />
-            總幹事<br>卓司雅
+            <p>團長</p>
+            <p>鄭立彬</p>
+            <p>總幹事</p>
+            <p>卓司雅</p>
           </td>
           <td>
-            臺北市中正區中華路一段53號
-            <br />
-            02-2383-2170
+            <p>臺北市中正區中華路一段53號</p>
+            <p>02-2383-2170</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/TcoAcademy/">連結</a>
-            
+            <p>https://www.facebook.com/TcoAcademy/</p>
           </td>
           <td>
-            2010年12月成立，每週五19:00-21:30固定排練。
+            <p>成立於2010年12月，每週五19:00-21:30固定排練。</p>
           </td>
         </tr>
         <tr>
           <td>
-            臺北市立國樂團附設青年國樂團
+            <p>臺北市立國樂團附設青年國樂團</p>
           </td>
           <td>
-            團長<br>鄭立彬
-            <br />
-            總幹事<br>陳淑蘭
+            <p>團長</p>
+            <p>鄭立彬</p>
+            <p>總幹事</p>
+            <p>陳淑蘭</p>
           </td>
           <td>
-            臺北市中正區中華路一段53號
-            <br />
-            02-2383-2170
+            <p>臺北市中正區中華路一段53號</p>
+            <p>02-2383-2170</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/台北市立國樂團附設青年國樂團-255567957819102/">連結</a>
-            
+            <p>
+              https://www.facebook.com/台北市立國樂團附設青年國樂團-255567957819102/
+            </p>
           </td>
           <td>
-            1984年成立，每週四19:00-21:30固定排練。
+            <p>成立於1984年，每週四19:00-21:30固定排練。</p>
           </td>
         </tr>
         <tr>
           <td>
-            臺北市立國樂團附設市民國樂團
+            <p>臺北市立國樂團附設市民國樂團</p>
           </td>
           <td>
-            團長<br>鄭立彬
-            <br />
-            總幹事<br>李婉惠
+            <p>團長</p>
+            <p>鄭立彬</p>
+            <p>總幹事</p>
+            <p>李婉惠</p>
           </td>
           <td>
-            臺北市中正區中華路一段53號
-            <br />
-            02-2383-2170
+            <p>臺北市中正區中華路一段53號</p>
+            <p>02-2383-2170</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/pg/TCOCivicOrchestra/posts/">連結</a>
-            
+            <p>https://www.facebook.com/pg/TCOCivicOrchestra/</p>
           </td>
           <td>
-            1993年1月5日成立，每週二19:00-21:30固定排練。
+            <p>成立於1993年1月5日，每週二19:00-21:30固定排練。</p>
           </td>
         </tr>
         <tr>
           <td>
-            臺北市立國樂團附設教師國樂團
+            <p>臺北市立國樂團附設教師國樂團</p>
           </td>
           <td>
-            團長<br>鄭立彬
-            <br />
-            總幹事<br>高美蓮
+            <p>團長</p>
+            <p>鄭立彬</p>
+            <p>總幹事</p>
+            <p>張淑芬</p>
           </td>
           <td>
-            臺北市中正區中華路一段53號
-            <br />
-            02-2383-2170
+            <p>臺北市中正區中華路一段53號</p>
+            <p>02-2383-2170</p>
           </td>
+          <td>&nbsp;</td>
           <td>
-            <a target="_" href="https://www.facebook.com/台北市立國樂團附設教師國樂團-粉絲專頁-161116563979258/">連結</a>
-            
+            <p>成立於2001年2月，每週一19:00-21:30固定排練。</p>
           </td>
-          <td>
-            2001年2月成立，每週一19:00-21:30固定排練。
-          </td>
         </tr>
         <tr>
           <td>
-            臺北市立國樂團附設少年國樂團
+            <p>臺北市立國樂團附設少年國樂團</p>
           </td>
           <td>
-            團長<br>鄭立彬
-            <br />
-            總幹事<br>吳佳珊
+            <p>團長</p>
+            <p>鄭立彬</p>
+            <p>總幹事</p>
+            <p>吳佳珊</p>
           </td>
           <td>
-            臺北市中正區中華路一段53號
-            <br />
-            02-2383-2170
+            <p>臺北市中正區中華路一段53號</p>
+            <p>02-2383-2170</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/youthTCO/">連結</a>
-            
+            <p>https://www.facebook.com/youthTCO/</p>
           </td>
           <td>
-            2003年9月正式成立，每週六14:00-17:30固定排練。
+            <p>正式成立於2003年9月，每週六14:00-17:30固定排練。</p>
           </td>
         </tr>
         <tr>
           <td>
-            臺北市立國樂團附設青少年國樂團
+            <p>臺北市立國樂團附設青少年國樂團</p>
           </td>
           <td>
-            團長<br>鄭立彬
-            <br />
-            總幹事<br>簡妙倩
+            <p>團長</p>
+            <p>鄭立彬</p>
+            <p>總幹事</p>
+            <p>簡妙倩</p>
           </td>
           <td>
-            臺北市中正區中華路一段53號
-            <br />
-            02-2383-2170
+            <p>臺北市中正區中華路一段53號</p>
+            <p>02-2383-2170</p>
           </td>
           <td>
-            <a target="_" href="https://www.tco.gov.taipei/News_Content.aspx?n=16B209B8DAC74C23&amp;s=FD18D91E6B3695B1">連結</a>
-            
+            <p>
+              https://www.tco.gov.taipei/News_Content.aspx?n=16B209B8DAC74C23&amp;s=FD18D91E6B3695B1
+            </p>
           </td>
           <td>
-            2008年成立，每週日09:00-12:00固定排練。
+            <p>成立於2008年，每週日09:00-12:00固定排練。</p>
           </td>
         </tr>
         <tr>
           <td>
-            臺北市立國樂團附設合唱團
+            <p>臺北市立國樂團附設合唱團</p>
           </td>
           <td>
-            團長<br>鄭立彬
-            <br />
-            總幹事<br>邵麗容
+            <p>團長</p>
+            <p>鄭立彬</p>
+            <p>總幹事</p>
+            <p>邵麗容</p>
           </td>
           <td>
-            臺北市中正區中華路一段53號
-            <br />
-            02-2383-2170
+            <p>臺北市中正區中華路一段53號</p>
+            <p>02-2383-2170</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/臺北市立國樂團附設合唱團-245980155436403/">連結</a>
-            
+            <p>
+              https://www.facebook.com/臺北市立國樂團附設合唱團-245980155436403/
+            </p>
           </td>
           <td>
-            1985年8月成立，每週三19:00-22:00排練。
+            <p>成立於1985年8月，每週三19:00-22:00排練。</p>
           </td>
         </tr>
         <tr>
           <td>
-            山上國樂團
+            <p>山上國樂團</p>
           </td>
           <td>
-            邱誓舷
+            <p>邱誓舷</p>
           </td>
           <td>
-            臺北市內湖區內湖路二段150號3樓
-            <br />
-            02-2799-7907
+            <p>臺北市內湖區內湖路二段150號3樓</p>
+            <p>02-2799-7907</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/sscorchestra/">連結</a>
-            
+            <p>https://www.facebook.com/sscorchestra/</p>
           </td>
           <td>
-            2014年9月成立
+            <p>成立於2014年9月</p>
           </td>
         </tr>
         <tr>
           <td>
-            中山建中校友國樂團
+            <p>中山建中校友國樂團</p>
           </td>
           <td>
-            黃千豪
+            <p>黃千豪</p>
           </td>
           <td>
-            臺北市信義區西村里基隆路一段364巷41號5樓
-            <br />
-            0921-906-124
+            <p>臺北市信義區西村里基隆路一段364巷41號5樓</p>
+            <p>0921-906-124</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/ckzscm/">連結</a>
-            
+            <p>https://www.facebook.com/ckzscm/</p>
           </td>
           <td>
-            2001年成立
+            <p>成立於2001年</p>
           </td>
         </tr>
         <tr>
           <td>
-            北一成功校友國樂團
+            <p>北一成功校友國樂團</p>
           </td>
           <td>
-            指揮<br>廖詩昀
+            <p>指揮</p>
+            <p>廖詩昀</p>
           </td>
           <td>
-            臺北市立成功高級中學地下室
+            <p>臺北市中正區濟南路一段71號（成功高級中學地下室）</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/tfgckshaco/">連結</a>
-            
+            <p>https://www.facebook.com/tfgckshaco/</p>
           </td>
           <td>
-            1998年成立
+            <p>成立於1998年</p>
           </td>
         </tr>
         <tr>
           <td>
-            台大薰風國樂團
+            <p>台大薰風國樂團</p>
           </td>
           <td>
-            團長<br>王煜祺
+            <p>團長</p>
+            <p>王煜祺</p>
           </td>
           <td>
-            臺北市大安區羅斯福路四段85號405室
+            <p>臺北市大安區羅斯福路四段85號405室</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/NTUCO/">連結</a>
-            
+            <p>https://www.facebook.com/NTUCO/</p>
           </td>
           <td>
-            1952年成立
+            <p>成立於1952年</p>
           </td>
         </tr>
         <tr>
           <td>
-            薰風樂友國樂團
+            <p>台北青年國樂團</p>
           </td>
           <td>
-            團長<br>王絲幸
+            <p>總幹事</p>
+            <p>許喬鈞</p>
           </td>
           <td>
-            新北市新店區民權路88-2號5樓<br>0933-714-731
+            <p>臺北市大安區仁愛路四段390之1號8樓</p>
+            <p>0966-075-000</p>
           </td>
-          <td></td>
           <td>
-            2018年8月26日成立，2019年立案，週日14:00-17:00練習。
+            <p>https://www.facebook.com/pg/TaipeiYouthChineseOrchestra/</p>
           </td>
+          <td>
+            <p>成立於1993年，每週五19:00-21:30練習。</p>
+          </td>
         </tr>
         <tr>
           <td>
-            台北青年國樂團
+            <p>松山慈惠堂國樂團</p>
           </td>
           <td>
-            總幹事<br>許喬鈞
+            <p>堂主</p>
+            <p>郭葉子</p>
+            <p>總幹事</p>
+            <p>林惠雪</p>
           </td>
           <td>
-            臺北市大安區仁愛路四段390之1號8樓
-            <br />
-            0966-075-000
+            <p>臺北市信義區福德街251巷33號</p>
+            <p>02-2726-1735</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/pg/TaipeiYouthChineseOrchestra/about/?ref=page_internal">連結</a>
-            
+            <p>mu.nian.mercy@gmail.com</p>
           </td>
           <td>
-            1993年成立，每週五19:00-21:30練習。
+            <p>成立於1988年，每週四19:30-21:30練習。</p>
           </td>
         </tr>
         <tr>
           <td>
-            松山慈惠堂國樂團
+            <p>國立師大附中校友國樂團</p>
           </td>
           <td>
-            堂主<br>郭葉子
-            <br />
-            總幹事<br>林惠雪
+            <p>周祖銳</p>
           </td>
           <td>
-            臺北市信義區福德街251巷33號
-            <br />
-            02-2726-1735
+            <p>臺北市信義區信安街115巷1號</p>
           </td>
           <td>
-            <a target="_" href="mailto:mu.nian.mercy@gmail.com">連結</a>
-            
+            <p>https://www.facebook.com/hsnuaco/</p>
           </td>
           <td>
-            1988年成立，每週四19:30-21:30練習。
+            <p>成立於1989年7月</p>
           </td>
         </tr>
         <tr>
           <td>
-            國立師大附中校友國樂團
+            <p>魚躍樂集國樂團</p>
           </td>
           <td>
-            周祖銳
+            <p>團長</p>
+            <p>柯銘峰</p>
           </td>
           <td>
-            臺北市信義區信安街115巷1號
+            <p>臺北市中正區忠孝東路二段112號7樓</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/hsnuaco/">連結</a>
-            
+            <p>https://yuyaomusic.weebly.com/</p>
           </td>
           <td>
-            1989年7月成立
+            <p>成立於2015年1月，每月第一、第三個週五18:30-21:30練習。</p>
           </td>
         </tr>
         <tr>
           <td>
-            魚躍樂集國樂團
+            <p>鄉音國樂團</p>
           </td>
           <td>
-            團長<br>柯銘峰
+            <p>團長</p>
+            <p>許瑞</p>
           </td>
           <td>
-            臺北市中正區忠孝東路二段112號7樓
+            <p>0921-831-786</p>
           </td>
           <td>
-            <a target="_" href="https://yuyaomusic.weebly.com/">連結</a>
-            
+            <p>https://www.facebook.com/hakkamelody/</p>
           </td>
           <td>
-            2015年1月成立，每月第一、第三個星期五18:30-21:30練習。
+            <p>成立於2001年，每週二18:30練習。</p>
           </td>
         </tr>
         <tr>
           <td>
-            琴園國樂團
+            <p>新樂國樂團</p>
           </td>
           <td>
-            團長<br>林谷珍
+            <p>徐文中</p>
           </td>
           <td>
-            臺北市新生南路一段138-1號
-            <br />
-            02-2341-8000
+            <p>臺北市文山區木新路三段310巷4號2樓</p>
+            <p>0920-027-010</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/chinyuan.taiwan/">連結</a>
-            
+            <p>https://www.facebook.com/HsinMusic/</p>
           </td>
           <td>
-            1988年成立
+            <p>成立於2001年7月21日，每週六14:30-18:00練習。</p>
           </td>
         </tr>
         <tr>
           <td>
-            鄉音國樂團
+            <p>錫穗國樂團</p>
           </td>
           <td>
-            團長<br>許瑞
+            <p>音樂總監/指揮</p>
+            <p>任燕平</p>
           </td>
           <td>
-            0921-831-786
+            <p>臺北市南港區忠孝東路六段212巷1弄31號4樓</p>
+            <p>0912-468-736</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/hakkamelody/">連結</a>
-            
+            <p>https://www.facebook.com/xsco2012/</p>
           </td>
           <td>
-            2001年成立，每週二18:30練習。
+            <p>成立於2011年7月，2015年正式立案登記。</p>
           </td>
         </tr>
         <tr>
           <td>
-            新樂國樂團
+            <p>迴響國樂團</p>
           </td>
           <td>
-            徐文中
+            <p>團長</p>
+            <p>劉國賓</p>
           </td>
           <td>
-            臺北市文山區木新路三段310巷4號2樓
-            <br />
-            0920-027-010
+            <p>臺北市松山區延壽街337之2號4樓</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/HsinMusic/">連結</a>
-            
+            <p>https://www.facebook.com/pg/迴響國樂團-262705720745204/</p>
           </td>
           <td>
-            2001年7月21日成立，每週六14:30-18:00練習。
+            <p>成立於2006年，每週一09:00練習。</p>
           </td>
         </tr>
         <tr>
-          <td>
-            萬和里國樂團
-          </td>
-          <td>
-            總幹事<br>徐莉莉
-          </td>
           <td>
-            臺北市文山區萬隆街47之12號房屋地下層
-            <br />
-            02-2931-0147
+            <p>臺師大校友國樂團</p>
           </td>
-          <td></td>
-          <td>
-            1996年成立，每週五19:30-21:30練習。
-          </td>
-        </tr>
-        <tr>
           <td>
-            興福里國樂團
+            <p>團長</p>
+            <p>張大立</p>
           </td>
           <td>
-            總幹事<br>張肇華
+            <p>新北市新店區寶橋路235巷3號8樓</p>
+            <p>Line ID：@vlw7155x</p>
           </td>
           <td>
-            臺北市文山區興隆路二段95巷8號7樓
+            <p>https://zh-tw.facebook.com/臺師大校友國樂團-138323846221342/</p>
           </td>
-          <td></td>
           <td>
-            2002年5月1日成立，每週三19:30-21:30練習。
+            <p>成立於2008年8月2日，每週六14:00-17:00練習。</p>
           </td>
         </tr>
         <tr>
           <td>
-            錫穗國樂團
+            <p>群藝民族管弦樂團</p>
           </td>
           <td>
-            音樂總監兼指揮<br>任燕平
+            <p>方信淵</p>
           </td>
           <td>
-            臺北市南港區忠孝東路六段212巷1弄31號4樓
-            <br />
-            0912-468-736
+            <p>新北市板橋區四川路2段247號27樓</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/xsco2012/">連結</a>
-            
+            <p>
+              https://www.facebook.com/ Arteam群藝民族管弦樂團-107912024325974/
+            </p>
           </td>
           <td>
-            2011年7月成立，2015年正式立案登記。
+            <p>成立於2020年2月4日</p>
           </td>
         </tr>
         <tr>
           <td>
-            迴響國樂團
+            <p>文山民族管弦樂團</p>
           </td>
           <td>
-            團長<br>劉國賓
+            <p>團長</p>
+            <p>邱柏盛</p>
           </td>
           <td>
-            臺北市松山區延壽街337之2號4樓
+            <p>新北市新店區太平里太平路61號5樓（新店太平宮）</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/pg/迴響國樂團-262705720745204/about/?ref=page_internal">連結</a>
-            
+            <p>https://www.facebook.com/pg/文山民族管弦樂團-577432608996787/</p>
           </td>
           <td>
-            2006年成立，每週一09:00練習。
+            <p>成立於2007年6月30日，每週六14:00-17:00練習。</p>
           </td>
         </tr>
         <tr>
           <td>
-            小巨人絲竹樂團
+            <p>小巨人絲竹樂團</p>
           </td>
           <td>
-            團長<br>陳佳瑜
+            <p>團長</p>
+            <p>陳佳瑜</p>
           </td>
           <td>
-            新北市永和區竹林路41號地下1樓
-            <br />
-            02-8927-7445
+            <p>新北市永和區竹林路41號地下1樓</p>
+            <p>02-8927-7445</p>
           </td>
           <td>
-            <a target="_" href="http://www.littlegiant.idv.tw/inform.htm">連結</a>
-            
+            <p>http://www.littlegiant.idv.tw/inform.htm</p>
           </td>
           <td>
-            2000年10月成立
+            <p>成立於2000年10月</p>
           </td>
         </tr>
         <tr>
           <td>
-            中華國樂團
+            <p>中華國樂團</p>
           </td>
           <td>
-            團長<br>蘇文慶
+            <p>團長</p>
+            <p>蘇文慶</p>
           </td>
           <td>
-            新北市深坑區北深路三段270巷10號4樓
-            <br />
-            02-2662-0901
+            <p>新北市深坑區北深路三段270巷10號4樓</p>
+            <p>02-2662-0901</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/pg/中華國樂團ZhongHua-Chinese-Orchestra-191354704801/about/?ref=page_internal">連結</a>
-            
+            <p>
+              https://www.facebook.com/pg/中華國樂團ZhongHua-Chinese-Orchestra-191354704801/
+            </p>
           </td>
           <td>
-            1999年年底成立
+            <p>成立於1999年年底</p>
           </td>
         </tr>
         <tr>
           <td>
-            先嗇宮民族管弦樂團
+            <p>台北傳奇華樂團</p>
           </td>
           <td>
-            團長<br>王淑鈴
+            <p>郭彥麟</p>
           </td>
           <td>
-            新北市三重區集美街33巷10號1樓
+            <p>新北市新店區永華街19號1樓</p>
+            <p>0963-361-908</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/cmusic2005/">連結</a>
+            <p>https://www.facebook.com/musicunion29/</p>
           </td>
           <td>
-            2005年成立，每週日18:30練習。
+            <p>成立於2013年10月30日</p>
           </td>
         </tr>
         <tr>
           <td>
-            台北傳奇華樂團
+            <p>台北簪纓國樂團</p>
           </td>
           <td>
-            郭彥麟
+            <p>團長</p>
+            <p>張俐敏</p>
           </td>
           <td>
-            新北市新店區永華街19號1樓
-            <br />
-            0963-361-908
+            <p>新北市深坑區北深路三段270巷10號4樓</p>
+            <p>02-2662-0901</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/musicunion29/">連結</a>
-            
+            <p>https://www.facebook.com/TaipeiZhanyingChineseOrchestra/</p>
           </td>
           <td>
-            2013年10月30日成立
+            <p>成立於2006年，每週五晚間練習。</p>
           </td>
         </tr>
         <tr>
           <td>
-            台北簪纓國樂團
+            <p>先嗇宮民族管弦樂團</p>
           </td>
           <td>
-            團長<br>張俐敏
+            <p>團長</p>
+            <p>王淑鈴</p>
           </td>
           <td>
-            新北市深坑區北深路三段270巷10號4樓
-            <br />
-            02-2662-0901
+            <p>新北市三重區集美街33巷10號1樓</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/TaipeiZhanyingChineseOrchestra/">連結</a>
-            
+            <p>https://www.facebook.com/cmusic2005/</p>
           </td>
           <td>
-            2006年成立，每週五晚間練習。
+            <p>成立於2005年，每週日18:30練習。</p>
           </td>
         </tr>
         <tr>
           <td>
-            新北市青少年國樂團
+            <p>新北市青少年國樂團</p>
           </td>
           <td>
-            吳建忠
+            <p>吳建忠</p>
           </td>
           <td>
-            新北市新莊區五工二路50巷2號
-            <br />
-            02-2299-7265
+            <p>新北市新莊區五工二路50巷2號</p>
+            <p>02-2299-7265</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/pages/category/Performing-Arts/新北市青少年國樂團-1502326603337220/">連結</a>
-            
+            <p>
+              https://www.facebook.com/pages/category/Performing-Arts/新北市青少年國樂團-1502326603337220/
+            </p>
           </td>
           <td>
-            2013年8月15日成立
+            <p>成立於2013年8月15日</p>
           </td>
         </tr>
         <tr>
           <td>
-            韶風國樂團
+            <p>韶風國樂團</p>
           </td>
           <td>
-            成心如
+            <p>成心如</p>
           </td>
           <td>
-            新北市汐止區招商街4巷1號1樓
+            <p>新北市汐止區招商街4巷1號1樓</p>
           </td>
           <td>
-            <a target="_" href="https://sofunco.weebly.com/">連結</a>
-            <br />
-            <a target="_" href="https://www.facebook.com/sofunco/">連結</a>
+            <p>https://sofunco.weebly.com/</p>
+            <p>https://www.facebook.com/sofunco/</p>
           </td>
           <td>
-            2010年成立
+            <p>成立於2010年</p>
           </td>
         </tr>
         <tr>
           <td>
-            薪橋國樂團
+            <p>薪橋國樂團</p>
           </td>
           <td>
-            蘇敏
+            <p>蘇敏</p>
           </td>
           <td>
-            新北市新莊區福營路175號10樓
+            <p>新北市新莊區福營路175號10樓</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/pg/shinchiau.chinesemusic/about/?ref=page_internal">連結</a>
-            
+            <p>https://www.facebook.com/pg/shinchiau.chinesemusic/</p>
           </td>
           <td>
-            2012年成立，隔週日13:30-16:30練習。
+            <p>成立於2012年，隔週日13:30-16:30練習。</p>
           </td>
         </tr>
         <tr>
           <td>
-            Lamigo國樂團
+            <p>Lamigo國樂團</p>
           </td>
           <td>
-            朱文賓
+            <p>朱文賓</p>
           </td>
           <td>
-            新北市汐止區大同路三段611號
-            <br />
-            0921-962-121
+            <p>新北市汐止區大同路三段611號</p>
+            <p>0921-962-121</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/Lamigo國樂粉絲團-123324114433073/">連結</a>
-            
+            <p>https://www.facebook.com/Lamigo國樂粉絲團-123324114433073/</p>
           </td>
           <td>
-            2010年成立
+            <p>成立於2010年</p>
           </td>
         </tr>
         <tr>
           <td>
-            基隆市國樂團
+            <p>基隆市國樂團</p>
           </td>
           <td>
-            團長<br>林右昌
+            <p>團長</p>
+            <p>林右昌</p>
           </td>
           <td>
-            基隆市中正區信一路181號4樓<br>02-2422-4170 #398
+            <p>基隆市中正區信一路181號4樓</p>
+            <p>02-2422-4170 #398</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/KeelungChineseOrchestra/">連結</a>
-            
+            <p>https://www.facebook.com/KeelungChineseOrchestra/</p>
           </td>
           <td>
-            2009年成立
+            <p>成立於2009年</p>
           </td>
         </tr>
         <tr>
           <td>
-            九歌民族管絃樂團
+            <p>九歌民族管絃樂團</p>
           </td>
           <td>
-            團長<br>林運佑
+            <p>團長</p>
+            <p>林運佑</p>
           </td>
           <td>
-            桃園市中壢區中美路16號3樓
-            <br />
-            03-422-6005
+            <p>桃園市中壢區中美路16號3樓</p>
+            <p>03-422-6005</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/www.chiuko.tw/">連結</a>
-            
+            <p>https://www.facebook.com/www.chiuko.tw/</p>
           </td>
           <td>
-            1998年成立
+            <p>成立於1998年</p>
           </td>
         </tr>
         <tr>
           <td>
-            桃園市國樂團
+            <p>桃園市國樂團</p>
           </td>
           <td>
-            行政總監<br>孟美英
+            <p>行政總監</p>
+            <p>孟美英</p>
           </td>
           <td>
-            桃園市中壢區中美路16號
-            <br />
-            03-425-5051
+            <p>桃園市中壢區中美路16號</p>
+            <p>03-425-5051</p>
           </td>
           <td>
-            <a target="_" href="mailto:tyc.orchestra@gmail.com">連結</a>
-            
+            <p>tyc.orchestra@gmail.com</p>
           </td>
           <td>
-            2016年10月13日成立
+            <p>成立於2016年10月13日</p>
           </td>
         </tr>
         <tr>
           <td>
-            樂友國樂團
+            <p>樂友國樂團</p>
           </td>
           <td>
-            團長<br>呂百理
+            <p>團長</p>
+            <p>呂百理</p>
           </td>
           <td>
-            桃園市青溪國小
+            <p>桃園市桃園區自強路80號（青溪國小）</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/樂友國樂團-233614240123691/">連結</a>
-            
+            <p>https://www.facebook.com/樂友國樂團-233614240123691/</p>
           </td>
           <td>
-            1991年成立，每週日09:00-12:00練習。
+            <p>成立於1991年，每週日09:00-12:00練習。</p>
           </td>
         </tr>
         <tr>
           <td>
-            新竹市立青少年國樂團
+            <p>新竹市立青少年國樂團</p>
           </td>
           <td>
-            王大成
+            <p>王大成</p>
           </td>
           <td>
-            新竹巿光復路一段576巷2弄125號2樓之1
-            <br />
-            0955-632-155
+            <p>新竹巿光復路一段576巷2弄125號2樓之1</p>
+            <p>0955-632-155</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/新竹市立青少年國樂團-100577196648920/">連結</a><br>
-            <a target="_" href="mailto:raymond88901@gmail.com">連結</a>
+            <p>
+              https://www.facebook.com/新竹市立青少年國樂團-100577196648920/
+            </p>
+            <p>raymond88901@gmail.com</p>
           </td>
           <td>
-            1993年成立
+            <p>成立於1993年</p>
           </td>
         </tr>
         <tr>
           <td>
-            新竹市立國樂團
+            <p>新竹市立國樂團</p>
           </td>
           <td>
-            范光宏
+            <p>范光宏</p>
           </td>
           <td>
-            新竹市北區天府路一段511號2樓
-            <br />
-            0918-854-500
+            <p>新竹市北區天府路一段511號2樓</p>
+            <p>0918-854-500</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/HCChineseOrchestra/?ref=bookmarks">連結</a><br>
-            <a target="_" href="mailto:3mingd@gmail.com">連結</a>
+            <p>https://www.facebook.com/HCChineseOrchestra/</p>
+            <p>3mingd@gmail.com</p>
           </td>
           <td>
-            1990年成立
+            <p>成立於1990年</p>
           </td>
         </tr>
         <tr>
           <td>
-            新竹青年國樂團
+            <p>新竹青年國樂團</p>
           </td>
           <td>
-            沈杏鎂
+            <p>沈杏鎂</p>
           </td>
           <td>
-            新竹市延平路一段214巷34弄47號
+            <p>新竹市延平路一段214巷34弄47號</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/新竹青年國樂團-741559682522390/">連結</a><br>
-            <a target="_" href="mailto:angel888608@gmail.com">連結</a>
+            <p>https://www.facebook.com/新竹青年國樂團-741559682522390/</p>
+            <p>angel888608@gmail.com</p>
           </td>
           <td>
-            2011年成立
+            <p>成立於2011年</p>
           </td>
         </tr>
         <tr>
           <td>
-            新竹經典青少年國樂團
+            <p>新竹經典青少年國樂團</p>
           </td>
           <td>
-            范光宏
+            <p>范光宏</p>
           </td>
           <td>
-            新竹市北區天府路一段511號2樓
-            <br />
-            0918-854-500
+            <p>新竹市北區天府路一段511號2樓</p>
+            <p>0918-854-500</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/XinZhuJingDianQingShaoNianGuoLeTuan/">連結</a><br>
-            <a target="_" href="mailto:3mingd@gmail.com">連結</a>
+            <p>https://www.facebook.com/XinZhuJingDianQingShaoNianGuoLeTuan/</p>
+            <p>3mingd@gmail.com</p>
           </td>
-          <td></td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
-          <td>
-            苗栗縣立國樂團
-          </td>
-          <td>
-            音樂總監<br>黎俊平
-          </td>
           <td>
-            苗栗市自治路50號
-            <br />
-            037-369-968
+            <p>苗栗縣立國樂團</p>
           </td>
-          <td>
-            <a target="_" href="http://www.mco.org.tw/">連結</a>
-            
-          </td>
-          <td>
-            2010年成立
-          </td>
-        </tr>
-        <tr>
           <td>
-            貓裏樂集國樂團
+            <p>音樂總監</p>
+            <p>黎俊平</p>
           </td>
           <td>
-            禹耀東
+            <p>苗栗市自治路50號</p>
+            <p>037-369-968</p>
           </td>
           <td>
-            苗栗市建功里8鄰中山路249號
+            <p>http://www.mco.org.tw/</p>
           </td>
-          <td></td>
           <td>
-            1999年成立
+            <p>成立於2010年</p>
           </td>
         </tr>
         <tr>
           <td>
-            聯合民族管弦樂團
+            <p>聯合民族管弦樂團</p>
           </td>
           <td>
-            團長<br>黎俊平
+            <p>團長</p>
+            <p>黎俊平</p>
           </td>
           <td>
-            苗栗市忠孝路19號2樓
-            <br />
-            037-369-968
+            <p>苗栗市忠孝路19號2樓</p>
+            <p>037-369-968</p>
           </td>
           <td>
-            <a target="_" href="http://www.uensemble.org/home.php">連結</a>
-            
+            <p>http://www.uensemble.org/home.php</p>
           </td>
           <td>
-            1998年成立
+            <p>成立於1998年</p>
           </td>
         </tr>
         <tr>
           <td>
-            大中國樂團
+            <p>大中國樂團</p>
           </td>
           <td>
-            團長<br>洪佩珍
+            <p>團長</p>
+            <p>洪佩珍</p>
           </td>
           <td>
-            臺中市北區中清路一段690號18樓之7
-            <br />
-            0937-474-155
+            <p>臺中市北區中清路一段690號18樓之7</p>
+            <p>0937-474-155</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/dachungdachung/">連結</a>
-            
+            <p>https://www.facebook.com/dachungdachung/</p>
           </td>
           <td>
-            2002年成立
+            <p>成立於2002年</p>
           </td>
         </tr>
         <tr>
           <td>
-            文華雅風國樂團
+            <p>文華雅風國樂團</p>
           </td>
           <td>
-            古一以
+            <p>古一以</p>
           </td>
           <td>
-            臺中市南屯區溝墘里大福街1之20號
-            <br />
-            04-2245-0425
+            <p>臺中市南屯區溝墘里大福街1之20號</p>
+            <p>04-2245-0425</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/WHYFCO/">連結</a>
-            
+            <p>https://www.facebook.com/WHYFCO/</p>
           </td>
           <td>
-            1997年成立
+            <p>成立於1997年</p>
           </td>
         </tr>
         <tr>
           <td>
-            台灣絲竹室內樂團
+            <p>台灣絲竹室內樂團</p>
           </td>
           <td>
-            林俊斌
+            <p>林俊斌</p>
           </td>
           <td>
-            臺中市大里區益民路二段31號
-            <br />
-            04-2483-9076
+            <p>臺中市大里區益民路二段31號</p>
+            <p>04-2483-9076</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/TWMIO.tw/">連結</a>
-            
+            <p>https://www.facebook.com/TWMIO.tw/</p>
           </td>
           <td>
-            1989年8月7日成立
+            <p>成立於1989年8月7日</p>
           </td>
         </tr>
         <tr>
           <td>
-            原韻絲竹樂團
+            <p>原韻絲竹樂團</p>
           </td>
           <td>
-            團長<br>陳清龍
+            <p>團長</p>
+            <p>陳清龍</p>
           </td>
           <td>
-            臺中市豐原區圓環東路420號
-            <br />
-            04-2522-5005
+            <p>臺中市豐原區圓環東路420號</p>
+            <p>04-2522-5005</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/pg/YuanYunSiZhuLeTuan/about/?ref=page_internal">連結</a>
-            
+            <p>https://www.facebook.com/pg/YuanYunSiZhuLeTuan/</p>
           </td>
           <td>
-            2008年成立，每週日14:00-17:00練習。
+            <p>成立於2008年，每週日14:00-17:00練習。</p>
           </td>
         </tr>
         <tr>
           <td>
-            普賢妙聲國樂團
+            <p>大墩國樂團</p>
           </td>
           <td>
-            徐明輝
+            <p>團長</p>
+            <p>董芳娃</p>
           </td>
           <td>
-            臺中市西區臺灣大道二段300號9樓之1
-            <br />
-            04-2327-3530
+            <p>臺中市西區臺灣大道二段300號9樓之1</p>
+            <p>04-2327-3530</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/taichungpushian">連結</a>
-            
+            <p>https://www.facebook.com/dadunco/</p>
           </td>
           <td>
-            2012年成立，每週六15:00-17:00練習。
+            <p>成立於2019年3月29日，每週六15:00-17:00練習。</p>
           </td>
         </tr>
         <tr>
           <td>
-            雅音國樂團
+            <p>雅音國樂團</p>
           </td>
           <td>
-            林信宏
+            <p>林信宏</p>
           </td>
           <td>
-            臺中市東區和平街217號
-            <br />
-            04-2221-3696
+            <p>臺中市東區和平街217號</p>
+            <p>04-2221-3696</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/台中雅音國樂團-708810219222521/">連結</a>
-            
+            <p>https://www.facebook.com/台中雅音國樂團-708810219222521/</p>
           </td>
           <td>
-            2014年4月成立
+            <p>成立於2014年4月</p>
           </td>
         </tr>
         <tr>
           <td>
-            聞韶軒絲竹室內樂團
+            <p>聞韶軒絲竹室內樂團</p>
           </td>
           <td>
-            團長<br>廖木春
+            <p>團長</p>
+            <p>廖木春</p>
           </td>
           <td>
-            臺中市北屯區南京東路三段52巷26號
-            <br />
-            04-2238-6211
-            <br />
-            0928-941-856
+            <p>臺中市北屯區南京東路三段52巷26號</p>
+            <p>04-2238-6211</p>
+            <p>0928-941-856</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/聞韶軒絲竹室內樂團-429888513861763/">連結</a>
-            
+            <p>https://www.facebook.com/聞韶軒絲竹室內樂團-429888513861763/</p>
           </td>
           <td>
-            1995年成立
+            <p>成立於1995年</p>
           </td>
         </tr>
         <tr>
           <td>
-            臺中一中天籟國樂校友團
+            <p>臺中一中天籟國樂校友團</p>
           </td>
           <td>
-            陳承煜
+            <p>陳承煜</p>
           </td>
           <td>
-            臺中市潭子區中山路一段15巷6號12樓之3
-            <br />
-            04-2232-5995
-            <br />
-            0912-033-244
+            <p>臺中市潭子區中山路一段15巷6號12樓之3</p>
+            <p>04-2232-5995</p>
+            <p>0912-033-244</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/tcfshteinlai">連結</a>
-            
+            <p>https://www.facebook.com/tcfshteinlai</p>
           </td>
-          <td></td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            臺中市客委會國樂團
+            <p>臺中市客委會國樂團</p>
           </td>
           <td>
-            主任委員<br>江俊龍
+            <p>主任委員</p>
+            <p>江俊龍</p>
           </td>
           <td>
-            臺中市豐原區陽明街36號陽明大樓3樓（臺中市政府客家事務委員會）
-            <br />
-            04-2228-9111#52209
+            <p>臺中市豐原區陽明街36號陽明大樓3樓（臺中市政府客家事務委員會）</p>
+            <p>04-2228-9111 #52209</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/pages/category/Musician-Band/臺中市客委會國樂團-325438417528798/">連結</a>
-            
+            <p>
+              https://www.facebook.com/pages/category/Musician-Band/臺中市客委會國樂團-325438417528798/
+            </p>
           </td>
           <td>
-            2012年成立，每週六19:00-21:30練習。
+            <p>成立於2012年，每週六19:00-21:30練習。</p>
           </td>
         </tr>
         <tr>
           <td>
-            臺中市國樂團
+            <p>臺中市國樂團</p>
           </td>
           <td>
-            團長<br>林月里
+            <p>團長</p>
+            <p>林月里</p>
           </td>
           <td>
-            臺中市北區崇德路一段133巷8號7樓之10
-            <br />
-            0935-410-880
+            <p>臺中市北區崇德路一段133巷8號7樓之10</p>
+            <p>0935-410-880</p>
           </td>
           <td>
-            <a target="_" href="http://www.tcco.tw/tcco/tccointro.html">連結</a><br>
-            <a target="_" href="https://www.facebook.com/tcco.tw/">連結</a>
+            <p>http://www.tcco.tw/tcco/tccointro.html</p>
+            <p>https://www.facebook.com/tcco.tw/</p>
           </td>
           <td>
-            1982年成立，每週日18:00-21:00練習。
+            <p>成立於1982年，每週日18:00-21:00練習。</p>
           </td>
         </tr>
         <tr>
           <td>
-            臺中青年絲竹樂團
+            <p>臺中青年絲竹樂團</p>
           </td>
           <td>
-            團長<br>黃勝宏
+            <p>團長</p>
+            <p>黃勝宏</p>
           </td>
           <td>
-            臺中市東勢區泰昌街208號<br>0963-060-703
+            <p>臺中市東勢區泰昌街208號 0963-060-703</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/臺中青年絲竹樂團-359718680865731/">連結</a>
-            
+            <p>https://www.facebook.com/臺中青年絲竹樂團-359718680865731/</p>
           </td>
           <td>
-            2012年成立
+            <p>成立於2012年</p>
           </td>
         </tr>
         <tr>
           <td>
-            優樂國樂團
+            <p>優樂國樂團</p>
           </td>
           <td>
-            尤郁雯
+            <p>尤郁雯</p>
           </td>
           <td>
-            臺中市南屯區河南路四段206號<br>0939-993-568
+            <p>臺中市南屯區河南路四段206號</p>
+            <p>0939-993-568</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/Taichungyourmusic/">連結</a>
-            
+            <p>https://www.facebook.com/Taichungyourmusic/</p>
           </td>
           <td>
-            2012年成立
+            <p>成立於2012年</p>
           </td>
         </tr>
         <tr>
           <td>
-            應天絲竹樂團
+            <p>應天絲竹樂團</p>
           </td>
           <td>
-            李淑真
+            <p>李淑真</p>
           </td>
           <td>
-            臺中市南屯區豐樂里豐功路89號
-            <br />
-            04-2380-5289
+            <p>臺中市南屯區豐樂里豐功路89號</p>
+            <p>04-2380-5289</p>
           </td>
-          <td></td>
-          <td></td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            大雅國小校友國樂團
+            <p>大雅國小校友國樂團</p>
           </td>
           <td>
-            王凱翔
+            <p>王凱翔</p>
           </td>
           <td>
-            臺中市大雅區學府路230號<br>0937-744-080
+            <p>臺中市大雅區學府路230號</p>
+            <p>0937-744-080</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/大雅國小校友國樂團-588017911562360/">連結</a>
-            
+            <p>https://www.facebook.com/大雅國小校友國樂團-588017911562360/</p>
           </td>
           <td>
-            2010年成立
+            <p>成立於2010年</p>
           </td>
         </tr>
         <tr>
           <td>
-            中興國樂團
+            <p>中興國樂團</p>
           </td>
           <td>
-            黄秀蓉
+            <p>黄秀蓉</p>
           </td>
           <td>
-            南投市內興里21鄰光明南路2巷5號
-            <br />
-            049-232-5731
+            <p>南投市內興里光明南路2巷5號</p>
+            <p>04-9232-5731</p>
           </td>
-          <td></td>
+          <td>&nbsp;</td>
           <td>
-            1999年6月成立
+            <p>成立於1999年6月</p>
           </td>
         </tr>
         <tr>
           <td>
-            玉皇宮國樂團
+            <p>玉皇宮國樂團</p>
           </td>
           <td>
-            曾國鎮
+            <p>曾國鎮</p>
           </td>
           <td>
-            南投縣草屯鎮雙叉港玉屏路162之2號
-            <br />
-            049-256-0603
+            <p>南投縣草屯鎮雙叉港玉屏路162之2號</p>
+            <p>04-9256-0603</p>
           </td>
           <td>
-            <a target="_" href="mailto:chin311@ms66.hinet.net">連結</a>
-            
+            <p>chin311@ms66.hinet.net</p>
           </td>
           <td>
-            1978年草創，1994年正式登記立案。
+            <p>草創於1978年，1994年正式登記立案。</p>
           </td>
         </tr>
         <tr>
           <td>
-            彰化市立國樂團
+            <p>彰化市立國樂團</p>
           </td>
           <td>
-            市長<br>林世賢
+            <p>市長</p>
+            <p>林世賢</p>
           </td>
           <td>
-            彰化縣彰化市光復路74號
-            <br />
-            04-722-2142 #1713
+            <p>彰化縣彰化市光復路74號</p>
+            <p>04-722-2142 #1713</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/彰化市立國樂團-902944416392236/">連結</a>
-            
+            <p>https://www.facebook.com/彰化市立國樂團-902944416392236/</p>
           </td>
           <td>
-            2004年成立，每週五18:30-21:30練習。
+            <p>成立於2004年，每週五18:30-21:30練習。</p>
           </td>
         </tr>
         <tr>
           <td>
-            雲林縣民族管弦樂團
+            <p>雲林縣民族管弦樂團</p>
           </td>
           <td>
-            田岳昇
+            <p>田岳昇</p>
           </td>
           <td>
-            05-586-2192
+            <p>05-586-2192</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/groups/117552178301468/">連結</a>
-            
+            <p>https://www.facebook.com/groups/117552178301468/</p>
           </td>
           <td>
-            2010年6月成立
+            <p>成立於2010年6月</p>
           </td>
         </tr>
         <tr>
           <td>
-            神奇樂坊
+            <p>神奇樂坊</p>
           </td>
           <td>
-            許榮方
+            <p>許榮方</p>
           </td>
           <td>
-            嘉義縣朴子市中興路87號6樓之2
-            <br />
-            0932-009-486
+            <p>嘉義縣朴子市中興路87號6樓之2</p>
+            <p>0932-009-486</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/神奇樂坊-165683453585740/">連結</a>
-            
+            <p>https://www.facebook.com/神奇樂坊-165683453585740/</p>
           </td>
           <td>
-            1999年10月1日成立，2007年正式立案成立。
+            <p>成立於1999年10月1日，2007年正式立案成立。</p>
           </td>
         </tr>
         <tr>
           <td>
-            嘉義市國樂團
+            <p>嘉義市國樂團</p>
           </td>
           <td>
-            團長<br>拱靜蘭
+            <p>團長</p>
+            <p>拱靜蘭</p>
           </td>
           <td>
-            嘉義市大雅路二段471號1樓
-            <br />
-            0937-358-292
+            <p>嘉義市大雅路二段471號1樓</p>
+            <p>0937-358-292</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/chiayicmo/">連結</a>
-            
+            <p>https://www.facebook.com/chiayicmo/</p>
           </td>
           <td>
-            2013年成立
+            <p>成立於2013年</p>
           </td>
         </tr>
         <tr>
           <td>
-            嘉義民族管弦樂團
+            <p>嘉義民族管弦樂團</p>
           </td>
           <td>
-            團長<br>呂翼雲
+            <p>團長</p>
+            <p>呂翼雲</p>
           </td>
           <td>
-            嘉義縣民雄鄉松山村33之4號
-            <br />
-            0966-575-951
+            <p>嘉義縣民雄鄉松山村33之4號</p>
+            <p>0966-575-951</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/ChiayiTraditionalOrchestra/">連結</a>
-            
+            <p>https://www.facebook.com/ChiayiTraditionalOrchestra/</p>
           </td>
           <td>
-            2016年成立，每週日14:00-16:00練習。
+            <p>成立於2016年，每週日14:00-16:00練習。</p>
           </td>
         </tr>
         <tr>
           <td>
-            台南樂集
+            <p>台南樂集</p>
           </td>
           <td>
-            團長<br>杜潔明
+            <p>團長</p>
+            <p>杜潔明</p>
           </td>
           <td>
-            臺南市東區崇德路128號7樓701室
-            <br />
-            0979-773-685
+            <p>臺南市東區崇德路128號7樓701室</p>
+            <p>0979-773-685</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/tnensemble">連結</a>
-            
+            <p>https://www.facebook.com/tnensemble</p>
           </td>
           <td>
-            2014年成立
+            <p>成立於2014年</p>
           </td>
         </tr>
         <tr>
           <td>
-            南瀛民族樂團
+            <p>南瀛民族樂團</p>
           </td>
           <td>
-            楊正安
+            <p>楊正安</p>
           </td>
           <td>
-            臺南市永康區政強街308號
-            <br />
-            06-236-9672
+            <p>臺南市永康區政強街308號</p>
+            <p>06-236-9672</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/南瀛民族樂團-139080989448483/">連結</a>
-            
+            <p>https://www.facebook.com/南瀛民族樂團-139080989448483/</p>
           </td>
           <td>
-            1998年成立
+            <p>成立於1998年</p>
           </td>
         </tr>
         <tr>
           <td>
-            鄉韻民族樂團
+            <p>鄉韻民族樂團</p>
           </td>
           <td>
-            團長<br>李明鄉
+            <p>團長</p>
+            <p>李明鄉</p>
           </td>
           <td>
-            臺南市永福路二段81巷1號3樓
-            <br />
-            06-226-8209
+            <p>臺南市永福路二段81巷1號3樓</p>
+            <p>06-226-8209</p>
           </td>
           <td>
-            <a target="_" href="http://xyco.org/">連結</a>
-            
+            <p>http://xyco.org/</p>
           </td>
-          <td></td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            雲長樂揚國樂團
+            <p>雲長樂揚國樂團</p>
           </td>
           <td>
-            劉秀敏
+            <p>劉秀敏</p>
           </td>
           <td>
-            臺南市永康區六合路44巷44號
-            <br />
-            0915-076-961
+            <p>臺南市永康區六合路44巷44號</p>
+            <p>0915-076-961</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/雲長樂揚國樂團-163535553846088/">連結</a>
-            
+            <p>https://www.facebook.com/雲長樂揚國樂團-163535553846088/</p>
           </td>
           <td>
-            2002年成立（前關帝殿國樂團）
+            <p>成立於2002年（前關帝殿國樂團）</p>
           </td>
         </tr>
         <tr>
           <td>
-            臺南市民族管絃樂團
+            <p>臺南市民族管絃樂團</p>
           </td>
           <td>
-            團長/指揮<br>劉文祥
+            <p>團長/</p>
+            <p>指揮</p>
+            <p>劉文祥</p>
           </td>
           <td>
-            臺南市歸仁區信義南路78號
-            <br />
-            06-330-6505
+            <p>臺南市歸仁區信義南路78號</p>
+            <p>06-330-6505</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/臺南市民族管絃樂團-107014649337471/">連結</a>
-            
+            <p>https://www.facebook.com/臺南市民族管絃樂團-107014649337471/</p>
           </td>
           <td>
-            2000年成立
+            <p>成立於2000年</p>
           </td>
         </tr>
         <tr>
           <td>
-            台灣愛樂民族管絃樂團
+            <p>台灣愛樂民族管絃樂團</p>
           </td>
           <td>
-            團長<br>顧寶文
+            <p>團長</p>
+            <p>顧寶文</p>
           </td>
           <td>
-            高雄市前金區民生二路163號2樓
-            <br />
-            0932-039-934
+            <p>高雄市前金區民生二路163號2樓</p>
+            <p>0932-039-934</p>
           </td>
           <td>
-            <a target="_" href="http://www.tpco.org.tw/">連結</a>
-            
+            <p>http://www.tpco.org.tw/</p>
           </td>
           <td>
-            2011年成立
+            <p>成立於2011年</p>
           </td>
         </tr>
         <tr>
           <td>
-            岡山國樂團
+            <p>岡山國樂團</p>
           </td>
           <td>
-            高天財
+            <p>高天財</p>
           </td>
           <td>
-            高雄市彌陀區漯底里八鄰樂安路51之1號
-            <br />
-            07-6179-361
+            <p>高雄市彌陀區漯底里樂安路51之1號</p>
+            <p>07-617-9361</p>
           </td>
           <td>
-            <a target="_" href="mailto:kao6253503@yahoo.com.tw">連結</a>
-            
+            <p>kao6253503@yahoo.com.tw</p>
           </td>
           <td>
-            2012年成立
+            <p>成立於2012年</p>
           </td>
         </tr>
         <tr>
           <td>
-            高雄市國樂團
+            <p>高雄市國樂團</p>
           </td>
           <td>
-            指揮/副執行長<br>郭哲誠
+            <p>指揮/</p>
+            <p>副執行長</p>
+            <p>郭哲誠</p>
           </td>
           <td>
-            高雄市鳳山區光遠路161號
-            <br />
-            07-743-6633
+            <p>高雄市鳳山區光遠路161號</p>
+            <p>07-743-6633</p>
           </td>
           <td>
-            <a target="_" href="http://kpcaf.khcc.gov.tw/">連結</a>
-            
+            <p>http://kpcaf.khcc.gov.tw/</p>
           </td>
           <td>
-            1989年成立
+            <p>成立於1989年</p>
           </td>
         </tr>
         <tr>
           <td>
-            高雄市國樂團附設青少年國樂團
+            <p>高雄市國樂團附設青少年國樂團</p>
           </td>
           <td>
-            指揮<br>李英
+            <p>指揮</p>
+            <p>李英</p>
           </td>
           <td>
-            高雄市鳳山區光遠路161號
-            <br />
-            07-743-6633
+            <p>高雄市鳳山區光遠路161號</p>
+            <p>07-743-6633</p>
           </td>
           <td>
-            <a target="_" href="http://kpcaf.khcc.gov.tw/">連結</a>
-            
+            <p>http://kpcaf.khcc.gov.tw/</p>
           </td>
           <td>
-            2015年成立
+            <p>成立於2015年</p>
           </td>
         </tr>
         <tr>
           <td>
-            國際愛樂國樂團
+            <p>國際愛樂國樂團</p>
           </td>
           <td>
-            團長<br>王哲祥
+            <p>團長</p>
+            <p>王哲祥</p>
           </td>
           <td>
-            高雄市左營區曾子路535號20樓之2
-            <br />
-            0989-543-985
+            <p>高雄市左營區曾子路535號20樓之2</p>
+            <p>0989-543-985</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/kcpco888/">連結</a>
-            
+            <p>https://www.facebook.com/kcpco888/</p>
           </td>
           <td>
-            2016年成立
+            <p>成立於2016年</p>
           </td>
         </tr>
         <tr>
           <td>
-            宜蘭青少年國樂團
+            <p>宜蘭青少年國樂團</p>
           </td>
           <td>
-            團長<br>林仁傑
+            <p>團長</p>
+            <p>林仁傑</p>
           </td>
           <td>
-            宜蘭市嵐峰路一段300巷11號
-            <br />
-            03-9329-359
+            <p>宜蘭市嵐峰路一段300巷11號</p>
+            <p>03-932-9359</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/ilanyouthorchestra/">連結</a>
-            
+            <p>https://www.facebook.com/ilanyouthorchestra/</p>
           </td>
           <td>
-            2006年成立，每週日09:00-12:00練習。
+            <p>成立於2006年，每週日09:00-12:00練習。</p>
           </td>
         </tr>
         <tr>
           <td>
-            新生國樂團
+            <p>新生國樂團</p>
           </td>
           <td>
-            團長<br>楊振昌
+            <p>團長</p>
+            <p>楊振昌</p>
           </td>
           <td>
-            宜蘭縣宜蘭市大坡路一段100號
-            <br />
-            03-928-2791 #247
+            <p>宜蘭縣宜蘭市大坡路一段100號</p>
+            <p>03-928-2791 #247</p>
           </td>
           <td>
-            <a target="_" href="https://blog.xuite.net/vgemw/vg">連結</a>
-            
+            <p>https://blog.xuite.net/vgemw/vg</p>
           </td>
           <td>
-            1993年成立
+            <p>成立於1993年</p>
           </td>
         </tr>
         <tr>
           <td>
-            黎明國樂團
+            <p>黎明國樂團</p>
           </td>
-          <td></td>
+          <td>&nbsp;</td>
           <td>
-            宜蘭縣宜蘭市校舍路1號
+            <p>宜蘭縣宜蘭市校舍路1號</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/YiLanLiMingGuoLeTuan/">連結</a>
-            
+            <p>https://www.facebook.com/YiLanLiMingGuoLeTuan/</p>
           </td>
           <td>
-            2013年6月16日成立，每週六09:00-12:00練習。
+            <p>成立於2013年6月16日，每週六09:00-12:00練習。</p>
           </td>
         </tr>
         <tr>
           <td>
-            樹林國樂團
+            <p>樹林國樂團</p>
           </td>
           <td>
-            廖賴傳
+            <p>廖賴傳</p>
           </td>
           <td>
-            宜蘭縣宜蘭市陽明二路81巷11號
-            <br />
-            0933-243-221
+            <p>宜蘭縣宜蘭市陽明二路81巷11號</p>
+            <p>0933-243-221</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/樹林國樂團-508936765825436/">連結</a>
-            
+            <p>https://www.facebook.com/樹林國樂團-508936765825436/</p>
           </td>
-          <td></td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            金門國樂團
+            <p>金門國樂團</p>
           </td>
           <td>
-            藝術總監<br>黃光佑
+            <p>藝術總監</p>
+            <p>黃光佑</p>
           </td>
           <td>
-            金門縣金城鎮中興路193號
-            <br />
-            0937-393-180
+            <p>金門縣金城鎮中興路193號</p>
+            <p>0937-393-180</p>
           </td>
           <td>
-            <a target="_" href="mailto:kevin80934@gmail.com">連結</a>
-            
+            <p>kevin80934@gmail.com</p>
           </td>
           <td>
-            2006年成立
+            <p>成立於2006年</p>
           </td>
         </tr>
       </tbody>
     </table>
-    <br>
-    <h3>
-      二、中小型樂團
-    </h3>
-    <table rules="all" border="1" style="border:1px solid" cellpadding="5">
+    <br />
+    <h3>二、中小型樂團</h3>
+    <table rules="all" border="1" style="border: 1px solid" cellpadding="5">
       <thead>
         <tr>
-          <th style="width:20%">名稱</th>
-          <th style="width:20%">負責人</th>
-          <th style="width:25%">地址/電話</th>
+          <th style="width: 20%">名稱</th>
+          <th style="width: 20%">負責人</th>
+          <th style="width: 25%">地址/電話</th>
           <th>其他聯絡方式</th>
-          <th style="width:25%">備註</th>
+          <th style="width: 25%">備註</th>
         </tr>
       </thead>
       <tbody>
         <tr>
           <td>
-            台灣竹樂團
+            <p>台灣竹樂團</p>
           </td>
           <td>
-            羅正楎
+            <p>羅正楎</p>
           </td>
           <td>
-            臺北市中山區南京西路6號9樓之5
-            <br />
-            02-2581-3667
+            <p>臺北市中山區南京西路6號9樓之5</p>
+            <p>02-2581-3667</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/tbo168/">連結</a>
-            
+            <p>https://www.facebook.com/tbo168/</p>
           </td>
           <td>
-            2011年4月成立
+            <p>成立於2011年4月</p>
           </td>
         </tr>
         <tr>
           <td>
-            妙音樂集國樂團
+            <p>琴園國樂團</p>
           </td>
           <td>
-            繆沁琳
+            <p>團長</p>
+            <p>林谷珍</p>
           </td>
           <td>
-            臺北市中山區中山北路一段83巷9號
-            <br />
-            02-2562-0236
+            <p>臺北市新生南路一段138-1號</p>
+            <p>02-2341-8000</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/pages/妙音樂集國樂團/244823262228440">連結</a>
-            
+            <p>https://www.facebook.com/chinyuan.taiwan/</p>
           </td>
           <td>
-            2000年成立
-          </td>
-        </tr>
-        <tr>
-          <td>
-            采風樂坊
-          </td>
-          <td>
-            黃正銘
-          </td>
-          <td>
-            臺北市中山區龍江路295巷13號2樓
-            <br />
-            02-2516-5173
-          </td>
-          <td>
-            <a target="_" href="http://www.cfmw.com.tw/index.html">連結</a><br>
-            <a target="_" href="mailto:ivana@cfmw.com.tw">連結</a>
-          </td>
-          <td>
-            1991年成立
+            <p>成立於1988年</p>
           </td>
         </tr>
         <tr>
           <td>
-            草山樂坊
+            <p>妙音樂集國樂團</p>
           </td>
           <td>
-            黃春興
+            <p>繆沁琳</p>
           </td>
           <td>
-            臺北市內湖區康寧路三段174號3樓
-            <br />
-            0913-160-938
+            <p>臺北市中山區中山北路一段83巷9號</p>
+            <p>02-2562-0236</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/pg/TaipeiGrassMountainFolkOrchestra/about/?ref=page_internal">連結</a>
-            
+            <p>https://www.facebook.com/pages/妙音樂集國樂團/244823262228440</p>
           </td>
           <td>
-            1992年成立
+            <p>成立於2000年</p>
           </td>
         </tr>
         <tr>
           <td>
-            三個人
+            <p>采風樂坊</p>
           </td>
           <td>
-            團長<br>郭岷勤
+            <p>黃正銘</p>
           </td>
           <td>
-            新北市中和區秀朗路三段177號21樓之1<br>02-2947-9273
+            <p>臺北市中山區龍江路295巷13號2樓</p>
+            <p>02-2516-5173</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/3peoplemusic/">連結</a>
-            
+            <p>http://www.cfmw.com.tw/index.html</p>
+            <p>ivana@cfmw.com.tw</p>
           </td>
           <td>
-            2013年創立
-          </td>
-        </tr>
-        <tr>
-          <td>
-            台北絲竹樂團
-          </td>
-          <td>
-            王延娟
-          </td>
-          <td>
-            新北市汐止區樟樹一路129巷29號1樓
-            <br />
-            0933-908-825
-          </td>
-          <td>
-            <a target="_" href="https://www.facebook.com/Taipei.folk.orchestra/">連結</a>
-            
-          </td>
-          <td>
-            2010年成立
+            <p>成立於1991年</p>
           </td>
         </tr>
         <tr>
           <td>
-            北商校友國樂團
+            <p>草山樂坊</p>
           </td>
           <td>
-            林怡伶
+            <p>黃春興</p>
           </td>
           <td>
-            新北市淡水區興福寮88巷224號6樓
+            <p>臺北市內湖區康寧路三段174號3樓</p>
+            <p>0913-160-938</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/NTCBACO/">連結</a>
-            
+            <p>https://www.facebook.com/pg/TaipeiGrassMountainFolkOrchestra/</p>
           </td>
           <td>
-            2012年7月成立
-          </td>
-        </tr>
-        <tr>
-          <td>
-            紅樓樂團
-          </td>
-          <td>
-            呂明紘
-          </td>
-          <td>
-            新北市樹林區中山路三段163巷13號8樓
-            <br />
-            0988-501-560
-          </td>
-          <td>
-            <a target="_" href="https://www.facebook.com/RedHouseQCO/">連結</a>
-            
-          </td>
-          <td>
-            2018年12月6日成立
+            <p>成立於1992年</p>
           </td>
         </tr>
         <tr>
           <td>
-            隨心所欲樂團
+            <p>三個人</p>
           </td>
           <td>
-            團長<br>徐瑋廷
+            <p>團長</p>
+            <p>郭靖沐</p>
           </td>
           <td>
-            新北市板橋區四川路二段247號27樓
+            <p>新北市中和區秀朗路三段177號21樓之1</p>
+            <p>02-2947-9273</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/SuiXingSuoYuJiXingLeTuan/">連結</a>
-            
+            <p>https://www.facebook.com/3peoplemusic/</p>
           </td>
           <td>
-            2012年成立
-          </td>
-        </tr>
-        <tr>
-          <td>
-            鳴響風室內樂團
-          </td>
-          <td>
-            團長<br>徐惠綺
-          </td>
-          <td>
-            桃園市中壢區中台路30號2樓
-            <br />
-            03-422-3861
-          </td>
-          <td>
-            <a target="_" href="mailto:gigi3892@ms61.hinet.net">連結</a>
-            
-          </td>
-          <td>
-            2009年成立
+            <p>成立於2013年</p>
           </td>
         </tr>
         <tr>
           <td>
-            樂耕農室內樂團
+            <p>台北絲竹樂團</p>
           </td>
           <td>
-            團長<br>江昌庭
+            <p>王延娟</p>
           </td>
           <td>
-            雲林縣斗六市棒球11街99號<br>0972-055-381
+            <p>新北市汐止區樟樹一路129巷29號1樓</p>
+            <p>0933-908-825</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/樂耕農室內樂團-1414763298784338/">連結</a>
-            
-          </td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>
-            鳳鳴齋國樂團
-          </td>
-          <td></td>
-          <td>
-            雲林縣大埤鄉西鎮村96號
-            <br />
-            0975-180-676
+            <p>https://www.facebook.com/Taipei.folk.orchestra/</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/fongmingzhai/">連結</a>
-            
-          </td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>
-            迴響樂集
-          </td>
-          <td>
-            團長<br>蔡玉眞
-          </td>
-          <td>
-            0919-897-709
-          </td>
-          <td>
-            <a target="_" href="https://www.facebook.com/迴響樂集-Echo-Music-130762980882420/">連結</a>
-            
-          </td>
-          <td>
-            2014年11月成立，2018年2月4日舉行創團音樂會。
+            <p>成立於2010年</p>
           </td>
         </tr>
         <tr>
           <td>
-            台南市佑明國樂團
+            <p>萬和里國樂團</p>
           </td>
           <td>
-            林美慧
+            <p>總幹事徐莉莉</p>
           </td>
           <td>
-            臺南市安平區建平九街72號
+            <p>臺北市文山區萬隆街47之12號房屋地下層</p>
+            <p>02-2931-0147</p>
           </td>
+          <td>&nbsp;</td>
           <td>
-            <a target="_" href="https://www.facebook.com/台南市佑明國樂團-193692117344756/">連結</a>
-            
-          </td>
-          <td>
-            2001年成立
+            <p>成立於1996年，每週五19:30-21:30練習。</p>
           </td>
         </tr>
         <tr>
           <td>
-            樂自慢
+            <p>興福里國樂團</p>
           </td>
           <td>
-            王維勻
+            <p>總幹事張肇華</p>
           </td>
           <td>
-            高雄市前金區自強一路32巷2號
-            <br />
-            0923-801-581
+            <p>臺北市文山區興隆路二段95巷8號7樓</p>
           </td>
+          <td>&nbsp;</td>
           <td>
-            <a target="_" href="https://www.facebook.com/thechimemusic/">連結</a>
-            
-          </td>
-          <td>
-            2015年9月成立
+            <p>成立於2002年5月1日，每週三19:30-21:30練習。</p>
           </td>
         </tr>
         <tr>
           <td>
-            屏東藝術民族樂團
+            <p>薰風樂友國樂團</p>
           </td>
           <td>
-            鄭春蓮
+            <p>團長</p>
+            <p>王絲幸</p>
           </td>
           <td>
-            屏東市復興南路一段35巷10號
-            <br />
-            08-753-2730
-            <br />
-            0927-630-735
+            <p>新北市新店區民權路88-2號5樓</p>
+            <p>0933-714-731</p>
           </td>
+          <td>&nbsp;</td>
           <td>
-            <a target="_" href="https://www.facebook.com/屏東藝術民族樂團-130467143642595/">連結</a>
-            
-          </td>
-          <td>
-            2008年8月成立
+            <p>成立於2018年8月26日，2019年立案，每週日14:00-17:00練習。</p>
           </td>
         </tr>
         <tr>
           <td>
-            當代樂坊
+            <p>北商校友國樂團</p>
           </td>
           <td>
-            林徉汶
+            <p>林怡伶</p>
           </td>
           <td>
-            宜蘭市黎明二路368巷99號
-            <br />
-            03-938-6060
+            <p>新北市淡水區興福寮88巷224號6樓</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/Formosamelody/">連結</a>
-            
+            <p>https://www.facebook.com/NTCBACO/</p>
           </td>
           <td>
-            1994年成立
+            <p>成立於2012年7月</p>
           </td>
         </tr>
         <tr>
           <td>
-            蘭陽印象樂團
-          </td>
-          <td></td>
-          <td></td>
-          <td>
-            <a target="_" href="https://www.facebook.com/LanYangImpressionOrchestra/">連結</a>
-            
+            <p>台北中央C室內樂團</p>
           </td>
           <td>
-            2017年成立
+            <p>團長</p>
+            <p>林慧寬</p>
           </td>
-        </tr>
-        <tr>
+          <td>&nbsp;</td>
           <td>
-            DF現代音樂樂團
-          </td>
-          <td>
-            許勝文
+            <p>https://www.facebook.com/pg/CCamerata/</p>
           </td>
           <td>
-            澎湖縣馬公市陽明里永安街12巷4號
-            <br />
-            0934-080-267
-          </td>
-          <td>
-            <a target="_" href="https://www.facebook.com/Df現代音樂樂團-604399929751995/">連結</a>
-            
-          </td>
-          <td>
-            2005年9月7日成立
+            <p>成立於2014年</p>
           </td>
         </tr>
         <tr>
           <td>
-            台北和樂集
+            <p>紅樓樂團</p>
           </td>
           <td>
-            黃朧逸
+            <p>呂明紘</p>
           </td>
           <td>
-            臺北市文山區興隆路四段109巷96號5樓
-            <br />
-            02-2234-9180
-            <br />
-            0933-213-641
+            <p>新北市樹林區中山路三段163巷13號8樓</p>
+            <p>0988-501-560</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/TaipeiHarmony/">連結</a>
-            
+            <p>https://www.facebook.com/RedHouseQCO/</p>
           </td>
           <td>
-            2007年3月1日成立
+            <p>成立於2018年12月6日</p>
           </td>
         </tr>
         <tr>
           <td>
-            寶島笙樂團
+            <p>隨心所欲樂團</p>
           </td>
           <td>
-            顏湘尹
+            <p>團長</p>
+            <p>徐瑋廷</p>
           </td>
           <td>
-            臺中市北屯區北屯路290巷11號1樓
-            <br />
-            0906-191-941
+            <p>新北市板橋區四川路二段247號27樓</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/Formosasheng2018/">連結</a>
-            
+            <p>https://www.facebook.com/SuiXingSuoYuJiXingLeTuan/</p>
           </td>
           <td>
-            2016年6月成立
+            <p>成立於2012年</p>
           </td>
         </tr>
         <tr>
           <td>
-            蔡輝鵬笙動樂團
+            <p>山河樂集</p>
           </td>
           <td>
-            藝術總監<br>蔡輝鵬
+            <p>陳玉軒</p>
           </td>
           <td>
-            高雄市新興區民族二路72號15樓之1號
-            <br />
-            0972-523-365
+            <p>新北市中和區民享街58-1號2樓</p>
+            <p>0905-132-713</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/蔡輝鵬笙動樂團-2153125528054725/">連結</a>
-            
+            <p>https://www.facebook.com/山河樂集-MRBand-450352601745909/</p>
           </td>
           <td>
-            2018年成立
+            <p>成立於2012年</p>
           </td>
         </tr>
         <tr>
           <td>
-            樂x5胡琴重奏
+            <p>鳴響風室內樂團</p>
           </td>
           <td>
-            高裕景
+            <p>團長</p>
+            <p>徐惠綺</p>
           </td>
           <td>
-            新北市汐止區新江北路30巷22弄1號
-            <br />
-            0988-006-891
+            <p>桃園市中壢區中台路30號2樓</p>
+            <p>03-422-3861</p>
           </td>
           <td>
-            <a target="_" href="https://hufivequintet.weebly.com/">連結</a><br>
-            <a target="_" href="https://www.facebook.com/hufivequintet/">連結</a>
+            <p>gigi3892@ms61.hinet.net</p>
           </td>
           <td>
-            2016年成立
-          </td>
-        </tr>
-        <tr>
-          <td>
-            聽說一把胡
-          </td>
-          <td>
-            鄭勳琦
-          </td>
-          <td>
-            臺中市北屯區水景街126巷5號
-            <br />
-            0937-705-906
-          </td>
-          <td>
-            <a target="_" href="https://www.facebook.com/TheSoundOfErhu/">連結</a>
-            
-          </td>
-          <td>
-            2016年5月1日成立
+            <p>成立於2009年</p>
           </td>
         </tr>
         <tr>
           <td>
-            琵琶雅集
+            <p>貓裏樂集國樂團</p>
           </td>
           <td>
-            藝術總監<br>賴秀綢
+            <p>禹耀東</p>
           </td>
           <td>
-            新北市板橋區莊敬路75巷35號11樓
-            <br />
-            0953-770-417
+            <p>苗栗縣苗栗市建功里中山路249 號</p>
           </td>
+          <td>&nbsp;</td>
           <td>
-            <a target="_" href="https://www.facebook.com/pipaensemble/">連結</a>
-            
-          </td>
-          <td>
-            2015年9月7日成立
+            <p>成立於1999年</p>
           </td>
         </tr>
         <tr>
           <td>
-            台中琵琶樂團
+            <p>心籟絲竹室內樂團</p>
           </td>
           <td>
-            黃麗娟
+            <p>林致妘</p>
           </td>
           <td>
-            臺中市南區福田一街98巷9號
-            <br />
-            0928-941-826
+            <p>臺中市東區天乙街92號</p>
+            <p>0935-357-700</p>
           </td>
           <td>
-            <a target="_" href="http://taichungpipa.strikingly.com/">連結</a><br>
-            <a target="_" href="https://www.facebook.com/TaichungPipa/">連結</a>
+            <p>https://www.facebook.com/ProHCO/</p>
           </td>
           <td>
-            2012年1月正式立案
+            <p>成立於2017年4月28日</p>
           </td>
         </tr>
         <tr>
           <td>
-            台北柳琴室內樂團
+            <p>樂耕農室內樂團</p>
           </td>
           <td>
-            鄭翠蘋
+            <p>團長</p>
+            <p>江昌庭</p>
           </td>
           <td>
-            臺北市大安區延吉街233巷5號1樓
-            <br />
-            02-2702-3388
+            <p>雲林縣斗六市棒球11街99號</p>
+            <p>0972-055-381</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/台北柳琴室內樂團-376996743396/">連結</a>
-            
+            <p>https://www.facebook.com/樂耕農室內樂團-1414763298784338/</p>
+          </td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>
+            <p>鳳鳴齋國樂團</p>
+          </td>
+          <td>&nbsp;</td>
+          <td>
+            <p>雲林縣大埤鄉西鎮村96號</p>
+            <p>0975-180-676</p>
           </td>
           <td>
-            1993年7月18日成立
+            <p>https://www.facebook.com/fongmingzhai/</p>
+          </td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>
+            <p>雲林國樂團</p>
+          </td>
+          <td>
+            <p>團長</p>
+            <p>吳國昌</p>
+          </td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>
+            <p>成立於2007年</p>
           </td>
         </tr>
         <tr>
           <td>
-            當代藝林樂集
+            <p>迴響樂集</p>
           </td>
           <td>
-            團長<br>陳昭瑋
+            <p>團長</p>
+            <p>蔡玉眞</p>
           </td>
           <td>
-            高雄市鼓山區昌盛路68號6樓
-            <br />
-            0989-543-985
+            <p>0919-897-709</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/當代藝林樂集-Contemporary-Artists-Ensemble-257196144319868/">連結</a>
-            
+            <p>https://www.facebook.com/迴響樂集-Echo-Music-130762980882420/</p>
           </td>
           <td>
-            2011年成立
+            <p>成立於2014年11月，2018年2月4日舉行創團音樂會。</p>
           </td>
         </tr>
         <tr>
           <td>
-            蝴蝶琴室揚琴樂團
+            <p>台南市佑明國樂團</p>
           </td>
           <td>
-            詹金娘
+            <p>林美慧</p>
           </td>
           <td>
-            臺北市文山區景後街95號10樓之1
-            <br />
-            02-8931-0568
+            <p>臺南市安平區建平九街72號</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/pages/category/Musician-Band/蝴蝶琴室揚琴樂團Butterfly-Zither-Studio-1543327515903572/">連結</a>
-            
+            <p>https://www.facebook.com/台南市佑明國樂團-193692117344756/</p>
           </td>
           <td>
-            1980年成立
+            <p>成立於2001年</p>
           </td>
         </tr>
         <tr>
           <td>
-            台灣揚琴樂團
+            <p>樂自慢</p>
           </td>
           <td>
-            團長<br>鐘泉波
+            <p>王維勻</p>
           </td>
           <td>
-            臺中市沙鹿區晉文路229巷79號
-            <br />
-            0982-598-588
+            <p>高雄市前金區自強一路32巷2號</p>
+            <p>0923-801-581</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/TaiWanYangQinLeTuan/">連結</a>
-            
+            <p>https://www.facebook.com/thechimemusic/</p>
           </td>
           <td>
-            2002年成立
+            <p>成立於2015年9月</p>
           </td>
         </tr>
         <tr>
           <td>
-            仙后座箏樂團
+            <p>屏東藝術民族樂團</p>
           </td>
           <td>
-            劉姿伶
+            <p>鄭春蓮</p>
           </td>
           <td>
-            臺北市文山區仙岩路16巷26弄8號4樓
-            <br />
-            0919-101-889
+            <p>屏東市復興南路一段35巷10號</p>
+            <p>08-753-2730</p>
+            <p>0927-630-735</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/cas.zither/">連結</a>
-            
+            <p>https://www.facebook.com/屏東藝術民族樂團-130467143642595/</p>
           </td>
           <td>
-            2009年成立
-          </td>
-        </tr>
-        <tr>
-          <td>
-            台北正心箏樂團
-          </td>
-          <td>
-            魏德棟
-          </td>
-          <td>
-            臺北市大安區和平東路三段49號10樓之3
-            <br />
-            02-2704-7208
-          </td>
-          <td>
-            <a target="_" href="mailto:weiderdon@yahoo.com.tw">連結</a>
-            
-          </td>
-          <td>
-            1984年成立
+            <p>成立於2008年8月</p>
           </td>
         </tr>
         <tr>
           <td>
-            台北箏樂團
+            <p>當代樂坊</p>
           </td>
           <td>
-            張稚英
+            <p>林徉汶</p>
           </td>
           <td>
-            0986-559-439
+            <p>宜蘭市黎明二路368巷99號</p>
+            <p>03-938-6060</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/zhenglover/">連結</a>
-            
+            <p>https://www.facebook.com/Formosamelody/</p>
           </td>
           <td>
-            2003年成立
-          </td>
-        </tr>
-        <tr>
-          <td>
-            四象箏樂團
-          </td>
-          <td>
-            團長<br>陳伊瑜
-          </td>
-          <td>
-            臺北市士林區忠義街40號4樓
-            <br />
-            02-2834-5297
-          </td>
-          <td>
-            <a target="_" href="https://www.facebook.com/四象文創-116549895731117/">連結</a>
-            
-          </td>
-          <td>
-            2008年成立
+            <p>成立於1994年</p>
           </td>
         </tr>
         <tr>
           <td>
-            明心箏樂團
+            <p>蘭陽印象樂團</p>
+          </td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>
+            <p>https://www.facebook.com/LanYangImpressionOrchestra/</p>
           </td>
           <td>
-            林耕樺
-          </td>
-          <td>
-            桃園市桃園區桃二街76號5<br>03-332-9877
-          </td>
-          <td>
-            <a target="_" href="https://zh-tw.facebook.com/ming.hsing.music/">連結</a>
-            
-          </td>
-          <td>
-            1981年10月17日創辦
+            <p>成立於2017年</p>
           </td>
         </tr>
         <tr>
           <td>
-            敦煌箏樂團
+            <p>DF現代音樂樂團</p>
           </td>
           <td>
-            水文君
+            <p>許勝文</p>
           </td>
           <td>
-            臺北市中正區信義路一段9之2號1樓
-            <br />
-            02-2322-3118
-          </td>
-          <td></td>
-          <td>
-            1995年成立
-          </td>
-        </tr>
-        <tr>
-          <td>
-            箏藝之研
+            <p>澎湖縣馬公市陽明里永安街12巷4號</p>
+            <p>0934-080-267</p>
           </td>
           <td>
-            樊慰慈
+            <p>https://www.facebook.com/Df現代音樂樂團-604399929751995/</p>
           </td>
           <td>
-            臺北市松山區南京東路五段123巷8弄21號3樓
-            <br />
-            02-2762-4295
-          </td>
-          <td>
-            <a target="_" href="https://www.facebook.com/artofzheng/">連結</a>
-            
-          </td>
-          <td>
-            2014年4月9日成立
+            <p>成立於2005年9月7日</p>
           </td>
         </tr>
         <tr>
           <td>
-            大觀箏樂團
+            <p>台北和樂集</p>
           </td>
           <td>
-            團長<br>張馨尹
+            <p>黃朧逸</p>
           </td>
           <td>
-            新北市八里區頂寮五街7號8樓之3
-            <br />
-            0932-548-590
+            <p>臺北市文山區興隆路四段109巷96號5樓</p>
+            <p>02-2234-9180</p>
+            <p>0933-213-641</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/DaGuanZheng">連結</a>
-            
+            <p>https://www.facebook.com/TaipeiHarmony/</p>
           </td>
           <td>
-            2009年成立
-          </td>
-        </tr>
-        <tr>
-          <td>
-            芝心箏樂團
-          </td>
-          <td>
-            周素珍
-          </td>
-          <td>
-            新北市三芝區中山路一段33號
-            <br />
-            02-2636-2601
-          </td>
-          <td>
-            <a target="_" href="https://www.facebook.com/芝心箏樂團-482415438587967/">連結</a>
-            
-          </td>
-          <td>
-            2005年成立，2011年立案
+            <p>成立於2007年3月1日</p>
           </td>
         </tr>
         <tr>
           <td>
-            彭景箏樂團
+            <p>寶島笙樂團</p>
           </td>
           <td>
-            團長<br>彭景
+            <p>顏湘尹</p>
           </td>
           <td>
-            新北市三重區自強路四段3巷14號2樓
-            <br />
-            02-2287-8286
-          </td>
-          <td></td>
-          <td>
-            2013年7月10日成立
-          </td>
-        </tr>
-        <tr>
-          <td>
-            蘭陵箏樂團
+            <p>臺中市北屯區北屯路290巷11號1樓</p>
+            <p>0906-191-941</p>
           </td>
           <td>
-            洪瓊枝
+            <p>https://www.facebook.com/Formosasheng2018/</p>
           </td>
           <td>
-            新北市板橋區南雅南路一段55號9樓之4號
-            <br />
-            0933-005-187
-          </td>
-          <td>
-            <a target="_" href="https://www.facebook.com/LanLingZhengOrchestra/">連結</a>
-            
-          </td>
-          <td>
-            2000年6月成立
+            <p>成立於2016年6月</p>
           </td>
         </tr>
         <tr>
           <td>
-            風雅頌古箏樂團
+            <p>蔡輝鵬笙動樂團</p>
           </td>
           <td>
-            團長<br>徐惠綺
+            <p>藝術總監</p>
+            <p>蔡輝鵬</p>
           </td>
           <td>
-            桃園市中壢區建國北路31號
-            <br />
-            03-425-1813
+            <p>高雄市新興區民族二路72號15樓之1</p>
+            <p>0972-523-365</p>
           </td>
           <td>
-            <a target="_" href="https://www.tsan.com.tw/">連結</a>
-            
+            <p>https://www.facebook.com/蔡輝鵬笙動樂團-2153125528054725/</p>
           </td>
           <td>
-            1992年成立，每週日18:00-21:00定期排練。
-          </td>
-        </tr>
-        <tr>
-          <td>
-            桃園藝文箏樂團
-          </td>
-          <td>
-            李佩芸
-          </td>
-          <td></td>
-          <td>
-            <a target="_" href="https://www.facebook.com/iwenzheng2016/">連結</a>
-            
-          </td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>
-            御樂古箏樂團
-          </td>
-          <td>
-            藝術總監/團長<br>余御鴻
-          </td>
-          <td>
-            桃園市中壢區中大路152號1樓
-            <br />
-            03-422-0418
-            <br />
-            0921-184-468
-          </td>
-          <td>
-            <a target="_" href="mailto:yuhungzheng@gmail.com">連結</a>
-            
-          </td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>
-            大唐箏樂團
-          </td>
-          <td>
-            黃金燕
-          </td>
-          <td>
-            臺中巿西區安龍里忠勤街283號
-            <br />
-            04-2371-1049
-          </td>
-          <td>
-            <a target="_" href="https://www.facebook.com/datang.tw/">連結</a>
-            
-          </td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>
-            立馨箏樂團
-          </td>
-          <td>
-            朱彩箖
-          </td>
-          <td>
-            臺中市烏日區中華路185巷21號
-          </td>
-          <td>
-            <a target="_" href="https://www.facebook.com/立馨箏樂團-153194901419959/">連結</a>
-            
-          </td>
-          <td>
-            2000年成立
+            <p>成立於2018年</p>
           </td>
         </tr>
         <tr>
           <td>
-            雅筑箏樂團
+            <p>樂x5胡琴重奏</p>
           </td>
           <td>
-            翁麗蓉
+            <p>高裕景</p>
           </td>
           <td>
-            臺中市南區瑞豐街9號
-            <br />
-            04-2287-7995
+            <p>新北市汐止區新江北路30巷22弄1號</p>
+            <p>0988-006-891</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/雅筑箏樂團-217210128291012/">連結</a>
-            
+            <p>https://hufivequintet.weebly.com/</p>
+            <p>https://www.facebook.com/hufivequintet/</p>
           </td>
           <td>
-            1994年3月成立
-          </td>
-        </tr>
-        <tr>
-          <td>
-            聞鈴古箏樂團
-          </td>
-          <td>
-            王文鈴
-          </td>
-          <td>
-            臺中市豐原區圓環東路642號
-          </td>
-          <td></td>
-          <td>
-            2005年成立
+            <p>成立於2016年</p>
           </td>
         </tr>
         <tr>
           <td>
-            檀閣箏樂團
+            <p>聽說一把胡</p>
           </td>
           <td>
-            團長<br>沈秋秀
+            <p>鄭勳琦</p>
           </td>
           <td>
-            嘉義市彌陀路202之1號
-            <br />
-            05-2782-845
+            <p>臺中市北屯區水景街126巷5號</p>
+            <p>0937-705-906</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/Tangofans/">連結</a>
-            
+            <p>https://www.facebook.com/TheSoundOfErhu/</p>
           </td>
           <td>
-            2000年成立
+            <p>成立於2016年5月1日</p>
           </td>
         </tr>
         <tr>
           <td>
-            谷方當代箏界
+            <p>琵琶雅集</p>
           </td>
           <td>
-            藝術總監<br>黃俊錫
+            <p>藝術總監</p>
+            <p>賴秀綢</p>
           </td>
           <td>
-            臺南市東區裕和二街28號
-            <br />
-            0928-680-101
+            <p>新北市板橋區莊敬路75巷35號11樓</p>
+            <p>0953-770-417</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/GUFANG2007/">連結</a>
-            
+            <p>https://www.facebook.com/pipaensemble/</p>
           </td>
           <td>
-            2007年成立
-          </td>
-        </tr>
-        <tr>
-          <td>
-            荷絃箏樂團
-          </td>
-          <td>
-            許美雪
-          </td>
-          <td>
-            臺南市東區裕農路127號
-            <br />
-            0932-989-273
-          </td>
-          <td>
-            <a target="_" href="https://www.facebook.com/pages/category/Musician-Band/荷絃箏樂團-333416436802753/">連結</a>
-            
-          </td>
-          <td>
-            2005年成立
+            <p>成立於2015年9月7日</p>
           </td>
         </tr>
         <tr>
           <td>
-            蘭陽箏樂團
+            <p>台中琵琶樂團</p>
           </td>
           <td>
-            張婷雅
+            <p>黃麗娟</p>
           </td>
           <td>
-            宜蘭縣員山鄉金山西路197號
-            <br />
-            0937-910-503
+            <p>臺中市南區福田一街98巷9號</p>
+            <p>0928-941-826</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/蘭陽箏樂團-1815023055418797/">連結</a>
-            
+            <p>http://taichungpipa.strikingly.com/</p>
+            <p>https://www.facebook.com/TaichungPipa/</p>
           </td>
           <td>
-            1996年成立
-          </td>
-        </tr>
-        <tr>
-          <td>
-            花蓮洄瀾國樂團
-          </td>
-          <td>
-            團長<br>饒天慈
-          </td>
-          <td>
-            花蓮縣花蓮市國富十街135號
-            <br />
-            03-857-9090
-          </td>
-          <td>
-            <a target="_" href="https://www.facebook.com/pages/花蓮洄瀾國樂團箏樂團/456307464403147">連結</a>
-            
-          </td>
-          <td>
-            1994年成立
+            <p>2012年1月正式立案</p>
           </td>
         </tr>
         <tr>
           <td>
-            澎湖箏樂團
+            <p>台北柳琴室內樂團</p>
           </td>
           <td>
-            蘇玉麟
+            <p>鄭翠蘋</p>
           </td>
           <td>
-            澎湖縣馬公市石泉里3-18號
-            <br />
-            06-921-4867
-          </td>
-          <td></td>
-          <td>
-            2007年成立
-          </td>
-        </tr>
-        <tr>
-          <td>
-            台灣琴會
+            <p>臺北市大安區延吉街233巷5號1樓</p>
+            <p>02-2702-3388</p>
           </td>
           <td>
-            會長<br>廖秋蓁
+            <p>https://www.facebook.com/台北柳琴室內樂團-376996743396/</p>
           </td>
           <td>
-            臺北市萬華區成都路157號9樓之6
-          </td>
-          <td>
-            <a target="_" href="https://www.facebook.com/groups/1457511447814812/">連結</a>
-            
-          </td>
-          <td>
-            2011年成立
+            <p>成立於1993年7月18日</p>
           </td>
         </tr>
         <tr>
           <td>
-            瀛洲琴社
+            <p>當代藝林樂集</p>
           </td>
           <td>
-            陳慶燦
+            <p>團長</p>
+            <p>陳昭瑋</p>
           </td>
           <td>
-            新北市土城區中央路二段191號8樓之4
-            <br />
-            0939-429-207
-          </td>
-          <td></td>
-          <td>
-            2015年7月21日登記立案
-          </td>
-        </tr>
-        <tr>
-          <td>
-            鼓往金來鼓樂藝術團
+            <p>高雄市鼓山區昌盛路68號6樓</p>
+            <p>0989-543-985</p>
           </td>
           <td>
-            團長<br>蘇皇任
+            <p>
+              https://www.facebook.com/當代藝林樂集-Contemporary-Artists-Ensemble-257196144319868/
+            </p>
           </td>
           <td>
-            臺北市中山區龍江路356巷46號地下1樓
-            <br />
-            02-2517-9192
-          </td>
-          <td>
-            <a target="_" href="mailto:fatdrum2000@gmail.com">連結</a>
-            
-          </td>
-          <td>
-            2008年成立
+            <p>成立於2011年</p>
           </td>
         </tr>
         <tr>
           <td>
-            天鼓擊樂團
+            <p>采榛彈撥室內樂團</p>
           </td>
           <td>
-            藝術總監<br>李慧
+            <p>潘熊采榛</p>
           </td>
           <td>
-            0955-368-849
+            <p>花蓮縣</p>
+            <p>0988-200-250</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/tien.ku.group/">連結</a>
-            
+            <p>bear030963@yahoo.com.tw.&nbsp;</p>
           </td>
           <td>
-            2012年3月19日成立
-          </td>
-        </tr>
-        <tr>
-          <td>
-            八里坌少年擊樂團
-          </td>
-          <td>
-            藝術總監<br>張旭
-          </td>
-          <td>
-            新北市八里區米倉國民小學
-            <br />
-            02-2618-2202
-          </td>
-          <td>
-            <a target="_" href="https://www.facebook.com/ballidrum/">連結</a>
-            
-          </td>
-          <td>
-            2013年成立
+            <p>成立於2020年7月9日</p>
           </td>
         </tr>
         <tr>
           <td>
-            紘采樂集
+            <p>蝴蝶琴室揚琴樂團</p>
           </td>
           <td>
-            團長<br>莊佳綺
+            <p>詹金娘</p>
           </td>
           <td>
-            新北市新莊區龍安路270號9樓
-            <br />
-            0912-500-207
+            <p>臺北市文山區景後街95號10樓之1</p>
+            <p>02-8931-0568</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/hontsai.tw/">連結</a>
-            
+            <p>
+              https://www.facebook.com/pages/category/Musician-Band/蝴蝶琴室揚琴樂團Butterfly-Zither-Studio-1543327515903572/
+            </p>
           </td>
           <td>
-            2007年成立
-          </td>
-        </tr>
-        <tr>
-          <td>
-            Drumily擊樂團
-          </td>
-          <td>
-            團長<br>顏挺
-          </td>
-          <td>
-            新北市樹林區大有路13號4樓
-            <br />
-            0916-862-807
-          </td>
-          <td>
-            <a target="_" href="https://www.facebook.com/Drumily-Percussion-Group-1681982158511450/">連結</a>
-            
-          </td>
-          <td>
-            2017年成立
+            <p>成立於1980年</p>
           </td>
         </tr>
         <tr>
           <td>
-            心籟絲竹室內樂團
+            <p>台灣揚琴樂團</p>
           </td>
           <td>
-            林致妘
+            <p>團長</p>
+            <p>鐘泉波</p>
           </td>
           <td>
-            臺中市東區天乙街92號<br>0935-357-700
+            <p>臺中市沙鹿區晉文路229巷79號</p>
+            <p>0982-598-588</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/ProHCO/">連結</a>
-            
+            <p>https://www.facebook.com/TaiWanYangQinLeTuan/</p>
           </td>
           <td>
-            2017年4月28日成立
+            <p>成立於2002年</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>仙后座箏樂團</p>
+          </td>
+          <td>
+            <p>劉姿伶</p>
+          </td>
+          <td>
+            <p>臺北市文山區仙岩路16巷26弄8號4樓</p>
+            <p>0919-101-889</p>
+          </td>
+          <td>
+            <p>https://www.facebook.com/cas.zither/</p>
+          </td>
+          <td>
+            <p>成立於2009年</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>台北正心箏樂團</p>
+          </td>
+          <td>
+            <p>魏德棟</p>
+          </td>
+          <td>
+            <p>臺北市大安區和平東路三段49號10樓之3</p>
+            <p>02-2704-7208</p>
+          </td>
+          <td>
+            <p>weiderdon@yahoo.com.tw</p>
+          </td>
+          <td>
+            <p>成立於1984年</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>台北箏樂團</p>
+          </td>
+          <td>
+            <p>張稚英</p>
+          </td>
+          <td>
+            <p>0986-559-439</p>
+          </td>
+          <td>
+            <p>https://www.facebook.com/zhenglover/</p>
+          </td>
+          <td>
+            <p>成立於2003年</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>四象箏樂團</p>
+          </td>
+          <td>
+            <p>團長</p>
+            <p>陳伊瑜</p>
+          </td>
+          <td>
+            <p>臺北市士林區忠義街40號4樓</p>
+            <p>02-2834-5297</p>
+          </td>
+          <td>
+            <p>https://www.facebook.com/四象文創-116549895731117/</p>
+          </td>
+          <td>
+            <p>成立於2008年</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>敦煌箏樂團</p>
+          </td>
+          <td>
+            <p>水文君</p>
+          </td>
+          <td>
+            <p>臺北市中正區信義路一段9之2號1樓</p>
+            <p>02-2322-3118</p>
+          </td>
+          <td>&nbsp;</td>
+          <td>
+            <p>成立於1995年</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>箏藝之研</p>
+          </td>
+          <td>
+            <p>樊慰慈</p>
+          </td>
+          <td>
+            <p>臺北市松山區南京東路五段123巷8弄21號3樓</p>
+            <p>02-2762-4295</p>
+          </td>
+          <td>
+            <p>https://www.facebook.com/artofzheng/</p>
+          </td>
+          <td>
+            <p>成立於2014年4月9日</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>大觀箏樂團</p>
+          </td>
+          <td>
+            <p>團長</p>
+            <p>張馨尹</p>
+          </td>
+          <td>
+            <p>新北市八里區頂寮五街7號8樓之3</p>
+            <p>0932-548-590</p>
+          </td>
+          <td>
+            <p>https://www.facebook.com/DaGuanZheng</p>
+          </td>
+          <td>
+            <p>成立於2009年</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>芝心箏樂團</p>
+          </td>
+          <td>
+            <p>周素珍</p>
+          </td>
+          <td>
+            <p>新北市三芝區中山路一段33號</p>
+            <p>02-2636-2601</p>
+          </td>
+          <td>
+            <p>https://www.facebook.com/芝心箏樂團-482415438587967/</p>
+          </td>
+          <td>
+            <p>成立於2005年，2011年立案。</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>彭景箏樂團</p>
+          </td>
+          <td>
+            <p>團長</p>
+            <p>彭景</p>
+          </td>
+          <td>
+            <p>新北市三重區自強路四段3巷14號2樓</p>
+            <p>02-2287-8286</p>
+          </td>
+          <td>&nbsp;</td>
+          <td>
+            <p>成立於2013年7月10日</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>蘭陵箏樂團</p>
+          </td>
+          <td>
+            <p>洪瓊枝</p>
+          </td>
+          <td>
+            <p>新北市板橋區南雅南路一段55號9樓之4號</p>
+            <p>0933-005-187</p>
+          </td>
+          <td>
+            <p>https://www.facebook.com/LanLingZhengOrchestra/</p>
+          </td>
+          <td>
+            <p>成立於2000年6月</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>風雅頌古箏樂團</p>
+          </td>
+          <td>
+            <p>團長</p>
+            <p>徐惠綺</p>
+          </td>
+          <td>
+            <p>桃園市中壢區建國北路31號</p>
+            <p>03-425-1813</p>
+          </td>
+          <td>
+            <p>https://tsan.tw/</p>
+          </td>
+          <td>
+            <p>成立於1992年，每週日18:00-21:00定期排練。</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>桃園藝文箏樂團</p>
+          </td>
+          <td>
+            <p>李佩芸</p>
+          </td>
+          <td>&nbsp;</td>
+          <td>
+            <p>https://www.facebook.com/iwenzheng2016/</p>
+          </td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>
+            <p>御樂古箏樂團</p>
+          </td>
+          <td>
+            <p>藝術總監/團長</p>
+            <p>余御鴻</p>
+          </td>
+          <td>
+            <p>桃園市中壢區中大路152號1樓</p>
+            <p>03-422-0418</p>
+            <p>0921-184-468</p>
+          </td>
+          <td>
+            <p>yuhungzheng@gmail.com</p>
+          </td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>
+            <p>明心箏樂團</p>
+          </td>
+          <td>
+            <p>林耕樺</p>
+          </td>
+          <td>
+            <p>桃園市桃園區桃二街76號5</p>
+            <p>03-332-9877</p>
+          </td>
+          <td>
+            <p>https://zh-tw.facebook.com/ming.hsing.music/</p>
+          </td>
+          <td>
+            <p>創辦於1981年10月17日</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>大唐箏樂團</p>
+          </td>
+          <td>
+            <p>黃金燕</p>
+          </td>
+          <td>
+            <p>臺中巿西區安龍里忠勤街283號</p>
+            <p>04-2371-1049</p>
+          </td>
+          <td>
+            <p>https://www.facebook.com/datang.tw/</p>
+          </td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>
+            <p>立馨箏樂團</p>
+          </td>
+          <td>
+            <p>朱彩箖</p>
+          </td>
+          <td>
+            <p>臺中市烏日區中華路185巷21號</p>
+          </td>
+          <td>
+            <p>https://www.facebook.com/立馨箏樂團-153194901419959/</p>
+          </td>
+          <td>
+            <p>成立於2000年</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>雅筑箏樂團</p>
+          </td>
+          <td>
+            <p>翁麗蓉</p>
+          </td>
+          <td>
+            <p>臺中市南區瑞豐街9號</p>
+            <p>04-2287-7995</p>
+          </td>
+          <td>
+            <p>https://www.facebook.com/雅筑箏樂團-217210128291012/</p>
+          </td>
+          <td>
+            <p>成立於1994年3月</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>聞鈴古箏樂團</p>
+          </td>
+          <td>
+            <p>王文鈴</p>
+          </td>
+          <td>
+            <p>臺中市豐原區圓環東路642號</p>
+          </td>
+          <td>&nbsp;</td>
+          <td>
+            <p>成立於2005年</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>檀閣箏樂團</p>
+          </td>
+          <td>
+            <p>團長</p>
+            <p>沈秋秀</p>
+          </td>
+          <td>
+            <p>嘉義市彌陀路202之1號</p>
+            <p>05-278-2845</p>
+          </td>
+          <td>
+            <p>https://www.facebook.com/Tangofans/</p>
+          </td>
+          <td>
+            <p>成立於2000年</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>谷方當代箏界</p>
+          </td>
+          <td>
+            <p>藝術總監</p>
+            <p>黃俊錫</p>
+          </td>
+          <td>
+            <p>臺南市東區裕和二街28號</p>
+            <p>0928-680-101</p>
+          </td>
+          <td>
+            <p>https://www.facebook.com/GUFANG2007/</p>
+          </td>
+          <td>
+            <p>成立於2007年</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>荷絃箏樂團</p>
+          </td>
+          <td>
+            <p>許美雪</p>
+          </td>
+          <td>
+            <p>臺南市東區裕農路127號</p>
+            <p>0932-989-273</p>
+          </td>
+          <td>
+            <p>
+              https://www.facebook.com/pages/category/Musician-Band/荷絃箏樂團-333416436802753/
+            </p>
+          </td>
+          <td>
+            <p>成立於2005年</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>蘭陽箏樂團</p>
+          </td>
+          <td>
+            <p>張婷雅</p>
+          </td>
+          <td>
+            <p>宜蘭縣員山鄉金山西路197號</p>
+            <p>0937-910-503</p>
+          </td>
+          <td>
+            <p>https://www.facebook.com/蘭陽箏樂團-1815023055418797/</p>
+          </td>
+          <td>
+            <p>成立於1996年</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>花蓮洄瀾國樂團</p>
+          </td>
+          <td>
+            <p>團長</p>
+            <p>饒天慈</p>
+          </td>
+          <td>
+            <p>花蓮縣花蓮市國富十街135號</p>
+            <p>03-857-9090</p>
+          </td>
+          <td>
+            <p>
+              https://www.facebook.com/pages/花蓮洄瀾國樂團箏樂團/456307464403147
+            </p>
+          </td>
+          <td>
+            <p>成立於1994年</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>澎湖箏樂團</p>
+          </td>
+          <td>
+            <p>蘇玉麟</p>
+          </td>
+          <td>
+            <p>澎湖縣馬公市石泉里3-18號</p>
+            <p>06-921-4867</p>
+          </td>
+          <td>&nbsp;</td>
+          <td>
+            <p>成立於2007年</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>台灣琴會</p>
+          </td>
+          <td>
+            <p>會長</p>
+            <p>廖秋蓁</p>
+          </td>
+          <td>
+            <p>臺北市萬華區成都路157號9樓之6</p>
+          </td>
+          <td>
+            <p>https://www.facebook.com/groups/1457511447814812/</p>
+          </td>
+          <td>
+            <p>成立於2011年</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>瀛洲琴社</p>
+          </td>
+          <td>
+            <p>陳慶燦</p>
+          </td>
+          <td>
+            <p>新北市土城區中央路二段191號8樓之4</p>
+            <p>0939-429-207</p>
+          </td>
+          <td>&nbsp;</td>
+          <td>
+            <p>2015年7月21日登記立案</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>鼓往金來鼓樂藝術團</p>
+          </td>
+          <td>
+            <p>團長</p>
+            <p>蘇皇任</p>
+          </td>
+          <td>
+            <p>臺北市中山區龍江路356巷46號地下1樓</p>
+            <p>02-2517-9192</p>
+          </td>
+          <td>
+            <p>fatdrum2000@gmail.com</p>
+          </td>
+          <td>
+            <p>成立於2008年</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>天鼓擊樂團</p>
+          </td>
+          <td>
+            <p>藝術總監</p>
+            <p>李慧</p>
+          </td>
+          <td>
+            <p>0955-368-849</p>
+          </td>
+          <td>
+            <p>https://www.facebook.com/tien.ku.group/</p>
+          </td>
+          <td>
+            <p>成立於2012年3月19日</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>八里坌少年擊樂團</p>
+          </td>
+          <td>
+            <p>藝術總監</p>
+            <p>張旭</p>
+          </td>
+          <td>
+            <p>新北市八里區龍米路二段129巷1號（米倉國民小學）02-2618-2202</p>
+          </td>
+          <td>
+            <p>https://www.facebook.com/ballidrum/</p>
+          </td>
+          <td>
+            <p>成立於2013年</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>紘采樂集</p>
+          </td>
+          <td>
+            <p>團長</p>
+            <p>莊佳綺</p>
+          </td>
+          <td>
+            <p>新北市新莊區龍安路270號9樓</p>
+            <p>0912-500-207</p>
+          </td>
+          <td>
+            <p>https://www.facebook.com/hontsai.tw/</p>
+          </td>
+          <td>
+            <p>成立於2007年</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>Drumily擊樂團</p>
+          </td>
+          <td>
+            <p>團長</p>
+            <p>顏挺</p>
+          </td>
+          <td>
+            <p>新北市樹林區大有路13號4樓</p>
+            <p>0916-862-807</p>
+          </td>
+          <td>
+            <p>
+              https://www.facebook.com/Drumily-Percussion-Group-1681982158511450/
+            </p>
+          </td>
+          <td>
+            <p>成立於2017年</p>
           </td>
         </tr>
       </tbody>
     </table>
-    <br>
-    <h3>
-      三、學會、協會
-    </h3>
-    <table rules="all" border="1" style="border:1px solid" cellpadding="5">
+    <br />
+    <h3>三、學會、協會</h3>
+    <table rules="all" border="1" style="border: 1px solid" cellpadding="5">
       <thead>
         <tr>
-          <th style="width:20%">名稱</th>
-          <th style="width:20%">負責人</th>
-          <th style="width:25%">地址/電話</th>
+          <th style="width: 20%">名稱</th>
+          <th style="width: 20%">負責人</th>
+          <th style="width: 25%">地址/電話</th>
           <th>其他聯絡方式</th>
-          <th style="width:25%">備註</th>
+          <th style="width: 25%">備註</th>
         </tr>
       </thead>
       <tbody>
         <tr>
           <td>
-            中華民國國樂學會
+            <p>中華民國國樂學會</p>
           </td>
           <td>
-            理事長<br>林昱廷
+            <p>理事長</p>
+            <p>林昱廷</p>
           </td>
           <td>
-            臺北市中山區民生東路一段25號3樓之8
-            <br />
-            02-2531-1997
+            <p>臺北市中山區民生東路一段25號3樓之8</p>
+            <p>02-2531-1997</p>
           </td>
           <td>
-            <a target="_" href="http://www.scm.org.tw/Default.aspx">連結</a>
-            
+            <p>http://www.scm.org.tw/Default.aspx</p>
           </td>
           <td>
-            1953年4月19日創立「中華國樂會」，後來改為「中華民國國樂學會」。
-          </td>
-        </tr>
-        <tr>
-          <td>
-            台灣揚琴發展協會
-          </td>
-          <td>
-            理事長<br>劉芳梅
-          </td>
-          <td>
-            臺北市信義區永吉路350號2樓之1<br>0935-322-452
-          </td>
-          <td>
-            <a target="_" href="https://www.facebook.com/taiwanyangqin/">連結</a>
-            
-          </td>
-          <td>
-            2012年成立
+            <p>
+              1953年4月19日創立「中華國樂會」，後來改為「中華民國國樂學會」。
+            </p>
           </td>
         </tr>
         <tr>
           <td>
-            華藝文化學會
+            <p>台灣揚琴發展協會</p>
           </td>
           <td>
-            黃春興
+            <p>理事長</p>
+            <p>劉芳梅</p>
           </td>
           <td>
-            臺北市內湖區康寧路三段174號3樓<br>0932-164-127
+            <p>臺北市信義區永吉路350號2樓之1</p>
+            <p>0935-322-452</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/groups/814776421869283">連結</a>
-            
+            <p>https://www.facebook.com/taiwanyangqin/</p>
           </td>
           <td>
-            2014年3月25日成立
-          </td>
-        </tr>
-        <tr>
-          <td>
-            中國音樂研究學會
-          </td>
-          <td>
-            理事長<br>蔡秉衡
-          </td>
-          <td>
-            臺北市文山區興隆路四段58巷16弄2號1樓
-          </td>
-          <td></td>
-          <td>
-            2019年1月5日成立
+            <p>成立於2012年</p>
           </td>
         </tr>
         <tr>
           <td>
-            桃園市胡琴學會
+            <p>華藝文化學會</p>
           </td>
           <td>
-            會長<br>古明玉
+            <p>黃春興</p>
           </td>
           <td>
-            桃園市大溪區慈康路171號
+            <p>臺北市內湖區康寧路三段174號3樓</p>
+            <p>0932-164-127</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/groups/472521262778829/">連結</a>
-            
+            <p>https://www.facebook.com/groups/814776421869283</p>
           </td>
           <td>
-            2010年4月24日成立
-          </td>
-        </tr>
-        <tr>
-          <td>
-            臺灣笛簫協會
-          </td>
-          <td>
-            理事長<br>陳中申
-          </td>
-          <td>
-            臺中市大里區益民路二段31號<br>0965-508-073
-          </td>
-          <td>
-            <a target="_" href="https://www.facebook.com/臺灣笛簫協會-106517624187694/">連結</a>
-            
-          </td>
-          <td>
-            2019年12月8日成立
+            <p>成立於2014年3月25日</p>
           </td>
         </tr>
         <tr>
           <td>
-            陶然雅樂協會
+            <p>中國音樂研究學會</p>
           </td>
           <td>
-            指揮<br>鄭丹綺
+            <p>理事長</p>
+            <p>蔡秉衡</p>
           </td>
           <td>
-            花蓮縣吉安鄉慈惠三街118號
+            <p>臺北市文山區興隆路四段58巷16弄2號1樓</p>
+          </td>
+          <td>&nbsp;</td>
+          <td>
+            <p>成立於2019年1月5日</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>國立臺灣師範大學校友國樂學會</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/taoran.hualien/">連結</a>
-            
+            <p>理事長</p>
+            <p>張大立</p>
           </td>
           <td>
-            2004年成立
+            <p>新北市新店區寶橋路235巷3號8樓</p>
+            <p>Line ID：@vlw7155x</p>
+          </td>
+          <td>
+            <p>https://zh-tw.facebook.com/臺師大校友國樂團-138323846221342/</p>
+          </td>
+          <td>
+            <p>成立於2016年3月26日</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>桃園市胡琴學會</p>
+          </td>
+          <td>
+            <p>會長</p>
+            <p>古明玉</p>
+          </td>
+          <td>
+            <p>桃園市大溪區慈康路171號</p>
+          </td>
+          <td>
+            <p>https://www.facebook.com/groups/472521262778829/</p>
+          </td>
+          <td>
+            <p>成立於2010年4月24日</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>臺灣笛簫協會</p>
+          </td>
+          <td>
+            <p>理事長</p>
+            <p>陳中申</p>
+          </td>
+          <td>
+            <p>臺中市大里區益民路二段31號</p>
+            <p>0965-508-073</p>
+          </td>
+          <td>
+            <p>https://www.facebook.com/臺灣笛簫協會-106517624187694/</p>
+          </td>
+          <td>
+            <p>成立於2019年12月8日</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>陶然雅樂協會</p>
+          </td>
+          <td>
+            <p>指揮</p>
+            <p>鄭丹綺</p>
+          </td>
+          <td>
+            <p>花蓮縣吉安鄉慈惠三街118號</p>
+          </td>
+          <td>
+            <p>https://www.facebook.com/taoran.hualien/</p>
+          </td>
+          <td>
+            <p>成立於2004年</p>
           </td>
         </tr>
       </tbody>
     </table>
-    <br>
-    <h3>
-      四、學校
-    </h3>
-    <table rules="all" border="1" style="border:1px solid" cellpadding="5">
+    <br />
+    <h3>四、學校</h3>
+    <table rules="all" border="1" style="border: 1px solid" cellpadding="5">
       <thead>
         <tr>
-          <th style="width:20%">名稱</th>
-          <th style="width:20%">負責人</th>
-          <th style="width:25%">地址/電話</th>
+          <th style="width: 20%">名稱</th>
+          <th style="width: 20%">負責人</th>
+          <th style="width: 25%">地址/電話</th>
           <th>其他聯絡方式</th>
-          <th style="width:25%">備註</th>
+          <th style="width: 25%">備註</th>
         </tr>
       </thead>
       <tbody>
         <tr>
           <td>
-            國立臺灣師範大學民族音樂研究所
+            <p>國立臺灣師範大學民族音樂研究所</p>
           </td>
           <td>
-            所長<br>呂鈺秀
+            <p>所長</p>
+            <p>呂鈺秀</p>
           </td>
           <td>
-            臺北市大安區師大路31號2樓<br>02-7734-5446
+            <p>臺北市大安區師大路31號2樓</p>
+            <p>02-7734-5446</p>
           </td>
           <td>
-            <a target="_" href="http://www.giem.ntnu.edu.tw/main.php">連結</a>
-            
+            <p>http://www.giem.ntnu.edu.tw/</p>
           </td>
           <td>
-            2002年8月成立
-          </td>
-        </tr>
-        <tr>
-          <td>
-            中國文化大學中國音樂學系
-          </td>
-          <td>
-            系主任<br>吳宗憲
-          </td>
-          <td>
-            臺北市士林區華岡路55號<br>02-2861-0511
-          </td>
-          <td>
-            <a target="_" href="http://chinesemusic.pccu.edu.tw/bin/home.php">連結</a>
-            
-          </td>
-          <td>
-            1969年創立
+            <p>創立於2002年8月</p>
           </td>
         </tr>
         <tr>
           <td>
-            國立臺北藝術大學傳統音樂學系
+            <p>中國文化大學中國音樂學系</p>
           </td>
           <td>
-            系主任<br>蔡淩蕙
+            <p>系主任</p>
+            <p>王樂倫</p>
           </td>
           <td>
-            臺北市北投區學園路1號<br>02-2893-8247
+            <p>臺北市士林區華岡路55號</p>
+            <p>02-2861-0511</p>
           </td>
           <td>
-            <a target="_" href="https://trd-music.tnua.edu.tw/">連結</a>
-            
+            <p>http://chinesemusic.pccu.edu.tw/</p>
           </td>
           <td>
-            1995年成立
-          </td>
-        </tr>
-        <tr>
-          <td>
-            國立臺灣戲曲學院戲曲音樂學系
-          </td>
-          <td>
-            系主任<br>游素凰
-          </td>
-          <td>
-            臺北市內湖路二段177號<br>02-2796-2666
-          </td>
-          <td>
-            <a target="_" href="http://b013.tcpa.edu.tw/bin/home.php">連結</a>
-            
-          </td>
-          <td>
-            1988年設立，2006年更名「戲曲音樂學系」。
+            <p>創立於1969年</p>
           </td>
         </tr>
         <tr>
           <td>
-            國立臺灣藝術大學中國音樂學系
+            <p>國立臺北藝術大學傳統音樂學系</p>
           </td>
           <td>
-            系主任<br>黃新財
+            <p>系主任</p>
+            <p>蔡淩蕙</p>
           </td>
           <td>
-            新北市板橋區大觀路一段59號<br>02-2272-2181#2531-2533
+            <p>臺北市北投區學園路1號</p>
+            <p>02-2893-8247</p>
           </td>
           <td>
-            <a target="_" href="https://cmusic.ntua.edu.tw/bin/home.php">連結</a>
-            
+            <p>https://trd-music.tnua.edu.tw/</p>
           </td>
           <td>
-            1971年創立
-          </td>
-        </tr>
-        <tr>
-          <td>
-            南華大學民族音樂學系
-          </td>
-          <td>
-            系主任<br>馮智皓
-          </td>
-          <td>
-            嘉義縣大林鎮南華路一段55號<br>05-272-1001#2271
-          </td>
-          <td>
-            <a target="_" href="http://music2.nhu.edu.tw/main.php">連結</a>
-            
-          </td>
-          <td>
-            2001年成立
+            <p>創立於1995年</p>
           </td>
         </tr>
         <tr>
           <td>
-            國立臺南藝術大學中國音樂學系
+            <p>國立臺灣戲曲學院戲曲音樂學系</p>
           </td>
           <td>
-            系主任<br>翁志文
+            <p>系主任</p>
+            <p>游素凰</p>
           </td>
           <td>
-            臺南市官田區大崎里大崎66號<br>06-693-0100#2071、2072
+            <p>臺北市內湖路二段177號</p>
+            <p>02-2796-2666</p>
           </td>
           <td>
-            <a target="_" href="http://chinesemusic.tnnua.edu.tw/bin/home.php">連結</a>
-            
+            <p>http://b013.tcpa.edu.tw/</p>
           </td>
           <td>
-            1998年成立
+            <p>創立於1988年，2006年更名「戲曲音樂學系」。</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>國立臺灣藝術大學中國音樂學系</p>
+          </td>
+          <td>
+            <p>系主任</p>
+            <p>黃新財</p>
+          </td>
+          <td>
+            <p>新北市板橋區大觀路一段59號</p>
+            <p>02-2272-2181 #2531-2533</p>
+          </td>
+          <td>
+            <p>https://cmusic.ntua.edu.tw/</p>
+          </td>
+          <td>
+            <p>創立於1971年</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>南華大學民族音樂學系</p>
+          </td>
+          <td>
+            <p>系主任</p>
+            <p>馮智皓</p>
+          </td>
+          <td>
+            <p>嘉義縣大林鎮南華路一段55號</p>
+            <p>05-272-1001 #2271</p>
+          </td>
+          <td>
+            <p>http://music2.nhu.edu.tw/</p>
+          </td>
+          <td>
+            <p>創立於2001年</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>國立臺南藝術大學中國音樂學系</p>
+          </td>
+          <td>
+            <p>系主任</p>
+            <p>黃俊錫</p>
+          </td>
+          <td>
+            <p>臺南市官田區大崎里大崎66號</p>
+            <p>06-693-0100 #2071、2072</p>
+          </td>
+          <td>
+            <p>http://chinesemusic.tnnua.edu.tw/</p>
+          </td>
+          <td>
+            <p>創立於1998年</p>
           </td>
         </tr>
       </tbody>

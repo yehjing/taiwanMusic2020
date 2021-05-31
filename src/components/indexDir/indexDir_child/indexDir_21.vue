@@ -3,358 +3,371 @@
     <div class="title">
       <h2>流行音樂篇</h2>
     </div>
-    <hr>
+    <hr />
     <p class="firstRow"></p>
-    <table rules="all" border="1" style="border:1px solid" cellpadding="5">
+    <table rules="all" border="1" style="border: 1px solid" cellpadding="5">
       <thead>
         <tr>
-          <th style="width:20%">名稱</th>
-          <th style="width:20%">負責人</th>
-          <th style="width:25%">其他聯絡方式</th>
+          <th style="width: 20%">名稱</th>
+          <th style="width: 20%">負責人</th>
+          <th style="width: 25%">其他聯絡方式</th>
           <th>備註</th>
         </tr>
       </thead>
       <tbody>
         <tr>
           <td>
-            臺北爵士大樂隊
+            <p>吳青峰</p>
           </td>
           <td>
-            音樂總監<br>李承育
+            <p>哈里坤的狂歡</p>
           </td>
           <td>
-            <a target="_" href="http://www.tjo.com.tw/">連結</a>
-            
+            <p>https://www.facebook.com/WuQingFeng/</p>
+            <p>u.music@foxmail.com</p>
+            <p>Oscar.lin@umusic.com</p>
+          </td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>
+            <p>打幫你樂團</p>
           </td>
           <td>
-            成立於2009年2月
+            <p>Leo黎歐創意</p>
+          </td>
+          <td>
+            <p>https://www.facebook.com/DaBangNi/</p>
+            <p>dabangni@gmail.com</p>
+          </td>
+          <td>
+            <p>成立於2011年12月</p>
           </td>
         </tr>
         <tr>
           <td>
-            八三么
+            <p>舒米恩</p>
           </td>
           <td>
-            滾石唱片
+            <p>亞神音樂</p>
           </td>
           <td>
-            <a target="_" href="https://www.band831.com/">連結</a>
-            
+            <p>https://www.sumingfans.com/</p>
+            <p>johnsuming@gmail.com</p>
           </td>
-          <td></td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            盧廣仲
+            <p>蔡依林</p>
           </td>
           <td>
-            添翼創越唱片公司
+            <p>凌時差音樂</p>
           </td>
           <td>
-            <a target="_" href="http://www.team-ear.com/">連結</a>
-            
+            <p>https://www.facebook.com/hoo.jcai</p>
           </td>
-          <td></td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            茄子蛋
+            <p>姚宇謙</p>
           </td>
+          <td>&nbsp;</td>
           <td>
-            經紀人<br>百萱
+            <p>https://www.facebook.com/LowkingOfficial</p>
+            <p>mail2elsa@gmail.com</p>
           </td>
-          <td>
-            <a target="_" href="https://www.facebook.com/EggPlantEgg/">連結</a><br>
-            <a target="_" href="mailto:eggplantegg2014@gmail.com">連結</a>
-          </td>
-          <td>
-            成立於2012年
-          </td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            晨曦光廊
+            <p>蘇聖育</p>
           </td>
+          <td>&nbsp;</td>
           <td>
-            出力音樂
+            <p>https://www.facebook.com/Sushenyu</p>
           </td>
-          <td>
-            <a target="_" href="https://www.facebook.com/SUNOFMORNING/">連結</a>
-            
-          </td>
-          <td></td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            詹雅雯
+            <p>黃子軒</p>
           </td>
+          <td>&nbsp;</td>
           <td>
-            詹雅雯<br>經紀人<br>小良
+            <p>https://www.facebook.com/zixuanslowtrain</p>
+            <p>zixuanslowtrain@gmail.com</p>
           </td>
-          <td>
-            <a target="_" href="https://www.facebook.com/YW.FanClub/">連結</a><br>
-            <a target="_" href="mailto:yiawen0302@gmail.com">連結</a>
-          </td>
-          <td></td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            家家
+            <p>李宗盛</p>
           </td>
           <td>
-            相信音樂國際股份有限公司
+            <p>李吉他</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/JiaJiaMyLove/">連結</a><br>
-            <a target="_" href="mailto:hsuben0624@gmail.com">連結</a>
+            <p>http://tw.leeguitars.com/</p>
           </td>
-          <td></td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            呂薔
+            <p>滅火器</p>
           </td>
           <td>
-            avex taiwan<br>愛貝克思股份有限公司
+            <p>火氣音樂</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/AmuyiLu/">連結</a>
-            
+            <p>https://www.facebook.com/FireEX</p>
+            <p>info@fireonmusic.com</p>
           </td>
-          <td>
-            2013年出道
-          </td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            董事長樂團
+            <p>少女卡拉</p>
           </td>
+          <td>&nbsp;</td>
           <td>
-            大吉祥整合行銷有限公司
+            <p>https://www.facebook.com/siaulukhahlah</p>
+            <p>https://www.instagram.com/siaulukhahlahofficial/</p>
           </td>
-          <td>
-            <a target="_" href="https://www.facebook.com/chairman.taiwan/">連結</a><br>
-            <a target="_" href="mailto:summerwang825@gmail.com">連結</a>
-          </td>
-          <td>
-            成立於1997年
-          </td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            閃靈樂團
+            <p>蘇慧倫</p>
           </td>
+          <td>&nbsp;</td>
           <td>
-            環球唱片
+            <p>https://www.facebook.com/tarcysuofficial</p>
+            <p>crystalresonance2010@gmail.com</p>
           </td>
-          <td>
-            <a target="_" href="https://www.facebook.com/chthonictw/">連結</a><br>
-            <a target="_" href="mailto:invalinews@gmail.com">連結</a>
-          </td>
-          <td>
-            主唱為立法委員林昶佐
-          </td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            美秀集團
+            <p>黃妃</p>
           </td>
           <td>
-            Bully
+            <p>勝駿娛樂</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/amazingshowtw/">連結</a><br>
-            <a target="_" href="mailto:amazingshowcy@gmail.com">連結</a>
+            <p>https://www.facebook.com/HuangFei0713</p>
+            <p>a_chefamily@yahoo.com.tw</p>
           </td>
-          <td></td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            李玟
+            <p>劉若英</p>
           </td>
+          <td>&nbsp;</td>
           <td>
-            CL Production Ltd
+            <p>https://www.facebook.com/Rene0601/</p>
           </td>
-          <td>
-            <a target="_" href="https://www.facebook.com/cocolee117/">連結</a><br>
-            <a target="_" href="mailto:vjdust@gmail.com">連結</a>
-          </td>
-          <td></td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            伍佰
+            <p>羅時豐</p>
           </td>
           <td>
-            月光音樂
+            <p>海蝶音樂</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/wubaiclub/">連結</a>
-            
+            <p>https://www.facebook.com/profile.php?id=100044568693565</p>
           </td>
-          <td></td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            阿爆
+            <p>八三么</p>
           </td>
-          <td></td>
+          <td>&nbsp;</td>
           <td>
-            <a target="_" href="https://www.facebook.com/ABAO825/">連結</a>
-            
+            <p>https://www.band831.com/</p>
+            <p>https://www.facebook.com/band831tw</p>
           </td>
-          <td></td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            萬芳
+            <p>荒山亮</p>
           </td>
-          <td></td>
           <td>
-            <a target="_" href="https://www.facebook.com/iamOneFang/">連結</a><br>
-            <a target="_" href="mailto:lin.fade@gmail.com">連結</a>
+            <p>勝駿娛樂</p>
           </td>
-          <td></td>
+          <td>
+            <p>https://www.facebook.com/HuangShanLiang</p>
+            <p>a_chefamily@yahoo.com.tw</p>
+          </td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            蕭秉治
+            <p>曹雅雯</p>
           </td>
           <td>
-            相信音樂
+            <p>安樂茂思</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/BingChih/">連結</a><br>
-            <a target="_" href="mailto:xiaobingchih@gmail.com">連結</a>
+            <p>https://www.facebook.com/oliviatsao1130</p>
+            <p>chun80900@gmail.com</p>
           </td>
-          <td></td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            紀曉君
+            <p>陳永龍</p>
           </td>
           <td>
-            紀曉君個人工作室
+            <p>參拾柒度音樂</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/Samingad/">連結</a><br>
-            <a target="_" href="mailto:gary720613@gmail.com">連結</a>
+            <p>https://www.facebook.com/yonlon.chen</p>
+            <p>37domusic@gmail.com</p>
           </td>
-          <td></td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            吳青峰
+            <p>潘越雲</p>
           </td>
           <td>
-            哈里坤的狂歡
+            <p>雲凱娛樂工作室</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/WuQingFeng/">連結</a><br>
-            <a target="_" href="mailto:u.music@foxmail.com">連結</a><br>
-            <a target="_" href="mailto:Oscar.lin@umusic.com">連結</a>
+            <p>https://www.facebook.com/潘越雲-Michelle-Pan-100447298213064</p>
           </td>
-          <td></td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            打幫你樂團
+            <p>白安</p>
           </td>
           <td>
-            Leo黎歐創意
+            <p>相信音樂</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/DaBangNi/">連結</a><br>
-            <a target="_" href="mailto:dabangni@gmail.com">連結</a>
+            <p>https://www.facebook.com/baiannmusic</p>
+            <p>jujistacy@gmail.com</p>
+          </td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>
+            <p>5566</p>
           </td>
           <td>
-            成立於2011年12月
+            <p>喬傑立娛樂</p>
+          </td>
+          <td>&nbsp;</td>
+          <td>
+            <p>2009年單飛不解散</p>
           </td>
         </tr>
         <tr>
           <td>
-            陳永淘
+            <p>羅大佑</p>
           </td>
-          <td></td>
           <td>
-            <a target="_" href="https://www.facebook.com/ataogomusic/">連結</a>
-            
+            <p>大右音樂</p>
           </td>
-          <td></td>
+          <td>
+            <p>https://www.facebook.com/LoTaYouOfficial</p>
+          </td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            黃瑋傑
+            <p>施文彬</p>
           </td>
-          <td></td>
           <td>
-            <a target="_" href="https://www.facebook.com/huangweijieweijie/">連結</a><br>
-            <a target="_" href="mailto:shanliaoband@gmail.com">連結</a>
+            <p>亂音製作</p>
           </td>
-          <td></td>
+          <td>
+            <p>https://www.facebook.com/rockapin</p>
+            <p>k0938386665@yahoo.com.tw</p>
+          </td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            曾仲瑋
+            <p>任賢齊</p>
           </td>
-          <td></td>
           <td>
-            <a target="_" href="https://www.facebook.com/hakkarobin/">連結</a>
-            
+            <p>大岳娛樂</p>
           </td>
-          <td></td>
+          <td>
+            <p>https://www.facebook.com/richiefirework</p>
+          </td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            桑布伊
+            <p>謝宇威</p>
           </td>
           <td>
-            卡達德邦文化工作室
+            <p>威德文化</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/Sangpuy/">連結</a>
-            
+            <p>https://www.facebook.com/謝宇威-198419566895181</p>
           </td>
-          <td></td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            徹摩
+            <p>蕭敬騰</p>
           </td>
           <td>
-            漢創文化股份有限公司
+            <p>喜鵲娛樂</p>
           </td>
           <td>
-            <a target="_" href="mailto:mavislin@hgcagroup.com">連結</a>
-            
+            <p>https://www.jamhsiao.com/</p>
           </td>
-          <td></td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            黃連煜
+            <p>楊丞琳</p>
           </td>
           <td>
-            貳樓音樂
+            <p>樹與天空娛樂</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/ayugohuang/">連結</a><br>
-            <a target="_" href="mailto:ayugo814@gmail.com">連結</a>
+            <p>https://www.facebook.com/0604rainie</p>
+            <p>https://tw.weibo.com/3511727907</p>
           </td>
-          <td></td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            舒米恩
+            <p>持修</p>
           </td>
           <td>
-            亞神音樂
+            <p>野聲音娛樂有限公司</p>
           </td>
           <td>
-            <a target="_" href="https://www.sumingfans.com/">連結</a><br>
-            <a target="_" href="mailto:johnsuming@gmail.com">連結</a>
+            <p>https://www.facebook.com/ChihSiou.L</p>
+            <p>https://www.instagram.com/chih_siou/</p>
           </td>
-          <td></td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>
+            <p>張惠妹</p>
+          </td>
+          <td>
+            <p>聲動娛樂</p>
+          </td>
+          <td>
+            <p>https://www.facebook.com/aMEI.feat.AMIT</p>
+          </td>
+          <td>&nbsp;</td>
         </tr>
       </tbody>
     </table>

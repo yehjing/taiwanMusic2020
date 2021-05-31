@@ -35,6 +35,11 @@ const tabs1 = [
     path: 'indexDir_18',
   },
   {
+    name: '釋奠樂及其他篇',
+    autor: '',
+    path: 'indexDir_23',
+  },
+  {
     name: '國樂篇',
     autor: '',
     path: 'indexDir_19',
@@ -90,6 +95,11 @@ const tabs2 = [
     name: '道、法教音樂篇',
     autor: '',
     path: 'indexDir_7',
+  },
+  {
+    name: '釋奠樂及其他篇',
+    autor: '',
+    path: 'indexDir_24',
   },
   {
     name: '國樂篇',

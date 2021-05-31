@@ -3,3909 +3,4387 @@
     <div class="title">
       <h2>西樂及混合編制篇</h2>
     </div>
-    <hr>
+    <hr />
     <p class="firstRow"></p>
-    <h3>
-      一、樂團
-    </h3>
-    <table rules="all" border="1" style="border:1px solid" cellpadding="5">
+    <h3>一、樂團</h3>
+    <table rules="all" border="1" style="border: 1px solid" cellpadding="5">
       <thead>
         <tr>
-          <th style="width:20%">名稱</th>
-          <th style="width:20%">負責人</th>
-          <th style="width:25%">地址/電話</th>
+          <th style="width: 20%">名稱</th>
+          <th style="width: 20%">負責人</th>
+          <th style="width: 25%">地址/電話</th>
           <th>其他聯絡方式</th>
         </tr>
       </thead>
       <tbody>
         <tr>
           <td>
-            基隆交響管樂團
+            <p>基隆交響管樂團</p>
           </td>
           <td>
-            李偉立
+            <p>李偉立</p>
           </td>
           <td>
-            基隆市深澳坑路125巷57號<br>0939-373-691
+            <p>基隆市信義區深澳坑路125巷57號</p>
+            <p>0939-373-691</p>
           </td>
-          <td></td>
+          <td>
+            <p>https://www.facebook.com/KLSWO/</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>幼獅交響管樂團</p>
+          </td>
+          <td>
+            <p>鄭文龍</p>
+          </td>
+          <td>
+            <p>基隆市中山區文化路199之1號</p>
+            <p>02-2423-3717</p>
+          </td>
+          <td>
+            <p>https://www.facebook.com/CYCWINDORCHESTRA/</p>
+          </td>
         </tr>
         <tr>
           <td>
-            幼獅交響管樂團
+            <p>基隆城市愛樂室內暨管弦樂團</p>
           </td>
           <td>
-            鄭文龍
+            <p>林文壽</p>
           </td>
           <td>
-            基隆市中山區文化路199之1號<br>02-2423-3717
+            <p>基隆市中山區中山一路31號1樓</p>
+            <p>02-2423-1415</p>
           </td>
-          <td></td>
+          <td>
+            <p>https://www.facebook.com/keelungcpo/</p>
+          </td>
         </tr>
         <tr>
+          <td>
+            <p>國家交響樂團</p>
+          </td>
           <td>
-            基隆城市愛樂室內暨管弦樂團
+            <p>郭玟岑</p>
           </td>
           <td>
-            林文壽
+            <p>臺北市中正區中山南路21-1號</p>
+            <p>02-3393-9888</p>
           </td>
           <td>
-            基隆市中山區中山一路31號1樓<br>02-2423-1415
+            <p>http://npac-nso.org/zh/</p>
           </td>
-          <td></td>
         </tr>
         <tr>
           <td>
-            國家交響樂團
+            <p>台灣鈴木樂團</p>
           </td>
           <td>
-            郭玟岑
+            <p>李子韻</p>
           </td>
           <td>
-            臺北市中正區中山南路21-1號<br>02-3393-9888
+            <p>臺北市中正區羅斯福路四段68號11樓之23</p>
+            <p>02-2366-0888</p>
           </td>
           <td>
-            <a target="_" href="http://npac-nso.org/zh/">連結</a>
-            
+            <p>passioncello@yahoo.com.tw</p>
           </td>
         </tr>
         <tr>
+          <td>
+            <p>汲音木管室內樂團</p>
+          </td>
           <td>
-            台灣鈴木樂團
+            <p>楊蕙祺</p>
           </td>
           <td>
-            李子韻
+            <p>臺北市中正區詔安街35之1號7樓02-2369-4802</p>
           </td>
           <td>
-            臺北市中正區羅斯福路四段68號11樓之23<br>02-2366-0888
+            <p>amatwn@ms17.hinet.net</p>
           </td>
-          <td></td>
         </tr>
         <tr>
           <td>
-            汲音木管室內樂團
+            <p>台灣耶魯室內樂團</p>
           </td>
           <td>
-            楊蕙祺
+            <p>王勳聖</p>
           </td>
           <td>
-            臺北市中正區詔安街35之1號7樓<br>02-2369-4802
+            <p>臺北市中正區襄陽路23號</p>
+            <p>02-2312-4248</p>
           </td>
           <td>
-            <a target="_" href="mailto:amatwn@ms17.hinet.net">連結</a>
-            
+            <p>tw.yale.ensemble@gmail.com</p>
           </td>
         </tr>
         <tr>
           <td>
-            台灣耶魯室內樂團
+            <p>臺北愛樂管弦樂團</p>
           </td>
           <td>
-            王勳聖
+            <p>賴文福</p>
           </td>
           <td>
-            臺北市中正區襄陽路23號<br>02-2312-4248
+            <p>臺北市中正區濟南路一段7號</p>
+            <p>02-2397-0979</p>
           </td>
           <td>
-            <a target="_" href="mailto:tw.yale.ensemble@gmail.com">連結</a>
-            
+            <p>https://www.facebook.com/taipeiphil.org/</p>
           </td>
         </tr>
         <tr>
+          <td>
+            <p>吹笛人室內樂團</p>
+          </td>
+          <td>
+            <p>張翠琳</p>
+          </td>
+          <td>
+            <p>臺北市中正區新生南路一段16號3樓之1</p>
+            <p>02-2321-9035</p>
+          </td>
           <td>
-            臺北愛樂管弦樂團
+            <p>https://www.jdfe-1998.com/</p>
           </td>
+        </tr>
+        <tr>
           <td>
-            賴文福
+            <p>台北銅管五重奏團</p>
           </td>
           <td>
-            臺北市中正區濟南路一段7號<br>02-2397-0979
+            <p>賴日昇</p>
           </td>
           <td>
+            <p>臺北市中正區汀州路二段127巷18號4樓</p>
+            <p>02-2365-5681</p>
           </td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            吹笛人室內樂團
+            <p>台灣絃樂團</p>
           </td>
           <td>
-            張翠琳
+            <p>鄭斯鈞</p>
           </td>
           <td>
-            臺北市中正區新生南路一段16號3樓之1<br>02-2321-9035
+            <p>臺北市中正區臨沂街76巷4之1號地下1樓</p>
+            <p>02-2321-8168</p>
           </td>
           <td>
-            <a target="_" href="https://www.jdfe-1998.com/">連結</a>
-            
+            <p>http://www.atstrings.com.tw</p>
           </td>
         </tr>
         <tr>
           <td>
-            台北銅管五重奏團
+            <p>和平交響樂團</p>
           </td>
           <td>
-            賴日昇
+            <p>劉容舟</p>
           </td>
           <td>
-            臺北市中正區汀州路二段127巷18號4樓<br>02-2365-5681
+            <p>臺北市中正區汀州路三段33號4樓</p>
+            <p>0937-878-251</p>
           </td>
-          <td></td>
+          <td>
+            <p>snoopyshark@gmail.com</p>
+          </td>
         </tr>
         <tr>
           <td>
-            台灣耶魯室內樂團
+            <p>藝心弦樂四重奏</p>
           </td>
           <td>
-            王勳聖
+            <p>張琪翊</p>
           </td>
           <td>
-            臺北市中正區襄陽路23號<br>02-2312-4248
+            <p>臺北市中正區忠孝東路一段76號4樓之1</p>
+            <p>0912-333-064</p>
           </td>
           <td>
-            <a target="_" href="mailto:tw.yale.ensemble@gmail.com">連結</a>
-            
+            <p>https://www.facebook.com/artrichquartet/</p>
           </td>
         </tr>
         <tr>
           <td>
-            台灣絃樂團
+            <p>台北打擊樂團</p>
           </td>
           <td>
-            鄭斯鈞
+            <p>尤文傑</p>
           </td>
           <td>
-            臺北市中正區臨沂街76巷4之1號地下一樓<br>02-2321-8168
+            <p>臺北市信義區永吉路201號地下1樓</p>
+            <p>02-2765-6145</p>
           </td>
           <td>
-            <a target="_" href="http://www.atstrings.com.tw">連結</a>
-            
+            <p>https://tpperc.weebly.com/</p>
           </td>
         </tr>
         <tr>
           <td>
-            和平交響樂團
+            <p>詠樂集</p>
           </td>
           <td>
-            劉容舟
+            <p>葉青青</p>
           </td>
           <td>
-            臺北市中正區汀州路三段33號4樓<br>0937-878-251
+            <p>臺北市信義區吳興街284巷24弄72號2樓</p>
+            <p>02-7720-0288</p>
           </td>
           <td>
-            <a target="_" href="mailto:snoopyshark@gmail.com">連結</a>
-            
+            <p>singing99yeh@gmail.com</p>
           </td>
         </tr>
         <tr>
           <td>
-            台北打擊樂團
+            <p>雙溪樂集</p>
           </td>
           <td>
-            尤文傑
+            <p>嚴福榮</p>
           </td>
           <td>
-            臺北市信義區永吉路201號地下一樓<br>02-2765-6145
+            <p>臺北市內湖區瑞陽里陽光街68巷162號5樓</p>
+            <p>0978-372-100</p>
           </td>
           <td>
-            <a target="_" href="https://tpperc.weebly.com/">連結</a>
-            
+            <p>scusca2011@gmail.com</p>
           </td>
         </tr>
         <tr>
+          <td>
+            <p>活泉室內樂團</p>
+          </td>
+          <td>
+            <p>謝奇儔</p>
+          </td>
           <td>
-            雙溪樂集
+            <p>臺北市內湖區成功路五段46號6樓</p>
+            <p>0920-503-021</p>
           </td>
           <td>
-            嚴福榮
+            <p>livesprings@gmail.com</p>
           </td>
+        </tr>
+        <tr>
           <td>
-            臺北市內湖區瑞陽里10鄰陽光街68巷162號5樓<br>0978-372-100
+            <p>春秋樂集</p>
           </td>
           <td>
-            <a target="_" href="mailto:scusca2011@gmail.com">連結</a>
-            
+            <p>邱君強</p>
           </td>
+          <td>
+            <p>臺北市北投區大業路166號11樓</p>
+          </td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
+          <td>
+            <p>朱宗慶打擊樂團</p>
+          </td>
           <td>
-            春秋樂集
+            <p>朱宗慶</p>
           </td>
           <td>
-            邱君強
+            <p>臺北市北投區大業路10號6樓</p>
+            <p>02-2891-9900</p>
           </td>
           <td>
-            臺北市北投區大業路166號11樓
+            <p>http://www.jpg.org.tw/</p>
           </td>
-          <td></td>
         </tr>
         <tr>
           <td>
-            朱宗慶打擊樂團
+            <p>台灣打擊樂團</p>
           </td>
           <td>
-            朱宗慶
+            <p>何鴻棋</p>
           </td>
           <td>
-            臺北市北投區大業路10號6樓<br>02-2891-9900
+            <p>臺北市北投區大業路10號地下1樓</p>
+            <p>02-2891-9900</p>
           </td>
           <td>
-            <a target="_" href="http://www.jpg.org.tw/">連結</a>
-            
+            <p>http://www.jpg.org.tw/</p>
           </td>
         </tr>
         <tr>
           <td>
-            台灣打擊樂團
+            <p>亞青樂集</p>
           </td>
           <td>
-            何鴻棋
+            <p>陳玠如</p>
           </td>
           <td>
-            臺北市北投區大業路10號地下一樓<br>02-2891-9900
+            <p>臺北市北投區中和街20巷2號4樓之18</p>
           </td>
           <td>
-            <a target="_" href="http://www.jpg.org.tw/">連結</a>
-            
+            <p>jieru.chen1015@gmail.com</p>
           </td>
         </tr>
         <tr>
           <td>
-            亞青樂集
+            <p>躍動打擊樂團</p>
           </td>
           <td>
-            陳玠如
+            <p>劉叔康</p>
           </td>
           <td>
-            臺北市北投區中和街20巷2號4樓之18
+            <p>臺北市北投區大業路10號地下1樓</p>
+            <p>02-2891-9900</p>
           </td>
           <td>
-            <a target="_" href="mailto:jieru.chen1015@gmail.com">連結</a>
-            
+            <p>http://www.jpg.org.tw</p>
           </td>
         </tr>
         <tr>
           <td>
-            躍動打擊樂團
+            <p>台北豎琴室內樂集</p>
           </td>
           <td>
-            劉叔康
+            <p>邱孟璐</p>
           </td>
           <td>
-            臺北市北投區大業路10號地下一樓<br>02-2891-9900
+            <p>臺北市中山區民權西路73號1樓</p>
+            <p>02-2597-7789</p>
           </td>
           <td>
-            <a target="_" href="http://www.jpg.org.tw">連結</a>
-            
+            <p>http://www.harp.com.tw</p>
           </td>
         </tr>
         <tr>
           <td>
-            台北豎琴室內樂集
+            <p>玩弦四度</p>
           </td>
           <td>
-            邱孟璐
+            <p>黃偉駿</p>
           </td>
           <td>
-            臺北市中山區民權西路73號1樓<br>02-2597-7789
+            <p>臺北市大安區師大路105巷18號9樓之2</p>
+            <p>0911-817-939</p>
           </td>
           <td>
-            <a target="_" href="http://www.harp.com.tw">連結</a>
-            
+            <p>interestringquartet@gmail.com</p>
           </td>
         </tr>
         <tr>
           <td>
-            玩弦四度
+            <p>佳音室內樂團</p>
           </td>
           <td>
-            黃偉駿
+            <p>陳平三</p>
           </td>
           <td>
-            臺北市大安區師大路105巷18號9樓之2<br>0911-817-939
+            <p>臺北市大安區信義路四段306號15樓</p>
+            <p>02-2701-6769 #620</p>
           </td>
           <td>
-            <a target="_" href="mailto:interestringquartet@gmail.com">連結</a>
-            
+            <p>https://m.facebook.com/chiayinchamberorchestra</p>
           </td>
         </tr>
         <tr>
           <td>
-            佳音室內樂團
+            <p>黑種籽單簧管合奏團</p>
           </td>
           <td>
-            陳平三
+            <p>宋威德</p>
           </td>
           <td>
-            臺北市大安區信義路四段306號15樓<br>02-2701-6769#620
+            <p>臺北市大安區建國南路一段304巷26號地下1樓之1</p>
+            <p>02-2666-6377</p>
           </td>
           <td>
-            <a target="_" href="https://m.facebook.com/chiayinchamberorchestra">連結</a>
-            
+            <p>https://www.facebook.com/HeySeed.Clarinet/</p>
           </td>
         </tr>
         <tr>
           <td>
-            黑種籽單簧管合奏團
+            <p>新北市交響樂團</p>
           </td>
           <td>
-            宋威德
+            <p>廖年賦</p>
           </td>
           <td>
-            臺北市大安區建國南路一段304巷26號地下一樓之1<br>02-2666-6377
+            <p>臺北市大安區和平東路三段49號14樓</p>
+            <p>02-2702-7253</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/HeySeed.Clarinet/">連結</a>
-            
+            <p>tmso1990@gmail.com</p>
           </td>
         </tr>
         <tr>
           <td>
-            新北市交響樂團
+            <p>透鳴單簧管重奏團</p>
           </td>
           <td>
-            廖年賦
+            <p>高承胤</p>
           </td>
           <td>
-            臺北市大安區和平東路三段49號14樓<br>02-2702-7253
+            <p>臺北市大安區龍淵里和平東路二段96巷17弄6號</p>
+            <p>02-2944-2244</p>
           </td>
           <td>
-            <a target="_" href="mailto:tmso1990@gmail.com">連結</a>
-            
+            <p>tscle.tw@gmail.com</p>
           </td>
         </tr>
         <tr>
           <td>
-            透鳴單簧管重奏團
+            <p>台北愛樂少年樂團</p>
           </td>
           <td>
-            高承胤
+            <p>劉葳莉</p>
           </td>
           <td>
-            臺北市大安區龍淵里和平東路二段96巷17弄6號<br>02-2944-2244
+            <p>臺北市大安區敦化南路一段233巷28號B1</p>
+            <p>02-2773-3691</p>
           </td>
           <td>
-            <a target="_" href="mailto:tscle.tw@gmail.com">連結</a>
-            
+            <p>tpf60@tpf.org.tw</p>
           </td>
         </tr>
         <tr>
           <td>
-            台北愛樂少年樂團
+            <p>台灣璇音雅集</p>
           </td>
           <td>
-            劉葳莉
+            <p>陳茂萱</p>
           </td>
           <td>
-            臺北市大安區敦化南路一段233巷28號B1<br>02-2773-3691
+            <p>臺北市大安區羅斯福路二段93號17樓之7</p>
+            <p>02-2362-6128</p>
           </td>
           <td>
-            <a target="_" href="mailto:tpf60@tpf.org.tw">連結</a>
-            
+            <p>sufl2004@mail.nhctc.edu.tw</p>
           </td>
         </tr>
         <tr>
           <td>
-            台灣璇音雅集
+            <p>T-Brass頂尖銅管</p>
           </td>
           <td>
-            陳茂萱
+            <p>陳中昇</p>
           </td>
           <td>
-            臺北市大安區羅斯福路二段93號17樓之7<br>02-2362-6128
+            <p>臺北市大安區杭州南路二段71號5樓</p>
+            <p>0919-897-709</p>
           </td>
           <td>
-            <a target="_" href="mailto:sufl2004@mail.nhctc.edu.tw">連結</a>
-            
+            <p>Tbrass2017@gmail.com</p>
           </td>
         </tr>
         <tr>
           <td>
-            T-Brass頂尖銅管
+            <p>那娜擊樂二重奏NanaFormosa Percussion Duo</p>
           </td>
           <td>
-            陳中昇
+            <p>張育瑛</p>
           </td>
           <td>
-            臺北市大安區杭州南路二段71號5樓<br>0919-897-709
+            <p>臺北市大安區延吉街137巷24號5樓</p>
+            <p>02-2773-7611</p>
           </td>
           <td>
-            <a target="_" href="mailto:Tbrass2017@gmail.com">連結</a>
-            
+            <p>https://www.facebook.com/NanaFormosa.tw/</p>
           </td>
         </tr>
         <tr>
           <td>
-            NanaFormosa 擊樂二重奏
+            <p>Clap&amp;Tap室內管弦樂團</p>
           </td>
           <td>
-            張育瑛
+            <p>蕭育霆</p>
           </td>
           <td>
-            臺北市大安區延吉街137巷24號5樓<br>02-2773-7611
+            <p>臺北市大安區敦化南路二段164號3樓</p>
+            <p>0911-135-413</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/NanaFormosa.tw/">連結</a>
-            
+            <p>claptap.taipei@gmail.com</p>
           </td>
         </tr>
         <tr>
+          <td>
+            <p>1002打擊樂團</p>
+          </td>
+          <td>
+            <p>陳哲輝</p>
+          </td>
+          <td>
+            <p>臺北市大安區和平東路一段183巷3弄3號1樓</p>
+            <p>02-2394-1048</p>
+          </td>
           <td>
-            Clap&amp;Tap室內管弦樂團
+            <p>e1002@seed.net.tw</p>
           </td>
+        </tr>
+        <tr>
           <td>
-            蕭育霆
+            <p>葉樹涵銅管五重奏樂團</p>
           </td>
           <td>
-            臺北市大安區敦化南路二段164號3樓<br>0911-135-413
+            <p>葉樹涵</p>
           </td>
           <td>
-            <a target="_" href="mailto:claptap.taipei@gmail.com">連結</a>
-            
+            <p>臺北市大安區羅斯福路三段125號8樓</p>
+            <p>02-3365-2114</p>
           </td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            1002打擊樂團
+            <p>亞太弦樂四重奏團</p>
           </td>
           <td>
-            陳哲輝
+            <p>黃維明</p>
           </td>
           <td>
-            臺北市大安區和平東路一段183巷3弄3號1樓<br>02-2394-1048
+            <p>臺北市大安區杭州南路二段29之5號</p>
+            <p>02-3322-1428</p>
           </td>
           <td>
-            <a target="_" href="mailto:e1002@seed.net.tw">連結</a>
-            
+            <p>http://www.chambermusic.org.tw</p>
           </td>
         </tr>
         <tr>
+          <td>
+            <p>MIT米特薩克斯風重奏團</p>
+          </td>
           <td>
-            葉樹涵銅管五重奏樂團
+            <p>陳冠文</p>
           </td>
           <td>
-            葉樹涵
+            <p>臺北市大安區仁愛路三段5巷5弄15號1樓</p>
+            <p>02-2367-0039</p>
           </td>
           <td>
-            臺北市大安區羅斯福路三段125號8樓<br>02-3365-2114
+            <p>https://www.mit-sax.com/</p>
           </td>
-          <td></td>
         </tr>
         <tr>
           <td>
-            亞太弦樂四重奏團
+            <p>台北弦樂團</p>
           </td>
           <td>
-            黃維明
+            <p>彭廣林</p>
           </td>
           <td>
-            臺北市大安區杭州南路二段29之5號<br>02-3322-1428
+            <p>臺北市大安區復興南路一段360號3樓之3</p>
           </td>
           <td>
-            <a target="_" href="http://www.chambermusic.org.tw">連結</a>
-            
+            <p>gwanglinpeng@gmail.com</p>
           </td>
         </tr>
         <tr>
           <td>
-            MIT米特薩克斯風重奏團
+            <p>人間樂集</p>
           </td>
           <td>
-            陳冠文
+            <p>翁立美</p>
           </td>
           <td>
-            臺北市大安區仁愛路三段5巷5弄15號1樓<br>02-2367-0039
+            <p>臺北市大安區安和路一段33號4樓</p>
+            <p>02-2776-2020</p>
           </td>
           <td>
-            <a target="_" href="https://www.mit-sax.com/">連結</a>
-            
+            <p>winnietheflute@yahoo.com.tw</p>
           </td>
         </tr>
         <tr>
           <td>
-            台北弦樂團
+            <p>台北世紀交響樂團</p>
           </td>
           <td>
-            彭廣林
+            <p>廖陳盧寧</p>
           </td>
           <td>
-            臺北市大安區復興南路一段360號3樓之3
+            <p>臺北市大安區和平東路三段49號14樓</p>
+            <p>02-2702-7253</p>
           </td>
           <td>
-            <a target="_" href="mailto:gwanglinpeng@gmail.com">連結</a>
-            
+            <p>http://www.century.org.tw</p>
           </td>
         </tr>
         <tr>
           <td>
-            人間樂集
+            <p>陽光台北交響樂團</p>
           </td>
           <td>
-            翁立美
+            <p>孫愛光</p>
           </td>
           <td>
-            臺北市大安區安和路一段33號4樓<br>02-2776-2020
+            <p>臺北市大安區泰順街54巷16號1樓</p>
           </td>
           <td>
-            <a target="_" href="mailto:winnietheflute@yahoo.com.tw">連結</a>
-            
+            <p>http://www.suntaipeiphil.org/index.html</p>
+            <p>sun.taipei.phil@gmail.com</p>
           </td>
         </tr>
         <tr>
           <td>
-            台北世紀交響樂團
+            <p>樂興之時管絃樂團</p>
           </td>
           <td>
-            廖陳盧寧
+            <p>江靖波</p>
           </td>
           <td>
-            臺北市大安區和平東路三段49號14樓<br>02-2702-7253
+            <p>臺北市大安區仁愛路四段112巷18號地下1樓</p>
+            <p>02-2505-0859</p>
           </td>
           <td>
-            <a target="_" href="http://www.century.org.tw">連結</a>
-            
+            <p>https://www.facebook.com/momentmusical/</p>
           </td>
         </tr>
         <tr>
           <td>
-            陽光台北交響樂團
+            <p>弦外之音團</p>
           </td>
           <td>
-            孫愛光
+            <p>謝婉玲</p>
           </td>
           <td>
-            臺北市大安區泰順街54巷16號1樓
+            <p>臺北市大安區敦化南路一段160巷16號4樓</p>
+            <p>02-2781-2306</p>
           </td>
           <td>
-            <a target="_" href="http://www.suntaipeiphil.org/index.html">連結</a><br>
-            <a target="_" href="mailto:sun.taipei.phil@gmail.com">連結</a>
+            <p>proartcello@gmail.com</p>
           </td>
         </tr>
         <tr>
           <td>
-            樂興之時管絃樂團
+            <p>含光藝術工作室</p>
           </td>
           <td>
-            江靖波
+            <p>廖銘星</p>
           </td>
           <td>
-            臺北市大安區仁愛路四段112巷18號B1<br>02-2505-0859
+            <p>臺北市大安區和平東路一段183巷8之1號2樓</p>
+            <p>02-2391-0918</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/momentmusical/">連結</a>
-            
+            <p>hanart.taiwan@gmail.com</p>
           </td>
         </tr>
         <tr>
           <td>
-            臺北市立交響樂團
+            <p>臺北市立交響樂團</p>
           </td>
           <td>
-            何康國
+            <p>何康國</p>
           </td>
           <td>
-            臺北市八德路三段25號7樓
-            <br />
-            02-2578-6731
+            <p>臺北市八德路三段25號7樓</p>
+            <p>02-2578-6731</p>
           </td>
           <td>
-            <a target="_" href="https://www.tso.gov.taipei/">連結</a>
-            
+            <p>https://www.tso.gov.taipei/</p>
           </td>
         </tr>
         <tr>
           <td>
-            徐家駒低音管室內樂團
+            <p>徐家駒低音管室內樂團</p>
           </td>
           <td>
-            徐家駒
+            <p>徐家駒</p>
           </td>
           <td>
-            臺北市松山區八德路四段91巷3弄33號4樓<br>02-2286-9792
+            <p>臺北市松山區八德路四段91巷3弄33號4樓</p>
+            <p>02-2286-9792</p>
           </td>
           <td>
-            <a target="_" href="mailto:fagott@ms21.hinet.net">連結</a>
-            
+            <p>fagott@ms21.hinet.net</p>
           </td>
         </tr>
         <tr>
           <td>
-            歐陽伶宜大提琴音樂方程式
+            <p>歐陽伶宜大提琴音樂方程式</p>
           </td>
           <td>
-            歐陽伶宜
+            <p>歐陽伶宜</p>
           </td>
           <td>
-            臺北市松山區民生東路五段69巷1弄20號1樓<br>0910-862-301
+            <p>臺北市松山區民生東路五段69巷1弄20號1樓</p>
+            <p>0910-862-301</p>
           </td>
           <td>
-            <a target="_" href="mailto:cello01.ouyang@hotmail.com">連結</a>
-            
+            <p>cello01.ouyang@hotmail.com</p>
           </td>
         </tr>
         <tr>
           <td>
-            安徒生和莫札特的創意
+            <p>安徒生和莫札特的創意</p>
           </td>
           <td>
-            林奕君
+            <p>林奕君</p>
           </td>
           <td>
-            臺北市松山區光復北路100巷11號<br>02-2577-2816
+            <p>臺北市松山區光復北路100巷11號</p>
+            <p>02-2577-2816</p>
           </td>
           <td>
-            <a target="_" href="http://www.amgroup.com.tw/show_page/page/20">連結</a>
-            
+            <p>http://www.amgroup.com.tw/show_page/page/20</p>
           </td>
         </tr>
         <tr>
           <td>
-            曉韵古樂團
+            <p>曉韵古樂團</p>
           </td>
           <td>
-            蔡佳璇
+            <p>蔡佳璇</p>
           </td>
           <td>
-            臺北市松山區南京東路五段59巷27之5號<br>0988-292-234
+            <p>臺北市松山區南京東路五段59巷27之5號</p>
+            <p>0988-292-234</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/barockensembletaipei">連結</a>
-            
+            <p>https://www.facebook.com/barockensembletaipei</p>
           </td>
         </tr>
         <tr>
           <td>
-            經典大提琴室內樂團
+            <p>經典大提琴室內樂團</p>
           </td>
           <td>
-            蔡福桂
+            <p>蔡福桂</p>
           </td>
           <td>
-            0931-713-870
+            <p>0931-713-870</p>
           </td>
           <td>
-            <a target="_" href="mailto:fred2002m@yahoo.com.tw">連結</a>
-            
+            <p>fred2002m@yahoo.com.tw</p>
           </td>
         </tr>
         <tr>
           <td>
-            台灣愛樂室內樂團
+            <p>台灣愛樂室內樂團</p>
           </td>
           <td>
-            林伸龍
+            <p>林伸龍</p>
           </td>
           <td>
-            臺北市中山區明水路453號1樓<br>02-8509-1050
+            <p>臺北市中山區明水路453號1樓</p>
+            <p>02-8509-1050</p>
           </td>
-          <td></td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            灣聲樂團
+            <p>灣聲樂團</p>
           </td>
           <td>
-            李哲藝
+            <p>李哲藝</p>
           </td>
           <td>
-            臺北市中山區撫順街2號9樓<br>02-2593-6586
+            <p>臺北市中山區撫順街2號9樓</p>
+            <p>02-2593-6586</p>
           </td>
           <td>
-            <a target="_" href="http://www.onesongorchestra.com/">連結</a><br>
-            <a target="_" href="mailto:onesongorchestra@gmail.com">連結</a>
+            <p>http://www.onesongorchestra.com/</p>
+            <p>onesongorchestra@gmail.com</p>
           </td>
         </tr>
         <tr>
           <td>
-            臺灣管樂團
+            <p>臺灣管樂團</p>
           </td>
           <td>
-            林昀宏
+            <p>林昀宏</p>
           </td>
           <td>
-            臺北市中山區中山北路二段93巷17號8樓之2<br>02-2624-1035
+            <p>臺北市中山區中山北路二段93巷17號8樓之2</p>
+            <p>02-2624-1035</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/TaiwanWindEnsemble">連結</a>
-            
+            <p>https://www.facebook.com/TaiwanWindEnsemble</p>
           </td>
         </tr>
         <tr>
           <td>
-            魔笛單簧管四重奏
+            <p>魔笛單簧管四重奏</p>
           </td>
           <td>
-            林佩筠
+            <p>林佩筠</p>
           </td>
           <td>
-            臺北市中山區吉林路12之5號2樓<br>02-3765-1985
+            <p>臺北市中山區吉林路12之5號2樓</p>
+            <p>02-3765-1985</p>
           </td>
           <td>
-            <a target="_" href="mailto:pylin@cm1.hinet.net">連結</a>
-            
+            <p>pylin@cm1.hinet.net</p>
           </td>
         </tr>
         <tr>
           <td>
-            台北音樂家室內樂團
+            <p>台北音樂家室內樂團</p>
           </td>
           <td>
-            劉怡君
+            <p>劉怡君</p>
           </td>
           <td>
-            臺北市中山區長春路190號8樓<br>02-2369-4802
+            <p>臺北市中山區長春路190號8樓</p>
+            <p>02-2369-4802</p>
           </td>
           <td>
-            <a target="_" href="mailto:amatwn@ms17.hinet.net">連結</a>
-            
+            <p>amatwn@ms17.hinet.net</p>
           </td>
         </tr>
         <tr>
           <td>
-            福爾摩沙四重奏
+            <p>福爾摩沙四重奏</p>
           </td>
           <td>
-            葉垂青
+            <p>葉垂青</p>
           </td>
           <td>
-            臺北市中山區建國北路二段33號2樓<br>02-2509-1226
+            <p>臺北市中山區建國北路二段33號2樓</p>
+            <p>02-2509-1226</p>
           </td>
           <td>
-            <a target="_" href="http://fcmf.com.tw/member/">連結</a>
-            
+            <p>http://fcmf.com.tw/member/</p>
           </td>
         </tr>
         <tr>
           <td>
-            十方樂集
+            <p>十方樂集</p>
           </td>
           <td>
-            徐伯年
+            <p>徐伯年</p>
           </td>
           <td>
-            臺北市大同區民族西路187巷4號<br>02-2593-5811
+            <p>臺北市大同區民族西路187巷4號</p>
+            <p>02-2593-5811</p>
           </td>
           <td>
-            <a target="_" href="http://www.musforum.com.tw">連結</a>
-            
+            <p>http://www.musforum.com.tw</p>
           </td>
         </tr>
         <tr>
           <td>
-            福爾摩沙廣播交響樂團
+            <p>福爾摩沙廣播交響樂團</p>
           </td>
           <td>
-            劉昱昀
+            <p>劉昱昀</p>
           </td>
           <td>
-            新北市新莊區中港一街90之3號<br>0929-356-282
+            <p>新北市新莊區中港一街90之3號</p>
+            <p>0929-356-282</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/福爾摩沙廣播交響樂團-179921122093836">連結</a>
-            
+            <p>https://www.facebook.com/福爾摩沙廣播交響樂團-179921122093836</p>
           </td>
         </tr>
         <tr>
+          <td>
+            <p>新北市管絃樂團</p>
+          </td>
+          <td>
+            <p>張潔茹</p>
+          </td>
+          <td>
+            <p>新北市新莊區泰順街24號</p>
+          </td>
           <td>
-            新北市管絃樂團
+            <p>https://www.facebook.com/NTCCOmusic/</p>
           </td>
+        </tr>
+        <tr>
           <td>
-            張潔茹
+            <p>台灣傑出音樂家室內樂團</p>
           </td>
           <td>
-            新北市新莊區泰順街24號
+            <p>鄭琨琳</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/NTCCOmusic/">連結</a>
-            
+            <p>新北市新莊區幸福路69號2樓</p>
+            <p>0929-356-282</p>
           </td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            台灣傑出音樂家室內樂團
+            <p>欣響室內管樂團</p>
           </td>
           <td>
-            鄭琨琳
+            <p>陳順發</p>
           </td>
           <td>
-            新北市新莊區幸福路69號2樓<br>0929-356-282
+            <p>新北市新莊區中正路173號2樓</p>
+            <p>02-2993-3893</p>
           </td>
-          <td></td>
+          <td>
+            <p>shinsharn@yahoo.com.tw</p>
+          </td>
         </tr>
         <tr>
           <td>
-            欣響室內管樂團
+            <p>口口實驗室</p>
           </td>
           <td>
-            陳順發
+            <p>蔡銘</p>
           </td>
           <td>
-            新北市新莊區中正路173號2樓<br>02-2993-3893
+            <p>新北市新莊區龍安路487巷2弄6號3樓</p>
           </td>
           <td>
-            <a target="_" href="mailto:shinsharn@yahoo.com.tw">連結</a>
-            
+            <p>https://www.facebook.com/kokolab.tw/</p>
           </td>
         </tr>
         <tr>
+          <td>
+            <p>歐普思室內樂集</p>
+          </td>
+          <td>
+            <p>洪余昇</p>
+          </td>
           <td>
-            口口實驗室
+            <p>新北市新莊區新泰路179號2樓</p>
           </td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
           <td>
-            蔡銘
+            <p>新北愛樂管弦樂團</p>
           </td>
           <td>
-            新北市新莊區龍安路487巷2弄6號3樓
+            <p>崔悟凡</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/kokolab.tw/">連結</a>
-            
+            <p>新北市新莊區中和街204巷6號5樓</p>
           </td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            歐普思室內樂集
+            <p>新北市交響樂團</p>
           </td>
           <td>
-            洪余昇
+            <p>廖嘉齡</p>
           </td>
           <td>
-            新北市新莊區新泰路179號2樓
+            <p>新北市永和區竹林路91巷43弄6號3樓</p>
           </td>
-          <td></td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            新北愛樂管弦樂團
+            <p>新北市室內管絃樂團</p>
           </td>
           <td>
-            崔悟凡
+            <p>伍穎慧</p>
           </td>
           <td>
-            新北市新莊區中和街204巷6號5樓
+            <p>新北市永和區竹林路42巷13號3樓</p>
           </td>
-          <td></td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            新北市交響樂團
+            <p>陳維哲低音提琴室內樂團</p>
           </td>
           <td>
-            廖嘉齡
+            <p>陳維哲</p>
           </td>
           <td>
-            新北市永和區竹林路91巷43弄6號3樓
+            <p>新北市永和區秀朗路二段66巷9號2樓</p>
           </td>
-          <td></td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            新北市室內管絃樂團
+            <p>巴赫納利亞台灣室內樂團</p>
           </td>
           <td>
-            伍穎慧
+            <p>黃義勛</p>
           </td>
           <td>
-            新北市永和區竹林路42巷13號3樓
+            <p>新北市永和區永平路218巷9號6樓</p>
           </td>
-          <td></td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            陳維哲低音提琴室內樂團
+            <p>臺北大眾交響樂團</p>
           </td>
           <td>
-            陳維哲
+            <p>黃素珠</p>
           </td>
           <td>
-            新北市永和區秀朗路二段66巷9號2樓
+            <p>新北市永和區中和路499號16樓之1</p>
           </td>
-          <td></td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            巴赫納利亞台灣室內樂團
+            <p>台北愛樂木管五重奏</p>
           </td>
           <td>
-            黃義勛
+            <p>黃義敦</p>
           </td>
           <td>
-            新北市永和區永平路218巷9號6樓
+            <p>新北市永和區永平路218巷9號8樓</p>
           </td>
-          <td></td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            臺北大眾交響樂團
+            <p>新北市青年交響樂團</p>
           </td>
           <td>
-            黃素珠
+            <p>巫雪梨</p>
           </td>
           <td>
-            新北市永和區中和路499號16樓之1
+            <p>新北市永和區民生路46巷36號10樓</p>
           </td>
-          <td></td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            台北愛樂木管五重奏
+            <p>弦樂之音弦樂團</p>
           </td>
           <td>
-            黃義敦
+            <p>黃冠勻</p>
           </td>
           <td>
-            新北市永和區永平路218巷9號8樓
+            <p>新北市中和區興南路二段128巷7弄7號</p>
           </td>
-          <td></td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            新北市青年交響樂團
+            <p>藝饗室內樂團</p>
           </td>
           <td>
-            巫雪梨
+            <p>王守芳</p>
           </td>
           <td>
-            新北市永和區民生路46巷36號10樓
+            <p>新北市中和區景平路726之6號5樓之6</p>
           </td>
-          <td></td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            弦樂之音弦樂團
+            <p>玉山菊元合奏團</p>
           </td>
           <td>
-            黃冠勻
+            <p>葛承澐</p>
           </td>
           <td>
-            新北市中和區興南路二段128巷7弄7號
+            <p>新北市板橋區國光路189之5號5樓</p>
           </td>
-          <td></td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            藝饗室內樂團
+            <p>轟工廠法國號重奏團</p>
           </td>
           <td>
-            王守芳
+            <p>蕭崇傑</p>
           </td>
           <td>
-            新北市中和區景平路726之6號5樓之6
+            <p>新北市板橋區光復街213號4樓</p>
           </td>
-          <td></td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
+          <td>
+            <p>香頌室內樂團</p>
+          </td>
           <td>
-            玉山菊元合奏團
+            <p>黃聖智</p>
           </td>
           <td>
-            葛承澐
+            <p>新北市板橋區實踐路34號2樓</p>
           </td>
           <td>
-            新北市板橋區國光路189之5號5樓
+            <p>https://www.chansontpe.org/</p>
           </td>
-          <td></td>
         </tr>
         <tr>
           <td>
-            轟工廠法國號重奏團
+            <p>汲音集樂室內樂團</p>
           </td>
           <td>
-            蕭崇傑
+            <p>吳錦雯</p>
           </td>
           <td>
-            新北市板橋區光復街213號4樓
+            <p>新北市淡水區中山北路一段223號7樓</p>
           </td>
-          <td></td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
+          <td>
+            <p>臺灣銅管樂團</p>
+          </td>
+          <td>
+            <p>陳長伯</p>
+          </td>
           <td>
-            香頌室內樂團
+            <p>新北市三重區中正南路248號11樓之7</p>
           </td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
           <td>
-            黃聖智
+            <p>亞洲青少年打擊樂團</p>
           </td>
           <td>
-            新北市板橋區實踐路34號2樓
+            <p>劉惠文</p>
           </td>
           <td>
-            <a target="_" href="https://www.chansontpe.org/">連結</a>
-            
+            <p>新北市三重區五華街207號6樓</p>
           </td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
+          <td>
+            <p>1980室內樂集</p>
+          </td>
           <td>
-            汲音集樂室內樂團
+            <p>蘇亦庠</p>
           </td>
           <td>
-            吳錦雯
+            <p>新北市三重區自強路三段42巷2之2號0918-051-867</p>
           </td>
           <td>
-            新北市淡水區中山北路一段223號7樓
+            <p>https://www.facebook.com/1980室內樂集-384638105249121/</p>
           </td>
-          <td></td>
         </tr>
         <tr>
+          <td>
+            <p>惠文領袖打擊樂團</p>
+          </td>
           <td>
-            臺灣銅管樂團
+            <p>劉惠文</p>
           </td>
           <td>
-            陳長伯
+            <p>新北市三重區五華街207號6樓</p>
           </td>
           <td>
-            新北市三重區中正南路248號11樓之7
+            <p>
+              https://www.facebook.com/Wekids惠文藝術音樂學苑-279158329221905/
+            </p>
           </td>
-          <td></td>
         </tr>
         <tr>
           <td>
-            亞洲青少年打擊樂團
+            <p>雙子打擊樂團</p>
           </td>
           <td>
-            劉惠文
+            <p>簡任廷</p>
           </td>
           <td>
-            新北市三重區五華街207號6樓
+            <p>新北市蘆洲區重陽街72之5號3樓</p>
           </td>
-          <td></td>
+          <td>
+            <p>http://twincussion.com/intro</p>
+          </td>
         </tr>
         <tr>
           <td>
-            雙子打擊樂團
+            <p>夢響管弦樂團</p>
           </td>
           <td>
-            簡任廷
+            <p>楊陳德</p>
           </td>
           <td>
-            新北市蘆洲區重陽街72之5號3樓
+            <p>新北市蘆洲區民權路32號1樓</p>
           </td>
-          <td></td>
+          <td>
+            <p>https://www.facebook.com/dreamphony</p>
+          </td>
         </tr>
         <tr>
           <td>
-            曼斯特低音銅管四重奏
+            <p>曼斯特低音銅管四重奏</p>
           </td>
           <td>
-            林昀宏
+            <p>林昀宏</p>
           </td>
           <td>
-            0983-553-105
+            <p>0983-553-105</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/MLBQ2016/">連結</a>
-            
+            <p>https://www.facebook.com/MLBQ2016/</p>
           </td>
         </tr>
         <tr>
           <td>
-            龍潭愛樂管弦樂團
+            <p>龍潭愛樂管弦樂團</p>
           </td>
           <td>
-            張鴻宇
+            <p>張鴻宇</p>
           </td>
           <td>
-            桃園市龍潭區公園路60號<br>03-499-0111
+            <p>桃園市龍潭區公園路60號</p>
+            <p>03-499-0111</p>
           </td>
           <td>
-            <a target="_" href="http://www.ltpo.com.tw/">連結</a>
-            
+            <p>http://www.ltpo.com.tw/</p>
           </td>
         </tr>
         <tr>
+          <td>
+            <p>春之聲管弦樂團</p>
+          </td>
           <td>
-            春之聲管弦樂團
+            <p>陳永清</p>
           </td>
           <td>
-            陳永清
+            <p>桃園市桃園區中正路1223號16樓</p>
+            <p>03-331-5855</p>
           </td>
           <td>
-            桃園市桃園區中正路1223號16樓<br>03-331-5855
+            <p>https://vsso.com.tw/</p>
           </td>
-          <td></td>
         </tr>
         <tr>
           <td>
-            桃園愛樂管弦樂團
+            <p>桃園愛樂管弦樂團</p>
           </td>
           <td>
-            黃子軒
+            <p>黃子軒</p>
           </td>
-          <td></td>
+          <td>&nbsp;</td>
           <td>
-            <a target="_" href="mailto:jeffh.me83g@gmail.com">連結</a>
-            
+            <p>jeffh.me83g@gmail.com</p>
           </td>
         </tr>
         <tr>
+          <td>
+            <p>狂美交響管樂團</p>
+          </td>
           <td>
-            狂美交響管樂團
+            <p>謝韋民</p>
           </td>
           <td>
-            謝韋民
+            <p>桃園市中壢區永福路1106號14樓</p>
+            <p>03-285-0612</p>
           </td>
           <td>
-            桃園市中壢區永福路1106號14樓<br>03-285-0612
+            <p>https://www.facebook.com/ConBello2017/</p>
           </td>
-          <td></td>
         </tr>
         <tr>
           <td>
-            桃園交響管樂團
+            <p>桃園交響管樂團</p>
           </td>
           <td>
-            陳榮昇
+            <p>陳榮昇</p>
           </td>
           <td>
-            桃園市桃園區仁一街22號2樓<br>0937-115-577
+            <p>桃園市桃園區仁一街22號2樓</p>
+            <p>0937-115-577</p>
           </td>
-          <td></td>
+          <td>
+            <p>http://web.tysb.org.tw/</p>
+          </td>
         </tr>
         <tr>
+          <td>
+            <p>風動室內樂團</p>
+          </td>
           <td>
-            風動室內樂團
+            <p>鄭紘</p>
           </td>
           <td>
-            鄭紘
+            <p>桃園市蘆竹區仁愛路二段3號16樓之5</p>
           </td>
           <td>
-            桃園市蘆竹區仁愛路二段3號16樓之5
+            <p>https://www.facebook.com/windsoundensemble.tw</p>
           </td>
-          <td></td>
         </tr>
         <tr>
+          <td>
+            <p>S曼斯特低音重奏團</p>
+          </td>
+          <td>
+            <p>林禮文</p>
+          </td>
           <td>
-            新竹室內樂集
+            <p>桃園市楊梅區永寧路一巷19號9樓</p>
+            <p>0983-553-105</p>
           </td>
-          <td></td>
-          <td></td>
           <td>
-            <a target="_" href="https://www.facebook.com/新竹室內樂集Bamboo-Ensemble-1550586024972682/about/?ref=page_internal">連結</a>
-            
+            <p>https://www.facebook.com/SMLE2018/</p>
           </td>
         </tr>
         <tr>
           <td>
-            新竹交響管樂團
+            <p>新竹交響管樂團</p>
           </td>
           <td>
-            李金恭
+            <p>李金恭</p>
           </td>
-          <td></td>
           <td>
-            <a target="_" href="https://www.hcwo.net/">連結</a>
-            
+            <p>新竹市北區北大路150號2樓</p>
+            <p>03-545-6696</p>
           </td>
+          <td>
+            <p>https://www.hcwo.net/</p>
+          </td>
         </tr>
         <tr>
           <td>
-            巴雀藝術
+            <p>巴雀藝術</p>
           </td>
-          <td></td>
           <td>
-            新竹縣竹北市嘉豐五路二段142號
+            <p>王若璇</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/bratsche.artist/">連結</a>
-            
+            <p>新竹縣竹北市嘉豐五路二段142號</p>
+            <p>03-6683-642</p>
           </td>
+          <td>
+            <p>https://www.facebook.com/bratsche.artist/</p>
+            <p>https://www.bratsche.com.tw/</p>
+          </td>
         </tr>
         <tr>
           <td>
-            風城青少年管弦樂團
+            <p>風城青少年管弦樂團</p>
           </td>
           <td>
-            吳明吉
+            <p>吳明吉</p>
           </td>
-          <td></td>
+          <td>&nbsp;</td>
           <td>
-            <a target="_" href="https://www.facebook.com/風城青少年管弦樂團-144640359713791/">連結</a>
-            
+            <p>https://www.facebook.com/風城青少年管弦樂團-144640359713791/</p>
           </td>
         </tr>
         <tr>
           <td>
-            國立臺灣交響樂團
+            <p>國立臺灣交響樂團</p>
           </td>
           <td>
-            劉玄詠
+            <p>劉玄詠</p>
           </td>
           <td>
-            臺中市霧峰區中正路738之2號<br>04-2339-1141
+            <p>臺中市霧峰區中正路738之2號</p>
+            <p>04-2339-1141</p>
           </td>
           <td>
-            <a target="_" href="https://www.ntso.gov.tw/home">連結</a>
-            
+            <p>https://www.ntso.gov.tw/home</p>
           </td>
         </tr>
         <tr>
           <td>
-            飛炫交響管樂團
+            <p>飛炫交響管樂團</p>
           </td>
           <td>
-            郭青樺
+            <p>郭青樺</p>
           </td>
           <td>
-            臺中市西區華美街51巷8號1樓
+            <p>臺中市西區華美街51巷8號1樓</p>
           </td>
           <td>
-            <a target="_" href="mailto:kfhch@hotmail.com">連結</a>
-            
+            <p>kfhch@hotmail.com</p>
           </td>
         </tr>
         <tr>
           <td>
-            台灣青年管樂團
+            <p>臺灣青年管樂團</p>
           </td>
           <td>
-            陳玲玲
+            <p>陳玲玲</p>
           </td>
           <td>
-            臺中市霧峰區中正路1056巷21號<br>0963-129-038
+            <p>臺中市霧峰區中正路1056巷21號</p>
+            <p>0963-129-038</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/taiwanyouthband/">連結</a><br>
-            <a target="_" href="mailto:taiwanyouthband@gmail.com">連結</a>
+            <p>https://www.facebook.com/taiwanyouthband/</p>
+            <p>taiwanyouthband@gmail.com</p>
           </td>
         </tr>
         <tr>
           <td>
-            綺想木笛室內樂團
+            <p>綺想木笛室內樂團</p>
           </td>
           <td>
-            郭焜照
+            <p>郭焜照</p>
           </td>
           <td>
-            臺中市豐原區南陽里23鄰安康路20巷39弄1號<br>04-2529-4863
+            <p>臺中市豐原區南陽里安康路20巷39弄1號</p>
+            <p>04-2529-4863</p>
           </td>
           <td>
-            <a target="_" href="mailto:recorder.capriccio@gmail.com">連結</a>
-            
+            <p>recorder.capriccio@gmail.com</p>
           </td>
         </tr>
         <tr>
           <td>
-            古典管絃樂團
+            <p>古典管絃樂團</p>
           </td>
           <td>
-            曾慶然
+            <p>曾慶然</p>
           </td>
           <td>
-            臺中市市政北二路400號<br>0928-956-716
+            <p>臺中市西屯區市政北二路400號</p>
+            <p>0928-956-716</p>
           </td>
           <td>
-            <a target="_" href="http://www.classic-orch.com/">連結</a>
-            
+            <p>http://www.classic-orch.com/</p>
           </td>
         </tr>
         <tr>
           <td>
-            青响樂集
+            <p>青响樂集</p>
           </td>
           <td>
-            林佳慧
+            <p>林佳慧</p>
           </td>
           <td>
-            臺中市潭子區潭陽里福潭路582號5樓<br>0932-040-017
+            <p>臺中市潭子區潭陽里福潭路582號5樓</p>
+            <p>0932-040-017</p>
           </td>
           <td>
-            <a target="_" href="mailto:iamdindon@gmail.com">連結</a>
-            
+            <p>iamdindon@gmail.com</p>
           </td>
         </tr>
         <tr>
           <td>
-            拾音樂集
+            <p>拾音樂集</p>
           </td>
           <td>
-            陳怡均
+            <p>陳怡均</p>
           </td>
           <td>
-            臺中市北區學士路187號10樓<br>0932-455-901
+            <p>臺中市北區學士路187號10樓</p>
+            <p>0932-455-901</p>
           </td>
           <td>
-            <a target="_" href="mailto:chenlovemusic@gmail.com">連結</a>
-            
+            <p>chenlovemusic@gmail.com</p>
           </td>
         </tr>
         <tr>
           <td>
-            橙樂管弦樂團
+            <p>橙樂管弦樂團</p>
           </td>
           <td>
-            曾鵬宇
+            <p>曾鵬宇</p>
           </td>
           <td>
-            臺中市霧峰區中正路1056巷21號
+            <p>臺中市霧峰區中正路1056巷21號</p>
           </td>
           <td>
-            <a target="_" href="mailto:OrangeOrchestra2007@gmail.com">連結</a>
+            <p>OrangeOrchestra2007@gmail.com</p>
           </td>
         </tr>
         <tr>
           <td>
-            維也納室內樂團
+            <p>維也納室內樂團</p>
           </td>
           <td>
-            鄭翰添
+            <p>鄭翰添</p>
           </td>
           <td>
-            臺中市北屯區綏遠路二段180號
+            <p>臺中市北屯區綏遠路二段180號</p>
           </td>
-          <td></td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            台中市交響樂團
+            <p>福爾摩沙愛樂管絃樂團</p>
           </td>
           <td>
-            張淑儀
+            <p>陳玫君</p>
           </td>
           <td>
-            臺中市西區五權西路一段237號8樓之2<br>04-2378-7838
+            <p>臺中市北屯區水景里景和街262號1樓</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/TCSO1/">連結</a>
-            
+            <p>https://www.facebook.com/FormosaPhilharmonic/</p>
           </td>
         </tr>
         <tr>
+          <td>
+            <p>台中市交響樂團</p>
+          </td>
           <td>
-            幾個人室內樂團
+            <p>張淑儀</p>
           </td>
           <td>
-            陳宜彣
+            <p>臺中市西區五權西路一段237號8樓之2</p>
+            <p>04-2378-7838</p>
           </td>
           <td>
-            臺中市西區英才路589巷2號6樓
+            <p>&nbsp;http://www.t-cso.com/</p>
           </td>
-          <td></td>
         </tr>
         <tr>
+          <td>
+            <p>幾個人室內樂團</p>
+          </td>
+          <td>
+            <p>陳宜彣</p>
+          </td>
           <td>
-            奏出福爾摩沙室內樂團
+            <p>臺中市西區英才路589巷2號6樓</p>
           </td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
           <td>
-            江瑜庭
+            <p>奏出福爾摩沙室內樂團</p>
           </td>
           <td>
-            臺中市沙鹿區福興里福成路68巷76號<br>0905-827-997
+            <p>江瑜庭</p>
           </td>
           <td>
-            <u></u>
+            <p>臺中市沙鹿區福興里福成路68巷76號</p>
+            <p>0905-827-997</p>
           </td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            構響室內樂團
+            <p>構響室內樂團</p>
           </td>
           <td>
-            謝宛軒
+            <p>謝宛軒</p>
           </td>
           <td>
-            臺中市霧峰區振興街21號11樓之1<br>0963-129-037
+            <p>臺中市霧峰區振興街21號11樓之1</p>
+            <p>0963-129-037</p>
           </td>
           <td>
-            <a target="_" href="mailto:composetrio@gmail.com">連結</a>
-            
+            <p>composetrio@gmail.com</p>
           </td>
         </tr>
         <tr>
           <td>
-            台灣銅管五重奏團
+            <p>台灣銅管五重奏團</p>
           </td>
           <td>
-            林怡文
+            <p>林怡文</p>
           </td>
           <td>
-            臺中市北區太原北路10號1樓
+            <p>臺中市北區太原北路10號1樓</p>
           </td>
-          <td></td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            新藝銅管五重奏
+            <p>新藝銅管五重奏</p>
           </td>
           <td>
-            劉宛貞
+            <p>劉宛貞</p>
           </td>
           <td>
-            臺中市霧峰區樹仁路121巷2號10樓之5
+            <p>臺中市霧峰區樹仁路121巷2號10樓之5</p>
           </td>
-          <td></td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            台中長笛室內樂團
+            <p>台中長笛室內樂團</p>
           </td>
           <td>
-            許仁忠
+            <p>許仁忠</p>
           </td>
           <td>
-            臺中市北區中清路一段726巷13號
+            <p>臺中市北區中清路一段726巷13號</p>
           </td>
-          <td></td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            古典管絃樂團
+            <p>古典管絃樂團</p>
           </td>
           <td>
-            曾慶然
+            <p>曾慶然</p>
           </td>
           <td>
-            臺中市南屯區向心路107巷5號<br>04-2380-6616
+            <p>臺中市南屯區向心路107巷5號</p>
+            <p>04-2380-6616</p>
           </td>
           <td>
-            <a target="_" href="mailto:classic.orch@gmail.com">連結</a>
-            
+            <p>classic.orch@gmail.com</p>
           </td>
         </tr>
         <tr>
           <td>
-            極限打擊二重奏
+            <p>極限打擊二重奏</p>
           </td>
           <td>
-            黃英哲
+            <p>黃英哲</p>
           </td>
           <td>
-            臺中市太平區振英街106巷6號
+            <p>臺中市太平區振英街106巷6號</p>
           </td>
-          <td></td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            台中愛樂管絃樂團
+            <p>台中愛樂管絃樂團</p>
           </td>
           <td>
-            唐旦祥
+            <p>唐旦祥</p>
           </td>
           <td>
-            臺中市南區復興路二段87之1號
+            <p>臺中市南區復興路二段87之1號</p>
           </td>
-          <td></td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            聆音室內樂團
+            <p>聆音室內樂團</p>
           </td>
           <td>
-            許芳瑛
+            <p>許芳瑛</p>
           </td>
           <td>
-            臺中市南區忠明南路782號6樓之2<br>04-2265-1860
+            <p>臺中市南區忠明南路782號6樓之2</p>
+            <p>04-2265-1860</p>
           </td>
-          <td></td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            員林愛樂
+            <p>員林愛樂</p>
           </td>
           <td>
-            張博銘
+            <p>張博銘</p>
           </td>
           <td>
-            彰化縣員林市育英路567號<br>04-834-7485
+            <p>彰化縣員林市育英路567號</p>
+            <p>04-834-7485</p>
           </td>
           <td>
-            <a target="_" href="https://baishamus.weebly.com/">連結</a>
-            
+            <p>https://baishamus.weebly.com/</p>
           </td>
         </tr>
         <tr>
           <td>
-            彰化青年管樂團
+            <p>彰化青年管樂團</p>
           </td>
           <td>
-            林垂正
+            <p>林垂正</p>
           </td>
           <td>
-            彰化縣芬園鄉大埔村14鄰德興路一段129號<br>0931-581-755
+            <p>彰化縣芬園鄉大埔村德興路一段129號</p>
+            <p>0931-581-755</p>
           </td>
-          <td></td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
+          <td>
+            <p>彰化愛樂室內樂團</p>
+          </td>
+          <td>
+            <p>蕭亦翎</p>
+          </td>
           <td>
-            彰化愛樂室內樂團
+            <p>彰化縣彰化市中山路二段437號3樓</p>
+            <p>04-728-7972</p>
           </td>
           <td>
-            蕭亦翎
+            <p>phiharmonia.changhua.tw@gmail.com</p>
           </td>
+        </tr>
+        <tr>
           <td>
-            彰化縣彰化市中山路二段437號3樓<br>04-728-7972
+            <p>就是木笛室內樂團</p>
           </td>
           <td>
-            <a target="_" href="mailto:phiharmonia.changhua.tw@gmail.com">連結</a>
-            
+            <p>邱聖育</p>
           </td>
+          <td>
+            <p>彰化縣埔心鄉仁里村仁三路93巷8號</p>
+            <p>04-828-2011</p>
+          </td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
+          <td>
+            <p>親愛愛樂</p>
+          </td>
           <td>
-            就是木笛室內樂團
+            <p>王子建</p>
           </td>
           <td>
-            邱聖育
+            <p>南投縣仁愛鄉親愛村高平路3號</p>
+            <p>049-2974-590</p>
           </td>
           <td>
-            彰化縣埔心鄉仁里村仁三路93巷8號<br>04-828-2011
+            <p>https://www.chin-ai.org.tw/</p>
           </td>
-          <td></td>
         </tr>
         <tr>
           <td>
-            雲林愛樂室內樂團
+            <p>雲林愛樂室內樂團</p>
           </td>
           <td>
-            楊正治
+            <p>楊正治</p>
           </td>
           <td>
-            雲林縣斗六市永樂街27之2號<br>05-532-4860
+            <p>雲林縣斗六市永樂街27之2號</p>
+            <p>05-532-4860</p>
           </td>
-          <td></td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            正心愛樂管弦樂團
+            <p>正心愛樂管弦樂團</p>
           </td>
           <td>
-            鄭弘藝
+            <p>鄭弘藝</p>
           </td>
-          <td></td>
+          <td>&nbsp;</td>
           <td>
-            <a target="_" href="https://www.facebook.com/SHPO.Music/">連結</a>
-            
+            <p>https://www.facebook.com/SHPO.Music/</p>
           </td>
         </tr>
         <tr>
           <td>
-            絕響室內樂團
+            <p>絕響室內樂團</p>
           </td>
           <td>
-            林宇欣
+            <p>林宇欣</p>
           </td>
           <td>
-            雲林縣斗六市溪洲里中南路290巷9弄61號<br>0970-010-551
+            <p>雲林縣斗六市溪洲里中南路290巷9弄61號</p>
+            <p>0970-010-551</p>
           </td>
-          <td></td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            Muse Trio 繆斯三重奏
+            <p>Muse Trio繆斯三重奏</p>
           </td>
           <td>
-            張嘉玲
+            <p>張嘉玲</p>
           </td>
           <td>
-            雲林縣斗六市嘉東南路56巷12號<br>05-537-3919
+            <p>雲林縣斗六市嘉東南路56巷12號</p>
+            <p>05-537-3919</p>
           </td>
-          <td></td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            雲林縣薩克斯風管樂團
+            <p>雲林縣薩克斯風管樂團</p>
           </td>
           <td>
-            許平和
+            <p>許平和</p>
           </td>
           <td>
-            雲林縣虎尾鎮平和里4鄰青埔2號之15<br>0932-588-329
+            <p>雲林縣虎尾鎮平和里青埔2號之15</p>
+            <p>0932-588-329</p>
           </td>
-          <td></td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            陽光室內樂團
+            <p>陽光室內樂團</p>
           </td>
           <td>
-            廖婉君
+            <p>廖婉君</p>
           </td>
           <td>
-            雲林縣斗六市鎮南路82之1號<br>0919-011-777
+            <p>雲林縣斗六市鎮南路82之1號</p>
+            <p>0919-011-777</p>
           </td>
-          <td></td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            嘉義市管樂團
+            <p>嘉義市管樂團</p>
           </td>
           <td>
-            陳建州
+            <p>陳建州</p>
           </td>
           <td>
-            嘉義市東區泰安里忠孝路275號<br>05-222-5173
+            <p>嘉義市東區泰安里忠孝路275號</p>
+            <p>05-222-5173</p>
           </td>
           <td>
-            <a target="_" href="mailto:cywo@ms14.hinet.net">連結</a>
-            
+            <p>cywo@ms14.hinet.net</p>
           </td>
         </tr>
         <tr>
+          <td>
+            <p>嘉義交響管樂團</p>
+          </td>
+          <td>
+            <p>高于仁</p>
+          </td>
+          <td>
+            <p>嘉義市西區民生南路118之1號</p>
+            <p>05-216-2762</p>
+          </td>
           <td>
-            嘉義交響管樂團
+            <p>lifetime@ms12.hinet.net</p>
           </td>
+        </tr>
+        <tr>
           <td>
-            高于仁
+            <p>嘉義市青年管弦樂團</p>
           </td>
           <td>
-            嘉義市西區民生南路118之1號<br>05-216-2762
+            <p>陳雍杰</p>
           </td>
           <td>
-            <a target="_" href="mailto:lifetime@ms12.hinet.net">連結</a>
-            
+            <p>嘉義市東區豐年里吳鳳南路32巷23號</p>
+            <p>0926-330-786</p>
           </td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            嘉義市青年管弦樂團
+            <p>嘉義縣愛樂木笛合奏團</p>
           </td>
           <td>
-            陳雍杰
+            <p>簡文智</p>
           </td>
           <td>
-            嘉義市東區豐年里1鄰吳鳳南路32巷23號<br>0926-330-786
+            <p>嘉義縣大林鎮西林里中正路423號</p>
+            <p>05-265-2061</p>
           </td>
-          <td></td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            嘉義縣愛樂木笛合奏團
+            <p>樸城弦樂團</p>
           </td>
           <td>
-            簡文智
+            <p>林上棋</p>
           </td>
           <td>
-            嘉義縣大林鎮西林里中正路423號<br>05-265-2061
+            <p>嘉義縣朴子市四維路三段316號</p>
+            <p>05-370-6054</p>
           </td>
-          <td></td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            樸城弦樂團
+            <p>涴莎室內樂團</p>
           </td>
           <td>
-            林上棋
+            <p>陳室融</p>
           </td>
           <td>
-            嘉義縣朴子市四維路三段316號<br>05-370-6054
+            <p>臺南市東區東門路二段167巷16弄12號</p>
+            <p>0929-048-109</p>
           </td>
-          <td></td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            涴莎室內樂團
+            <p>臺南市管樂團</p>
           </td>
+          <td>&nbsp;</td>
           <td>
-            陳室融
+            <p>臺南市新化區信義路142之1（新化演藝廳）</p>
           </td>
           <td>
-            臺南市東區東門路二段167巷16弄12號<br>0929-048-109
+            <p>https://www.facebook.com/tsbandsh/</p>
           </td>
-          <td></td>
         </tr>
         <tr>
           <td>
-            臺南市管樂團
+            <p>夢想田室內樂團</p>
           </td>
-          <td></td>
           <td>
-            臺南市新化區信義路142之1（新化演藝廳）
+            <p>張怡婷</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/tsbandsh/">連結</a>
-            
+            <p>臺南市安南區海中街300號</p>
+            <p>0920-026-192</p>
           </td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            夢想田室內樂團
+            <p>臺灣玉山交響樂團</p>
           </td>
           <td>
-            張怡婷
+            <p>許恕藍</p>
           </td>
           <td>
-            臺南市安南區海中街300號<br>0920-026-192
+            <p>臺南市中西區青年里青年路47巷10號</p>
           </td>
-          <td></td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
+          <td>
+            <p>臺邦獨奏家樂團</p>
+          </td>
           <td>
-            臺灣玉山交響樂團
+            <p>陳依萱</p>
           </td>
           <td>
-            許恕藍
+            <p>臺南市安平區永華二街199號2樓</p>
+            <p>06-293-1790</p>
           </td>
           <td>
-            臺南市中西區青年里青年路47巷10號
+            <p>http://www.tso.org.tw/</p>
           </td>
-          <td></td>
         </tr>
         <tr>
           <td>
-            臺邦獨奏家樂團
+            <p>台南愛樂管絃樂團</p>
           </td>
+          <td>
+            <p>唐旦祥</p>
+          </td>
+          <td>
+            <p>臺南市東區崇信街18號</p>
+            <p>0929-118-866</p>
+          </td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
           <td>
-            陳依萱
+            <p>台灣藝術家交響樂團</p>
           </td>
           <td>
-            臺南市安平區永華二街199號2樓<br>06-293-1790
+            <p>呂景民</p>
           </td>
           <td>
-            <a target="_" href="http://www.tso.org.tw/">連結</a>
-            
+            <p>臺南市東區立德一路1巷10號1樓</p>
+            <p>06-703-5353</p>
           </td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            台南愛樂管絃樂團
+            <p>自由人室內樂團</p>
           </td>
           <td>
-            唐旦祥
+            <p>王文娟</p>
           </td>
           <td>
-            臺南市東區崇信街18號<br>0929-118-866
+            <p>臺南市中西區五妃街76號6樓之2</p>
+            <p>06-282-7469</p>
           </td>
-          <td></td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            台灣藝術家交響樂團
+            <p>高雄藝曲愛樂管樂團</p>
           </td>
           <td>
-            呂景民
+            <p>楊子霆</p>
           </td>
           <td>
-            臺南市東區立德一路1巷10號1樓<br>06-703-5353
+            <p>0939-255-544</p>
           </td>
-          <td></td>
+          <td>
+            <p>kamwb20150412@gmail.com</p>
+          </td>
         </tr>
         <tr>
           <td>
-            自由人室內樂團
+            <p>高雄市交響樂團</p>
           </td>
           <td>
-            王文娟
+            <p>楊智欽</p>
           </td>
           <td>
-            臺南市五妃街76號6樓之2<br>06-282-7469
+            <p>高雄市鳳山區光遠路161號</p>
+            <p>07-743-6633</p>
           </td>
-          <td></td>
+          <td>
+            <p>http://kpcaf.khcc.gov.tw/index.php?temp=kso&amp;lang=cht</p>
+          </td>
         </tr>
         <tr>
           <td>
-            高雄藝曲愛樂管樂團
+            <p>台灣旋轉木馬古樂團</p>
           </td>
           <td>
-            楊子霆
+            <p>盧玥綝</p>
           </td>
           <td>
-            0939-255-544
+            <p>高雄市鳳山區三商街1巷2弄3之2號</p>
+            <p>0975-583-567</p>
           </td>
           <td>
-            <a target="_" href="mailto:kamwb20150412@gmail.com">連結</a>
-            
+            <p>earlymusiccarousel@gmail.com</p>
           </td>
         </tr>
         <tr>
           <td>
-            高雄市交響樂團
+            <p>弓爵大提琴室內樂團</p>
           </td>
           <td>
-            楊智欽
+            <p>蘇逸凌</p>
           </td>
           <td>
-            高雄市鳳山區光遠路161號<br>07-743-6633
+            <p>高雄市鳳山區濱山街1號6樓之4</p>
+            <p>0928-838-325</p>
           </td>
           <td>
-            <a target="_" href="http://kpcaf.khcc.gov.tw/index.php?temp=kso&amp;lang=cht">連結</a>
-            
+            <p>https://www.facebook.com/GongJueDaTiQinShiNeiLeTuan</p>
           </td>
         </tr>
         <tr>
           <td>
-            佳音室內樂團
+            <p>薪傳打擊樂團</p>
           </td>
           <td>
-            陳一萱
+            <p>鄭翔夫</p>
           </td>
           <td>
-            高雄市三民區河堤路510之3號7樓<br>07-341-1356
+            <p>高雄市三民區大豐二路116之8號2樓</p>
+            <p>07-385-5641</p>
           </td>
           <td>
-            <a target="_" href="mailto:chiayin2014@gmail.com">連結</a>
-            
+            <p>succperc1995@gmail.com</p>
           </td>
         </tr>
         <tr>
           <td>
-            對位室內樂團
+            <p>新古典室內樂團</p>
           </td>
           <td>
-            林怡雯
+            <p>陳欣宜</p>
           </td>
           <td>
-            高雄市新興區中正二路218號四樓之五<br>07-226-0989
+            <p>高雄市三民區建國三路495號9樓之3</p>
+            <p>07-282-8496</p>
           </td>
           <td>
-            <a target="_" href="http://www.counterpoint.org.tw/">連結</a><br>
-            <a target="_" href="mailto:tw.counterpoint@gmail.com">連結</a>
+            <p>godspeed0304@yahoo.com.tw</p>
           </td>
         </tr>
         <tr>
           <td>
-            台灣獨奏家交響樂團
+            <p>漫遊者室內樂團</p>
           </td>
           <td>
-            陳冠斌
+            <p>黃子宜</p>
           </td>
           <td>
-            高雄市苓雅區五福一路77號10樓之1<br>07-225-4100
+            <p>高雄市三民區禮明路70號</p>
+            <p>07-385-2585</p>
           </td>
           <td>
-            <a target="_" href="http://www.taiwansoloists.org">連結</a><br>
-            <a target="_" href="mailto:info@cmiam.com">連結</a>
+            <p>
+              https://www.facebook.com/漫遊者室內樂團-The-Wanderer-Chamber-Ensemble-234407220317636/
+            </p>
           </td>
         </tr>
         <tr>
           <td>
-            Miracle長笛明星樂團
+            <p>佳音室內樂團</p>
           </td>
           <td>
-            林文苑
+            <p>陳一萱</p>
           </td>
           <td>
-            高雄市左營區太華街70號<br>07-559-1067
+            <p>高雄市三民區河堤路510之3號7樓</p>
+            <p>07-341-1356</p>
           </td>
           <td>
-            <a target="_" href="http://www.miracle.tw">連結</a><br>
-            <a target="_" href="mailto:fl.miracle@gmail.com">連結</a>
+            <p>chiayin2014@gmail.com</p>
           </td>
         </tr>
         <tr>
           <td>
-            高雄市管樂團
+            <p>對位室內樂團</p>
           </td>
           <td>
-            沈銘彥
+            <p>林怡雯</p>
           </td>
           <td>
-            高雄市前鎮區和義街121號<br>07-715-6611
+            <p>高雄市新興區中正二路218號4樓之5</p>
+            <p>07-226-0989</p>
           </td>
           <td>
-            <a target="_" href="mailto:kcwo2012@gmail.com">連結</a>
-            
+            <p>http://www.counterpoint.org.tw/</p>
+            <p>tw.counterpoint@gmail.com</p>
           </td>
         </tr>
         <tr>
           <td>
-            巴洛克獨奏家樂團
+            <p>Dominant5鋼琴五重奏室內樂團</p>
           </td>
           <td>
-            葉懿萱
+            <p>康郁理</p>
           </td>
           <td>
-            高雄市鼓山區美術北一街63號<br>07-525-1556
+            <p>高雄市新興區民權一路251號27樓</p>
+            <p>0919-774-516</p>
           </td>
           <td>
-            <a target="_" href="http://www.baroque-camerata.org/">連結</a><br>
-            <a target="_" href="mailto:kmu021013@gmail.com">連結</a>
+            <p>https://www.facebook.com/Dominant5-102445478056031/</p>
           </td>
         </tr>
         <tr>
           <td>
-            六藝樂集
+            <p>One Punch Contemporary Chamber Ensemble當代室內樂團</p>
           </td>
           <td>
-            沈銘彥
+            <p>李茂嵩</p>
           </td>
           <td>
-            高雄市前鎮區和義街121號<br>07-715-6611
+            <p>高雄市新興區八德一路335號5樓</p>
           </td>
           <td>
-            <a target="_" href="mailto:sixartsmusic@gmail.com">連結</a>
-            
+            <p>op.maosunglee@gmail.com</p>
           </td>
         </tr>
         <tr>
           <td>
-            藝綻室內樂團
+            <p>福爾摩沙巴洛克古樂團</p>
           </td>
           <td>
-            温依婷
+            <p>陳逸芬</p>
           </td>
           <td>
-            高雄市鼓山區華泰路145號<br>07-554-1797
+            <p>高雄市新興區新興路29號2樓</p>
+            <p>0911-163-707</p>
           </td>
           <td>
-            <a target="_" href="mailto:artsblooming@gmail.com">連結</a>
-            
+            <p>http://www.formosabaroque.com</p>
           </td>
         </tr>
         <tr>
           <td>
-            高雄之音管樂團
+            <p>巴赫納利亞台灣室內樂團．高雄</p>
           </td>
           <td>
-            孫炳剛
+            <p>黃意雯</p>
           </td>
           <td>
-            高雄市苓雅區苓中路191號5樓<br>0920-559-970
+            <p>高雄市新興區復興一路10號7樓之5</p>
+            <p>02-2922-6131</p>
           </td>
           <td>
-            <a target="_" href="mailto:sokwe.org@gmail.com">連結</a>
-            
+            <p>bachanaliataiwan@gmail.com</p>
           </td>
         </tr>
         <tr>
           <td>
-            台灣愛樂室內樂團
+            <p>高雄之音管樂團</p>
           </td>
           <td>
-            吳佳鴻
+            <p>孫炳剛</p>
           </td>
           <td>
-            高雄市前鎮區高雄市前鎮區三多三路137號7樓之1<br>07-332-7006
+            <p>高雄市苓雅區苓中路191號5樓</p>
+            <p>0920-559-970</p>
           </td>
           <td>
-            <a target="_" href="mailto:sonatarecord@gmail.com">連結</a>
-            
+            <p>sokwe.org@gmail.com</p>
           </td>
         </tr>
         <tr>
           <td>
-            新古典室內樂團
+            <p>台灣獨奏家交響樂團</p>
           </td>
           <td>
-            陳欣宜
+            <p>陳冠斌</p>
           </td>
           <td>
-            高雄市三民區建國三路495號9樓之3<br>07-282-8496
+            <p>高雄市苓雅區五福一路77號10樓之1</p>
+            <p>07-225-4100</p>
           </td>
           <td>
-            <a target="_" href="mailto:godspeed0304@yahoo.com.tw">連結</a>
-            
+            <p>http://www.taiwansoloists.org</p>
+            <p>info@cmiam.com</p>
           </td>
         </tr>
         <tr>
           <td>
-            他拉喇叭團
+            <p>雄頌管弦樂團</p>
           </td>
           <td>
-            王怡人
+            <p>周安瑞</p>
           </td>
           <td>
-            高雄市鳥松區松埔北巷4之40號6樓<br>0908-217-568
+            <p>高雄市苓雅區林泉街23號 07-724-8759</p>
           </td>
           <td>
-            <a target="_" href="mailto:yijenwang@tlbebrass.com">連結</a>
-            
+            <p>https://www.facebook.com/siungsongorch</p>
           </td>
         </tr>
         <tr>
           <td>
-            薪傳打擊樂團
+            <p>Miracle長笛明星樂團</p>
           </td>
           <td>
-            鄭翔夫
+            <p>林文苑</p>
           </td>
           <td>
-            高雄市三民區大豐二路116之8號2樓<br>07-385-5641
+            <p>高雄市左營區太華街70號</p>
+            <p>07-559-1067</p>
           </td>
           <td>
-            <a target="_" href="mailto:succperc1995@gmail.com">連結</a>
-            
+            <p>https://www.facebook.com/Miracleflute/</p>
+            <p>fl.miracle@gmail.com</p>
           </td>
         </tr>
         <tr>
           <td>
-            臺灣吹笛人室內樂團
+            <p>發條貓造音集</p>
           </td>
           <td>
-            凌珮瑄
+            <p>郭純杏</p>
           </td>
           <td>
-            高雄市前鎮區管仲南路346號<br>0988-530-086
+            <p>高雄市左營區安吉街438號4樓之2</p>
+            <p>0985-350-012</p>
           </td>
           <td>
-            <a target="_" href="mailto:irisma313@gmail.com">連結</a>
-            
+            <p>clockworkingcat@gmail.com</p>
           </td>
         </tr>
         <tr>
           <td>
-            自由之翼吹奏樂團
+            <p>絢季室內樂團</p>
           </td>
           <td>
-            陳瑋琮
+            <p>曾瀞瑩</p>
           </td>
           <td>
-            0911-154-085
+            <p>高雄市左營區至真路155號7樓之2</p>
+            <p>07-347-8342</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/freewingwinds/">連結</a>
-            
+            <p>https://www.facebook.com/SplendorChamberMusic/</p>
           </td>
         </tr>
         <tr>
+          <td>
+            <p>極地之光管弦樂團</p>
+          </td>
           <td>
-            生命樹單簧管合奏團
+            <p>杜紹堯</p>
           </td>
           <td>
-            蕭明佳
+            <p>高雄市左營區新莊一路135號7樓之3</p>
+            <p>0938-518-518</p>
           </td>
           <td>
-            0932-858-563
+            <p>https://www.facebook.com/apex.orchestra/</p>
           </td>
-          <td></td>
         </tr>
         <tr>
+          <td>
+            <p>高雄市管樂團</p>
+          </td>
           <td>
-            極地之光室內樂團
+            <p>沈銘彥</p>
           </td>
           <td>
-            劉孟灝
+            <p>高雄市前鎮區一心二路157號12樓1205室</p>
+            <p>07-715-6611</p>
           </td>
-          <td></td>
           <td>
-            <a target="_" href="mailto:apexorch@gmail.com">連結</a>
-            
+            <p>kcwo2012@gmail.com</p>
           </td>
         </tr>
         <tr>
           <td>
-            悠然弦樂團
+            <p>巴洛克獨奏家樂團</p>
           </td>
           <td>
-            林鴻喻
+            <p>葉懿萱</p>
           </td>
           <td>
-            高雄市前鎮區衡山街76號<br>07-537-2008
+            <p>高雄市鼓山區美術北一街63號</p>
+            <p>07-525-1556</p>
           </td>
-          <td></td>
+          <td>
+            <p>http://www.baroque-camerata.org/</p>
+            <p>kmu021013@gmail.com</p>
+          </td>
         </tr>
         <tr>
           <td>
-            巴赫納利亞台灣室內樂團．高雄
+            <p>藝綻室內樂團</p>
           </td>
           <td>
-            黃意雯
+            <p>温依婷</p>
           </td>
           <td>
-            高雄市新興區復興一路10號7樓之5<br>02-2922-6131
+            <p>高雄市鼓山區華泰路145號</p>
+            <p>07-554-1797</p>
           </td>
           <td>
-            <a target="_" href="mailto:bachanaliataiwan@gmail.com">連結</a>
-            
+            <p>artsblooming@gmail.com</p>
           </td>
         </tr>
         <tr>
           <td>
-            One Punch Contemporary Chamber Ensemble 當代室內樂團
+            <p>六藝樂集</p>
           </td>
           <td>
-            李茂嵩
+            <p>沈銘彥</p>
           </td>
           <td>
-            高雄市新興區八德一路335號5樓
+            <p>高雄市前鎮區和義街121號</p>
+            <p>07-715-6611</p>
           </td>
           <td>
-            <a target="_" href="mailto:op.maosunglee@gmail.com">連結</a>
-            
+            <p>sixartsmusic@gmail.com</p>
           </td>
         </tr>
         <tr>
           <td>
-            高雄室內重奏團
+            <p>繆思室內樂團</p>
           </td>
           <td>
-            張原碩
+            <p>黃惠鈴</p>
           </td>
           <td>
-            高雄市旗山區樹人路43之9號<br>07-662-3208
+            <p>高雄市前鎮區廣州三街351號</p>
+            <p>0930-818-040</p>
           </td>
           <td>
-            <a target="_" href="mailto:kce.taiwan@gmail.com">連結</a>
-            
+            <p>onaip1017@gmail.com</p>
           </td>
         </tr>
         <tr>
           <td>
-            捍衛音樂工作坊
+            <p>台灣愛樂室內樂團</p>
           </td>
           <td>
-            陳聖昱
+            <p>吳佳鴻</p>
           </td>
           <td>
-            高雄市鼓山區文信路257號10樓<br>0955-215-877
+            <p>高雄市前鎮區三多三路137號7樓之1</p>
+            <p>07-332-7006</p>
           </td>
           <td>
-            <a target="_" href="mailto:defendyourself2018@gmail.com">連結</a>
-            
+            <p>sonatarecord@gmail.com</p>
           </td>
         </tr>
         <tr>
+          <td>
+            <p>臺灣吹笛人室內樂團</p>
+          </td>
+          <td>
+            <p>凌珮瑄</p>
+          </td>
+          <td>
+            <p>高雄市前鎮區管仲南路346號</p>
+            <p>0988-530-086</p>
+          </td>
           <td>
-            福爾摩沙巴洛克古樂團
+            <p>irisma313@gmail.com</p>
           </td>
+        </tr>
+        <tr>
           <td>
-            陳逸芬
+            <p>悠然弦樂團</p>
           </td>
           <td>
-            高雄市新興區新興路29號2樓<br>0911-163-707
+            <p>林鴻喻</p>
           </td>
           <td>
-            <a target="_" href="http://www.formosabaroque.com">連結</a>
-            
+            <p>高雄市前鎮區衡山街76號</p>
+            <p>07-537-2008</p>
           </td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            彈指之間室內樂團
+            <p>高雄室內重奏團</p>
           </td>
           <td>
-            洪寅洲
+            <p>張原碩</p>
           </td>
           <td>
-            高雄市鹽埕區必忠街170號<br>07-521-4731
+            <p>高雄市旗山區樹人路43之9號</p>
+            <p>07-662-3208</p>
           </td>
           <td>
-            <a target="_" href="mailto:yh002e@yahoo.com">連結</a>
-            
+            <p>kce.taiwan@gmail.com</p>
           </td>
         </tr>
         <tr>
           <td>
-            繆思室內樂團
+            <p>捍衛音樂工作坊</p>
           </td>
           <td>
-            黃惠鈴
+            <p>陳聖昱</p>
           </td>
           <td>
-            高雄市前鎮區廣州三街351號<br>0930-818-040
+            <p>高雄市鼓山區文信路257號10樓</p>
+            <p>0955-215-877</p>
           </td>
           <td>
-            <a target="_" href="mailto:onaip1017@gmail.com">連結</a>
-            
+            <p>defendyourself2018@gmail.com</p>
           </td>
         </tr>
         <tr>
           <td>
-            台灣旋轉木馬古樂團
+            <p>彈指之間室內樂團</p>
           </td>
           <td>
-            盧玥綝
+            <p>洪寅洲</p>
           </td>
           <td>
-            高雄市鳳山區三商街1巷2弄3之2號<br>0975-583-567
+            <p>高雄市鹽埕區必忠街170號</p>
+            <p>07-521-4731</p>
           </td>
           <td>
-            <a target="_" href="mailto:earlymusiccarousel@gmail.com">連結</a>
-            
+            <p>yh002e@yahoo.com</p>
           </td>
         </tr>
         <tr>
           <td>
-            龍泉愛樂
+            <p>他拉喇叭團</p>
           </td>
           <td>
-            吳淑如
+            <p>王怡人</p>
           </td>
           <td>
-            屏東縣內埔鄉昌南路1巷9號<br>0956-610-621
+            <p>高雄市鳥松區松埔北巷4之40號6樓</p>
+            <p>0908-217-568</p>
           </td>
           <td>
-            <a target="_" href="mailto:sj_5512@yahoo.com.tw">連結</a>
-            
+            <p>yijenwang@tlbebrass.com</p>
           </td>
         </tr>
         <tr>
           <td>
-            繆思室內樂團
+            <p>龍泉愛樂</p>
           </td>
           <td>
-            許晉怡
+            <p>吳淑如</p>
           </td>
           <td>
-            屏東市林森路東四段10號<br>08-722-0635
+            <p>屏東縣內埔鄉昌南路1巷9號</p>
+            <p>0956-610-621</p>
           </td>
           <td>
-            <a target="_" href="mailto:chinyihsu@gmail.com">連結</a>
-            
+            <p>sj_5512@yahoo.com.tw</p>
           </td>
         </tr>
         <tr>
           <td>
-            潮聲合唱團
+            <p>繆思室內樂團</p>
           </td>
           <td>
-            徐炳文
+            <p>許晉怡</p>
           </td>
           <td>
-            屏東縣潮州鎮長興路54之10號<br>08-788-3360
+            <p>屏東縣屏東市林森路東四段10號</p>
+            <p>08-722-0635</p>
           </td>
           <td>
-            <a target="_" href="mailto:chen7883360@yahoo.com.tw">連結</a>
-            
+            <p>chinyihsu@gmail.com</p>
           </td>
         </tr>
         <tr>
           <td>
-            音緣樂集室內樂團
+            <p>音緣樂集室內樂團</p>
           </td>
           <td>
-            葉乃菁
+            <p>葉乃菁</p>
           </td>
           <td>
-            屏東市豐榮里24鄰民強街3號9樓<br>0939-097-296
+            <p>屏東縣屏東市豐榮里民強街3號9樓</p>
+            <p>0939-097-296</p>
           </td>
-          <td></td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            屏東聯合管樂團
+            <p>屏東聯合管樂團</p>
           </td>
           <td>
-            張詠佑
+            <p>張詠佑</p>
           </td>
           <td>
-            屏東市瑞光路二段236號<br>0912-777-479
+            <p>屏東縣屏東市瑞光路二段236號</p>
+            <p>0912-777-479</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/ptsb1995/">連結</a>
-            
+            <p>https://www.facebook.com/ptsb1995/</p>
           </td>
         </tr>
         <tr>
           <td>
-            屏東縣管弦樂團
+            <p>屏東縣管弦樂團</p>
           </td>
           <td>
-            曾令凱
+            <p>曾令凱</p>
           </td>
           <td>
-            0921-250-966
+            <p>0921-250-966</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/ptso2016/">連結</a>
-            
+            <p>https://www.facebook.com/ptso2016/</p>
           </td>
         </tr>
         <tr>
           <td>
-            屏東縣交響樂團
+            <p>屏東縣交響樂團</p>
           </td>
           <td>
-            陳明雄
+            <p>陳明雄</p>
           </td>
           <td>
-            屏東市瑞光路二段236號<br>08-737-2099
+            <p>屏東縣屏東市瑞光路二段236號</p>
+            <p>08-737-2099</p>
           </td>
           <td>
-            <a target="_" href="mailto:fanfare2099@gmail.com">連結</a>
-            
+            <p>fanfare2099@gmail.com</p>
           </td>
         </tr>
         <tr>
           <td>
-            屏東愛樂室內樂團
+            <p>屏東愛樂室內樂團</p>
           </td>
           <td>
-            江敬業
+            <p>江敬業</p>
           </td>
           <td>
-            屏東市廣東路1550號<br>0910-966-988
+            <p>屏東縣屏東市廣東路1550號</p>
+            <p>0910-966-988</p>
           </td>
           <td>
-            <a target="_" href="mailto:p7517777@xuite.hinet.net">連結</a>
-            
+            <p>p7517777@xuite.hinet.net</p>
           </td>
         </tr>
         <tr>
           <td>
-            漫響室內樂團
+            <p>漫響室內樂團</p>
           </td>
           <td>
-            鄭羽捷
+            <p>鄭羽捷</p>
           </td>
           <td>
-            宜蘭縣羅東鎮林森路154之1號<br>0952-003-877
+            <p>宜蘭縣羅東鎮林森路154之1號</p>
+            <p>0952-003-877</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/muzik2014tw/">連結</a>
-            
+            <p>https://www.facebook.com/muzik2014tw/</p>
           </td>
         </tr>
         <tr>
           <td>
-            宜蘭節慶室內樂團
+            <p>宜蘭節慶室內樂團</p>
           </td>
           <td>
-            黃啟信
+            <p>黃啟信</p>
           </td>
           <td>
-            宜蘭縣宜蘭市新興路209號<br>0933-046-547
+            <p>宜蘭縣宜蘭市新興路209號</p>
+            <p>0933-046-547</p>
           </td>
           <td>
-            <a target="_" href="mailto:trbarts2004@yahoo.com.tw">連結</a>
-            
+            <p>trbarts2004@yahoo.com.tw</p>
           </td>
         </tr>
         <tr>
           <td>
-            行樂愛樂室內樂團
+            <p>行樂愛樂室內樂團</p>
           </td>
           <td>
-            吳茵茵
+            <p>吳茵茵</p>
           </td>
           <td>
-            宜蘭縣羅東鎮大新里站前路32之2號5樓<br>0963-131-252
+            <p>宜蘭縣羅東鎮大新里站前路32之2號5樓</p>
+            <p>0963-131-252</p>
           </td>
           <td>
-            <a target="_" href="mailto:singyue.music@gmail.com">連結</a>
-            
+            <p>singyue.music@gmail.com</p>
           </td>
         </tr>
         <tr>
           <td>
-            宜蘭青年管樂團
+            <p>宜蘭青年管樂團</p>
           </td>
           <td>
-            林緯
+            <p>林緯</p>
           </td>
           <td>
-            宜蘭縣壯圍鄉吉祥村14鄰壯五路277號<br>0981-341-834
+            <p>宜蘭縣壯圍鄉吉祥村壯五路277號</p>
+            <p>0981-341-834</p>
           </td>
           <td>
-            <a target="_" href="mailto:f902601@hotmail.com">連結</a>
-            
+            <p>f902601@hotmail.com</p>
           </td>
         </tr>
         <tr>
           <td>
-            蘭陽人銅管五重奏
+            <p>蘭陽人銅管五重奏</p>
           </td>
           <td>
-            吳倍瑄
+            <p>吳倍瑄</p>
           </td>
           <td>
-            宜蘭縣羅東鎮建國街33號<br>0914-034-039
+            <p>宜蘭縣羅東鎮建國街33號</p>
+            <p>0914-034-039</p>
           </td>
           <td>
-            <a target="_" href="mailto:deannawu88@gmail.com">連結</a>
-            
+            <p>deannawu88@gmail.com</p>
           </td>
         </tr>
         <tr>
           <td>
-            蘭陽管樂團
+            <p>蘭陽管樂團</p>
           </td>
           <td>
-            林小姐
+            <p>林小姐</p>
           </td>
           <td>
-            宜蘭縣宜蘭市中山路二段482號<br>03-936-9115#115
+            <p>宜蘭縣宜蘭市中山路二段482號</p>
+            <p>03-936-9115 #115</p>
           </td>
           <td>
-            <a target="_" href="mailto:yilanperform@gmail.com">連結</a>
-            
+            <p>yilanperform@gmail.com</p>
           </td>
         </tr>
         <tr>
+          <td>
+            <p>宜蘭愛樂管弦樂團</p>
+          </td>
+          <td>
+            <p>謝元富</p>
+          </td>
           <td>
-            宜蘭愛樂管弦樂團
+            <p>宜蘭縣礁溪鄉林美村林尾路160號</p>
+            <p>0911-659-343</p>
           </td>
           <td>
-            謝元富
+            <p>shiehyf@gmail.com</p>
           </td>
+        </tr>
+        <tr>
           <td>
-            宜蘭縣礁溪鄉林美村林尾路160號<br>0911-659-343
+            <p>花蓮管樂團</p>
           </td>
           <td>
-            <a target="_" href="mailto:shiehyf@gmail.com">連結</a>
-            
+            <p>蔡文貴</p>
           </td>
+          <td>
+            <p>0988-517-389</p>
+          </td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
+          <td>
+            <p>聲子樂集</p>
+          </td>
           <td>
-            花蓮管樂團
+            <p>林希哲</p>
           </td>
           <td>
-            蔡文貴
+            <p>花蓮縣花蓮市博愛街199號</p>
+            <p>03-832-4517</p>
           </td>
           <td>
-            0988-517-389
+            <p>https://phononmusic.wordpress.com/</p>
           </td>
-          <td></td>
         </tr>
         <tr>
+          <td>
+            <p>洄瀾室內樂團</p>
+          </td>
           <td>
-            聲子樂集
+            <p>武崢</p>
           </td>
+          <td>&nbsp;</td>
+          <td>
+            <p>2013hco@gmail.com</p>
+          </td>
+        </tr>
+        <tr>
           <td>
-            林希哲
+            <p>High FLY豎笛四重奏</p>
           </td>
           <td>
-            花蓮縣花蓮市博愛街199號<br>03-832-4517
+            <p>范捷安</p>
           </td>
+          <td>&nbsp;</td>
           <td>
-            <a target="_" href="https://phononmusic.wordpress.com/">連結</a>
-            
+            <p>
+              https://www.facebook.com/pg/High-Fly豎笛四重奏-1501783193374355/about/?ref=page_internal
+            </p>
           </td>
         </tr>
         <tr>
+          <td>
+            <p>聲根室內樂團</p>
+          </td>
           <td>
-            洄瀾室內樂團
+            <p>劉環瑜</p>
           </td>
           <td>
-            武崢
+            <p>0988-517-389</p>
           </td>
-          <td></td>
           <td>
-            <a target="_" href="mailto:2013hco@gmail.com">連結</a>
-            
+            <p>Liuhuanyu11@gmail.com</p>
           </td>
         </tr>
         <tr>
           <td>
-            High FLY豎笛四重奏
+            <p>禾弦愛樂樂團</p>
           </td>
           <td>
-            范捷安
+            <p>紀夙育</p>
           </td>
-          <td></td>
           <td>
-            <a target="_" href="https://www.facebook.com/pg/High-Fly豎笛四重奏-1501783193374355/about/?ref=page_internal">連結</a>
-            
+            <p>花蓮縣玉里鎮仁愛路一段256號</p>
+            <p>03-888-0185</p>
           </td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            聲根室內樂團
+            <p>台東回響樂團</p>
           </td>
           <td>
-            劉環瑜
+            <p>廖逸芬</p>
           </td>
           <td>
-            0988-517-389
+            <p>089-228-1678</p>
           </td>
           <td>
-            <a target="_" href="mailto:Liuhuanyu11@gmail.com">連結</a>
-            
+            <p>https://www.facebook.com/TTechoOrchestra</p>
           </td>
         </tr>
         <tr>
           <td>
-            禾弦愛樂樂團
+            <p>菊之音管絃樂團</p>
           </td>
           <td>
-            紀夙育
+            <p>柯仲甫</p>
           </td>
           <td>
-            花蓮縣玉里鎮仁愛路一段256號<br>03-888-0185
+            <p>澎湖縣馬公市光復路185之3號</p>
+            <p>0933-373-285</p>
           </td>
-          <td></td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            菊之音管絃樂團
+            <p>菊之音打擊樂團</p>
           </td>
           <td>
-            柯仲甫
+            <p>柯仲甫</p>
           </td>
           <td>
-            澎湖縣馬公市光復路185之3號<br>0933-373-285
+            <p>澎湖縣馬公市光復路185之3號</p>
+            <p>0933-373-287</p>
           </td>
-          <td></td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            菊之音打擊樂團
+            <p>菊之音木笛合奏團</p>
           </td>
           <td>
-            柯仲甫
+            <p>柯仲甫</p>
           </td>
           <td>
-            澎湖縣馬公市光復路185之3號<br>0933-373-287
+            <p>澎湖縣馬公市光復路185之3號</p>
+            <p>0933-373-289</p>
           </td>
-          <td></td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
+          <td>
+            <p>小星辰鋼琴三重奏</p>
+          </td>
           <td>
-            菊之音木笛合奏團
+            <p>陳星妤</p>
           </td>
           <td>
-            柯仲甫
+            <p>澎湖縣馬公市民權路89號</p>
+            <p>0982-492-112</p>
           </td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>
+            <p>金門絃樂四重奏團</p>
+          </td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
           <td>
-            澎湖縣馬公市光復路185之3號<br>0933-373-289
+            <p>https://reurl.cc/WDRXD</p>
           </td>
-          <td></td>
         </tr>
         <tr>
+          <td>
+            <p>CPE鋼琴重奏團</p>
+          </td>
           <td>
-            金門絃樂四重奏團
+            <p>簡雪豐</p>
           </td>
-          <td></td>
-          <td></td>
+          <td>&nbsp;</td>
           <td>
-            <a target="_" href="https://reurl.cc/WDRXD">連結</a>
-            
+            <p>
+              https://www.facebook.com/Crossplay-Piano-Ensemble-鋼琴重奏團-281325146895/
+            </p>
           </td>
         </tr>
       </tbody>
     </table>
-    <br>
-    <h3>
-      二、合唱團
-    </h3>
-    <table rules="all" border="1" style="border:1px solid" cellpadding="5">
+    <br />
+    <h3>二、合唱團</h3>
+    <table rules="all" border="1" style="border: 1px solid" cellpadding="5">
       <thead>
         <tr>
-          <th style="width:20%">名稱</th>
-          <th style="width:20%">負責人</th>
-          <th style="width:25%">地址/電話</th>
+          <th style="width: 20%">名稱</th>
+          <th style="width: 20%">負責人</th>
+          <th style="width: 25%">地址/電話</th>
           <th>其他聯絡方式</th>
         </tr>
       </thead>
       <tbody>
         <tr>
           <td>
-            雨韻合唱團
+            <p>雨韻合唱團</p>
           </td>
           <td>
-            陳建宏
+            <p>陳建宏</p>
           </td>
           <td>
-            基隆市安樂區樂利三街205號7樓<br>02-2425-3518
+            <p>基隆市安樂區樂利三街205號7樓</p>
+            <p>02-2425-3518</p>
           </td>
-          <td></td>
+          <td>
+            <p>http://www.yuyun.org.tw/yuyun/</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>啄木鳥合唱團</p>
+          </td>
+          <td>
+            <p>陳吉宗</p>
+          </td>
+          <td>
+            <p>基隆市仁愛區仁二路85號</p>
+            <p>02-2423-4884</p>
+          </td>
+          <td>
+            <p>
+              https://www.facebook.com/基隆市啄木鳥合唱團粉絲團-516315805193598
+            </p>
+          </td>
         </tr>
         <tr>
+          <td>
+            <p>基隆市愛樂合唱團</p>
+          </td>
           <td>
-            啄木鳥合唱團
+            <p>莊瑾潔</p>
           </td>
           <td>
-            陳吉宗
+            <p>基隆市仁愛區仁二路119巷13之4號1樓</p>
+            <p>02-2425-5289</p>
           </td>
           <td>
-            基隆市仁愛區仁二路85號<br>02-2423-4884
+            <p>https://www.facebook.com/KeelungPhilharmonicChoir/</p>
           </td>
-          <td></td>
         </tr>
         <tr>
           <td>
-            基隆市愛樂合唱團
+            <p>新韻合唱團</p>
           </td>
           <td>
-            莊瑾潔
+            <p>溫呈祥</p>
           </td>
           <td>
-            基隆市仁愛區仁二路119巷13之4號1樓<br>02-2425-5289
+            <p>基隆市七堵區崇義街128號</p>
+            <p>0980-712-734</p>
           </td>
-          <td></td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            新韻合唱團
+            <p>龤之聲男聲合唱團</p>
           </td>
           <td>
-            溫呈祥
+            <p>陳建豪</p>
           </td>
           <td>
-            基隆市七堵區崇義街128號<br>0980-712-734
+            <p>基隆市安樂區八德路31巷8號</p>
+            <p>0933-935-303</p>
           </td>
-          <td></td>
+          <td>
+            <p>https://www.facebook.com/hsieh.jsc/</p>
+          </td>
         </tr>
         <tr>
+          <td>
+            <p>Vocal Asia人聲樂集</p>
+          </td>
           <td>
-            龤之聲男聲合唱團
+            <p>陳午明</p>
           </td>
           <td>
-            陳建豪
+            <p>臺北市中正區忠孝東路一段35號11樓</p>
+            <p>02-3393-1211</p>
           </td>
           <td>
-            基隆市八德路31巷8號<br>0933-935-303
+            <p>https://www.vocalasia.com/index.php?lang=tw</p>
+            <p>info@vocalasia.com</p>
           </td>
-          <td></td>
         </tr>
         <tr>
           <td>
-            Vocal Asia人聲樂集
+            <p>蔚藍之聲合唱團</p>
           </td>
           <td>
-            陳午明
+            <p>潘宇文</p>
           </td>
           <td>
-            臺北市中正區忠孝東路一段35號11樓<br>02-3393-1211
+            <p>臺北市中正區羅斯福路四段162號4樓</p>
+            <p>02-2365-8943</p>
           </td>
           <td>
-            <a target="_" href="https://www.vocalasia.com/index.php?lang=twm">連結</a><br>
-            <a target="_" href="mailto:info@vocalasia.com">連結</a>
-            
+            <p>http://lavoixdazur.blogspot.com/</p>
           </td>
         </tr>
         <tr>
           <td>
-            蔚藍之聲合唱團
+            <p>大地之歌藝術聯盟</p>
           </td>
           <td>
-            潘宇文
+            <p>黃世傑</p>
           </td>
           <td>
-            臺北市中正區羅斯福路四段162號4樓<br>02-2365-8943
+            <p>臺北市中正區詔安街26巷6號1樓</p>
+            <p>0933-701-390</p>
           </td>
           <td>
-            <a target="_" href="http://lavoixdazur.blogspot.com/">連結</a>
-            
+            <p>aasote@gmail.com</p>
           </td>
         </tr>
         <tr>
           <td>
-            大地之歌藝術聯盟
+            <p>台北世紀合唱團</p>
           </td>
           <td>
-            黃世傑
+            <p>郭英調</p>
           </td>
           <td>
-            臺北市中正區詔安街26巷6號1樓<br>0933-701-390
+            <p>臺北市北投區石牌路二段325巷5號2樓</p>
+            <p>0920-592-810</p>
           </td>
           <td>
-            <a target="_" href="mailto:aasote@gmail.com">連結</a>
-            
+            <p>https://www.facebook.com/TaipeiCenturyChoir</p>
           </td>
         </tr>
         <tr>
           <td>
-            台北世紀合唱團
+            <p>金穗合唱團</p>
           </td>
           <td>
-            郭英調
+            <p>于國藩</p>
           </td>
           <td>
-            臺北市北投區石牌路二段325巷5號2樓<br>0920-592-810
+            <p>臺北市大安區永康街41巷5號</p>
+            <p>0972-101-106</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/TaipeiCenturyChoir">連結</a>
-            
+            <p>9508b2@gmail.com</p>
           </td>
         </tr>
         <tr>
           <td>
-            金穗合唱團
+            <p>台大合唱團</p>
           </td>
           <td>
-            于國藩
+            <p>林品瑢</p>
           </td>
           <td>
-            臺北市大安區永康街41巷5號<br>0972-101-106
+            <p>臺北市大安區羅斯福路四段85號</p>
+            <p>0952-790-068</p>
           </td>
           <td>
-            <a target="_" href="mailto:9508b2@gmail.com">連結</a>
-            
+            <p>ntuchorusone@gmail.com</p>
           </td>
         </tr>
         <tr>
           <td>
-            台大合唱團
+            <p>尋人啟事人聲樂團</p>
           </td>
           <td>
-            林品瑢
+            <p>劉靜諭</p>
           </td>
           <td>
-            臺北市大安區羅斯福路四段85號<br>0952-790-068
+            <p>臺北市大安區復興南路一段107巷5弄18號</p>
           </td>
           <td>
-            <a target="_" href="mailto:ntuchorusone@gmail.com">連結</a>
-            
+            <p>lcy6667@gmail.com</p>
           </td>
         </tr>
         <tr>
           <td>
-            尋人啟事人聲樂團
+            <p>台北室內合唱團</p>
           </td>
           <td>
-            劉靜諭
+            <p>陳雲紅</p>
           </td>
           <td>
-            臺北市大安區復興南路一段107巷5弄18號
+            <p>臺北市大安區敦化南路一段159號</p>
+            <p>02-2776-4089</p>
           </td>
           <td>
-            <a target="_" href="mailto:lcy6667@gmail.com">連結</a>
-            
+            <p>www.tcschoir.org.tw/</p>
           </td>
         </tr>
         <tr>
           <td>
-            台北室內合唱團
+            <p>木樓合唱團</p>
           </td>
           <td>
-            陳雲紅
+            <p>吳嘉和</p>
           </td>
           <td>
-            臺北市大安區敦化南路一段159號<br>02-2776-4089
+            <p>臺北市大安區龍淵里和平東路二段96巷17弄6號</p>
+            <p>02-2365-8943</p>
           </td>
           <td>
-            <a target="_" href="http://www.tcschoir.org.tw/">連結</a>
-            
+            <p>http://www.muller.org.tw</p>
           </td>
         </tr>
         <tr>
+          <td>
+            <p>G大調男聲合唱團</p>
+          </td>
+          <td>
+            <p>李鴻偉</p>
+          </td>
+          <td>
+            <p>臺北市大安區和平東路一段163號7樓</p>
+          </td>
           <td>
-            木樓合唱團
+            <p>https://www.facebook.com/gMajortw</p>
           </td>
+        </tr>
+        <tr>
           <td>
-            吳嘉和
+            <p>台北漢聲合唱團</p>
           </td>
           <td>
-            臺北市大安區龍淵里和平東路二段96巷17弄6號<br>02-2365-8943
+            <p>洪綺玲</p>
           </td>
           <td>
-            <a target="_" href="http://www.muller.org.tw">連結</a>
-            
+            <p>臺北市大安區忠孝東路三段229之6號4樓</p>
+            <p>02-2751-0191</p>
           </td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            G大調男聲合唱團
+            <p>幕聲合唱團</p>
           </td>
           <td>
-            李鴻偉
+            <p>楊艾玲</p>
           </td>
           <td>
-            臺北市大安區和平東路一段163號7樓
+            <p>0928-655-397</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/gMajortw">連結</a>
-            
+            <p>https://www.facebook.com/pg/tabernacle.choir/</p>
           </td>
         </tr>
         <tr>
+          <td>
+            <p>台北心聲合唱團</p>
+          </td>
           <td>
-            台北漢聲合唱團
+            <p>劉紹棟</p>
           </td>
           <td>
-            洪綺玲
+            <p>臺北市中山區北安路589號5樓</p>
+            <p>02-2702-5252</p>
           </td>
           <td>
-            臺北市大安區忠孝東路三段229之6號4樓<br>02-2751-0191
+            <p>https://www.facebook.com/taipeiharmonicchorus/</p>
           </td>
-          <td></td>
         </tr>
         <tr>
           <td>
-            幕聲合唱團
+            <p>福爾摩沙合唱團</p>
           </td>
           <td>
-            楊艾玲
+            <p>蘇慶俊</p>
           </td>
           <td>
-            0928-655-397
+            <p>臺北市中山區民權東路二段61號2樓</p>
+            <p>02-2591-9422</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/pg/tabernacle.choir/about/?ref=page_internal">連結</a>
-            
+            <p>http://formosasingers.org.tw/</p>
           </td>
         </tr>
         <tr>
           <td>
-            福爾摩沙合唱團
+            <p>福爾摩沙不惑之聲合唱團</p>
           </td>
           <td>
-            蘇慶俊
+            <p>周義山</p>
           </td>
           <td>
-            臺北市中山區民權東路二段61號2樓<br>02-2591-9422
+            <p>臺北市中山區民權東路二段59號2樓</p>
+            <p>02-2591-9422</p>
           </td>
           <td>
-            <a target="_" href="http://formosasingers.org.tw/">連結</a>
-            
+            <p>a4ssingers@gmail.com</p>
           </td>
         </tr>
         <tr>
           <td>
-            台北當代合唱團
+            <p>台北當代合唱團</p>
           </td>
           <td>
-            戴怡音
+            <p>戴怡音</p>
           </td>
           <td>
-            臺北市南港區南港路三段356號<br>0910-229-300
+            <p>臺北市南港區南港路三段356號</p>
+            <p>0910-229-300</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/tccchoir/">連結</a>
-            
+            <p>https://www.facebook.com/tccchoir/</p>
           </td>
         </tr>
         <tr>
           <td>
-            拉縴人藝象女聲合唱團
+            <p>拉縴人藝象女聲合唱團</p>
           </td>
           <td>
-            洪晴瀠
+            <p>洪晴瀠</p>
           </td>
           <td>
-            新北市新店區北新路三段205之3號7樓B室<br>02-8913-2068
+            <p>新北市新店區北新路三段205之3號7樓B室</p>
+            <p>02-8913-2068</p>
           </td>
           <td>
-            <a target="_" href="http://www.tmccaf.org.tw/">連結</a>
-            
+            <p>http://www.tmccaf.org.tw/</p>
           </td>
         </tr>
         <tr>
           <td>
-            拉縴人風雅頌合唱團
+            <p>拉縴人風雅頌合唱團</p>
           </td>
           <td>
-            楊巧晴
+            <p>楊巧晴</p>
           </td>
           <td>
-            新北市新店區北新路三段205之3號7樓B室<br>02-8913-2068
+            <p>新北市新店區北新路三段205之3號7樓B室</p>
+            <p>02-8913-2068</p>
           </td>
           <td>
-            <a target="_" href="http://www.tmccaf.org.tw/">連結</a>
-            
+            <p>http://www.tmccaf.org.tw/</p>
           </td>
         </tr>
         <tr>
           <td>
-            拉縴人青年合唱團
+            <p>拉縴人青年合唱團</p>
           </td>
           <td>
-            賴建邑
+            <p>賴建邑</p>
           </td>
           <td>
-            新北市新店區北新路三段205之3號7樓B室<br>02-8913-2069
+            <p>新北市新店區北新路三段205之3號7樓B室</p>
+            <p>02-8913-2069</p>
           </td>
           <td>
-            <a target="_" href="http://www.tmccaf.org.tw/">連結</a>
-            
+            <p>http://www.tmccaf.org.tw/</p>
           </td>
         </tr>
         <tr>
           <td>
-            Sirens人聲樂團
+            <p>Sirens人聲樂團</p>
           </td>
           <td>
-            官文琪
+            <p>官文琪</p>
           </td>
           <td>
-            新北市三峽區復興路160巷2弄7號5樓<br>0929-356-282
+            <p>新北市三峽區復興路160巷2弄7 號5樓</p>
+            <p>0929-356-282</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/acasirens">連結</a>
-            
+            <p>https://www.facebook.com/acasirens</p>
           </td>
         </tr>
         <tr>
           <td>
-            臺北華新兒童合唱團
+            <p>臺北華新兒童合唱團</p>
           </td>
           <td>
-            方素貞
+            <p>方素貞</p>
           </td>
           <td>
-            新北市板橋區文化路二段90號地下一樓
+            <p>新北市板橋區文化路二段90號地下1樓</p>
           </td>
-          <td></td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            大地五重唱
+            <p>大地五重唱</p>
           </td>
           <td>
-            黃大城
+            <p>黃大城</p>
           </td>
           <td>
-            新北市新店區大豐路80號4樓
+            <p>新北市新店區大豐路80號4樓</p>
           </td>
-          <td></td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            青韵合唱團
+            <p>青韵合唱團</p>
           </td>
           <td>
-            張成璞
+            <p>張成璞</p>
           </td>
           <td>
-            新北市新店區順安街4號<br>02-2771-1270
+            <p>新北市新店區順安街4號</p>
+            <p>02-2771-1270</p>
           </td>
           <td>
-            <a target="_" href="https://www.chinyun.org.tw">連結</a><br>
-            <a target="_" href="mailto:chingyunchoir@gmail.com">連結</a>
+            <p>https://www.chinyun.org.tw</p>
+            <p>chingyunchoir@gmail.com</p>
           </td>
         </tr>
         <tr>
           <td>
-            新韻合唱團
+            <p>新韻合唱團</p>
           </td>
           <td>
-            游安芸
+            <p>游安芸</p>
           </td>
           <td>
-            新北市新店區北新路一段64巷12弄3號2樓
+            <p>新北市新店區北新路一段64巷12弄3號2樓</p>
           </td>
-          <td></td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            八角塔男聲合唱團
+            <p>八角塔男聲合唱團</p>
           </td>
           <td>
-            鄭睦群
+            <p>鄭睦群</p>
           </td>
           <td>
-            新北市淡水區新民街120巷9號7樓
+            <p>新北市淡水區新民街120巷9號7樓</p>
           </td>
-          <td></td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            蝦米視障人聲樂團
+            <p>蝦米視障人聲樂團</p>
           </td>
-          <td></td>
           <td>
-            02-2920-9028
+            <p>朱元雷</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/shiamishiami/">連結</a>
-            
+            <p>臺北市內湖區麗山里內湖路一段387巷5號</p>
+            <p>02-2920-9028</p>
           </td>
+          <td>
+            <p>https://www.facebook.com/shiamishiami/</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>桃園知音合唱團</p>
+          </td>
+          <td>
+            <p>陳台琦</p>
+          </td>
+          <td>&nbsp;</td>
+          <td>
+            <p>https://www.facebook.com/TaoYuanChoirOfJoy/</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>星穎藝術合唱團</p>
+          </td>
+          <td>
+            <p>陳銘達</p>
+          </td>
+          <td>
+            <p>桃園市桃園區泰昌九街28號</p>
+            <p>0920-919-655</p>
+          </td>
+          <td>
+            <p>https://www.facebook.com/singing2gether</p>
+          </td>
         </tr>
         <tr>
+          <td>
+            <p>歐開合唱團</p>
+          </td>
           <td>
-            桃園知音合唱團
+            <p>賴家慶</p>
           </td>
           <td>
-            陳台琦
+            <p>0958-137-281</p>
           </td>
-          <td></td>
           <td>
-            <a target="_" href="https://www.facebook.com/TaoYuanChoirOfJoy/">連結</a>
-            
+            <p>https://www.facebook.com/okaisingers/</p>
           </td>
         </tr>
         <tr>
+          <td>
+            <p>沂風女聲室內合唱團</p>
+          </td>
+          <td>
+            <p>李寶鈺</p>
+          </td>
           <td>
-            歐開合唱團
+            <p>新竹市東區中華路二段270號</p>
           </td>
           <td>
-            賴家慶
+            <p>https://www.facebook.com/YiPhoneChamberChoir/</p>
           </td>
+        </tr>
+        <tr>
           <td>
-            0958-137-281
+            <p>心築愛樂合唱團</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/okaisingers/">連結</a>
-            
+            <p>張筱琪</p>
           </td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
+          <td>
+            <p>新竹市立混聲合唱團</p>
+          </td>
+          <td>
+            <p>徐鴻慶</p>
+          </td>
           <td>
-            沂風女聲 室內合唱團
+            <p>新竹市北區中央路109號（新竹市文化局）03-591-0389</p>
           </td>
           <td>
-            李寶鈺
+            <p>sibonnevie@gmail.com</p>
           </td>
+        </tr>
+        <tr>
           <td>
-            新竹市中華路二段270號
+            <p>海鷗．K人聲樂團</p>
           </td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
           <td>
-            <a target="_" href="https://www.facebook.com/YiPhoneChamberChoir/">連結</a>
-            
+            <p>https://www.facebook.com/seagullk.tw/</p>
           </td>
         </tr>
         <tr>
+          <td>
+            <p>晶晶兒童合唱團</p>
+          </td>
           <td>
-            心築愛樂合唱團
+            <p>朱娟瑩</p>
           </td>
           <td>
-            張筱琪
+            <p>新竹市東區工業東二路1號4樓407室</p>
           </td>
-          <td></td>
-          <td></td>
+          <td>
+            <p>http://www.crystalchoir.org.tw/</p>
+          </td>
         </tr>
         <tr>
+          <td>
+            <p>竹友混聲合唱團</p>
+          </td>
+          <td>
+            <p>吳和蘭</p>
+          </td>
+          <td>&nbsp;</td>
           <td>
-            新竹市立混聲合唱團
+            <p>https://www.facebook.com/ZhuyouMixedChoir/</p>
           </td>
+        </tr>
+        <tr>
           <td>
-            徐鴻慶
+            <p>黃桂志客家合唱團</p>
           </td>
           <td>
-            新竹市文化局 <br>03-5910389
+            <p>黃桂志</p>
           </td>
           <td>
-            <a target="_" href="mailto:sibonnevie@gmail.com">連結</a>
-            
+            <p>苗栗縣頭份市五福街2號4樓</p>
+            <p>03-767-5101</p>
           </td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
+          <td>
+            <p>郭芝苑室內合唱團</p>
+          </td>
           <td>
-            海鷗．K人聲樂團
+            <p>阮文池</p>
           </td>
-          <td></td>
-          <td></td>
           <td>
-            <a target="_" href="https://www.facebook.com/seagullk.tw/">連結</a>
-            
+            <p>苗栗縣苑裡鎮海岸里46之1號</p>
+            <p>037-864-787</p>
           </td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            晶晶兒童合唱團
+            <p>台中室內合唱團</p>
           </td>
           <td>
-            朱娟瑩
+            <p>王政義</p>
           </td>
           <td>
-            新竹市東區工業東二路一號四樓407室
+            <p>臺中市南區忠明南路801號9樓之3</p>
+            <p>0978-589-019</p>
           </td>
           <td>
-            <a target="_" href="http://www.crystalchoir.org.tw/">連結</a>
-            
+            <p>https://www.facebook.com/TaichungChamberChoir</p>
           </td>
         </tr>
         <tr>
           <td>
-            黃桂志客家合唱團
+            <p>台中藝術家室內合唱團</p>
           </td>
           <td>
-            黃桂志
+            <p>莊璧華</p>
           </td>
           <td>
-            苗栗縣頭份市五福街2號4樓<br>03-767-5101
+            <p>臺中市南區三民西路357號6樓</p>
           </td>
-          <td></td>
+          <td>
+            <p>http://taichungartistchoir.com/about-us/about-tacc</p>
+          </td>
         </tr>
         <tr>
           <td>
-            台中室內合唱團
+            <p>臺中琴瑟合唱團</p>
           </td>
           <td>
-            王政義
+            <p>酈長春</p>
           </td>
           <td>
-            臺中市南區忠明南路801號9樓之3<br>0978-589-019
+            <p>臺中市北區進化路589之13號14樓</p>
+            <p>04-2238-8203</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/TaichungChamberChoir">連結</a>
-            
+            <p>lcc36419@yahoo.com.tw</p>
           </td>
         </tr>
         <tr>
           <td>
-            愛唱歌手合唱團
+            <p>愛唱歌手合唱團</p>
           </td>
           <td>
-            林慧芬
+            <p>林慧芬</p>
           </td>
           <td>
-            臺中市南屯區東興路二段186號11樓之5
+            <p>臺中市北區東漢街9號2樓之3</p>
+            <p>0982-918-508</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/sstaichung/">連結</a>
-            
+            <p>https://www.facebook.com/sstaichung</p>
           </td>
         </tr>
         <tr>
           <td>
-            台中藝術家室內合唱團
+            <p>靜宸合唱團</p>
           </td>
           <td>
-            莊璧華
+            <p>徐麗蘭</p>
           </td>
           <td>
-            臺中市南區三民西路357號6樓
+            <p>臺中市北區青島路三段140號12樓之6</p>
           </td>
           <td>
-            <a target="_" href="http://taichungartistchoir.com/about-us/about-tacc">連結</a>
-            
+            <p>dcviolet2011@gmail.com</p>
           </td>
         </tr>
         <tr>
           <td>
-            臺中琴瑟合唱團
+            <p>天一合唱團</p>
           </td>
           <td>
-            酈長春
+            <p>賴科宏</p>
           </td>
           <td>
-            臺中市北區進化路589之13號14樓<br>04-2238-8203
+            <p>臺中市大里區益民路二段347號</p>
+            <p>04-2481-5911</p>
           </td>
           <td>
-            <a target="_" href="mailto:lcc36419@yahoo.com.tw">連結</a>
-            
+            <p>tienyichorus@gmail.com</p>
           </td>
         </tr>
         <tr>
           <td>
-            愛唱歌手合唱團
+            <p>台中市新世紀合唱團</p>
           </td>
           <td>
-            林慧芬
+            <p>鄭家齊</p>
           </td>
           <td>
-            臺中市北區東漢街9號2樓之3<br>0982-918-508
+            <p>臺中市西屯區福林路480號7樓之1</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/sstaichung">連結</a>
-            
+            <p>https://www.facebook.com/NEWERACHORUS/</p>
           </td>
         </tr>
         <tr>
           <td>
-            天一合唱團
+            <p>線性室內樂</p>
           </td>
           <td>
-            賴科宏
+            <p>周尚樺</p>
           </td>
           <td>
-            臺中市大里區益民路二段347號<br>04-2481-5911
+            <p>臺中市后里區眉山里公安路322號</p>
           </td>
           <td>
-            <a target="_" href="mailto:tienyichorus@gmail.com">連結</a>
-            
+            <p>
+              https://www.facebook.com/linearchamber/?ref=page_internallinearchamber@gmail.com
+            </p>
           </td>
         </tr>
         <tr>
+          <td>
+            <p>濤韻男聲合唱團</p>
+          </td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
           <td>
-            靜宸合唱團
+            <p>https://www.facebook.com/manlodymalesingers/</p>
+            <p>manlodymalesingers@gmail.com</p>
           </td>
+        </tr>
+        <tr>
           <td>
-            徐麗蘭
+            <p>雅音合唱團</p>
           </td>
           <td>
-            臺中市北區青島路三段140號12樓之6
+            <p>黃華芬</p>
           </td>
           <td>
-            <a target="_" href="mailto:dcviolet2011@gmail.com">連結</a>
-            
+            <p>彰化縣員林鎮員水路二段482號</p>
+            <p>04-832-4479</p>
           </td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            雅音合唱團
+            <p>彰化市愛樂合唱團</p>
           </td>
           <td>
-            黃華芬
+            <p>蘇哲雄</p>
           </td>
           <td>
-            彰化縣員林鎮員水路二段482號<br>04-832-4479
+            <p>彰化縣彰化市永興街95號</p>
+            <p>04-722-6077</p>
           </td>
-          <td></td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
+          <td>
+            <p>雲林愛樂室內合唱團</p>
+          </td>
           <td>
-            彰化市愛樂合唱團
+            <p>許淑媛</p>
           </td>
           <td>
-            蘇哲雄
+            <p>雲林縣虎尾鎮林森路一段396巷1弄2號</p>
+            <p>05-532-5607</p>
           </td>
           <td>
-            彰化縣彰化市永興街95號<br>04-722-6077
+            <p>https://www.facebook.com/雲林愛樂室內合唱團-162104895425/</p>
           </td>
-          <td></td>
         </tr>
         <tr>
           <td>
-            雲林愛樂室內合唱團
+            <p>嘉義室內合唱團</p>
           </td>
           <td>
-            許淑媛
+            <p>黃黑汶</p>
           </td>
           <td>
-            雲林縣虎尾鎮林森路一段396巷1弄2號<br>05-532-5607
+            <p>嘉義市東區維新路259號</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/pages/category/Performing-Arts/162104895425/">連結</a>
-            
+            <p>https://www.facebook.com/Chiayi.Chamber.Choir/</p>
           </td>
         </tr>
         <tr>
           <td>
-            嘉義室內合唱團
+            <p>嘉義愛樂合唱團</p>
           </td>
           <td>
-            黃黑汶
+            <p>鍾秀華</p>
           </td>
           <td>
-            嘉義市維新路259號
+            <p>嘉義市西區忠義街197巷8號</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/Chiayi.Chamber.Choir/">連結</a>
-            
+            <p>mama340217@yahoo.com.tw</p>
           </td>
         </tr>
         <tr>
           <td>
-            嘉義愛樂合唱團
+            <p>嘉義男聲合唱團</p>
           </td>
           <td>
-            鍾秀華
+            <p>曾維民</p>
           </td>
           <td>
-            嘉義市忠義街197巷8號
+            <p>嘉義市東區五福街131巷20號</p>
+            <p>05-277-8577</p>
           </td>
           <td>
-            <a target="_" href="mailto:mama340217@yahoo.com.tw">連結</a>
-            
+            <p>nicola2031@yahoo.com.tw</p>
           </td>
         </tr>
         <tr>
           <td>
-            嘉義男聲合唱團
+            <p>台南室內合唱團</p>
           </td>
           <td>
-            曾維民
+            <p>朱忠宏</p>
           </td>
           <td>
-            嘉義市五福街131巷20號<br>05-277-8577
+            <p>臺南市東區裕農路27之1號3樓之2</p>
+            <p>0919-023-235</p>
           </td>
           <td>
-            <a target="_" href="mailto:nicola2031@yahoo.com.tw">連結</a>
-            
+            <p>https://www.facebook.com/tainanchamber/</p>
           </td>
         </tr>
         <tr>
+          <td>
+            <p>成大校友合唱團</p>
+          </td>
+          <td>
+            <p>朱銘祥</p>
+          </td>
+          <td>
+            <p>臺南市北區林森路三段86巷2弄3號</p>
+            <p>0926-057-609</p>
+          </td>
           <td>
-            台南室內合唱團
+            <p>http://msju2004.pixnet.net/blog</p>
           </td>
+        </tr>
+        <tr>
           <td>
-            朱忠宏
+            <p>府城教師合唱團</p>
           </td>
           <td>
-            臺南市東區裕農路27之1號3樓之2<br>0919-023-235
+            <p>李瑪寶</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/tainanchamber/">連結</a>
-            
+            <p>臺南市東區泉南里府連路326巷6號</p>
+            <p>0936-258-020</p>
           </td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            成大校友合唱團
+            <p>大地合唱團</p>
           </td>
           <td>
-            朱銘祥
+            <p>莊信煌</p>
           </td>
           <td>
-            臺南市林森路三段86巷2弄3號<br>0926-057-609
+            <p>臺南市南區新義南路24號2樓</p>
+            <p>06-261-4879</p>
           </td>
           <td>
-            <a target="_" href="http://msju2004.pixnet.net/blog">連結</a>
-            
+            <p>http://www.earthart.org.tw/</p>
           </td>
         </tr>
         <tr>
           <td>
-            府城教師合唱團
+            <p>台南市愛樂合唱團</p>
           </td>
           <td>
-            李瑪寶
+            <p>黃南海</p>
           </td>
           <td>
-            臺南市東區泉南里32鄰府連路326巷6號<br>0936-258-020
+            <p>臺南市中西區健康路一段390巷26號</p>
+            <p>0932-866-671</p>
           </td>
-          <td></td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
+          <td>
+            <p>MP Singers混聲合唱團</p>
+          </td>
           <td>
-            台南大地合唱團
+            <p>李瑪寶</p>
           </td>
+          <td>&nbsp;</td>
           <td>
-            莊信煌
+            <p>https://www.facebook.com/MP-Singers-173637153206556/posts</p>
           </td>
+        </tr>
+        <tr>
+          <td>
+            <p>希望種籽青少年兒童合唱團</p>
+          </td>
           <td>
-            臺南市南區新義南路24號2樓<br>06-261-4879
+            <p>劉益廷</p>
           </td>
           <td>
-            <a target="_" href="http://www.earthart.org.tw/">連結</a>
-            
+            <p>臺南市北區賢北街25巷42號1樓</p>
           </td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
+          <td>
+            <p>高雄室內合唱團</p>
+          </td>
           <td>
-            台南市愛樂合唱團
+            <p>翁佳芬</p>
           </td>
           <td>
-            黃南海
+            <p>高雄市苓雅區憲政路235號</p>
+            <p>07-222-2358</p>
           </td>
           <td>
-            臺南市健康路一段390巷26號<br>0932-866-671
+            <p>
+              https://www.facebook.com/高雄室內合唱團-Kaohsiung-Chamber-Choir-161258233928570/
+            </p>
           </td>
-          <td></td>
         </tr>
         <tr>
+          <td>
+            <p>高雄市佳音合唱團</p>
+          </td>
           <td>
-            MP Singers混聲合唱團
+            <p>藍秀英</p>
           </td>
           <td>
-            李瑪寶
+            <p>高雄市前鎮區一心一路112號</p>
+            <p>07-725-5007</p>
           </td>
-          <td></td>
           <td>
-            <a target="_" href="https://www.facebook.com/MP-Singers-173637153206556/posts">連結</a>
-            
+            <p>https://www.facebook.com/高雄市佳音合唱團-102079534586981/</p>
           </td>
         </tr>
         <tr>
+          <td>
+            <p>世紀合唱團</p>
+          </td>
           <td>
-            希望種籽青少年兒童合唱團
+            <p>李仁傑</p>
           </td>
           <td>
-            劉益廷
+            <p>高雄市新興區五福二路45之1號7樓</p>
+            <p>07-215-7604</p>
           </td>
           <td>
-            臺南市賢北街25巷42號1樓
+            <p>cycchoir@gmail.com</p>
           </td>
-          <td></td>
         </tr>
         <tr>
+          <td>
+            <p>城市擊樂團</p>
+          </td>
+          <td>
+            <p>曾意鈞</p>
+          </td>
           <td>
-            高雄市實驗合唱團
+            <p>高雄市新興區八德一路186號</p>
+            <p>07-236-5910</p>
           </td>
           <td>
-            李長傑
+            <p>CTPE.KH@gmail.com</p>
           </td>
-          <td></td>
-          <td></td>
         </tr>
         <tr>
           <td>
-            高雄室內合唱團
+            <p>南台灣室內樂協會團</p>
           </td>
           <td>
-            翁佳芬
+            <p>吳亞欣</p>
           </td>
           <td>
-            高雄市苓雅區憲政路235號<br>07-222-2358
+            <p>高雄市苓雅區和平一路145巷21號5樓</p>
+            <p>07-711-2618</p>
           </td>
           <td>
-            <a target="_" href="https://m.facebook.com/高雄室內合唱團-Kaohsiung-Chamber-Choir-161258233928570/">連結</a>
-            <!-- -Kaohsiung-Chamber-Choir-161258233928570/ -->
+            <p>https://www.stcms.org/</p>
           </td>
         </tr>
         <tr>
           <td>
-            高雄市佳音合唱團
+            <p>天生歌手合唱團</p>
           </td>
           <td>
-            藍秀英
+            <p>程偉嘉</p>
           </td>
-          <td></td>
           <td>
-            <a target="_" href="https://www.facebook.com/高雄市佳音合唱團-102079534586981/about/?ref=page_internal">連結</a>
-            
+            <p>高雄市鼓山區大順一路638號15樓</p>
+            <p>0937-025-252</p>
           </td>
+          <td>
+            <p>natus.cantorum@gmail.com</p>
+          </td>
         </tr>
         <tr>
           <td>
-            世紀合唱團
+            <p>高雄市兒童合唱團</p>
           </td>
           <td>
-            李仁傑
+            <p>劉慧兒</p>
           </td>
           <td>
-            高雄市新興區五福二路45之1號7樓<br>07-215-7604
+            <p>高雄市鹽埕區五福四路183號</p>
+            <p>07-521-0626</p>
           </td>
           <td>
-            <a target="_" href="mailto:cycchoir@gmail.com">連結</a>
-            
+            <p>music4700@yahoo.com.tw</p>
           </td>
         </tr>
         <tr>
           <td>
-            天生歌手合唱團
+            <p>高雄市漢聲合唱團</p>
           </td>
           <td>
-            程偉嘉
+            <p>李秋福</p>
           </td>
           <td>
-            高雄市鼓山區大順一路638號15樓<br>0937-025-252
+            <p>高雄市苓雅區建國一路109號8樓</p>
+            <p>0937-331-407</p>
           </td>
           <td>
-            <a target="_" href="mailto:natus.cantorum@gmail.com">連結</a>
-            
+            <p>https://www.facebook.com/HS.chorus</p>
+            <p>cfleekhh@yahoo.com.tw</p>
           </td>
         </tr>
         <tr>
           <td>
-            高雄市兒童合唱團
+            <p>高雄愛樂室內合唱團</p>
           </td>
           <td>
-            劉慧兒
+            <p>周欣潔</p>
           </td>
           <td>
-            高雄市鹽埕區五福四路183號<br>07-521-0626
+            <p>高雄市左營區南屏路376號7樓之2</p>
+            <p>0986-099-633</p>
           </td>
           <td>
-            <a target="_" href="mailto:music4700@yahoo.com.tw">連結</a>
-            
+            <p>kaohsiungpcc@gmail.com</p>
           </td>
         </tr>
         <tr>
           <td>
-            高雄市漢聲合唱團
+            <p>屏東室內合唱團</p>
           </td>
           <td>
-            李秋福
+            <p>鍾佳諭</p>
           </td>
           <td>
-            高雄市建國一路109號8樓<br>0937-331-407
+            <p>屏東縣屏東市崇蘭里廣東路1496號</p>
+            <p>08-756-0198</p>
           </td>
           <td>
-            <a target="_" href="mailto:cfleekhh@yahoo.com.tw">連結</a>
-            
+            <p>https://www.facebook.com/pcc999/</p>
           </td>
         </tr>
         <tr>
           <td>
-            高雄愛樂室內合唱團
+            <p>The Pure人聲樂團</p>
           </td>
           <td>
-            周欣潔
+            <p>黃錦蘭</p>
           </td>
           <td>
-            高雄市左營區南屏路376號7樓之2<br>0986-099-633
+            <p>屏東縣屏東市興豐路137巷7號1樓</p>
+            <p>08-736-9441</p>
           </td>
           <td>
-            <a target="_" href="mailto:kaohsiungpcc@gmail.com">連結</a>
-            
+            <p>https://www.facebook.com/ThePureBand/</p>
           </td>
         </tr>
         <tr>
           <td>
-            屏東室內合唱團
+            <p>SURE人聲樂團</p>
           </td>
           <td>
-            鍾佳諭
+            <p>甘聖竹</p>
           </td>
           <td>
-            屏東市崇蘭里廣東路1496號<br>08-756-0198
+            <p>屏東縣屏東市清溪里建國路217巷1之1號</p>
+            <p>0920-284-449</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/pcc999/">連結</a>
-            
+            <p>https://www.facebook.com/singers.SURE/</p>
           </td>
         </tr>
         <tr>
           <td>
-            ThePure人聲樂團
+            <p>Acapassion人聲樂團</p>
           </td>
           <td>
-            黃錦蘭
+            <p>張淑娟</p>
           </td>
           <td>
-            屏東市興豐路137巷7號1樓<br>08-736-9441
+            <p>屏東縣屏東市華山里華二街18號</p>
+            <p>08-736-0330</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/ThePureBand/">連結</a>
-            
+            <p>
+              https://www.facebook.com/Acapassion阿卡佩炫人聲樂團-1029498567118113/about/?ref=page_internal
+            </p>
           </td>
         </tr>
         <tr>
           <td>
-            SURE人聲樂團
+            <p>潮聲合唱團</p>
           </td>
           <td>
-            甘聖竹
+            <p>徐炳文</p>
           </td>
           <td>
-            屏東市清溪里建國路217巷1之1號<br>0920-284-449
+            <p>屏東縣潮州鎮長興路54之10號</p>
+            <p>08-788-3360</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/singers.SURE/">連結</a>
-            
+            <p>chen7883360@yahoo.com.tw</p>
           </td>
         </tr>
         <tr>
           <td>
-            Acapassion人聲樂團
+            <p>Puzangalan兒童合唱團</p>
           </td>
           <td>
-            張淑娟
+            <p>蔡義方</p>
           </td>
           <td>
-            屏東市華山里31鄰華二街18號<br>08-736-0330
+            <p>屏東縣三地門鄉三地村中正路二段29巷2-2號</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/Acapassion阿卡佩炫人聲樂團-1029498567118113/about/?ref=page_internal">連結</a>
-            
+            <p>https://www.facebook.com/PuzangalanChoir/</p>
           </td>
         </tr>
         <tr>
           <td>
-            宜蘭Sonar聲納合唱團
+            <p>Sonar聲納合唱團</p>
           </td>
           <td>
-            戴世侃
+            <p>戴世侃</p>
           </td>
           <td>
-            宜蘭縣羅東鎮北成路一段125號<br>0952-334-388
+            <p>宜蘭縣羅東鎮北成路一段125號</p>
+            <p>0952-334-388</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/sonar1998/">連結</a>
-            
+            <p>https://www.facebook.com/sonar1998/</p>
           </td>
         </tr>
         <tr>
           <td>
-            蘭馨合唱團
+            <p>蘭馨合唱團</p>
           </td>
           <td>
-            徐菊紅
+            <p>徐菊紅</p>
           </td>
           <td>
-            宜蘭市復興里12鄰復興路一段121巷21弄13號
+            <p>宜蘭縣宜蘭市復興里復興路一段121巷21弄13號</p>
           </td>
           <td>
-            <a target="_" href="mailto:shu_3450@yahoo.com.tw">連結</a>
-            
+            <p>shu_3450@yahoo.com.tw</p>
           </td>
         </tr>
         <tr>
           <td>
-            蘭陽兒童合唱團
+            <p>蘭陽兒童合唱團</p>
           </td>
           <td>
-            林小姐
+            <p>林小姐</p>
           </td>
           <td>
-            宜蘭縣宜蘭市中山路二段482號<br>03-936-9115#116
+            <p>宜蘭縣宜蘭市中山路二段482號</p>
+            <p>03-936-9115 #116</p>
           </td>
           <td>
-            <a target="_" href="mailto:yilanperform@gmail.com">連結</a>
-            
+            <p>yilanperform@gmail.com</p>
           </td>
         </tr>
         <tr>
           <td>
-            噶瑪蘭童聲合唱團
+            <p>噶瑪蘭童聲合唱團</p>
           </td>
           <td>
-            王曉漢 林采藜
+            <p>王曉漢</p>
+            <p>林采藜</p>
           </td>
           <td>
-            宜蘭縣宜蘭市泰山路85巷10號<br>0933-770-734
+            <p>宜蘭縣宜蘭市泰山路85巷10號</p>
+            <p>0933-770-734</p>
           </td>
           <td>
-            <a target="_" href="mailto:tsaililin@yahoo.com.tw">連結</a>
-            
+            <p>tsaililin@yahoo.com.tw</p>
           </td>
         </tr>
         <tr>
           <td>
-            花蓮合唱團
+            <p>花蓮合唱團</p>
           </td>
           <td>
-            吳明益
+            <p>吳明益</p>
           </td>
           <td>
-            花蓮市中美10街68巷2號<br>0937-168-385
+            <p>花蓮縣花蓮市中美十街68巷2號</p>
+            <p>0937-168-385</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/HualienChoir/">連結</a>
-            
+            <p>https://www.facebook.com/HualienChoir/</p>
           </td>
         </tr>
         <tr>
           <td>
-            知音合唱團
+            <p>知音合唱團</p>
           </td>
           <td>
-            趙佩憶
+            <p>趙佩憶</p>
           </td>
           <td>
-            花蓮縣新城鄉北埔村民有街397號
+            <p>花蓮縣新城鄉北埔村民有街397號</p>
           </td>
-          <td></td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
+          <td>
+            <p>台東室內合唱團</p>
+          </td>
           <td>
-            台東室內合唱團
+            <p>張惠雯</p>
           </td>
-          <td></td>
-          <td></td>
           <td>
-            <a target="_" href="https://www.facebook.com/TTNDChorus/">連結</a>
-            
+            <p>臺東縣臺東市中華路一段 519 號</p>
           </td>
+          <td>
+            <p>https://www.facebook.com/TTNDChorus/</p>
+          </td>
         </tr>
         <tr>
+          <td>
+            <p>拉縴人少年兒童合唱團</p>
+          </td>
           <td>
-            台東原住民希望合唱團
+            <p>廖偉瞱</p>
           </td>
-          <td></td>
-          <td></td>
           <td>
-            <a target="_" href="https://www.facebook.com/PuzangalanChoir/">連結</a>
-            
+            <p>澎湖縣馬公市明遠路12巷7號</p>
+            <p>0922-911-389</p>
           </td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            拉縴人少年兒童合唱團
+            <p>澎湖室內合唱團</p>
           </td>
           <td>
-            廖偉瞱
+            <p>歐玉甄</p>
           </td>
           <td>
-            澎湖縣馬公市明遠路12巷7號<br>0922-911-389
+            <p>澎湖縣馬公市水源路2之1號7樓之2</p>
+            <p>0963-193-696</p>
           </td>
-          <td></td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            澎湖室內合唱團
+            <p>菊之音室內合唱團</p>
           </td>
           <td>
-            歐玉甄
+            <p>柯仲甫</p>
           </td>
           <td>
-            澎湖縣馬公市水源路2之1號7樓之2<br>0963-193-696
+            <p>澎湖縣馬公市光復路185之3號</p>
+            <p>0933-373-286</p>
           </td>
-          <td></td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            菊之音室內合唱團
+            <p>菊之音兒童合唱團</p>
           </td>
           <td>
-            柯仲甫
+            <p>柯仲甫</p>
           </td>
           <td>
-            澎湖縣馬公市光復路185之3號<br>0933-373-286
+            <p>澎湖縣馬公市光復路185之3號</p>
+            <p>0933-373-288</p>
           </td>
-          <td></td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            菊之音兒童合唱團
+            <p>菊之音青少年合唱團</p>
           </td>
           <td>
-            柯仲甫
+            <p>柯仲甫</p>
           </td>
           <td>
-            澎湖縣馬公市光復路185之3號<br>0933-373-288
+            <p>澎湖縣馬公市光復路185之3號</p>
+            <p>0933-373-290</p>
           </td>
-          <td></td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            菊之音青少年合唱團
+            <p>星聲代合唱團</p>
           </td>
           <td>
-            柯仲甫
+            <p>廖偉曄</p>
           </td>
           <td>
-            澎湖縣馬公市光復路185之3號<br>0933-373-290
+            <p>澎湖縣馬公市明遠路12巷7號</p>
+            <p>06-927-2779</p>
           </td>
-          <td></td>
+          <td>&nbsp;</td>
         </tr>
         <tr>
           <td>
-            金門縣合唱團
+            <p>金門縣合唱團</p>
           </td>
           <td>
-            黃小姐
+            <p>黃小姐</p>
           </td>
           <td>
-            金門縣文化局2樓視聽教室<br>0953-014-721
+            <p>金門縣金城鎮環島北路一段66號（金門縣文化局2樓視聽教室）</p>
+            <p>0953-014-721</p>
           </td>
           <td>
-            <a target="_" href="mailto:kinmen6526371@yahoo.com.tw">連結</a>
-            
+            <p>kinmen6526371@yahoo.com.tw</p>
           </td>
         </tr>
         <tr>
           <td>
-            馬祖少年合唱團
+            <p>馬祖少年合唱團</p>
           </td>
           <td>
-            吳健忠
+            <p>吳健忠</p>
           </td>
-          <td></td>
+          <td>&nbsp;</td>
           <td>
-            <a target="_" href="https://reurl.cc/OVGkv">連結</a>
-            
+            <p>https://reurl.cc/OVGkv</p>
           </td>
         </tr>
       </tbody>
     </table>
-    <br>
-    <h3>
-      三、組織
-    </h3>
-    <table rules="all" border="1" style="border:1px solid" cellpadding="5">
+    <br />
+    <h3>三、組織</h3>
+    <table rules="all" border="1" style="border: 1px solid" cellpadding="5">
       <thead>
         <tr>
-          <th style="width:20%">名稱</th>
-          <th style="width:20%">負責人</th>
-          <th style="width:25%">地址/電話</th>
+          <th style="width: 20%">名稱</th>
+          <th style="width: 20%">負責人</th>
+          <th style="width: 25%">地址/電話</th>
           <th>其他聯絡方式</th>
         </tr>
       </thead>
       <tbody>
         <tr>
           <td>
-            亞洲作曲家聯盟台灣總會
+            <p>亞洲作曲家聯盟台灣總會</p>
           </td>
           <td>
-            呂文慈
+            <p>呂文慈</p>
           </td>
           <td>
-            臺北市大安區信義路四段6號17樓之1<br>02-2897-5900
+            <p>臺北市大安區信義路四段6號17樓之1</p>
+            <p>02-2897-5900</p>
           </td>
           <td>
-            <a target="_" href="http://www.acl-taiwan.org.tw/">連結</a>
-            
-          </td>
-        </tr>
-        <tr>
-          <td>
-            中華民國現代音樂協會
-          </td>
-          <td>
-            潘家琳
-          </td>
-          <td>
-            02-2624-1091
-          </td>
-          <td>
-            <a target="_" href="http://iscmtw.blogspot.com/">連結</a>
-            
+            <p>http://www.acl-taiwan.org.tw/</p>
           </td>
         </tr>
         <tr>
           <td>
-            中華民國電腦音樂學會
+            <p>中華民國現代音樂協會</p>
           </td>
           <td>
-            董昭民
+            <p>潘家琳</p>
           </td>
           <td>
-            臺北市大安區德安里四維路52巷27之2號3樓
+            <p>02-2624-1091</p>
           </td>
           <td>
-            <a target="_" href="https://www.taiwancomputermusic.org/">連結</a>
-            
-          </td>
-        </tr>
-        <tr>
-          <td>
-            台北愛樂文教基金會
-          </td>
-          <td>
-            劉葳莉
-          </td>
-          <td>
-            臺北市大安區敦化南路一段233巷28號<br>02-2773-3691
-          </td>
-          <td>
-            <a target="_" href="http://www.tpf.org.tw/">連結</a>
-            
+            <p>http://iscmtw.blogspot.com/</p>
           </td>
         </tr>
         <tr>
           <td>
-            財團法人樂賞音樂教育基金會
+            <p>中華民國電腦音樂學會</p>
           </td>
           <td>
-            劉岠渭
+            <p>董昭民</p>
           </td>
           <td>
-            臺北市中山區民權東路一段55號7樓
+            <p>臺北市大安區德安里四維路52巷27之2號3樓</p>
           </td>
           <td>
-            <a target="_" href="http://www.poco-a-poco.org/pocoapoco/portal/PortalHome.asp">連結</a>
-            
-          </td>
-        </tr>
-        <tr>
-          <td>
-              中華民國聲樂家協會
-          </td>
-          <td>
-            孫清吉
-          </td>
-          <td>
-            臺北市中正區忠孝東路2段29號2樓及3樓<br>02-3393-8779
-          </td>
-          <td>
-            <a target="_" href="http://www.vocalistasso.org.tw/front/bin/home.phtml">連結</a>
-            
+            <p>https://www.taiwancomputermusic.org/</p>
           </td>
         </tr>
         <tr>
           <td>
-            財團法人擊樂文教基金會
+            <p>台北愛樂文教基金會</p>
           </td>
           <td>
-            朱宗慶
+            <p>劉葳莉</p>
           </td>
           <td>
-            臺北市北投區大業路10號6樓<br>02-2891-9900
+            <p>臺北市大安區敦化南路一段233巷28號地下1樓</p>
+            <p>02-2773-3691</p>
           </td>
           <td>
-            <a target="_" href="http://www.jpg.org.tw/">連結</a>
-            
-          </td>
-        </tr>
-        <tr>
-          <td>
-            捌號會所
-          </td>
-          <td>
-            林芳宜
-          </td>
-          <td>
-            臺北市士林區雙溪街102號9樓
-          </td>
-          <td>
-            <a target="_" href="mailto:adm@studioacht.com.tw">連結</a>
-            
+            <p>http://www.tpf.org.tw/</p>
           </td>
         </tr>
         <tr>
           <td>
-            拉縴人文化基金會
+            <p>台灣室內樂藝術推廣協會</p>
           </td>
           <td>
-            李曜州
+            <p>廖皎含</p>
           </td>
           <td>
-            新北市新店區北新路三段205之3號7樓B室<br>02-8913-2068
+            <p>臺北市大安區杭州南路二段29-5號</p>
+            <p>02-3322-1428</p>
           </td>
           <td>
-            <a target="_" href="http://www.tmccaf.org.tw/">連結</a>
-            
-          </td>
-        </tr>
-        <tr>
-          <td>
-            財團法人高雄市愛樂文化藝術基金會
-          </td>
-          <td>
-            朱宏昌
-          </td>
-          <td>
-            高雄市鳳山區光遠路161號<br>07-743-6633
-          </td>
-          <td>
-            <a target="_" href="http://kpcaf.khcc.gov.tw/index.php?task=home&amp;lang=cht">連結</a>
-            
+            <p>https://www.facebook.com/apstring</p>
           </td>
         </tr>
         <tr>
           <td>
-            臺灣擊樂藝術聯盟
+            <p>財團法人樂賞音樂教育基金會</p>
           </td>
           <td>
-            陳文姬
+            <p>劉岠渭</p>
           </td>
           <td>
+            <p>臺北市中山區民權東路一段55號7樓</p>
           </td>
           <td>
-            <a target="_" href="mailto:tpaausa888@gmail.com">連結</a><br>
-            <a target="_" href="https://www.taiwanpercussionaa.com/">連結</a>
+            <p>http://www.poco-a-poco.org/pocoapoco/portal/PortalHome.asp</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>
+              <a href="http://red073.redmedia.com.tw/backoffice/"
+                >中華民國聲樂家協會</a
+              >
+            </p>
+          </td>
+          <td>
+            <p>孫清吉</p>
+          </td>
+          <td>
+            <p>臺北市中正區忠孝東路二段29號2樓及3樓　</p>
+            <p>02-3393-8779</p>
+          </td>
+          <td>
+            <p>http://www.vocalistasso.org.tw/front/bin/home.phtml</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>財團法人擊樂文教基金會</p>
+          </td>
+          <td>
+            <p>朱宗慶</p>
+          </td>
+          <td>
+            <p>臺北市北投區大業路10號6樓</p>
+            <p>02-2891-9900</p>
+          </td>
+          <td>
+            <p>http://www.jpg.org.tw/</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>捌號會所</p>
+          </td>
+          <td>
+            <p>林芳宜</p>
+          </td>
+          <td>
+            <p>臺北市士林區雙溪街102號9樓</p>
+          </td>
+          <td>
+            <p>adm@studioacht.com.tw</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>台北市新合唱文化藝術基金會</p>
+          </td>
+          <td>
+            <p>洪光浩</p>
+          </td>
+          <td>
+            <p>新北市中和區中和路266號8樓之3</p>
+          </td>
+          <td>
+            <p>http://www.tcmc.org.tw/</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>拉縴人文化基金會</p>
+          </td>
+          <td>
+            <p>李曜州</p>
+          </td>
+          <td>
+            <p>新北市新店區北新路三段205之3號7樓B室</p>
+            <p>02-8913-2068</p>
+          </td>
+          <td>
+            <p>http://www.tmccaf.org.tw/</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>財團法人高雄市愛樂文化藝術基金會</p>
+          </td>
+          <td>
+            <p>朱宏昌</p>
+          </td>
+          <td>
+            <p>高雄市鳳山區光遠路161號</p>
+            <p>07-743-6633</p>
+          </td>
+          <td>
+            <p>http://kpcaf.khcc.gov.tw/index.php?task=home&amp;lang=cht</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>臺灣擊樂藝術聯盟</p>
+          </td>
+          <td>
+            <p>陳文姬</p>
+          </td>
+          <td>&nbsp;</td>
+          <td>
+            <p>https://www.taiwanpercussionaa.com/</p>
+            <p>tpaausa888@gmail.com</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>台灣管風琴協會</p>
+          </td>
+          <td>
+            <p>劉信宏</p>
+          </td>
+          <td>&nbsp;</td>
+          <td>
+            <p>https://www.agotw.org/</p>
+            <p>taiwanorgan@gmail.com</p>
           </td>
         </tr>
       </tbody>

@@ -3,613 +3,764 @@
     <div class="title">
       <h2>佛、釋教音樂篇</h2>
     </div>
-    <hr>
+    <hr />
     <p class="firstRow"></p>
-    <table rules="all" border="1" style="border:1px solid" cellpadding="5">
+    <table rules="all" border="1" style="border: 1px solid" cellpadding="5">
       <thead>
         <tr>
-          <th style="width:20%">名稱</th>
-          <th style="width:20%">負責人</th>
-          <th style="width:25%">地址/電話</th>
+          <th style="width: 20%">名稱</th>
+          <th style="width: 20%">負責人</th>
+          <th style="width: 25%">地址/電話</th>
           <th>其他聯絡方式</th>
-          <th style="width:25%">備註</th>
+          <th style="width: 25%">備註</th>
         </tr>
       </thead>
       <tbody>
         <tr>
           <td>
-            國際佛光會中華總會
+            <p>&nbsp;佛光山</p>
+            <p>極樂寺</p>
           </td>
           <td>
-            總會長<br>趙怡
+            <p>住持</p>
+            <p>妙璋</p>
           </td>
           <td>
-            臺北市信義區松隆路327號8樓<br>02-2762-0112
+            <p>基隆市中正區信二路270號</p>
+            <p>02-2423-1141</p>
+            <p>02-2522-2570</p>
           </td>
           <td>
-            <a target="_" href="http://www.blia.org.tw/">連結</a>
+            <p>https://www.fgs.org.tw/branch/?BrID=D50201</p>
           </td>
           <td>
-            1991年由星雲法師創立
-          </td>
-        </tr>
-        <tr>
-          <td>
-            東和禪寺
-          </td>
-          <td>
-            住持<br>心照和尚
-          </td>
-          <td>
-            臺北市中正區仁愛路一段21之33號<br>02-2351-7887<br>02-2393-4598
-          </td>
-          <td>
-            <a target="_" href="http://www.dongher.org.tw/">連結</a>
-          </td>
-          <td>
-            1973年由心源和尚創立
+            <p>
+              極樂寺建於1905年，其前身為光尊寺，屬日本真宗本願寺派。1946年，由月眉山靈泉寺法系出家的修慧法師接管，並正式改名為「極樂寺」，直到1984年，極樂寺成為佛光山派下分院。
+            </p>
           </td>
         </tr>
         <tr>
           <td>
-            善導寺
+            <p>內湖金龍禪寺</p>
           </td>
           <td>
-            住持<br>了中法師
+            <p>行政</p>
+            <p>許小姐</p>
           </td>
           <td>
-            臺北市中正區忠孝東路一段23號<br>02-2341-5758
+            <p>臺北市內湖區內湖路三段256巷2號</p>
+            <p>
+              <a
+                href="https://www.google.com/search?q=%E5%85%A7%E6%B9%96%E9%87%91%E9%BE%8D%E7%A6%AA%E5%AF%BA&amp;oq=%E5%85%A7%E6%B9%96%E9%87%91%E9%BE%8D%E7%A6%AA%E5%AF%BA&amp;aqs=chrome..69i57.664j0j7&amp;sourceid=chrome&amp;ie=UTF-8"
+                >02-2790-2604</a
+              >
+            </p>
           </td>
           <td>
-            <a target="_" href="http://www.shandaotemple.org.tw/">連結</a>
-            
+            <p>http://www.jinlungyun.org.tw/</p>
           </td>
           <td>
-            1929年創立，原名「淨土宗台北別院」，是日本淨土宗總本山知恩院在臺灣的別院。
-          </td>
-        </tr>
-        <tr>
-          <td>
-            佛光山普門寺
-          </td>
-          <td>
-            住持<br>滿方
-          </td>
-          <td>
-            臺北市松山區民權東路三段136號11樓<br>02-2712-1177
-          </td>
-          <td>
-            <a target="_" href="mailto:pumens@ecp.fgs.org.tw">連結</a>
-            
-          </td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>
-            福智團體（財團法人台北市福智佛教基金會）
-          </td>
-          <td>
-            真如上師
-          </td>
-          <td>
-            臺北市松山區南京東路四段137號12樓
-          </td>
-          <td>
-            <a target="_" href="https://www.blisswisdom.org">連結</a><br>
-            <a target="_" href="mailto:web.buddhism@blisswisdom.org">連結</a>
-          </td>
-          <td>
-            1992年日常老和尚創辦
+            <p>1953年由玄信法師創立</p>
           </td>
         </tr>
         <tr>
           <td>
-            中華佛教文化館
+            <p>中華普門妙音協會</p>
           </td>
           <td>
-            方丈<br>果暉法師
+            <p>理事長</p>
+            <p>邱志淳</p>
           </td>
           <td>
-            臺北市北投區光明路276號<br>02-2892-6111
+            <p>臺北市文山區木柵路一段117巷2弄6號1樓</p>
+            <p>02-2211-0660</p>
           </td>
           <td>
-            <a target="_" href="http://sfcb.ddm.org.tw/">連結</a>
-            
+            <p>https://www.youtube.com/channel/UCMgvI1UACjTywm7RcLVmTtA/</p>
           </td>
           <td>
-            1956年由東初老人創立
-          </td>
-        </tr>
-        <tr>
-          <td>
-            法鼓山農禪寺
-          </td>
-          <td>
-            方丈<br>果暉法師
-          </td>
-          <td>
-            臺北市北投區大業路65巷89號<br>02-2893-3161
-          </td>
-          <td>
-            <a target="_" href="http://ncm.ddm.org.tw/">連結</a>
-            
-          </td>
-          <td>
-            1975年由東初老人創立
+            <p>成立於2018年</p>
           </td>
         </tr>
         <tr>
           <td>
-            中華普門妙音協會
+            <p>中華佛教文化館</p>
           </td>
           <td>
-            理事長<br>邱志淳
+            <p>方丈</p>
+            <p>果暉法師</p>
           </td>
           <td>
-            臺北市文山區木柵路一段117巷2弄6號1樓<br>02-2211-0660
+            <p>臺北市北投區光明路276號</p>
+            <p>02-2892-6111</p>
           </td>
           <td>
-            <a target="_" href="https://www.youtube.com/channel/UCMgvI1UACjTywm7RcLVmTtA/">連結</a>
-            
+            <p>http://sfcb.ddm.org.tw/</p>
           </td>
           <td>
-            2018年成立
-          </td>
-        </tr>
-        <tr>
-          <td>
-            法鼓山（世界佛教教育園區）
-          </td>
-          <td>
-            方丈<br>果暉法師
-          </td>
-          <td>
-            新北市金山區法鼓路555號<br>02-2498-7171
-          </td>
-          <td>
-            <a target="_" href="http://fagushan.ddm.org.tw/">連結</a>
-            
-          </td>
-          <td>
-            由聖嚴法師創立，2005年10月21日開山。
+            <p>1956年由東初老人創立</p>
           </td>
         </tr>
         <tr>
           <td>
-            凌雲禪寺
+            <p>佛光山普門寺</p>
           </td>
           <td>
-            柯寶祝
+            <p>住持</p>
+            <p>滿方</p>
           </td>
           <td>
-            新北市五股區凌雲路三段116號<br>02-2291-3771
+            <p>臺北市松山區民權東路三段136號11樓</p>
+            <p>02-2712-1177</p>
           </td>
-          <td></td>
           <td>
-            1909年由寶海法師創立
+            <p>pumens@ecp.fgs.org.tw</p>
+          </td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>
+            <p>法鼓山農禪寺</p>
+          </td>
+          <td>
+            <p>方丈</p>
+            <p>果暉法師</p>
+          </td>
+          <td>
+            <p>臺北市北投區大業路65巷89號</p>
+            <p>02-2893-3161</p>
+          </td>
+          <td>
+            <p>http://ncm.ddm.org.tw/</p>
+          </td>
+          <td>
+            <p>1975年由東初老人創立</p>
           </td>
         </tr>
         <tr>
           <td>
-            智光禪寺
+            <p>東和禪寺</p>
           </td>
           <td>
-            張秀鶯
+            <p>住持</p>
+            <p>心照和尚</p>
           </td>
           <td>
-            新北市五股區民義路二段21號<br>02-2292-2069
+            <p>臺北市中正區仁愛路一段21之33號</p>
+            <p>02-2351-7887</p>
+            <p>02-2393-4598</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/pages/智光禪寺/199946073371787">連結</a>
-            
+            <p>http://www.dongher.org.tw/</p>
           </td>
           <td>
-            1968-1969年間由如學法師創建。
-          </td>
-        </tr>
-        <tr>
-          <td>
-            板橋接雲寺
-          </td>
-          <td>
-            主委<br>江清秀
-          </td>
-          <td>
-            新北市板橋區西門街69號<br>02-2966-1403<br>02-2966-0766
-          </td>
-          <td>
-            <a target="_" href="http://www.jyuns.org.tw">連結</a>
-            
-          </td>
-          <td>
-            1856年成立，現址為1887年落成。
+            <p>1973年由心源和尚創立</p>
           </td>
         </tr>
         <tr>
           <td>
-            靈鷲山（無生道場）
+            <p>國際佛光會中華總會</p>
           </td>
           <td>
-            住持<br>心道法師
+            <p>總會長趙怡</p>
           </td>
           <td>
-            新北市貢寮區香蘭街7之1號<br>02-2499-1100
+            <p>臺北市信義區松隆路327號8樓</p>
+            <p>02-2762-0112</p>
           </td>
           <td>
-            <a target="_" href="https://www.093.org.tw/">連結</a>
-            
+            <p>http://www.blia.org.tw/</p>
           </td>
           <td>
-            由心道法師創立，1984年7月17日落成。
-          </td>
-        </tr>
-        <tr>
-          <td>
-            世界宗教博物館
-          </td>
-          <td>
-            館長<br>陳國寧
-          </td>
-          <td>
-            新北市永和區中山路一段236號7樓<br>02-8231-6118
-          </td>
-          <td>
-            <a target="_" href="https://www.mwr.org.tw/">連結</a>
-            
-          </td>
-          <td>
-            2001年由心道法師創立
+            <p>1991年由星雲法師創立</p>
           </td>
         </tr>
         <tr>
           <td>
-            中華國際供佛齋僧功德會
+            <p>善導寺</p>
           </td>
           <td>
-            理事長<br>陳佳源
+            <p>住持</p>
+            <p>了中法師</p>
           </td>
           <td>
-            新北市中和區建八路165號10樓<br>02-8226-7559
+            <p>臺北市中正區忠孝東路一段23號</p>
+            <p>02-2341-5758</p>
           </td>
           <td>
-            <a target="_" href="http://www.cibsa.org.tw/">連結</a>
-            
+            <p>http://www.shandaotemple.org.tw/</p>
           </td>
           <td>
-            2003年成立
-          </td>
-        </tr>
-        <tr>
-          <td>
-            台灣宗教學會
-          </td>
-          <td>
-            理事長<br>陳美華
-          </td>
-          <td>
-            新北市汐止區大同路一段237號9樓<br>02-2641-7108
-          </td>
-          <td>
-            <a target="_" href="mailto:tars2010.6@gmail.com">連結</a>
-          </td>
-          <td>
-            1999年成立
+            <p>
+              創立於1929年，原名「淨土宗台北開教院」，是日本淨土宗總本山知恩院在臺灣的別院。
+            </p>
           </td>
         </tr>
         <tr>
           <td>
-            圓光禪寺
+            <p>福智團體（財團法人台北市福智佛教基金會）</p>
           </td>
           <td>
-            住持<br>性尚和尚
+            <p>真如上師</p>
           </td>
           <td>
-            桃園市中壢區聖德路一段888巷11號<br>03-425-6168
+            <p>臺北市松山區南京東路四段137號12樓</p>
           </td>
           <td>
-            <a target="_" href="http://www.ykcm.tw/">連結</a>
-            
+            <p>https://www.blisswisdom.org web.buddhism@blisswisdom.org</p>
           </td>
           <td>
-            1917年由妙果老和尚創立
-          </td>
-        </tr>
-        <tr>
-          <td>
-            覺風佛教藝術文化基金會
-          </td>
-          <td>
-            理事長<br>寬謙法師
-          </td>
-          <td>
-            新竹市境福街141巷10號
-          </td>
-          <td>
-            <a target="_" href="https://www.chuefeng.org.tw/">連結</a>
-            
-          </td>
-          <td>
-            1988年成立
+            <p>1992年日常老和尚創辦</p>
           </td>
         </tr>
         <tr>
           <td>
-            振德佛壇
+            <p>臺北恆光禪寺</p>
           </td>
           <td>
-            壇主<br>張壯鈺法師
+            <p>道覺法師</p>
           </td>
           <td>
-            苗栗縣三義鄉中正路163之1號
+            <p>臺北市士林區至善路三段181巷3號</p>
+            <p>
+              <a
+                href="https://www.google.com/search?q=%E8%87%BA%E5%8C%97%E6%81%86%E5%85%89%E7%A6%AA%E5%AF%BA&amp;oq=%E8%87%BA%E5%8C%97%E6%81%86%E5%85%89%E7%A6%AA%E5%AF%BA&amp;aqs=chrome..69i57.752j0j7&amp;sourceid=chrome&amp;ie=UTF-8"
+                >02-2793-3000</a
+              >
+            </p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/jz872406/">連結</a>
-            
+            <p>https://www.hengkuang.net/</p>
           </td>
           <td>
-            1973年成立
-          </td>
-        </tr>
-        <tr>
-          <td>
-            廣福壇
-          </td>
-          <td>
-            壇主<br>吳盛湧法師
-          </td>
-          <td>
-            苗栗縣頭份市和平路14號1樓
-          </td>
-          <td></td>
-          <td>
-            2001年成立
+            <p>成立於1965年，現址為1989年落成。</p>
           </td>
         </tr>
         <tr>
           <td>
-            慈德佛壇
+            <p>中華國際供佛齋僧功德會</p>
           </td>
           <td>
-            壇主<br>黃瑞村 法師
+            <p>理事長</p>
+            <p>陳佳源林俊祿</p>
           </td>
           <td>
-            嘉義縣太保市後潭361號<br>05-371-1203
-          </td>
-          <td></td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>
-            大臺中佛教會
+            <p>新北市中和區建八路165號10樓</p>
+            <p>02-8226-7559</p>
           </td>
           <td>
-            理事長<br>釋常圓
+            <p>http://www.cibsa.org.tw/</p>
           </td>
           <td>
-            臺中市大里區永隆一街80號（鑑凡寺）<br>04-2406-7985
-          </td>
-          <td>
-            <a target="_" href="http://www.tcsbuda.org.tw">連結</a>
-            
-          </td>
-          <td>
-            1947年成立中國佛教會臺灣省臺中縣佛教會，後於2016年更名。
+            <p>成立於2003年</p>
           </td>
         </tr>
         <tr>
           <td>
-            萬佛寺
+            <p>世界宗教博物館</p>
           </td>
           <td>
-            住持<br>常釋法師
+            <p>館長</p>
+            <p>馬幼娟</p>
           </td>
           <td>
-            臺中市霧峰區仁德巷7號<br>04-2339-8165<br>04-2330-2085
+            <p>新北市永和區中山路一段236號7樓</p>
+            <p>02-8231-6118</p>
           </td>
           <td>
-            <a target="_" href="http://wanfo.pixnet.net/blog/">連結</a>
-            
+            <p>https://www.mwr.org.tw/</p>
           </td>
           <td>
-            1971年由聖印法師創立
-          </td>
-        </tr>
-        <tr>
-          <td>
-            中台禪寺
-          </td>
-          <td>
-            住持<br>見燈和尚
-          </td>
-          <td>
-            南投縣埔里鎮中台路2號<br>049-293-0215
-          </td>
-          <td>
-            <a target="_" href="https://www.ctworld.org.tw/">連結</a>
-            
-          </td>
-          <td>
-            由惟覺老和尚創立，2001年9月1日落成。
+            <p>2001年由心道法師創立</p>
           </td>
         </tr>
         <tr>
           <td>
-            大華嚴寺
+            <p>台灣宗教學會</p>
           </td>
           <td>
-            住持<br>海雲繼夢法師
+            <p>理事長陳美華</p>
           </td>
           <td>
-            南投縣鹿谷鄉愛鄉路34之1號<br>049-275-0010
+            <p>新北市汐止區大同路一段237號9樓</p>
+            <p>02-2641-7108</p>
           </td>
           <td>
-            <a target="_" href="https://www.huayenworld.org/">連結</a>
-            
+            <p>tars2010.6@gmail.com</p>
           </td>
           <td>
-            由海雲繼夢法師創立，2014年總本山落成。
-          </td>
-        </tr>
-        <tr>
-          <td>
-            佛頂山朝聖寺（左鎮道場、寺務處）
-          </td>
-          <td>
-            住持<br>地清法師
-          </td>
-          <td>
-            臺南市左鎮區菜寮89之6號<br>06-573-2224
-          </td>
-          <td>
-            <a target="_" href="http://www.tuztuzo.com.tw/">連結</a>
-            
-          </td>
-          <td>
-            2004年由地清法師創立
+            <p>成立於1999年</p>
           </td>
         </tr>
         <tr>
           <td>
-            開元寺
+            <p>法鼓山世界佛教教育園區</p>
           </td>
           <td>
-            住持<br>郁定和尚
+            <p>方丈</p>
+            <p>果暉法師</p>
           </td>
           <td>
-            臺南市北區北園街89號<br>06-237-4035<br>06-237-5635
+            <p>新北市金山區法鼓路555號</p>
+            <p>02-2498-7171</p>
           </td>
           <td>
-            <a target="_" href="http://www.kaiyuan.org.tw/">連結</a>
-            
+            <p>http://fagushan.ddm.org.tw/</p>
           </td>
           <td>
-            1690年創立，是臺灣第一座官建佛寺。
-          </td>
-        </tr>
-        <tr>
-          <td>
-            打鼓岩元亨寺
-          </td>
-          <td>
-            住持<br>淨明和尚
-          </td>
-          <td>
-            高雄市鼓山區元亨街7號<br>07-521-3236#9
-          </td>
-          <td>
-            <a target="_" href="https://www.yhm.org.tw/">連結</a>
-            
-          </td>
-          <td>
-            1743年由經元法師創立，原名「元興寺」，1891年重建並更名為「元亨寺」。
+            <p>由聖嚴法師創立，2005年10月21日開山。</p>
           </td>
         </tr>
         <tr>
           <td>
-            清涼山護國妙崇寺
+            <p>板橋接雲寺</p>
           </td>
           <td>
-            住持<br>宏安法師
+            <p>主委</p>
+            <p>江清秀</p>
           </td>
           <td>
-            高雄市六龜區舊潭3之3號<br>07-689-2259
+            <p>新北市板橋區西門街69號</p>
+            <p>02-2966-1403</p>
+            <p>02-2966-0766</p>
           </td>
           <td>
-            <a target="_" href="http://www.clm.org.tw/">連結</a>
-            
+            <p>http://www.jyuns.org.tw</p>
           </td>
           <td>
-            1984年由宏安法師創立
-          </td>
-        </tr>
-        <tr>
-          <td>
-            佛光山
-          </td>
-          <td>
-            住持<br>心保和尚
-          </td>
-          <td>
-            高雄市大樹區興田路153號<br>07-656-1921
-          </td>
-          <td>
-            <a target="_" href="https://www.fgs.org.tw/">連結</a>
-            
-          </td>
-          <td>
-            由星雲法師創立，1967年5月16日開山。
+            <p>成立於1856年，現址為1887年落成。</p>
           </td>
         </tr>
         <tr>
           <td>
-            佛光山佛陀紀念館
+            <p>凌雲禪寺</p>
           </td>
           <td>
-            館長<br>如常法師
+            <p>柯寶祝</p>
           </td>
           <td>
-            高雄市大樹區統嶺路1號<br>07-656-3033
+            <p>新北市五股區凌雲路三段116號</p>
+            <p>02-2291-3771</p>
           </td>
+          <td>&nbsp;</td>
           <td>
-            <a target="_" href="http://www.fgsbmc.org.tw/">連結</a>
-            
-          </td>
-          <td>
-            由星雲法師創立，2011年落成。
+            <p>1909年由寶海法師創立</p>
           </td>
         </tr>
         <tr>
           <td>
-            中華傳統宗教總會
+            <p>淡水妙覺寺</p>
           </td>
           <td>
-            總會長<br>王金平
+            <p>道明法師</p>
           </td>
           <td>
-            高雄市大樹區統嶺路3號<br>07-656-3055
+            <p>新北市淡水區民生里樹梅坑6-2號</p>
+            <p>
+              <a
+                href="https://www.google.com/search?q=%E6%B7%A1%E6%B0%B4%E5%A6%99%E8%A6%BA%E5%AF%BA&amp;oq=%E6%B7%A1%E6%B0%B4%E5%A6%99%E8%A6%BA%E5%AF%BA&amp;aqs=chrome..69i57.397j0j7&amp;sourceid=chrome&amp;ie=UTF-8"
+                >02-2809-5925</a
+              >
+            </p>
           </td>
           <td>
-            <a target="_" href="mailto:religionbmc@gmail.com">連結</a>
-            
+            <p>https://www.facebook.com/淡水妙覺寺-815998641797425/</p>
           </td>
           <td>
-            2015年由星雲法師創立
-          </td>
-        </tr>
-        <tr>
-          <td>
-            慈濟基金會（靜思精舍）
-          </td>
-          <td>
-            執行長<br>顏博文
-          </td>
-          <td>
-            花蓮縣新城鄉精舍街88巷1號<br>03-826-6779
-          </td>
-          <td>
-            <a target="_" href="http://www.tzuchi.org.tw/">連結</a>
-            
-          </td>
-          <td>
-            1966年5月14日由證嚴法師創立
+            <p>1981年由慧岸老和尚創立</p>
           </td>
         </tr>
         <tr>
           <td>
-            和南寺
+            <p>智光禪寺</p>
           </td>
           <td>
-            方丈<br>道一法師
+            <p>張秀鶯</p>
           </td>
           <td>
-            花蓮縣壽豐鄉鹽寮村5鄰191號<br>03-867-1001
+            <p>新北市五股區民義路二段21號</p>
+            <p>02-2292-2069</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/356951367688157/">連結</a>
-            
+            <p>https://www.facebook.com/pages/智光禪寺/199946073371787</p>
           </td>
           <td>
-            1967年由傳慶法師創立
+            <p>1968-1969年間由如學法師創建</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>靈鷲山無生道場</p>
+          </td>
+          <td>
+            <p>住持</p>
+            <p>心道法師</p>
+          </td>
+          <td>
+            <p>新北市貢寮區香蘭街7之1號</p>
+            <p>02-2499-1100</p>
+          </td>
+          <td>
+            <p>https://www.093.org.tw/</p>
+          </td>
+          <td>
+            <p>由心道法師創立，1984年7月17日落成。</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>圓光禪寺</p>
+          </td>
+          <td>
+            <p>住持</p>
+            <p>性尚和尚</p>
+          </td>
+          <td>
+            <p>桃園市中壢區聖德路一段888巷11號</p>
+            <p>03-425-6168</p>
+          </td>
+          <td>
+            <p>http://www.ykcm.tw/</p>
+          </td>
+          <td>
+            <p>1917年由妙果老和尚創立</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>覺風佛教藝術文化基金會</p>
+          </td>
+          <td>
+            <p>理事長</p>
+            <p>寬謙法師</p>
+          </td>
+          <td>
+            <p>新竹市北區境福街141巷10號</p>
+          </td>
+          <td>
+            <p>https://www.chuefeng.org.tw/</p>
+          </td>
+          <td>
+            <p>成立於1988年</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>振德佛壇</p>
+          </td>
+          <td>
+            <p>壇主</p>
+            <p>張壯鈺法師</p>
+          </td>
+          <td>
+            <p>苗栗縣三義鄉中正路163之1號</p>
+          </td>
+          <td>
+            <p>https://www.facebook.com/jz872406/</p>
+          </td>
+          <td>
+            <p>成立於1973年</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>廣福壇</p>
+          </td>
+          <td>
+            <p>壇主</p>
+            <p>吳盛湧法師</p>
+          </td>
+          <td>
+            <p>苗栗縣頭份市和平路14號1樓</p>
+          </td>
+          <td>&nbsp;</td>
+          <td>
+            <p>成立於2001年</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>大臺中佛教會</p>
+          </td>
+          <td>
+            <p>理事長</p>
+            <p>釋常圓</p>
+          </td>
+          <td>
+            <p>臺中市大里區永隆一街80號（鑑凡寺）</p>
+            <p>04-2406-7985</p>
+          </td>
+          <td>
+            <p>http://www.tcsbuda.org.tw</p>
+          </td>
+          <td>
+            <p>1947年成立中國佛教會臺灣省臺中縣佛教會，後於2016年更名。</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>佛光山惠中寺</p>
+          </td>
+          <td>
+            <p>住持</p>
+            <p>覺居法師</p>
+          </td>
+          <td>
+            <p>臺中市南屯區惠中路三段65號</p>
+            <p>04-2252-0375&nbsp;</p>
+          </td>
+          <td>
+            <p>https://huichung.fgs.org.tw</p>
+          </td>
+          <td>
+            <p>成立於2004年</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>萬佛寺</p>
+          </td>
+          <td>
+            <p>住持</p>
+            <p>常釋法師</p>
+          </td>
+          <td>
+            <p>臺中市霧峰區仁德巷7號</p>
+            <p>04-2339-8165</p>
+            <p>04-2330-2085</p>
+          </td>
+          <td>
+            <p>http://wanfo.pixnet.net/blog/</p>
+          </td>
+          <td>
+            <p>1971年由聖印法師創立</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>大華嚴寺</p>
+          </td>
+          <td>
+            <p>住持</p>
+            <p>海雲繼夢法師</p>
+          </td>
+          <td>
+            <p>南投縣鹿谷鄉愛鄉路34之1號</p>
+            <p>049-275-0010</p>
+          </td>
+          <td>
+            <p>https://www.huayenworld.org/</p>
+          </td>
+          <td>
+            <p>由海雲繼夢法師創立，2014年總本山落成。</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>中台禪寺</p>
+          </td>
+          <td>
+            <p>住持</p>
+            <p>見燈和尚</p>
+          </td>
+          <td>
+            <p>南投縣埔里鎮中台路2號</p>
+            <p>049-293-0215</p>
+          </td>
+          <td>
+            <p>https://www.ctworld.org.tw/</p>
+          </td>
+          <td>
+            <p>由惟覺老和尚創立，2001年9月1日落成。</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>慈德佛壇</p>
+          </td>
+          <td>
+            <p>壇主</p>
+            <p>黃瑞村法師</p>
+          </td>
+          <td>
+            <p>嘉義縣太保市後潭361號</p>
+            <p>05-371-1203</p>
+          </td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>
+            <p>佛頂山朝聖寺（左鎮道場、寺務處）</p>
+          </td>
+          <td>
+            <p>住持</p>
+            <p>地清法師</p>
+          </td>
+          <td>
+            <p>臺南市左鎮區菜寮89之6號</p>
+            <p>06-573-2224</p>
+          </td>
+          <td>
+            <p>http://www.tuztuzo.com.tw/</p>
+          </td>
+          <td>
+            <p>2004年由地清法師創立</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>開元寺</p>
+          </td>
+          <td>
+            <p>住持</p>
+            <p>郁定和尚</p>
+          </td>
+          <td>
+            <p>臺南市北區北園街89號</p>
+            <p>06-237-4035</p>
+            <p>06-237-5635</p>
+          </td>
+          <td>
+            <p>http://www.kaiyuan.org.tw/</p>
+          </td>
+          <td>
+            <p>創立於1690年，是臺灣第一座官建佛寺。</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>中華傳統宗教總會</p>
+          </td>
+          <td>
+            <p>總會長</p>
+            <p>王金平</p>
+          </td>
+          <td>
+            <p>高雄市大樹區統嶺路3號</p>
+            <p>07-656-3055</p>
+          </td>
+          <td>
+            <p>religionbmc@gmail.com</p>
+          </td>
+          <td>
+            <p>2015年由星雲法師創立</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>打鼓岩元亨寺</p>
+          </td>
+          <td>
+            <p>住持</p>
+            <p>淨明和尚</p>
+          </td>
+          <td>
+            <p>高雄市鼓山區元亨街7號</p>
+            <p>07-521-3236 #9</p>
+          </td>
+          <td>
+            <p>https://www.yhm.org.tw/</p>
+          </td>
+          <td>
+            <p>
+              1743年由經元法師創立，原名「元興寺」，1891年重建並更名為「元亨寺」。
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>佛光山</p>
+          </td>
+          <td>
+            <p>住持</p>
+            <p>心保和尚</p>
+          </td>
+          <td>
+            <p>高雄市大樹區興田路153號</p>
+            <p>07-656-1921</p>
+          </td>
+          <td>
+            <p>https://www.fgs.org.tw/</p>
+          </td>
+          <td>
+            <p>由星雲法師創立，1967年5月16日開山。</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>佛光山佛陀紀念館</p>
+          </td>
+          <td>
+            <p>館長</p>
+            <p>如常法師</p>
+          </td>
+          <td>
+            <p>高雄市大樹區統嶺路1號</p>
+            <p>07-656-3033</p>
+          </td>
+          <td>
+            <p>http://www.fgsbmc.org.tw/</p>
+          </td>
+          <td>
+            <p>由星雲法師創立，2011年落成。</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>清涼山護國妙崇寺</p>
+          </td>
+          <td>
+            <p>住持</p>
+            <p>宏安法師</p>
+          </td>
+          <td>
+            <p>高雄市六龜區舊潭3之3號</p>
+            <p>07-689-2259</p>
+          </td>
+          <td>
+            <p>http://www.clm.org.tw/</p>
+          </td>
+          <td>
+            <p>1984年由宏安法師創立</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>和南寺</p>
+          </td>
+          <td>
+            <p>方丈</p>
+            <p>道一法師</p>
+          </td>
+          <td>
+            <p>花蓮縣壽豐鄉鹽寮村5鄰191號</p>
+            <p>03-867-1001</p>
+          </td>
+          <td>
+            <p>https://www.facebook.com/356951367688157/</p>
+          </td>
+          <td>
+            <p>1967年由傳慶法師創立</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>慈濟基金會（靜思精舍）</p>
+          </td>
+          <td>
+            <p>執行長</p>
+            <p>顏博文</p>
+          </td>
+          <td>
+            <p>花蓮縣新城鄉精舍街88巷1號</p>
+            <p>03-826-6779</p>
+          </td>
+          <td>
+            <p>http://www.tzuchi.org.tw/</p>
+          </td>
+          <td>
+            <p>1966年5月14日由證嚴法師創立</p>
           </td>
         </tr>
       </tbody>

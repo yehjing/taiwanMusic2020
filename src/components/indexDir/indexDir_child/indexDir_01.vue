@@ -25,6 +25,7 @@ import IndexDir8 from './indexDir_8.vue';
 import IndexDir9 from './indexDir_9.vue';
 import IndexDir10 from './indexDir_10.vue';
 import IndexDir11 from './indexDir_11.vue';
+import IndexDir24 from './indexDir_24.vue';
 
 
 const tabs = [
@@ -74,6 +75,12 @@ const tabs = [
     autor: '',
     component: IndexDir7,
     path: 'indexDir_7',
+  },
+  {
+    name: '釋奠樂及其他篇',
+    autor: '',
+    component: IndexDir24,
+    path: 'indexDir_24',
   },
   {
     name: '國樂篇',
