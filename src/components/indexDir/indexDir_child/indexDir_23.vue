@@ -29,8 +29,8 @@
             <p>03-332-5215</p>
           </td>
           <td>
-            <p>https://confucius.tycg.gov.tw</p>
-            <p>con002@mail.tycg.gov.tw</p>
+            <a target="_" href="https://confucius.tycg.gov.tw">連結</a><br>
+            <a href="mailto:con002@mail.tycg.gov.tw">連結</a>
           </td>
           <td>
             <p>
@@ -50,7 +50,7 @@
             <p>04-2233-2264</p>
           </td>
           <td>
-            <p>https://www.confucius.taichung.gov.tw</p>
+            <a target="_" href="https://www.confucius.taichung.gov.tw">連結</a>
           </td>
           <td>
             <p>建於1976年</p>
@@ -68,7 +68,7 @@
             <p>049-285-5122</p>
           </td>
           <td>
-            <p>https://www.wenwu.org.tw/</p>
+            <a target="_" href="https://www.wenwu.org.tw/">連結</a>
           </td>
           <td>
             <p>建於日治時期，1934年於日月潭北畔重建廟宇，1969年重建為現貌。</p>
@@ -86,7 +86,7 @@
             <p>049-298-2906</p>
           </td>
           <td>
-            <p>www.kongzi.org.tw</p>
+            <a target="_" href="www.kongzi.org.tw">連結</a>
           </td>
           <td>
             <p>建於1912年（民國元年）</p>
@@ -104,7 +104,7 @@
             <p>06-221-4647</p>
           </td>
           <td>
-            <p>https://www.twtainan.net/zh-tw/attractions/detail/800</p>
+            <a target="_" href="https://www.twtainan.net/zh-tw/attractions/detail/800">連結</a>
           </td>
           <td>
             <p>
@@ -125,7 +125,7 @@
             <p>039-251-000</p>
           </td>
           <td>
-            <p>http://confucius.culture.tw/home/zh-tw/taiwan/34586</p>
+            <a target="_" href="http://confucius.culture.tw/home/zh-tw/taiwan/34586">連結</a>
           </td>
           <td>
             <p>

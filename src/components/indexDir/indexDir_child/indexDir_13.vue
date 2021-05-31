@@ -25,7 +25,7 @@
             <p>基隆市暖暖區</p>
           </td>
           <td>
-            <p>https://www.facebook.com/groups/1720303424908310/about/</p>
+            <a target="_" href="https://www.facebook.com/groups/1720303424908310/about/">連結</a>            
           </td>
           <td>
             <p>
@@ -46,7 +46,7 @@
             <p>02-2422-3826</p>
           </td>
           <td>
-            <p>https://www.facebook.com/lnheritance/</p>
+            <a target="_" href="https://www.facebook.com/lnheritance/">連結</a>
           </td>
           <td>
             <p>
@@ -63,7 +63,7 @@
             <p>基隆市和平島</p>
           </td>
           <td>
-            <p>https://www.facebook.com/good3ken/</p>
+            <a target="_" href="https://www.facebook.com/good3ken/">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -79,7 +79,7 @@
             <p>基隆市仁愛區仁三路27-2號</p>
           </td>
           <td>
-            <p>https://www.facebook.com/DenjiPalace/</p>
+            <a target="_" href="https://www.facebook.com/DenjiPalace/">連結</a>
           </td>
           <td>
             <p>隸屬基隆市奠濟宮</p>
@@ -97,7 +97,7 @@
             <p>基隆市仁愛區忠二路1號（基隆慶安宮）</p>
           </td>
           <td>
-            <p>https://www.facebook.com/基隆聚樂社一組-1632638547021049/</p>
+            <a target="_" href="https://www.facebook.com/基隆聚樂社一組-1632638547021049/">連結</a>
           </td>
           <td>
             <p>約1851年至1861年間成立，練習時間：每週六14:00-17:00。</p>
@@ -131,7 +131,7 @@
             <p>02-2766-3012（松山慈祐宮）</p>
           </td>
           <td>
-            <p>https://www.facebook.com/YongLexuan/</p>
+            <a target="_" href="https://www.facebook.com/YongLexuan/">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -146,7 +146,7 @@
             <p>臺北市汀州路三段77號（永興宮）</p>
           </td>
           <td>
-            <p>https://www.facebook.com/LOVE500211/</p>
+            <a target="_" href="https://www.facebook.com/LOVE500211/">連結</a>
           </td>
           <td>
             <p>成立於1947年底，1952年正式安館。</p>
@@ -164,7 +164,7 @@
             <p>02-2553-6501</p>
           </td>
           <td>
-            <p>https://www.facebook.com/TaipeiGongLeXuan/</p>
+            <a target="_" href="https://www.facebook.com/TaipeiGongLeXuan/">連結</a>
           </td>
           <td>
             <p>成立於1911年，練習時間：每週五19:30。</p>
@@ -182,7 +182,7 @@
             <p>0960-057-271</p>
           </td>
           <td>
-            <p>https://www.facebook.com/1017227034959961/</p>
+            <a target="_" href="https://www.facebook.com/1017227034959961/">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -198,7 +198,7 @@
             <p>02-2595-8872</p>
           </td>
           <td>
-            <p>https://www.facebook.com/164928970295214/</p>
+            <a target="_" href="https://www.facebook.com/164928970295214/">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -213,7 +213,7 @@
             <p>臺北市大同區迪化街二段304號（萬和宮旁）</p>
           </td>
           <td>
-            <p>https://www.facebook.com/1445771065744156/</p>
+            <a target="_" href="https://www.facebook.com/1445771065744156/">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -247,7 +247,7 @@
             <p>02-2896-7294</p>
           </td>
           <td>
-            <p>https://trd-music.tnua.edu.tw/</p>
+            <a target="_" href="https://trd-music.tnua.edu.tw/">連結</a>
           </td>
           <td>
             <p>成立於1995年，設有北管樂主修。</p>
@@ -262,7 +262,7 @@
           </td>
           <td>&nbsp;</td>
           <td>
-            <p>https://www.facebook.com/Brainstromworkshop/</p>
+            <a target="_" href="https://www.facebook.com/Brainstromworkshop/">連結</a>
           </td>
           <td>
             <p>由臺北藝術大學傳統音樂學系校友組成，演出內容包含南、北管。</p>
@@ -279,7 +279,7 @@
             <p>臺北市北投區</p>
           </td>
           <td>
-            <p>https://www.facebook.com/newmusicsir/</p>
+            <a target="_" href="https://www.facebook.com/newmusicsir/">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -295,7 +295,7 @@
             <p>02-2751-5609</p>
           </td>
           <td>
-            <p>https://www.facebook.com/kuei580922/</p>
+            <a target="_" href="https://www.facebook.com/kuei580922/">連結</a>
           </td>
           <td>
             <p>
@@ -312,7 +312,7 @@
             <p>臺北市松山區</p>
           </td>
           <td>
-            <p>https://www.facebook.com/SongShanFuLeShe/</p>
+            <a target="_" href="https://www.facebook.com/SongShanFuLeShe/">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -325,7 +325,7 @@
             <p>新北市三重區力行路二段10號</p>
           </td>
           <td>
-            <p>https://www.facebook.com/碧樂社-1630921963816670/</p>
+            <a target="_" href="https://www.facebook.com/碧樂社-1630921963816670/">連結</a>
           </td>
           <td>
             <p>練習時間：每週三、四20:00。</p>
@@ -346,7 +346,7 @@
             <p>02-2557-4855</p>
           </td>
           <td>
-            <p>https://www.facebook.com/linganshe/</p>
+            <a target="_" href="https://www.facebook.com/linganshe/">連結</a>
           </td>
           <td>
             <p>練習時間：每週一（牌子）、五（戲曲）19:30-22:00。</p>
@@ -377,7 +377,7 @@
             <p>新北市三重區新北大道一段46巷7號（團址/臨水宮）</p>
           </td>
           <td>
-            <p>https://www.facebook.com/SanZhongNanYiShe/</p>
+            <a target="_" href="https://www.facebook.com/SanZhongNanYiShe/">連結</a>
           </td>
           <td>
             <p>6月開始，每週三19:30-21:30練習。</p>
@@ -394,7 +394,7 @@
             <p>新北市中和區圓通路296巷1-1號（高架橋下）</p>
           </td>
           <td>
-            <p>https://www.facebook.com/NiubuChildren/</p>
+            <a target="_" href="https://www.facebook.com/NiubuChildren/">連結</a>
           </td>
           <td>
             <p>練習時間：每週五19:30。</p>
@@ -413,7 +413,7 @@
             <p>02-2908-9627</p>
           </td>
           <td>
-            <p>https://www.facebook.com/丹鳳新聲北管-564010327385642/</p>
+            <a target="_" href="https://www.facebook.com/丹鳳新聲北管-564010327385642/">連結</a>
           </td>
           <td>
             <p>成立於2017年10月，由楊晨琦指導。</p>
@@ -441,7 +441,7 @@
             <p>新北市新店區太平路61號（新店太平宮）</p>
           </td>
           <td>
-            <p>https://www.facebook.com/Xindiantaipingshe/</p>
+            <a target="_" href="https://www.facebook.com/Xindiantaipingshe/">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -476,7 +476,7 @@
             <p>02-2618-2448</p>
           </td>
           <td>
-            <p>https://www.facebook.com/tw.peikuan/</p>
+            <a target="_" href="https://www.facebook.com/tw.peikuan/">連結</a>
           </td>
           <td>
             <p>
@@ -496,7 +496,7 @@
             <p>02-2618-2448</p>
           </td>
           <td>
-            <p>https://www.facebook.com/Taipei.Puppet/</p>
+            <a target="_" href="https://www.facebook.com/Taipei.Puppet/">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -511,7 +511,7 @@
             <p>新北市板橋區金門街336巷7號左側（溪福市民活動中心）</p>
           </td>
           <td>
-            <p>https://www.facebook.com/板橋福安社-351768694985876/</p>
+            <a target="_" href="https://www.facebook.com/板橋福安社-351768694985876/">連結</a>
           </td>
           <td>
             <p>每週一、三晚上練習，由張天培指導。</p>
@@ -530,7 +530,7 @@
             <p>02-2968-5386（浮州福德宮）</p>
           </td>
           <td>
-            <p>https://www.facebook.com/板橋聚安社-496550503732647/</p>
+            <a target="_" href="https://www.facebook.com/板橋聚安社-496550503732647/">連結</a>
           </td>
           <td>
             <p>練習時間：每週二、五19:30-21:30。</p>
@@ -549,7 +549,7 @@
             <p>02-2252-7379</p>
           </td>
           <td>
-            <p>https://www.facebook.com/板橋江子翠-潮和社-101971125205221</p>
+            <a target="_" href="https://www.facebook.com/板橋江子翠-潮和社-101971125205221">連結</a>
           </td>
           <td>
             <p>練習時間：每週一、三、五20:00-22:00。</p>
@@ -564,7 +564,7 @@
             <p>新北市林口區佳林路74號（林口永善寺）</p>
           </td>
           <td>
-            <p>https://www.facebook.com/林口中興社-657469964339295/</p>
+            <a target="_" href="https://www.facebook.com/林口中興社-657469964339295/">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -579,7 +579,7 @@
             <p>新北市林口區</p>
           </td>
           <td>
-            <p>https://www.facebook.com/481788695352176/</p>
+            <a target="_" href="https://www.facebook.com/481788695352176/">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -594,7 +594,7 @@
             <p>新北市林口區下福139之11號（林口洪福宮）</p>
           </td>
           <td>
-            <p>https://www.facebook.com/244hongfu/</p>
+            <a target="_" href="https://www.facebook.com/244hongfu/">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -638,7 +638,7 @@
             <p>02-2601-3756</p>
           </td>
           <td>
-            <p>https://www.facebook.com/286379778180151/</p>
+            <a target="_" href="https://www.facebook.com/286379778180151/">連結</a>
           </td>
           <td>
             <p>每週四、五、六練習。</p>
@@ -655,7 +655,7 @@
             <p>新北市林口區寶斗厝坑</p>
           </td>
           <td>
-            <p>https://www.facebook.com/729204547105694/</p>
+            <a target="_" href="https://www.facebook.com/729204547105694/">連結</a>
           </td>
           <td>
             <p>每週三、四練習。</p>
@@ -672,7 +672,7 @@
             <p>新北市林口區頂福20之16號（林口顯應祖師廟）</p>
           </td>
           <td>
-            <p>https://www.facebook.com/sdkksdb820330/</p>
+            <a target="_" href="https://www.facebook.com/sdkksdb820330/">連結</a>
           </td>
           <td>
             <p>每週六、日練習。</p>
@@ -702,7 +702,7 @@
             <p>新北市淡水區清水街127號</p>
           </td>
           <td>
-            <p>https://www.facebook.com/QingShui127club/</p>
+            <a target="_" href="https://www.facebook.com/QingShui127club/">連結</a>
           </td>
           <td>
             <p>成立於1913年，練習時間：每週六19:00-21:00。</p>
@@ -737,7 +737,7 @@
             <p>02-2621-2442</p>
           </td>
           <td>
-            <p>https://www.facebook.com/tamsui.beiguan/</p>
+            <a target="_" href="https://www.facebook.com/tamsui.beiguan/">連結</a>
           </td>
           <td>
             <p>成立於1917年，練習時間：每週日19:00-21:00。</p>
@@ -755,7 +755,7 @@
             <p>0910-050-373（李國豪）0932-924-017（潘淑璟）</p>
           </td>
           <td>
-            <p>https://www.facebook.com/Jtnjs/</p>
+            <a target="_" href="https://www.facebook.com/Jtnjs/">連結</a>
           </td>
           <td>
             <p>
@@ -775,7 +775,7 @@
             <p>0932-241-608</p>
           </td>
           <td>
-            <p>https://www.facebook.com/Taipei.Chingtung.Women1group/</p>
+            <a target="_" href="https://www.facebook.com/Taipei.Chingtung.Women1group/">連結</a>
           </td>
           <td>
             <p>成立於1970年，團員16人。</p>
@@ -793,7 +793,7 @@
             <p>新北市新莊區新莊路727號（館址）</p>
           </td>
           <td>
-            <p>https://www.facebook.com/XinZhuangXinLeYuan/</p>
+            <a target="_" href="https://www.facebook.com/XinZhuangXinLeYuan/">連結</a>
           </td>
           <td>
             <p>成立於1921年，練習時間每週一、四19:30-21:30。</p>
@@ -808,7 +808,7 @@
             <p>新北市蘆洲區長安街106號（蘆洲懋德宮）</p>
           </td>
           <td>
-            <p>https://www.facebook.com/蘆洲懋德宮-樂樂樂-278665312867055</p>
+            <a target="_" href="https://www.facebook.com/蘆洲懋德宮-樂樂樂-278665312867055">連結</a>
           </td>
           <td>
             <p>練習時間：每週五19:00-21:00。</p>
@@ -823,7 +823,7 @@
             <p>桃園市大溪區</p>
           </td>
           <td>
-            <p>https://www.facebook.com/groups/1424579577797914/</p>
+            <a target="_" href="https://www.facebook.com/groups/1424579577797914/">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -836,7 +836,7 @@
             <p>桃園市大溪區</p>
           </td>
           <td>
-            <p>https://www.facebook.com/groups/387743514658493/</p>
+            <a target="_" href="https://www.facebook.com/groups/387743514658493/">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -849,7 +849,7 @@
             <p>桃園市大溪區</p>
           </td>
           <td>
-            <p>https://www.facebook.com/大溪農作團-580208425435071/</p>
+            <a target="_" href="https://www.facebook.com/大溪農作團-580208425435071/">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -865,7 +865,7 @@
             <p>0935-516-012</p>
           </td>
           <td>
-            <p>https://www.facebook.com/桃園同芯社北管樂團-515221688507319/</p>
+            <a target="_" href="https://www.facebook.com/桃園同芯社北管樂團-515221688507319/">連結</a>
           </td>
           <td>
             <p>成立於2003年</p>
@@ -882,7 +882,7 @@
             <p>桃園市八德區</p>
           </td>
           <td>
-            <p>https://www.facebook.com/桃園同義軒-106795047760631/</p>
+            <a target="_" href="https://www.facebook.com/桃園同義軒-106795047760631/">連結</a>
           </td>
           <td>
             <p>練習時間：每週一、三19:30。</p>
@@ -902,7 +902,7 @@
             <p>0928-295-280</p>
           </td>
           <td>
-            <p>https://www.facebook.com/桃園鈞天社-北管部-123281811170392/</p>
+            <a target="_" href="https://www.facebook.com/桃園鈞天社-北管部-123281811170392/">連結</a>
           </td>
           <td>
             <p>桃園鈞天社位於桃園景福宮內，為景福宮之主要社團。</p>
@@ -921,7 +921,7 @@
             <p>03-526-6077</p>
           </td>
           <td>
-            <p>https://www.facebook.com/TikTshamPakKuan/</p>
+            <a target="_" href="https://www.facebook.com/TikTshamPakKuan/">連結</a>
           </td>
           <td>
             <p>
@@ -954,7 +954,7 @@
             <p>03-772-5099</p>
           </td>
           <td>
-            <p>https://www.facebook.com/慶美園亂彈劇團-1962846303973252/</p>
+            <a target="_" href="https://www.facebook.com/慶美園亂彈劇團-1962846303973252/">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -970,7 +970,7 @@
             <p>0912-037-889</p>
           </td>
           <td>
-            <p>lai88168168@yahoo.com.tw</p>
+            <a href="mailto:lai88168168@yahoo.com.tw">連結</a>
           </td>
           <td>
             <p>成立於1998年，練習時間每週一、三、五19:00-21:00。</p>
@@ -988,7 +988,7 @@
             <p>0937-295-493（吳佳鞠）</p>
           </td>
           <td>
-            <p>https://www.facebook.com/何厝-新樂軒北管樂團-405637472825452/</p>
+            <a target="_" href="https://www.facebook.com/何厝-新樂軒北管樂團-405637472825452/">連結</a>
           </td>
           <td>
             <p>創立於1935年（昭和十年）。</p>
@@ -1006,9 +1006,7 @@
             <p>0928-341-355</p>
           </td>
           <td>
-            <p>
-              https://www.facebook.com/臺中太平-明梨園北管團-116056275101395/
-            </p>
+            <a target="_" href="https://www.facebook.com/臺中太平-明梨園北管團-116056275101395/">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -1023,7 +1021,7 @@
             <p>臺中市南屯區</p>
           </td>
           <td>
-            <p>https://www.facebook.com/jinglexuan20191021/</p>
+            <a target="_" href="https://www.facebook.com/jinglexuan20191021/">連結</a>
           </td>
           <td>
             <p>練習時間：每週一19:30-21:30。</p>
@@ -1041,7 +1039,7 @@
             <p>0932-622-629</p>
           </td>
           <td>
-            <p>https://www.facebook.com/振梨園-139735242776111/</p>
+            <a target="_" href="https://www.facebook.com/振梨園-139735242776111/">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -1057,7 +1055,7 @@
             <p>臺中市中區中華路一段102巷1號</p>
           </td>
           <td>
-            <p>https://www.facebook.com/北管-台中-新春園-281068955317798/</p>
+            <a target="_" href="https://www.facebook.com/北管-台中-新春園-281068955317798/">連結</a>
           </td>
           <td>
             <p>成立至2019年已逾101年</p>
@@ -1074,9 +1072,7 @@
             <p>南投縣草屯鎮建國街28號</p>
           </td>
           <td>
-            <p>
-              https://www.facebook.com/㩳愉轃北管掌中實驗團-2277122652371830/
-            </p>
+            <a target="_" href="https://www.facebook.com/㩳愉轃北管掌中實驗團-2277122652371830/">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -1105,7 +1101,7 @@
             <p>0937-108-896</p>
           </td>
           <td>
-            <p>https://www.facebook.com/彰化正樂軒北管樂團-2286341774917966/</p>
+            <a target="_" href="https://www.facebook.com/彰化正樂軒北管樂團-2286341774917966/">連結</a>
           </td>
           <td>
             <p>成立於2018年</p>
@@ -1120,7 +1116,7 @@
             <p>彰化縣員林市山腳路四段212號（東山國小）</p>
           </td>
           <td>
-            <p>https://www.facebook.com/pg/東山鳳梨園-333579133990867/</p>
+            <a target="_" href="https://www.facebook.com/pg/東山鳳梨園-333579133990867/">連結</a>
           </td>
           <td>
             <p>練習時間：每週五19:00-21:00。</p>
@@ -1137,9 +1133,7 @@
             <p>彰化縣彰化市南瑤路43號（南瑤宮）</p>
           </td>
           <td>
-            <p>
-              https://www.facebook.com/彰化南瑤宮勵英社北管-1429140743771145/
-            </p>
+            <a target="_" href="https://www.facebook.com/彰化南瑤宮勵英社北管-1429140743771145/">連結</a>
           </td>
           <td>
             <p>練習時間：每週一、三19:00-21:00。</p>
@@ -1174,7 +1168,7 @@
             <p>04-786-3360</p>
           </td>
           <td>
-            <p>https://www.facebook.com/DaDi.DaDi.DaDaDi/</p>
+            <a target="_" href="https://www.facebook.com/DaDi.DaDi.DaDaDi/">連結</a>
           </td>
           <td>
             <p>成立於2017年，練習時間每週一、四晚上；週日下午。</p>
@@ -1192,7 +1186,7 @@
             <p>04-762-8975</p>
           </td>
           <td>
-            <p>https://www.facebook.com/梨芳園-403860836310480/</p>
+            <a target="_" href="https://www.facebook.com/梨芳園-403860836310480/">連結</a>
           </td>
           <td>
             <p>成立於1833年（道光十三年），練習時間每週一、三、五晚上。</p>
@@ -1210,7 +1204,7 @@
             <p>04-726-4337</p>
           </td>
           <td>
-            <p>https://m.facebook.com/LICY1811/</p>
+            <a target="_" href="https://m.facebook.com/LICY1811/">連結</a>
           </td>
           <td>
             <p>成立於1811年，每週一至六19:30-21:30。</p>
@@ -1225,7 +1219,7 @@
             <p>彰化縣彰化市永樂街57巷15號</p>
           </td>
           <td>
-            <p>https://www.facebook.com/集樂軒北管-107379827649631/</p>
+            <a target="_" href="https://www.facebook.com/集樂軒北管-107379827649631/">連結</a>
           </td>
           <td>
             <p>
@@ -1240,7 +1234,7 @@
           <td>&nbsp;</td>
           <td>&nbsp;</td>
           <td>
-            <p>https://www.facebook.com/彰化-錦春閣-2044437082304202/</p>
+            <a target="_" href="https://www.facebook.com/彰化-錦春閣-2044437082304202/">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -1255,7 +1249,7 @@
             <p>彰化縣鹿港鎮景福巷99號</p>
           </td>
           <td>
-            <p>https://www.facebook.com/lokkangsinsiannkoh/</p>
+            <a target="_" href="https://www.facebook.com/lokkangsinsiannkoh/">連結</a>
           </td>
           <td>
             <p>2019/05/11舉辦復館音樂會，練習時間：每週日10:00。</p>
@@ -1273,7 +1267,7 @@
             <p>0972-093-757</p>
           </td>
           <td>
-            <p>https://www.facebook.com/InnahueBand/</p>
+            <a target="_" href="https://www.facebook.com/InnahueBand/">連結</a>
           </td>
           <td>
             <p>
@@ -1306,9 +1300,7 @@
             <p>彰化縣彰化市福成街63巷2號</p>
           </td>
           <td>
-            <p>
-              https://www.facebook.com/彰化阿夷庄-榮樂軒北管-298142537001837/
-            </p>
+            <a target="_" href="https://www.facebook.com/彰化阿夷庄-榮樂軒北管-298142537001837/">連結</a>
           </td>
           <td>
             <p>創館於1933年，練習時間：每週一至五19:00-21:00。</p>
@@ -1325,7 +1317,7 @@
             <p>彰化縣彰化市崙平里北館街19-1號（崙聖宮2樓）</p>
           </td>
           <td>
-            <p>https://www.facebook.com/new3mazu/</p>
+            <a target="_" href="https://www.facebook.com/new3mazu/">連結</a>
           </td>
           <td>
             <p>成立於1871年（同治十年），練習時間每週一、三、四晚上。</p>
@@ -1343,7 +1335,7 @@
             <p>04-787-5360</p>
           </td>
           <td>
-            <p>https://www.facebook.com/groups/yufengyuan/</p>
+            <a target="_" href="https://www.facebook.com/groups/yufengyuan/">連結</a>
           </td>
           <td>
             <p>每週一、三19:00-21:00，蘇皇誌指導。</p>
@@ -1360,7 +1352,7 @@
             <p>雲林縣北港鎮博愛路62號</p>
           </td>
           <td>
-            <p>https://www.facebook.com/BgTraditionalopera/</p>
+            <a target="_" href="https://www.facebook.com/BgTraditionalopera/">連結</a>
           </td>
           <td>
             <p>成立於清咸豐年間</p>
@@ -1378,7 +1370,7 @@
             <p>0952-669-808</p>
           </td>
           <td>
-            <p>https://www.facebook.com/jinshengshun/</p>
+            <a target="_" href="https://www.facebook.com/jinshengshun/">連結</a>
           </td>
           <td>
             <p>北港朝天宮開路鼓</p>
@@ -1393,7 +1385,7 @@
           </td>
           <td>&nbsp;</td>
           <td>
-            <p>https://www.facebook.com/luochengyua/</p>
+            <a target="_" href="https://www.facebook.com/luochengyua/">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -1408,7 +1400,7 @@
             <p>雲林縣北港鎮太平路43號</p>
           </td>
           <td>
-            <p>https://www.facebook.com/beigang0925950998/</p>
+            <a target="_" href="https://www.facebook.com/beigang0925950998/">連結</a>
           </td>
           <td>
             <p>成立於1962年</p>
@@ -1423,7 +1415,7 @@
           </td>
           <td>&nbsp;</td>
           <td>
-            <p>https://www.facebook.com/嘉義中林金樂軒-771286676312015/</p>
+            <a target="_" href="https://www.facebook.com/嘉義中林金樂軒-771286676312015/">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -1439,7 +1431,7 @@
             <p>0919-864-413</p>
           </td>
           <td>
-            <p>https://www.facebook.com/profile.php?id=100005080484012</p>
+            <a target="_" href="https://www.facebook.com/profile.php?id=100005080484012">連結</a>
           </td>
           <td>
             <p>
@@ -1454,7 +1446,7 @@
           <td>&nbsp;</td>
           <td>&nbsp;</td>
           <td>
-            <p>https://www.facebook.com/m003023/</p>
+            <a target="_" href="https://www.facebook.com/m003023/">連結</a>
           </td>
           <td>
             <p>成立於1953年</p>
@@ -1520,7 +1512,7 @@
             <p>臺南市西港區慶安路32號（西港慶安宮）</p>
           </td>
           <td>
-            <p>https://www.facebook.com/feng1101/</p>
+            <a target="_" href="https://www.facebook.com/feng1101/">連結</a>
           </td>
           <td>
             <p>於2019年5月復陣</p>
@@ -1535,7 +1527,7 @@
             <p>06-261-7210</p>
           </td>
           <td>
-            <p>https://www.facebook.com/台南同興北管社-126420230764719/</p>
+            <a target="_" href="https://www.facebook.com/台南同興北管社-126420230764719/">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -1548,7 +1540,7 @@
             <p>臺南市學甲區濟生路170號（學甲慈濟宮）</p>
           </td>
           <td>
-            <p>https://www.facebook.com/ciji8888/</p>
+            <a target="_" href="https://www.facebook.com/ciji8888/">連結</a>
           </td>
           <td>
             <p>於2019年4月復陣</p>
@@ -1566,7 +1558,7 @@
             <p>0985-679-128</p>
           </td>
           <td>
-            <p>https://www.facebook.com/Tainan.Ching.Shuen.Jing/</p>
+            <a target="_" href="https://www.facebook.com/Tainan.Ching.Shuen.Jing/">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -1582,7 +1574,7 @@
             <p>0933-333-611</p>
           </td>
           <td>
-            <p>https://www.facebook.com/台南慶樂社-194025980638369/</p>
+            <a target="_" href="https://www.facebook.com/台南慶樂社-194025980638369/">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -1598,7 +1590,7 @@
             <p>0927-147-705</p>
           </td>
           <td>
-            <p>https://www.facebook.com/鎮樂社-262394460486479/</p>
+            <a target="_" href="https://www.facebook.com/鎮樂社-262394460486479/">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -1613,7 +1605,7 @@
             <p>臺南市南區灣裡路64號06-262-2668</p>
           </td>
           <td>
-            <p>https://www.facebook.com/Tshaihunian.Winlin.Pakuan/</p>
+            <a target="_" href="https://www.facebook.com/Tshaihunian.Winlin.Pakuan/">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -1629,7 +1621,7 @@
             <p>07-690-5997</p>
           </td>
           <td>
-            <p>https://www.facebook.com/jinluangung/</p>
+            <a target="_" href="https://www.facebook.com/jinluangung/">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -1645,7 +1637,7 @@
             <p>0953-335-636</p>
           </td>
           <td>
-            <p>https://www.facebook.com/高雄德興軒-1601808163239490/</p>
+            <a target="_" href="https://www.facebook.com/高雄德興軒-1601808163239490/">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -1662,9 +1654,7 @@
             <p>08-833-3182</p>
           </td>
           <td>
-            <p>
-              https://www.facebook.com/東港東隆宮大漢樂團-青少年組-281513001991101/
-            </p>
+            <a target="_" href="https://www.facebook.com/東港東隆宮大漢樂團-青少年組-281513001991101/">連結</a>
           </td>
           <td>
             <p>練習時間：每週三、五、六19:00-21:00。</p>
@@ -1681,7 +1671,7 @@
             <p>屏東縣萬丹鄉新鐘村新鐘路75號</p>
           </td>
           <td>
-            <p>https://www.facebook.com/167235153374685</p>
+            <a target="_" href="https://www.facebook.com/167235153374685">連結</a>
           </td>
           <td>
             <p>練習時間：每週三晚上。</p>
@@ -1715,7 +1705,7 @@
             <p>宜蘭市</p>
           </td>
           <td>
-            <p>https://www.facebook.com/宜蘭復蘭社-北管樂曲-118201122147561/</p>
+            <a target="_" href="https://www.facebook.com/宜蘭復蘭社-北管樂曲-118201122147561/">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -1728,7 +1718,7 @@
             <p>03-977-3235</p>
           </td>
           <td>
-            <p>https://www.facebook.com/YilanXiapuShieLanSociety/</p>
+            <a target="_" href="https://www.facebook.com/YilanXiapuShieLanSociety/">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -1744,7 +1734,7 @@
             <p>0903-597-793</p>
           </td>
           <td>
-            <p>https://www.facebook.com/頂埔集蘭社-215745202145819/</p>
+            <a target="_" href="https://www.facebook.com/頂埔集蘭社-215745202145819/">連結</a>
           </td>
           <td>
             <p>每週六、日19:30-21:30於噶瑪蘭救難協會練習。</p>
@@ -1762,7 +1752,7 @@
             <p>0911-217-268</p>
           </td>
           <td>
-            <p>https://www.facebook.com/漢陽北管劇團-393475427342892/</p>
+            <a target="_" href="https://www.facebook.com/漢陽北管劇團-393475427342892/">連結</a>
           </td>
           <td>
             <p>練習時間較機動，配合藝生跟演出場次。</p>
@@ -1811,7 +1801,7 @@
             <p>0981-782-986</p>
           </td>
           <td>
-            <p>https://www.facebook.com/羅東嘉興團-1419673174915121/</p>
+            <a target="_" href="https://www.facebook.com/羅東嘉興團-1419673174915121/">連結</a>
           </td>
           <td>
             <p>成立於1954年</p>
@@ -1844,9 +1834,7 @@
             <p>0929-053-790</p>
           </td>
           <td>
-            <p>
-              https://www.facebook.com/寶桑庄-振樂軒-北管藝術學院-1007960502550403
-            </p>
+            <a target="_" href="https://www.facebook.com/寶桑庄-振樂軒-北管藝術學院-1007960502550403">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>

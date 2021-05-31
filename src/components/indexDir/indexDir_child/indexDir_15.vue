@@ -31,7 +31,7 @@
             <p>02-935-3616</p>
           </td>
           <td>
-            <p>http://club.ntu.edu.tw/~club20433/haksong/sanko/teach.htm</p>
+            <a target="_" href="http://club.ntu.edu.tw/~club20433/haksong/sanko/teach.htm">連結</a>
           </td>
           <td>
             <p>團練時間：19:30-21:30</p>
@@ -51,7 +51,7 @@
             <p>02-8788-4541</p>
           </td>
           <td>
-            <p>https://blog.xuite.net/ho2104/blog</p>
+            <a target="_" href="https://blog.xuite.net/ho2104/blog">連結</a>
           </td>
           <td>
             <p>團練時間：每週一17:00-19:00</p>
@@ -85,7 +85,7 @@
             <p>02-2708-5995</p>
           </td>
           <td>
-            <p>https://ssl.thcp.org.tw/connections/clubs?page=3</p>
+            <a target="_" href="https://ssl.thcp.org.tw/connections/clubs?page=3">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -101,7 +101,7 @@
             <p>02-2980-8613</p>
           </td>
           <td>
-            <p>https://www.facebook.com/pg/TPHKC/</p>
+            <a target="_" href="https://www.facebook.com/pg/TPHKC/">連結</a>
           </td>
           <td>
             <p>成立於2016年</p>
@@ -121,7 +121,7 @@
             <p>02-2771-0794</p>
           </td>
           <td>
-            <p>https://www.facebook.com/twhakka1991/</p>
+            <a target="_" href="https://www.facebook.com/twhakka1991/">連結</a>
           </td>
           <td>
             <p>成立於1991年</p>
@@ -141,7 +141,7 @@
             <p>0933-056-319</p>
           </td>
           <td>
-            <p>lifechang8@gmail.com</p>
+            <a href="mailto:lifechang8@gmail.com">連結</a>
           </td>
           <td>
             <p>團練時間：每週三14:00-17:00</p>
@@ -226,7 +226,7 @@
             <p>0937-934-932</p>
           </td>
           <td>
-            <p>https://www.facebook.com/pg/Sanxingballadsclasses/</p>
+            <a target="_" href="https://www.facebook.com/pg/Sanxingballadsclasses/">連結</a>
           </td>
           <td>
             <p>成立於1990年</p>
@@ -260,9 +260,7 @@
             <p>02-2929-4679</p>
           </td>
           <td>
-            <p>
-              https://www.hakka-associations.ntpc.gov.tw/files/15-1002-1671,c121-1.php
-            </p>
+            <a target="_" href="https://www.hakka-associations.ntpc.gov.tw/files/15-1002-1671,c121-1.php">連結</a>
           </td>
           <td>
             <p>成立於2003年</p>
@@ -280,7 +278,7 @@
             <p>桃園市龍潭區上林里溝東120之1號（桃園市龍潭區龍潭老人會館）</p>
           </td>
           <td>
-            <p>https://www.facebook.com/pg/hibiscusdiva/</p>
+            <a target="_" href="https://www.facebook.com/pg/hibiscusdiva/">連結</a>
           </td>
           <td>
             <p>成立於2010年</p>
@@ -337,7 +335,7 @@
             <p>0912-671-732</p>
           </td>
           <td>
-            <p>https://www.facebook.com/LBCCTY/</p>
+            <a target="_" href="https://www.facebook.com/LBCCTY/">連結</a>
           </td>
           <td>
             <p>成立於2015年</p>
@@ -357,7 +355,7 @@
             <p>03-594-5546</p>
           </td>
           <td>
-            <p>twhakka.chea@gmail.com</p>
+            <a href="mailto:twhakka.chea@gmail.com">連結</a>
           </td>
           <td>
             <p>成立於1978年</p>
@@ -377,9 +375,7 @@
             <p>0928-909-977（前任理事長）</p>
           </td>
           <td>
-            <p>
-              https://www.facebook.com/苗栗縣苗栗市玉華社區發展協會-1100749213285076/
-            </p>
+            <a target="_" href="https://www.facebook.com/苗栗縣苗栗市玉華社區發展協會-1100749213285076/">連結</a>
           </td>
           <td>
             <p>成立於1985年</p>
@@ -399,7 +395,7 @@
             <p>0932-666-120</p>
           </td>
           <td>
-            <p>https://www.facebook.com/jiasheng037260309/</p>
+            <a target="_" href="https://www.facebook.com/jiasheng037260309/">連結</a>
           </td>
           <td>
             <p>成立於2012年</p>
@@ -420,7 +416,7 @@
             <p>0912-675-665</p>
           </td>
           <td>
-            <p>gan@taian.gov.com.tw</p>
+            <a href="mailto:gan@taian.gov.com.tw">連結</a>
           </td>
           <td>
             <p>成立於2005年</p>
@@ -440,7 +436,7 @@
             <p>0920-600-046</p>
           </td>
           <td>
-            <p>https://www.facebook.com/pg/Miaoli.hakka.association/</p>
+            <a target="_" href="https://www.facebook.com/pg/Miaoli.hakka.association/">連結</a>
           </td>
           <td>
             <p>成立於2007年</p>
@@ -477,9 +473,7 @@
             <p>0928-954-675</p>
           </td>
           <td>
-            <p>
-              https://www.facebook.com/南投縣埔里鎮客家文化發展協會-Puli-Hakka-新版-1681221068828030/
-            </p>
+            <a target="_" href="https://www.facebook.com/南投縣埔里鎮客家文化發展協會-Puli-Hakka-新版-1681221068828030/">連結</a>
           </td>
           <td>
             <p>成立於2005年</p>
@@ -517,9 +511,7 @@
             <p>06-633-7627</p>
           </td>
           <td>
-            <p>
-              https://www.facebook.com/pg/台南市南瀛客家文化協會-116898431697699/posts/
-            </p>
+            <a target="_" href="https://www.facebook.com/pg/台南市南瀛客家文化協會-116898431697699/posts/">連結</a>
           </td>
           <td>
             <p>成立於2010年</p>
@@ -539,9 +531,7 @@
             <p>0912-174-290</p>
           </td>
           <td>
-            <p>
-              https://www.facebook.com/台南市緣圓園客家樂舞團-241733949632351/
-            </p>
+            <a target="_" href="https://www.facebook.com/台南市緣圓園客家樂舞團-241733949632351/">連結</a>
           </td>
           <td>
             <p>成立於2017年</p>
@@ -561,7 +551,7 @@
             <p>07-322-6677</p>
           </td>
           <td>
-            <p>swiftlet@swiftlet.com.tw</p>
+            <a href="mailto:swiftlet@swiftlet.com.tw">連結</a>
           </td>
           <td>
             <p>成立於2006年</p>
@@ -581,9 +571,7 @@
             <p>0933-661-823</p>
           </td>
           <td>
-            <p>
-              https://www.facebook.com/高雄市美濃混聲合唱團-491930940887705/
-            </p>
+            <a target="_" href="https://www.facebook.com/高雄市美濃混聲合唱團-491930940887705/">連結</a>
           </td>
           <td>
             <p>成立於2005年</p>
@@ -606,7 +594,7 @@
             <p>0911-880-179</p>
           </td>
           <td>
-            <p>https://www.facebook.com/hklee0321/</p>
+            <a target="_" href="https://www.facebook.com/hklee0321/">連結</a>
           </td>
           <td>
             <p>成立於1990年</p>
@@ -627,7 +615,7 @@
             <p>0929-416-817</p>
           </td>
           <td>
-            <p>http://kh8.khakka.org.tw/webeip/ht00567/kh8-class.asp</p>
+            <a target="_" href="http://kh8.khakka.org.tw/webeip/ht00567/kh8-class.asp">連結</a>
           </td>
           <td>
             <p>成立於2006年</p>
@@ -649,7 +637,7 @@
             <p>08-781-3291（傳真）</p>
           </td>
           <td>
-            <p>https://www.facebook.com/PTHakka/</p>
+            <a target="_" href="https://www.facebook.com/PTHakka/">連結</a>
           </td>
           <td>
             <p>成立於2002年</p>
@@ -710,9 +698,7 @@
             <p>08-779-2055</p>
           </td>
           <td>
-            <p>
-              https://www.facebook.com/藍衫樂舞團-Blue-Shirts-Music-and-Dance-Troupe-185867531445580/
-            </p>
+            <a target="_" href="https://www.facebook.com/藍衫樂舞團-Blue-Shirts-Music-and-Dance-Troupe-185867531445580/">連結</a>
           </td>
           <td>
             <p>成立於1993年</p>
@@ -732,7 +718,7 @@
             <p>0933-997-800</p>
           </td>
           <td>
-            <p>https://reurl.cc/QpQd0M</p>
+            <a target="_" href="https://reurl.cc/QpQd0M">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -763,7 +749,7 @@
             <p>0921-831-786</p>
           </td>
           <td>
-            <p>https://www.facebook.com/hakkamelody/</p>
+            <a target="_" href="https://www.facebook.com/hakkamelody/">連結</a>
           </td>
           <td>
             <p>成立於2001年</p>
@@ -799,9 +785,7 @@
             <p>0935-025-143</p>
           </td>
           <td>
-            <p>
-              https://www.facebook.com/大華國樂文創團陳國芳-1563159900469333/
-            </p>
+            <a target="_" href="https://www.facebook.com/大華國樂文創團陳國芳-1563159900469333/">連結</a>
           </td>
           <td>
             <p>成立於2000年</p>
@@ -819,7 +803,7 @@
             <p>0910-150-749</p>
           </td>
           <td>
-            <p>https://www.facebook.com/Hcg2232/</p>
+            <a target="_" href="https://www.facebook.com/Hcg2232/">連結</a>
           </td>
           <td>
             <p>成立於1979年</p>
@@ -837,7 +821,7 @@
             <p>03-551-3320</p>
           </td>
           <td>
-            <p>https://www.facebook.com/TienWuBeiGuanBaYin/</p>
+            <a target="_" href="https://www.facebook.com/TienWuBeiGuanBaYin/">連結</a>
           </td>
           <td>
             <p>成立於1989年</p>
@@ -855,9 +839,7 @@
             <p>0907-945-638</p>
           </td>
           <td>
-            <p>
-              https://www.facebook.com/pages/category/Musician-Band/新竹北埔八音團-2044972268925287/
-            </p>
+            <a target="_" href="https://www.facebook.com/pages/category/Musician-Band/新竹北埔八音團-2044972268925287/">連結</a>
           </td>
           <td>
             <p>成立於2019年</p>
@@ -874,9 +856,7 @@
             <p>0932-113-836</p>
           </td>
           <td>
-            <p>
-              https://www.facebook.com/新竹縣深井新興軒北管八音團-436454469857076/?ref=page_internal
-            </p>
+            <a target="_" href="https://www.facebook.com/新竹縣深井新興軒北管八音團-436454469857076/?ref=page_internal">連結</a>
           </td>
           <td>
             <p>
@@ -910,7 +890,7 @@
             <p>03-772-5099</p>
           </td>
           <td>
-            <p>https://www.facebook.com/MiaoliChenFamilyPaYinTroupe/</p>
+            <a target="_" href="https://www.facebook.com/MiaoliChenFamilyPaYinTroupe/">連結</a>
           </td>
           <td>
             <p>成立於1983年</p>
@@ -973,9 +953,7 @@
             <p>07-681-2538</p>
           </td>
           <td>
-            <p>
-              http://sixstar.moc.gov.tw/blog/KM6813819/knowHowFronListAction.do?method=doReadKnowHow&amp;source=3&amp;knowhowId=6602
-            </p>
+            <a target="_" href="http://sixstar.moc.gov.tw/blog/KM6813819/knowHowFronListAction.do?method=doReadKnowHow&amp;source=3&amp;knowhowId=6602">連結</a>
           </td>
           <td>
             <p>成立於2012年</p>
@@ -1071,7 +1049,7 @@
             <p>0938-706-972</p>
           </td>
           <td>
-            <p>http://art-garden.khcc.gov.tw/introduction/team/31236</p>
+            <a target="_" href="http://art-garden.khcc.gov.tw/introduction/team/31236">連結</a>
           </td>
           <td>
             <p>成立於2003年</p>
@@ -1093,7 +1071,7 @@
             <p>0921-696-046</p>
           </td>
           <td>
-            <p>https://www.facebook.com/大夥房藝術團-1371254872966824/</p>
+            <a target="_" href="https://www.facebook.com/大夥房藝術團-1371254872966824/">連結</a>
           </td>
           <td>
             <p>成立於2002年</p>
@@ -1158,7 +1136,7 @@
             <p>02-2936-7231 #2551</p>
           </td>
           <td>
-            <p>http://b017.tcpa.edu.tw/bin/home.php</p>
+            <a target="_" href="http://b017.tcpa.edu.tw/bin/home.php">連結</a>
           </td>
           <td>
             <p>成立於2001年</p>
@@ -1177,7 +1155,7 @@
             <p>02-8866-1090</p>
           </td>
           <td>
-            <p>https://www.facebook.com/UhanShiiTheatre/</p>
+            <a target="_" href="https://www.facebook.com/UhanShiiTheatre/">連結</a>
           </td>
           <td>
             <p>成立於1995年</p>
@@ -1195,7 +1173,7 @@
             <p>02-2733-0179</p>
           </td>
           <td>
-            <p>https://www.facebook.com/ooopt/?ref=page_internal</p>
+            <a target="_" href="https://www.facebook.com/ooopt/?ref=page_internal">連結</a>
           </td>
           <td>
             <p>成立於2000年</p>
@@ -1213,7 +1191,7 @@
             <p>0922-904-559</p>
           </td>
           <td>
-            <p>https://www.facebook.com/123theatre.123theatre</p>
+            <a target="_" href="https://www.facebook.com/123theatre.123theatre">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -1229,7 +1207,7 @@
             <p>0932-330-003</p>
           </td>
           <td>
-            <p>https://www.facebook.com/山宛然客家布袋戲團-193976375896/</p>
+            <a target="_" href="https://www.facebook.com/山宛然客家布袋戲團-193976375896/">連結</a>
           </td>
           <td>
             <p>成立於2002年</p>
@@ -1247,7 +1225,7 @@
             <p>0975-386-935</p>
           </td>
           <td>
-            <p>https://www.facebook.com/戲偶子劇團-123978480950659/</p>
+            <a target="_" href="https://www.facebook.com/戲偶子劇團-123978480950659/">連結</a>
           </td>
           <td>
             <p>成立於2003年</p>
@@ -1266,7 +1244,7 @@
             <p>0935-129-811</p>
           </td>
           <td>
-            <p>https://www.facebook.com/景勝戲劇團-1657899551112033/</p>
+            <a target="_" href="https://www.facebook.com/景勝戲劇團-1657899551112033/">連結</a>
           </td>
           <td>
             <p>成立於2003年</p>
@@ -1284,7 +1262,7 @@
             <p>0911-241-388</p>
           </td>
           <td>
-            <p>https://www.facebook.com/a241388/</p>
+            <a target="_" href="https://www.facebook.com/a241388/">連結</a>
           </td>
           <td>
             <p>成立於2002年</p>
@@ -1304,7 +1282,7 @@
             <p>0933-507-453</p>
           </td>
           <td>
-            <p>https://www.facebook.com/新月娥歌劇團-334133613587392/</p>
+            <a target="_" href="https://www.facebook.com/新月娥歌劇團-334133613587392/">連結</a>
           </td>
           <td>
             <p>成立於1961年</p>
@@ -1322,7 +1300,7 @@
             <p>0919-362-104</p>
           </td>
           <td>
-            <p>https://www.facebook.com/a034586287/</p>
+            <a target="_" href="https://www.facebook.com/a034586287/">連結</a>
           </td>
           <td>
             <p>成立於1988年</p>
@@ -1340,7 +1318,7 @@
             <p>0916-333-293</p>
           </td>
           <td>
-            <p>https://www.facebook.com/song.xing.opera/</p>
+            <a target="_" href="https://www.facebook.com/song.xing.opera/">連結</a>
           </td>
           <td>
             <p>成立於2003年</p>
@@ -1376,7 +1354,7 @@
             <p>0933-265-173</p>
           </td>
           <td>
-            <p>https://www.facebook.com/新樂園戲劇團-1462229977363054/</p>
+            <a target="_" href="https://www.facebook.com/新樂園戲劇團-1462229977363054/">連結</a>
           </td>
           <td>
             <p>成立於2003年</p>
@@ -1394,7 +1372,7 @@
             <p>03-582-2665</p>
           </td>
           <td>
-            <p>Psz0952814938@yahoo.com.tw</p>
+            <a href="mailto:Psz0952814938@yahoo.com.tw">連結</a>
           </td>
           <td>
             <p>成立於1999年</p>
@@ -1442,7 +1420,7 @@
             <p>03-772-5099</p>
           </td>
           <td>
-            <p>https://www.facebook.com/pg/romshinghakka/</p>
+            <a target="_" href="https://www.facebook.com/pg/romshinghakka/">連結</a>
           </td>
           <td>
             <p>成立於1988年</p>
@@ -1459,7 +1437,7 @@
             <p>0937-871-632</p>
           </td>
           <td>
-            <p>taikimhak@gmail.com</p>
+            <a href="mailto:taikimhak@gmail.com">連結</a>
           </td>
           <td>
             <p>成立於2005年</p>
@@ -1493,7 +1471,7 @@
             <p>0933-509-888</p>
           </td>
           <td>
-            <p>https://www.facebook.com/廖千順布袋戲團-1842955999266025/</p>
+            <a target="_" href="https://www.facebook.com/廖千順布袋戲團-1842955999266025/">連結</a>
           </td>
           <td>
             <p>成立於2001年</p>
@@ -1511,7 +1489,7 @@
             <p>05-598-3777</p>
           </td>
           <td>
-            <p>https://www.facebook.com/wen.holiao</p>
+            <a target="_" href="https://www.facebook.com/wen.holiao">連結</a>
           </td>
           <td>
             <p>成立於1976年</p>
@@ -1545,7 +1523,7 @@
             <p>0931-616-986</p>
           </td>
           <td>
-            <p>https://www.facebook.com/HaChiGu/</p>
+            <a target="_" href="https://www.facebook.com/HaChiGu/">連結</a>
           </td>
           <td>
             <p>成立於2004年</p>
@@ -1563,7 +1541,7 @@
             <p>08-732-3202</p>
           </td>
           <td>
-            <p>https://www.facebook.com/世客文化藝術團-336912869758607/</p>
+            <a target="_" href="https://www.facebook.com/世客文化藝術團-336912869758607/">連結</a>
           </td>
           <td>
             <p>成立於2003年</p>
@@ -1581,7 +1559,7 @@
             <p>0932-882-984</p>
           </td>
           <td>
-            <p>https://www.facebook.com/LiWenGuGeJuTuan/</p>
+            <a target="_" href="https://www.facebook.com/LiWenGuGeJuTuan/">連結</a>
           </td>
           <td>
             <p>成立於2003年</p>

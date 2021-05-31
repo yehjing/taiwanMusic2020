@@ -23,9 +23,9 @@
             <p>哈里坤的狂歡</p>
           </td>
           <td>
-            <p>https://www.facebook.com/WuQingFeng/</p>
-            <p>u.music@foxmail.com</p>
-            <p>Oscar.lin@umusic.com</p>
+            <a target="_" href="https://www.facebook.com/WuQingFeng/">連結</a><br>
+            <a href="mailto:u.music@foxmail.com">連結</a><br>
+            <a href="mailto:Oscar.lin@umusic.com">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -37,8 +37,8 @@
             <p>Leo黎歐創意</p>
           </td>
           <td>
-            <p>https://www.facebook.com/DaBangNi/</p>
-            <p>dabangni@gmail.com</p>
+            <a target="_" href="https://www.facebook.com/DaBangNi/">連結</a><br>
+            <a href="mailto:dabangni@gmail.com">連結</a><br>
           </td>
           <td>
             <p>成立於2011年12月</p>
@@ -52,8 +52,8 @@
             <p>亞神音樂</p>
           </td>
           <td>
-            <p>https://www.sumingfans.com/</p>
-            <p>johnsuming@gmail.com</p>
+            <a target="_" href="https://www.sumingfans.com/">連結</a><br>
+            <a href="mailto:johnsuming@gmail.com">連結</a><br>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -65,7 +65,7 @@
             <p>凌時差音樂</p>
           </td>
           <td>
-            <p>https://www.facebook.com/hoo.jcai</p>
+            <a target="_" href="https://www.facebook.com/hoo.jcai">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -75,8 +75,8 @@
           </td>
           <td>&nbsp;</td>
           <td>
-            <p>https://www.facebook.com/LowkingOfficial</p>
-            <p>mail2elsa@gmail.com</p>
+            <a target="_" href="https://www.facebook.com/LowkingOfficial">連結</a><br>
+            <a href="mailto:mail2elsa@gmail.com">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -86,7 +86,7 @@
           </td>
           <td>&nbsp;</td>
           <td>
-            <p>https://www.facebook.com/Sushenyu</p>
+            <a target="_" href="https://www.facebook.com/Sushenyu">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -96,8 +96,8 @@
           </td>
           <td>&nbsp;</td>
           <td>
-            <p>https://www.facebook.com/zixuanslowtrain</p>
-            <p>zixuanslowtrain@gmail.com</p>
+            <a target="_" href="https://www.facebook.com/zixuanslowtrain">連結</a><br>
+            <a href="mailto:zixuanslowtrain@gmail.com">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -109,7 +109,7 @@
             <p>李吉他</p>
           </td>
           <td>
-            <p>http://tw.leeguitars.com/</p>
+            <a target="_" href="http://tw.leeguitars.com/">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -121,8 +121,8 @@
             <p>火氣音樂</p>
           </td>
           <td>
-            <p>https://www.facebook.com/FireEX</p>
-            <p>info@fireonmusic.com</p>
+            <a target="_" href="https://www.facebook.com/FireEX">連結</a><br>
+            <a href="mailto:info@fireonmusic.com">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -132,8 +132,8 @@
           </td>
           <td>&nbsp;</td>
           <td>
-            <p>https://www.facebook.com/siaulukhahlah</p>
-            <p>https://www.instagram.com/siaulukhahlahofficial/</p>
+            <a target="_" href="https://www.facebook.com/siaulukhahlah">連結</a><br>
+            <a target="_" href="https://www.instagram.com/siaulukhahlahofficial/">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -143,8 +143,8 @@
           </td>
           <td>&nbsp;</td>
           <td>
-            <p>https://www.facebook.com/tarcysuofficial</p>
-            <p>crystalresonance2010@gmail.com</p>
+            <a target="_" href="https://www.facebook.com/tarcysuofficial">連結</a><br>
+            <a href="mailto:crystalresonance2010@gmail.com">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -156,8 +156,8 @@
             <p>勝駿娛樂</p>
           </td>
           <td>
-            <p>https://www.facebook.com/HuangFei0713</p>
-            <p>a_chefamily@yahoo.com.tw</p>
+            <a target="_" href="https://www.facebook.com/HuangFei0713">連結</a><br>
+            <a href="mailto:a_chefamily@yahoo.com.tw">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -167,7 +167,7 @@
           </td>
           <td>&nbsp;</td>
           <td>
-            <p>https://www.facebook.com/Rene0601/</p>
+            <a target="_" href="https://www.facebook.com/Rene0601/">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -179,7 +179,7 @@
             <p>海蝶音樂</p>
           </td>
           <td>
-            <p>https://www.facebook.com/profile.php?id=100044568693565</p>
+            <a target="_" href="https://www.facebook.com/profile.php?id=100044568693565">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -189,8 +189,8 @@
           </td>
           <td>&nbsp;</td>
           <td>
-            <p>https://www.band831.com/</p>
-            <p>https://www.facebook.com/band831tw</p>
+            <a target="_" href="https://www.band831.com/">連結</a><br>
+            <a target="_" href="https://www.facebook.com/band831tw">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -202,8 +202,8 @@
             <p>勝駿娛樂</p>
           </td>
           <td>
-            <p>https://www.facebook.com/HuangShanLiang</p>
-            <p>a_chefamily@yahoo.com.tw</p>
+            <a target="_" href="https://www.facebook.com/HuangShanLiang">連結</a><br>
+            <a href="mailto:a_chefamily@yahoo.com.tw">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -215,8 +215,8 @@
             <p>安樂茂思</p>
           </td>
           <td>
-            <p>https://www.facebook.com/oliviatsao1130</p>
-            <p>chun80900@gmail.com</p>
+            <a target="_" href="https://www.facebook.com/oliviatsao1130">連結</a><br>
+            <a href="mailto:chun80900@gmail.com">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -228,8 +228,8 @@
             <p>參拾柒度音樂</p>
           </td>
           <td>
-            <p>https://www.facebook.com/yonlon.chen</p>
-            <p>37domusic@gmail.com</p>
+            <a target="_" href="https://www.facebook.com/yonlon.chen">連結</a><br>
+            <a href="mailto:37domusic@gmail.com">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -241,7 +241,7 @@
             <p>雲凱娛樂工作室</p>
           </td>
           <td>
-            <p>https://www.facebook.com/潘越雲-Michelle-Pan-100447298213064</p>
+            <a target="_" href="https://www.facebook.com/潘越雲-Michelle-Pan-100447298213064">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -253,8 +253,8 @@
             <p>相信音樂</p>
           </td>
           <td>
-            <p>https://www.facebook.com/baiannmusic</p>
-            <p>jujistacy@gmail.com</p>
+            <a target="_" href="https://www.facebook.com/baiannmusic">連結</a><br>
+            <a href="mailto:jujistacy@gmail.com">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -278,7 +278,7 @@
             <p>大右音樂</p>
           </td>
           <td>
-            <p>https://www.facebook.com/LoTaYouOfficial</p>
+            <a target="_" href="https://www.facebook.com/LoTaYouOfficial">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -290,8 +290,8 @@
             <p>亂音製作</p>
           </td>
           <td>
-            <p>https://www.facebook.com/rockapin</p>
-            <p>k0938386665@yahoo.com.tw</p>
+            <a target="_" href="https://www.facebook.com/rockapin">連結</a><br>
+            <a href="mailto:k0938386665@yahoo.com.tw">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -303,7 +303,7 @@
             <p>大岳娛樂</p>
           </td>
           <td>
-            <p>https://www.facebook.com/richiefirework</p>
+            <a target="_" href="https://www.facebook.com/richiefirework">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -315,7 +315,7 @@
             <p>威德文化</p>
           </td>
           <td>
-            <p>https://www.facebook.com/謝宇威-198419566895181</p>
+            <a target="_" href="https://www.facebook.com/謝宇威-198419566895181">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -327,7 +327,7 @@
             <p>喜鵲娛樂</p>
           </td>
           <td>
-            <p>https://www.jamhsiao.com/</p>
+            <a target="_" href="https://www.jamhsiao.com/">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -339,8 +339,8 @@
             <p>樹與天空娛樂</p>
           </td>
           <td>
-            <p>https://www.facebook.com/0604rainie</p>
-            <p>https://tw.weibo.com/3511727907</p>
+            <a target="_" href="https://www.facebook.com/0604rainie">連結</a><br>
+            <a target="_" href="https://tw.weibo.com/3511727907">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -352,8 +352,8 @@
             <p>野聲音娛樂有限公司</p>
           </td>
           <td>
-            <p>https://www.facebook.com/ChihSiou.L</p>
-            <p>https://www.instagram.com/chih_siou/</p>
+            <a target="_" href="https://www.facebook.com/ChihSiou.L">連結</a><br>
+            <a target="_" href="https://www.instagram.com/chih_siou/">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -365,7 +365,7 @@
             <p>聲動娛樂</p>
           </td>
           <td>
-            <p>https://www.facebook.com/aMEI.feat.AMIT</p>
+            <a target="_" href="https://www.facebook.com/aMEI.feat.AMIT">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>

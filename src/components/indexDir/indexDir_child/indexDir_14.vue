@@ -28,7 +28,7 @@
             <p>02-2893-3088</p>
           </td>
           <td>
-            <p>https://www.facebook.com/長春花樂團桃花團-1061906727227527/</p>
+            <a target="_" href="https://www.facebook.com/長春花樂團桃花團-1061906727227527/">連結</a>
           </td>
           <td>
             <p>
@@ -48,7 +48,7 @@
             <p>02-2893-3088</p>
           </td>
           <td>
-            <p>http://www.facebook.com/Taiwan.yueqin/</p>
+            <a target="_" href="http://www.facebook.com/Taiwan.yueqin/">連結</a>
           </td>
           <td>
             <p>
@@ -67,7 +67,7 @@
             <p>臺北市北投區開明街71號</p>
           </td>
           <td>
-            <p>https://www.cmcmusic.com.tw/福爾摩沙淡水走唱團/</p>
+            <a target="_" href="https://www.cmcmusic.com.tw/福爾摩沙淡水走唱團/">連結</a>
           </td>
           <td>
             <p>
@@ -86,7 +86,7 @@
             <p>臺北市南港區三重路17號1樓</p>
           </td>
           <td>
-            <p>https://www.facebook.com/TheTalta/</p>
+            <a target="_" href="https://www.facebook.com/TheTalta/">連結</a>
           </td>
           <td>
             <p>
@@ -123,7 +123,7 @@
             <p>02-3758-0272</p>
           </td>
           <td>
-            <p>https://www.facebook.com/田園樂府樂團-222806804410296/</p>
+            <a target="_" href="https://www.facebook.com/田園樂府樂團-222806804410296/">連結</a>
           </td>
           <td>
             <p>
@@ -143,7 +143,7 @@
             <p>02-2646-3947</p>
           </td>
           <td>
-            <p>https://www.facebook.com/showking317/</p>
+            <a target="_" href="https://www.facebook.com/showking317/">連結</a>
           </td>
           <td>
             <p>
@@ -180,7 +180,7 @@
             <p>0953-724-857</p>
           </td>
           <td>
-            <p>https://www.facebook.com/taiwansmile/</p>
+            <a target="_" href="https://www.facebook.com/taiwansmile/">連結</a>
           </td>
           <td>
             <p>
@@ -199,7 +199,7 @@
             <p>0978-278-204</p>
           </td>
           <td>
-            <p>https://www.facebook.com/kooiliamkoathoan/</p>
+            <a target="_" href="https://www.facebook.com/kooiliamkoathoan/">連結</a>
           </td>
           <td>
             <p>
@@ -251,7 +251,7 @@
             <p>08-888-0293</p>
           </td>
           <td>
-            <p>https://www.facebook.com/恆春民謠館- 424690274297349/</p>
+            <a target="_" href="https://www.facebook.com/恆春民謠館- 424690274297349/">連結</a>
           </td>
           <td>
             <p>
@@ -271,9 +271,7 @@
             <p>08-880-1105</p>
           </td>
           <td>
-            <p>
-              https://www.pthg.gov.tw/townmto/Content_List.aspx?n=1D48F4EE0338DF0B
-            </p>
+            <a target="_" href="https://www.pthg.gov.tw/townmto/Content_List.aspx?n=1D48F4EE0338DF0B">連結</a>
           </td>
           <td>
             <p>正式成立於1981年</p>
@@ -291,9 +289,7 @@
             <p>08-880-1105</p>
           </td>
           <td>
-            <p>
-              https://www.pthg.gov.tw/townmto/Content_List.aspx?n=1D48F4EE0338DF0B
-            </p>
+            <a target="_" href="https://www.pthg.gov.tw/townmto/Content_List.aspx?n=1D48F4EE0338DF0B">連結</a>
           </td>
           <td>
             <p>開幕於2018年2月16日</p>
@@ -306,7 +302,7 @@
           <td>&nbsp;</td>
           <td>&nbsp;</td>
           <td>
-            <p>https://www.facebook.com/manjhoufolksongs/</p>
+            <a target="_" href="https://www.facebook.com/manjhoufolksongs/">連結</a>
           </td>
           <td>
             <p>
@@ -335,11 +331,7 @@
             <p>臺北市</p>
           </td>
           <td>
-            <p>
-              <a href="https://www.facebook.com/Melodysyueqin/"
-                >https://www.facebook.com/Melodysyueqin/</a
-              >
-            </p>
+            <a target="_" href="https://www.facebook.com/Melodysyueqin/">連結</a>
           </td>
           <td>
             <p>
@@ -369,7 +361,7 @@
             <p>臺北市</p>
           </td>
           <td>
-            <p>https://www.facebook.com/DenxTaiwanMusic/</p>
+            <a target="_" href="https://www.facebook.com/DenxTaiwanMusic/">連結</a>
           </td>
           <td>
             <p>臺語歌曲詞曲作家、醫生，現任臺北市中山區不二牙醫診所院長。</p>
@@ -444,7 +436,7 @@
             <p>桃園市龍潭區</p>
           </td>
           <td>
-            <p>https://www.facebook.com/yabunsen</p>
+            <a target="_" href="https://www.facebook.com/yabunsen">連結</a>
           </td>
           <td>
             <p>台灣唸歌團團長。1995年開始向洪瑞珍學習月琴彈唱唸歌。</p>
@@ -472,7 +464,7 @@
             <p>臺中市潭子區</p>
           </td>
           <td>
-            <p>https://www.facebook.com/taiwansmile/</p>
+            <a target="_" href="https://www.facebook.com/taiwansmile/">連結</a>
           </td>
           <td>
             <p>
@@ -489,7 +481,7 @@
             <p>0953-724-857</p>
           </td>
           <td>
-            <p>https://www.facebook.com/taiwansmile/</p>
+            <a target="_" href="https://www.facebook.com/taiwansmile/">連結</a>
           </td>
           <td>
             <p>
@@ -505,7 +497,7 @@
             <p>臺南市</p>
           </td>
           <td>
-            <p>http://www3.nmtl.gov.tw/Writer2/writer_detail.php?id=699</p>
+            <a target="_" href="http://www3.nmtl.gov.tw/Writer2/writer_detail.php?id=699">連結</a>
           </td>
           <td>
             <p>
@@ -522,7 +514,7 @@
             <p>0978-278-204</p>
           </td>
           <td>
-            <p>https://www.facebook.com/kooiliamkoathoan/</p>
+            <a target="_" href="https://www.facebook.com/kooiliamkoathoan/">連結</a>
           </td>
           <td>
             <p>古意唸歌團團長</p>
@@ -536,9 +528,7 @@
             <p>屏東縣滿州鄉</p>
           </td>
           <td>
-            <p>
-              http://musiciantw.ncfta.gov.tw/list.aspx?p=M064&amp;c=&amp;t=1
-            </p>
+            <a target="_" href="http://musiciantw.ncfta.gov.tw/list.aspx?p=M064&amp;c=&amp;t=1">連結</a>
           </td>
           <td>
             <p>
@@ -624,7 +614,7 @@
             <p>屏東縣滿州鄉</p>
           </td>
           <td>
-            <p>https://www.facebook.com/people/王洋月/100033827504203</p>
+            <a target="_" href="https://www.facebook.com/people/王洋月/100033827504203">連結</a>
           </td>
           <td>
             <p>滿州民謠協進會理事長</p>

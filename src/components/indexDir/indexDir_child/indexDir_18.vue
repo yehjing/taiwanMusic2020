@@ -26,7 +26,7 @@
             <p>02-2790-8867</p>
           </td>
           <td>
-            <p>https://www.facebook.com/pages/內湖慈雲堂/439338836649756/</p>
+            <a target="_" href="https://www.facebook.com/pages/內湖慈雲堂/439338836649756/">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -56,7 +56,7 @@
             <p>02-2726-1735</p>
           </td>
           <td>
-            <p>https://www.sstht.org.tw/</p>
+            <a target="_" href="https://www.sstht.org.tw/">連結</a>
           </td>
           <td>
             <p>成立於1969年</p>
@@ -95,7 +95,7 @@
             <p>0910-346-099</p>
           </td>
           <td>
-            <p>https://www.facebook.com/TianXunFu/</p>
+            <a target="_" href="https://www.facebook.com/TianXunFu/">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -109,7 +109,7 @@
             <p>02-2240-1253</p>
           </td>
           <td>
-            <p>https://m.facebook.com/profile.php?id=498374277037829</p>
+            <a target="_" href="https://m.facebook.com/profile.php?id=498374277037829">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -140,7 +140,7 @@
             <p>02-2646-1878</p>
           </td>
           <td>
-            <p>https://www.gbt.tw/h/Index?key=013215999296</p>
+            <a target="_" href="https://www.gbt.tw/h/Index?key=013215999296">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -169,9 +169,7 @@
             <p>02-2496-2281</p>
           </td>
           <td>
-            <p>
-              https://b-m.facebook.com/profile.php?id=427967313880463&amp;__tn__=%2As-R
-            </p>
+            <a target="_" href="https://b-m.facebook.com/profile.php?id=427967313880463&amp;__tn__=%2As-R">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -188,9 +186,7 @@
             <p>02-2809-2359</p>
           </td>
           <td>
-            <p>
-              https://place-of-worship-1260.business.site/?utm_source=gmb&amp;utm_medium=referral
-            </p>
+            <a target="_" href="https://place-of-worship-1260.business.site/?utm_source=gmb&amp;utm_medium=referral">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -216,9 +212,7 @@
             <p>02-2492-1248</p>
           </td>
           <td>
-            <p>
-              https://www.facebook.com/萬里協聖堂-1012797448753259/?rf=178375678899827
-            </p>
+            <a target="_" href="https://www.facebook.com/萬里協聖堂-1012797448753259/?rf=178375678899827">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -231,7 +225,7 @@
             <p>新北市板橋區江寧路三段85巷5號</p>
           </td>
           <td>
-            <p>https://www.facebook.com/帝謙會-1396811787312015/</p>
+            <a target="_" href="https://www.facebook.com/帝謙會-1396811787312015/">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -245,7 +239,7 @@
             <p>02-2905-2791</p>
           </td>
           <td>
-            <p>https://www.facebook.com/DRS.FJCU/</p>
+            <a target="_" href="https://www.facebook.com/DRS.FJCU/">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -274,7 +268,7 @@
             <p>0933-531-826</p>
           </td>
           <td>
-            <p>https://m.facebook.com/profile.php?id=269680476383444</p>
+            <a target="_" href="https://m.facebook.com/profile.php?id=269680476383444">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -291,7 +285,7 @@
             <p>04-2338-1230</p>
           </td>
           <td>
-            <p>https://www.facebook.com/pages/指微道壇/319828351391229</p>
+            <a target="_" href="https://www.facebook.com/pages/指微道壇/319828351391229">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -308,7 +302,7 @@
             <p>04-9264-3871</p>
           </td>
           <td>
-            <p>https://www.facebook.com/stoneace/</p>
+            <a target="_" href="https://www.facebook.com/stoneace/">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -340,7 +334,7 @@
             <p>0936-050-367</p>
           </td>
           <td>
-            <p>https://www.facebook.com/groups/taiwan.mingde/</p>
+            <a target="_" href="https://www.facebook.com/groups/taiwan.mingde/">連結</a>
           </td>
           <td>
             <p>弘道會成立於2012年</p>
@@ -368,9 +362,7 @@
             <p>08-3656-559</p>
           </td>
           <td>
-            <p>
-              https://memory.culture.tw/Home/Detail?Id=154716&amp;IndexCode=Culture_Place
-            </p>
+              <a target="_" href="https://memory.culture.tw/Home/Detail?Id=154716&amp;IndexCode=Culture_Place">連結</a>
           </td>
           <td>
             <p>創建於1977年</p>

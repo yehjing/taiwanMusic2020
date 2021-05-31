@@ -31,7 +31,7 @@
             <p>02-2522-2570</p>
           </td>
           <td>
-            <p>https://www.fgs.org.tw/branch/?BrID=D50201</p>
+            <a target="_" href="https://www.fgs.org.tw/branch/?BrID=D50201">連結</a>
           </td>
           <td>
             <p>
@@ -49,7 +49,7 @@
           </td>
           <td>
             <p>臺北市內湖區內湖路三段256巷2號</p>
-            <p>
+            <p> 
               <a
                 href="https://www.google.com/search?q=%E5%85%A7%E6%B9%96%E9%87%91%E9%BE%8D%E7%A6%AA%E5%AF%BA&amp;oq=%E5%85%A7%E6%B9%96%E9%87%91%E9%BE%8D%E7%A6%AA%E5%AF%BA&amp;aqs=chrome..69i57.664j0j7&amp;sourceid=chrome&amp;ie=UTF-8"
                 >02-2790-2604</a
@@ -57,7 +57,7 @@
             </p>
           </td>
           <td>
-            <p>http://www.jinlungyun.org.tw/</p>
+            <a target="_" href="http://www.jinlungyun.org.tw/">連結</a>
           </td>
           <td>
             <p>1953年由玄信法師創立</p>
@@ -76,7 +76,7 @@
             <p>02-2211-0660</p>
           </td>
           <td>
-            <p>https://www.youtube.com/channel/UCMgvI1UACjTywm7RcLVmTtA/</p>
+            <a target="_" href="https://www.youtube.com/channel/UCMgvI1UACjTywm7RcLVmTtA/">連結</a>
           </td>
           <td>
             <p>成立於2018年</p>
@@ -95,7 +95,7 @@
             <p>02-2892-6111</p>
           </td>
           <td>
-            <p>http://sfcb.ddm.org.tw/</p>
+            <a target="_" href="http://sfcb.ddm.org.tw/">連結</a>
           </td>
           <td>
             <p>1956年由東初老人創立</p>
@@ -114,7 +114,7 @@
             <p>02-2712-1177</p>
           </td>
           <td>
-            <p>pumens@ecp.fgs.org.tw</p>
+            <a href="mailto:pumens@ecp.fgs.org.tw">連結</a>
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -131,7 +131,7 @@
             <p>02-2893-3161</p>
           </td>
           <td>
-            <p>http://ncm.ddm.org.tw/</p>
+            <a target="_" href="http://ncm.ddm.org.tw/">連結</a>
           </td>
           <td>
             <p>1975年由東初老人創立</p>
@@ -151,7 +151,7 @@
             <p>02-2393-4598</p>
           </td>
           <td>
-            <p>http://www.dongher.org.tw/</p>
+            <a target="_" href="http://www.dongher.org.tw/">連結</a>
           </td>
           <td>
             <p>1973年由心源和尚創立</p>
@@ -169,7 +169,7 @@
             <p>02-2762-0112</p>
           </td>
           <td>
-            <p>http://www.blia.org.tw/</p>
+            <a target="_" href="http://www.blia.org.tw/">連結</a>
           </td>
           <td>
             <p>1991年由星雲法師創立</p>
@@ -188,7 +188,7 @@
             <p>02-2341-5758</p>
           </td>
           <td>
-            <p>http://www.shandaotemple.org.tw/</p>
+            <a target="_" href="http://www.shandaotemple.org.tw/">連結</a>
           </td>
           <td>
             <p>
@@ -207,7 +207,8 @@
             <p>臺北市松山區南京東路四段137號12樓</p>
           </td>
           <td>
-            <p>https://www.blisswisdom.org web.buddhism@blisswisdom.org</p>
+            <a target="_" href="https://www.blisswisdom.org">連結</a><br>
+            <a href="mailto:web.buddhism@blisswisdom.org">連結</a>
           </td>
           <td>
             <p>1992年日常老和尚創辦</p>
@@ -230,7 +231,7 @@
             </p>
           </td>
           <td>
-            <p>https://www.hengkuang.net/</p>
+            <a target="_" href="https://www.hengkuang.net/">連結</a>
           </td>
           <td>
             <p>成立於1965年，現址為1989年落成。</p>
@@ -249,7 +250,7 @@
             <p>02-8226-7559</p>
           </td>
           <td>
-            <p>http://www.cibsa.org.tw/</p>
+            <a target="_" href="http://www.cibsa.org.tw/">連結</a>
           </td>
           <td>
             <p>成立於2003年</p>
@@ -268,7 +269,7 @@
             <p>02-8231-6118</p>
           </td>
           <td>
-            <p>https://www.mwr.org.tw/</p>
+            <a target="_" href="https://www.mwr.org.tw/">連結</a>
           </td>
           <td>
             <p>2001年由心道法師創立</p>
@@ -286,7 +287,7 @@
             <p>02-2641-7108</p>
           </td>
           <td>
-            <p>tars2010.6@gmail.com</p>
+            <a href="mailto:tars2010.6@gmail.com">連結</a>
           </td>
           <td>
             <p>成立於1999年</p>
@@ -305,7 +306,7 @@
             <p>02-2498-7171</p>
           </td>
           <td>
-            <p>http://fagushan.ddm.org.tw/</p>
+            <a target="_" href="http://fagushan.ddm.org.tw/">連結</a>
           </td>
           <td>
             <p>由聖嚴法師創立，2005年10月21日開山。</p>
@@ -325,7 +326,7 @@
             <p>02-2966-0766</p>
           </td>
           <td>
-            <p>http://www.jyuns.org.tw</p>
+            <a target="_" href="http://www.jyuns.org.tw">連結</a>
           </td>
           <td>
             <p>成立於1856年，現址為1887年落成。</p>
@@ -364,7 +365,7 @@
             </p>
           </td>
           <td>
-            <p>https://www.facebook.com/淡水妙覺寺-815998641797425/</p>
+            <a target="_" href="https://www.facebook.com/淡水妙覺寺-815998641797425/">連結</a>
           </td>
           <td>
             <p>1981年由慧岸老和尚創立</p>
@@ -382,7 +383,7 @@
             <p>02-2292-2069</p>
           </td>
           <td>
-            <p>https://www.facebook.com/pages/智光禪寺/199946073371787</p>
+            <a target="_" href="https://www.facebook.com/pages/智光禪寺/199946073371787">連結</a>
           </td>
           <td>
             <p>1968-1969年間由如學法師創建</p>
@@ -401,7 +402,7 @@
             <p>02-2499-1100</p>
           </td>
           <td>
-            <p>https://www.093.org.tw/</p>
+            <a target="_" href="https://www.093.org.tw/">連結</a>
           </td>
           <td>
             <p>由心道法師創立，1984年7月17日落成。</p>
@@ -420,7 +421,7 @@
             <p>03-425-6168</p>
           </td>
           <td>
-            <p>http://www.ykcm.tw/</p>
+            <a target="_" href="http://www.ykcm.tw/">連結</a>
           </td>
           <td>
             <p>1917年由妙果老和尚創立</p>
@@ -438,7 +439,7 @@
             <p>新竹市北區境福街141巷10號</p>
           </td>
           <td>
-            <p>https://www.chuefeng.org.tw/</p>
+            <a target="_" href="https://www.chuefeng.org.tw/">連結</a>
           </td>
           <td>
             <p>成立於1988年</p>
@@ -456,7 +457,7 @@
             <p>苗栗縣三義鄉中正路163之1號</p>
           </td>
           <td>
-            <p>https://www.facebook.com/jz872406/</p>
+            <a target="_" href="https://www.facebook.com/jz872406/">連結</a>
           </td>
           <td>
             <p>成立於1973年</p>
@@ -491,7 +492,7 @@
             <p>04-2406-7985</p>
           </td>
           <td>
-            <p>http://www.tcsbuda.org.tw</p>
+            <a target="_" href="http://www.tcsbuda.org.tw">連結</a>
           </td>
           <td>
             <p>1947年成立中國佛教會臺灣省臺中縣佛教會，後於2016年更名。</p>
@@ -510,7 +511,7 @@
             <p>04-2252-0375&nbsp;</p>
           </td>
           <td>
-            <p>https://huichung.fgs.org.tw</p>
+            <a target="_" href="https://huichung.fgs.org.tw">連結</a>
           </td>
           <td>
             <p>成立於2004年</p>
@@ -530,7 +531,7 @@
             <p>04-2330-2085</p>
           </td>
           <td>
-            <p>http://wanfo.pixnet.net/blog/</p>
+            <a target="_" href="http://wanfo.pixnet.net/blog/">連結</a>
           </td>
           <td>
             <p>1971年由聖印法師創立</p>
@@ -549,7 +550,7 @@
             <p>049-275-0010</p>
           </td>
           <td>
-            <p>https://www.huayenworld.org/</p>
+            <a target="_" href="https://www.huayenworld.org/">連結</a>
           </td>
           <td>
             <p>由海雲繼夢法師創立，2014年總本山落成。</p>
@@ -568,7 +569,7 @@
             <p>049-293-0215</p>
           </td>
           <td>
-            <p>https://www.ctworld.org.tw/</p>
+            <a target="_" href="https://www.ctworld.org.tw/">連結</a>
           </td>
           <td>
             <p>由惟覺老和尚創立，2001年9月1日落成。</p>
@@ -602,7 +603,7 @@
             <p>06-573-2224</p>
           </td>
           <td>
-            <p>http://www.tuztuzo.com.tw/</p>
+            <a target="_" href="http://www.tuztuzo.com.tw/">連結</a>
           </td>
           <td>
             <p>2004年由地清法師創立</p>
@@ -622,7 +623,7 @@
             <p>06-237-5635</p>
           </td>
           <td>
-            <p>http://www.kaiyuan.org.tw/</p>
+            <a target="_" href="http://www.kaiyuan.org.tw/">連結</a>
           </td>
           <td>
             <p>創立於1690年，是臺灣第一座官建佛寺。</p>
@@ -641,7 +642,7 @@
             <p>07-656-3055</p>
           </td>
           <td>
-            <p>religionbmc@gmail.com</p>
+            <a href="mailto:religionbmc@gmail.com">連結</a>
           </td>
           <td>
             <p>2015年由星雲法師創立</p>
@@ -660,7 +661,7 @@
             <p>07-521-3236 #9</p>
           </td>
           <td>
-            <p>https://www.yhm.org.tw/</p>
+            <a target="_" href="https://www.yhm.org.tw/">連結</a>
           </td>
           <td>
             <p>
@@ -681,7 +682,7 @@
             <p>07-656-1921</p>
           </td>
           <td>
-            <p>https://www.fgs.org.tw/</p>
+            <a target="_" href="https://www.fgs.org.tw/">連結</a>
           </td>
           <td>
             <p>由星雲法師創立，1967年5月16日開山。</p>
@@ -700,7 +701,7 @@
             <p>07-656-3033</p>
           </td>
           <td>
-            <p>http://www.fgsbmc.org.tw/</p>
+            <a target="_" href="http://www.fgsbmc.org.tw/">連結</a>
           </td>
           <td>
             <p>由星雲法師創立，2011年落成。</p>
@@ -719,7 +720,7 @@
             <p>07-689-2259</p>
           </td>
           <td>
-            <p>http://www.clm.org.tw/</p>
+            <a target="_" href="http://www.clm.org.tw/">連結</a>
           </td>
           <td>
             <p>1984年由宏安法師創立</p>
@@ -738,7 +739,7 @@
             <p>03-867-1001</p>
           </td>
           <td>
-            <p>https://www.facebook.com/356951367688157/</p>
+            <a target="_" href="https://www.facebook.com/356951367688157/">連結</a>
           </td>
           <td>
             <p>1967年由傳慶法師創立</p>
@@ -757,7 +758,7 @@
             <p>03-826-6779</p>
           </td>
           <td>
-            <p>http://www.tzuchi.org.tw/</p>
+            <a target="_" href="http://www.tzuchi.org.tw/">連結</a>
           </td>
           <td>
             <p>1966年5月14日由證嚴法師創立</p>
