@@ -4,7 +4,8 @@
     <div v-for="tab in tabs" :key="tab.name" @click="changeView(tab)">
       <div class="title rwdTitle">
         <h2>{{ tab.name }}</h2>
-        <span>{{tab.autor}}</span>
+        <!-- <span>{{tab.autor}}</span> -->
+        <span style="padding-left: 0;"><img style="width: 100%;height: 100%;object-fit: cover;" :src="tab.img" alt=""></span>
       </div>
       <hr>
       <!-- <component  v-if="currentTab.name === tab.name" :is="currentTab.component"/> -->
@@ -25,6 +26,18 @@ import Video8 from './video_8.vue';
 import Video9 from './video_9.vue';
 import Video10 from './video_10.vue';
 
+import img1 from './../../../assets/videoTitle/1.jpg';
+import img2 from './../../../assets/videoTitle/2.jpg';
+import img3 from './../../../assets/videoTitle/3.jpg';
+import img4 from './../../../assets/videoTitle/4.jpg';
+import img5 from './../../../assets/videoTitle/5.jpg';
+import img6 from './../../../assets/videoTitle/6.jpg';
+import img7 from './../../../assets/videoTitle/7.jpg';
+import img8 from './../../../assets/videoTitle/8.jpeg';
+import img9 from './../../../assets/videoTitle/9.jpg';
+import img10 from './../../../assets/videoTitle/10.jpg';
+
+
 
 const tabs = [
   // {
@@ -37,60 +50,70 @@ const tabs = [
     autor: '',
     component: Video1,
     path: 'videoRecord_1',
+    img: img1
   },
   {
     name: '北管音樂',
     autor: '',
     component: Video2,
     path: 'videoRecord_2',
+    img: img2
   },
   {
     name: '福佬歌謠',
     autor: '',
     component: Video3,
     path: 'videoRecord_3',
+    img: img3
   },
   {
     name: '客家音樂',
     autor: '',
     component: Video4,
     path: 'videoRecord_4',
+    img: img4
   },
   {
     name: '原住民音樂－賽夏族、阿美族、卑南族、雅美（達悟）族',
     autor: '',
     component: Video5,
     path: 'videoRecord_5',
+    img: img5
   },
   {
     name: '原住民音樂－泰雅族、太魯閣族、鄒族、撒奇萊雅族',
     autor: '',
     component: Video6,
     path: 'videoRecord_6',
+    img: img6
   },
   {
     name: '原住民音樂－排灣族、魯凱族、卡那卡那富族、拉阿魯哇族、平埔族',
     autor: '',
     component: Video7,
     path: 'videoRecord_7',
+    img: img7
   },
   {
     name: '原住民音樂－邵族、布農族、噶瑪蘭族、賽德克族',
     autor: '',
     component: Video8,
     path: 'videoRecord_8',
+    img: img8
   },
   {
     name: '佛、釋教音樂',
     autor: '',
     component: Video9,
     path: 'videoRecord_9',
+    img: img9
   },
   {
     name: '道、法教音樂',
     autor: '',
     component: Video10,
     path: 'videoRecord_10',
+    img: img10
   },
 ];
 

@@ -4,7 +4,8 @@
     <div v-for="tab in tabs" :key="tab.name" @click="changeView(tab)">
       <div class="title rwdTitle">
         <h2>{{ tab.name }}</h2>
-        <span>{{tab.autor}}</span>
+        <!-- <span>{{tab.autor}}</span> -->
+        <span style="padding-left: 0;"><img style="width: 100%;height: 100%;object-fit: cover;" :src="tab.img" alt=""></span>
       </div>
       <hr>
       <!-- <component  v-if="currentTab.name === tab.name" :is="currentTab.component"/> -->
@@ -16,6 +17,8 @@
 import VideoPreface2 from './video_preface2.vue';
 import Video11 from './video_11.vue';
 import Video12 from './video_12.vue';
+import img11 from './../../../assets/videoTitle/11.jpg';
+import img12 from './../../../assets/videoTitle/12.jpg';
 
 
 const tabs = [
@@ -29,12 +32,14 @@ const tabs = [
     autor: '',
     component: Video11,
     path: 'videoRecord_11',
+    img: img11
   },
   {
     name: '西樂及混合編制',
     autor: '',
     component: Video12,
     path: 'videoRecord_12',
+    img: img12
   },
 ];
 

@@ -4,7 +4,8 @@
     <div v-for="tab in tabs" :key="tab.name" @click="changeView(tab)">
       <div class="title rwdTitle">
         <h2>{{ tab.name }}</h2>
-        <span>{{tab.autor}}</span>
+        <!-- <span>{{tab.autor}}</span> -->
+        <span style="padding-left: 0;"><img style="width: 100%;height: 100%;object-fit: cover;" :src="tab.img" alt=""></span>
       </div>
       <hr>
       <!-- <component  v-if="currentTab.name === tab.name" :is="currentTab.component"/> -->
@@ -16,6 +17,7 @@
 import VideoPreface4 from './video_preface4.vue';
 import Video14 from './video_14.vue';
 
+import img14 from './../../../assets/videoTitle/14.jpg';
 
 const tabs = [
   // {
@@ -28,6 +30,7 @@ const tabs = [
     autor: '',
     component: Video14,
     path: 'videoRecord_14',
+    img: img14
   },
 ];
 
