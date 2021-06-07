@@ -232,3 +232,14 @@
     </div>
   </div>
 </template>
+<script>
+export default {
+  data() {
+    return {
+    };
+  },
+  created (){
+    document.querySelector('.viewRight > div:first-child').scrollTop = 0
+  },
+};
+</script>

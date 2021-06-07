@@ -352,10 +352,7 @@
           <td>
             <p>新北市淡水區民生里樹梅坑6-2號</p>
             <p>
-              <a
-                href="https://www.google.com/search?q=%E6%B7%A1%E6%B0%B4%E5%A6%99%E8%A6%BA%E5%AF%BA&amp;oq=%E6%B7%A1%E6%B0%B4%E5%A6%99%E8%A6%BA%E5%AF%BA&amp;aqs=chrome..69i57.397j0j7&amp;sourceid=chrome&amp;ie=UTF-8"
-                >02-2809-5925</a
-              >
+              02-2809-5925
             </p>
           </td>
           <td>

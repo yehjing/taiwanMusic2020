@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="title">
-      <h2>臺九線花蓮地區的客家八音紀實</h2>
+      <h2 class="toTop">臺九線花蓮地區的客家八音紀實</h2>
       <span>吳榮順</span>
       <!-- <span>2019 / 04 / 06</span> -->
     </div>
@@ -678,3 +678,14 @@
 </small>
   </div>
 </template>
+<script>
+export default {
+  data() {
+    return {
+    };
+  },
+  created (){
+    document.querySelector('.viewRight > div:first-child').scrollTop = 0
+  },
+};
+</script>
