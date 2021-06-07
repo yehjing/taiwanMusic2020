@@ -752,7 +752,7 @@
           </td>
           <td>
             <p>新北市平溪區</p>
-            <p>0910-050-373（李國豪）0932-924-017（潘淑璟）</p>
+            <p>0910-050-373（李國豪）<br>0932-924-017（潘淑璟）</p>
           </td>
           <td>
             <a target="_" href="https://www.facebook.com/Jtnjs/">連結</a>
@@ -1381,7 +1381,7 @@
             <p>雲林螺城園</p>
           </td>
           <td>
-            <p>總幹事 廖家進</p>
+            <p>總幹事<br>廖家進</p>
           </td>
           <td>&nbsp;</td>
           <td>
@@ -1602,7 +1602,7 @@
             <p>灣裡萬年殿</p>
           </td>
           <td>
-            <p>臺南市南區灣裡路64號06-262-2668</p>
+            <p>臺南市南區灣裡路64號<br>06-262-2668</p>
           </td>
           <td>
             <a target="_" href="https://www.facebook.com/Tshaihunian.Winlin.Pakuan/">連結</a>

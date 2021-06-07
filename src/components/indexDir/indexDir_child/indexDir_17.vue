@@ -18,7 +18,7 @@
       <tbody>
         <tr>
           <td>
-            <p>&nbsp;佛光山</p>
+            <p>佛光山</p>
             <p>極樂寺</p>
           </td>
           <td>
@@ -50,10 +50,7 @@
           <td>
             <p>臺北市內湖區內湖路三段256巷2號</p>
             <p> 
-              <a
-                href="https://www.google.com/search?q=%E5%85%A7%E6%B9%96%E9%87%91%E9%BE%8D%E7%A6%AA%E5%AF%BA&amp;oq=%E5%85%A7%E6%B9%96%E9%87%91%E9%BE%8D%E7%A6%AA%E5%AF%BA&amp;aqs=chrome..69i57.664j0j7&amp;sourceid=chrome&amp;ie=UTF-8"
-                >02-2790-2604</a
-              >
+              02-2790-2604
             </p>
           </td>
           <td>
@@ -162,7 +159,7 @@
             <p>國際佛光會中華總會</p>
           </td>
           <td>
-            <p>總會長趙怡</p>
+            <p>總會長<br>趙怡</p>
           </td>
           <td>
             <p>臺北市信義區松隆路327號8樓</p>
@@ -224,10 +221,7 @@
           <td>
             <p>臺北市士林區至善路三段181巷3號</p>
             <p>
-              <a
-                href="https://www.google.com/search?q=%E8%87%BA%E5%8C%97%E6%81%86%E5%85%89%E7%A6%AA%E5%AF%BA&amp;oq=%E8%87%BA%E5%8C%97%E6%81%86%E5%85%89%E7%A6%AA%E5%AF%BA&amp;aqs=chrome..69i57.752j0j7&amp;sourceid=chrome&amp;ie=UTF-8"
-                >02-2793-3000</a
-              >
+              02-2793-3000
             </p>
           </td>
           <td>
@@ -243,7 +237,7 @@
           </td>
           <td>
             <p>理事長</p>
-            <p>陳佳源林俊祿</p>
+            <p>陳佳源<br>林俊祿</p>
           </td>
           <td>
             <p>新北市中和區建八路165號10樓</p>
@@ -280,7 +274,7 @@
             <p>台灣宗教學會</p>
           </td>
           <td>
-            <p>理事長陳美華</p>
+            <p>理事長<br>陳美華</p>
           </td>
           <td>
             <p>新北市汐止區大同路一段237號9樓</p>

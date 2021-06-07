@@ -99,7 +99,7 @@
             <p>楊蕙祺</p>
           </td>
           <td>
-            <p>臺北市中正區詔安街35之1號7樓02-2369-4802</p>
+            <p>臺北市中正區詔安街35之1號7樓<br>02-2369-4802</p>
           </td>
           <td>
             <a href="mailto:amatwn@ms17.hinet.net">連結</a>
@@ -2192,7 +2192,7 @@
             <p>周安瑞</p>
           </td>
           <td>
-            <p>高雄市苓雅區林泉街23號 07-724-8759</p>
+            <p>高雄市苓雅區林泉街23號<br>07-724-8759</p>
           </td>
           <td>
             <a target="_" href="https://www.facebook.com/siungsongorch">連結</a>
@@ -3346,7 +3346,7 @@
             <p>徐鴻慶</p>
           </td>
           <td>
-            <p>新竹市北區中央路109號（新竹市文化局）03-591-0389</p>
+            <p>新竹市北區中央路109號（新竹市文化局）<br>03-591-0389</p>
           </td>
           <td>
             <a href="mailto:sibonnevie@gmail.com">連結</a>
@@ -4256,9 +4256,7 @@
         <tr>
           <td>
             <p>
-              <a href="http://red073.redmedia.com.tw/backoffice/"
-                >中華民國聲樂家協會</a
-              >
+              中華民國聲樂家協會
             </p>
           </td>
           <td>

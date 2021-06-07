@@ -328,7 +328,7 @@
             <p>0928-185-207</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/JOJUN0219/">連結</a>
+            <a target="_" href="https://www.facebook.com/JOJUN0219/">連結</a><br>
             <a href="mailto:n901304005@gmail.com">連結</a>
           </td>
           <td>

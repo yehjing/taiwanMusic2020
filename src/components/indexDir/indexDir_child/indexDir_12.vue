@@ -1228,20 +1228,20 @@
     <table rules="all" border="1" style="border: 1px solid" cellpadding="5">
       <tbody>
         <tr>
-          <td>
-            <p>名稱</p>
+          <td width="20%">
+            <b>名稱</b>
+          </td>
+          <td width="20%">
+            <b>負責人</b>
+          </td>
+          <td width="25%">
+            <b>地址/電話</b>
           </td>
           <td>
-            <p>負責人</p>
+            <b>其他聯絡方式</b>
           </td>
-          <td>
-            <p>地址/電話</p>
-          </td>
-          <td width="152">
-            <p>其他聯絡方式</p>
-          </td>
-          <td width="151">
-            <p>備註</p>
+          <td  width="25%">
+            <b>備註</b>
           </td>
         </tr>
         <tr>
@@ -1255,10 +1255,10 @@
             <p>臺南市佳里區鎮山里94號（三五甲鎮山宮）</p>
             <p>06-723-5963</p>
           </td>
-          <td width="152">
+          <td>
             <a target="_" href="https://www.facebook.com/bunbulongkun/">連結</a>
           </td>
-          <td width="151">
+          <td>
             <p>配合西港刈香活動</p>
           </td>
         </tr>
@@ -1273,10 +1273,10 @@
             <p>臺南市安南區公學路一段228號（公親寮清水寺）</p>
             <p>06-255-2762</p>
           </td>
-          <td width="152">
+          <td>
             <a target="_" href="https://www.facebook.com/pg/KTLTPK/about/?ref=page_internal">連結</a>
           </td>
-          <td width="151">
+          <td>
             <p>配合西港刈香活動</p>
           </td>
         </tr>
@@ -1291,10 +1291,10 @@
             <p>臺南市七股區永吉里16-9號（永吉吉安宮）</p>
             <p>06-787-2024</p>
           </td>
-          <td width="152">
+          <td>
             <a target="_" href="https://www.facebook.com/永吉吉安宮天子門生-306785639382578/">連結</a>
           </td>
-          <td width="151">
+          <td>
             <p>配合西港刈香活動</p>
           </td>
         </tr>
@@ -1309,10 +1309,10 @@
             <p>臺南市麻豆區巷口里和平路3號（巷口慶安宮）</p>
             <p>06-571-8909</p>
           </td>
-          <td width="152">
+          <td>
             <a target="_" href="https://www.facebook.com/pg/集英社太平清歌-579225785604662/about/?ref=page_internal">連結</a>
           </td>
-          <td width="151">
+          <td>
             <p>&nbsp;</p>
           </td>
         </tr>
@@ -1327,10 +1327,10 @@
             <p>臺南市佳里區通興里港墘1之2號（港墘港興宮）</p>
             <p>06-787-3775</p>
           </td>
-          <td width="152">
+          <td>
             <a target="_" href="https://www.facebook.com/港墘太平歌團天子門生陣-1749207195291500/">連結</a>
           </td>
-          <td width="151">
+          <td>
             <p>配合西港刈香活動</p>
           </td>
         </tr>
@@ -1345,10 +1345,10 @@
             <p>臺南市將軍區長沙里51號（馬沙溝李聖宮）</p>
             <p>06-793-1215</p>
           </td>
-          <td width="152">
+          <td>
             <p>&nbsp;</p>
           </td>
-          <td width="151">
+          <td>
             <p>配合李聖宮慶典活動</p>
           </td>
         </tr>
@@ -1363,10 +1363,10 @@
             <p>臺南市關廟區新光街76號（關廟新光國小）</p>
             <p>06-595-2419</p>
           </td>
-          <td width="152">
+          <td>
             <p>&nbsp;</p>
           </td>
-          <td width="151">
+          <td>
             <p>&nbsp;</p>
           </td>
         </tr>
@@ -1381,10 +1381,10 @@
             <p>高雄市內門區觀亭里番子路25之1號（番仔路神農宮）</p>
             <p>07-667-4427</p>
           </td>
-          <td width="152">
+          <td>
             <a target="_" href="https://www.facebook.com/內門紫竹寺番仔路和樂軒太平歌-1677233442301092/">連結</a>
           </td>
-          <td width="151">
+          <td>
             <p>配合內門迎佛祖活動</p>
           </td>
         </tr>
@@ -1399,10 +1399,10 @@
             <p>高雄市茄萣區保定里港東街111號（茄萣金鑾宮）</p>
             <p>07-690-2948</p>
           </td>
-          <td width="152">
+          <td>
             <a target="_" href="https://www.facebook.com/茄萣金鑾宮天子文生-476038909159612/">連結</a>            
           </td>
-          <td width="151">
+          <td>
             <p>&nbsp;</p>
           </td>
         </tr>
@@ -1416,10 +1416,10 @@
           <td>
             <p>高雄市茄萣區賜福宮四館</p>
           </td>
-          <td width="152">
+          <td>
             <a target="_" href="https://www.facebook.com/頂茄萣賜福宮和音社-941524995947236/">連結</a>
           </td>
-          <td width="151">
+          <td>
             <p>&nbsp;</p>
           </td>
         </tr>

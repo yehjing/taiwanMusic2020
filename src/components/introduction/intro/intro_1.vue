@@ -17,7 +17,7 @@
       <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本書得以付梓，有賴主編張儷瓊教授召集超過全國各地80位音樂界專家學者、研究助理們用心戮力的投入，以及中央、地方政府單位、民間團體慨然提供資料與協助。期許臺灣音樂年鑑的調查研究工作持續進行，逐步累積完整的音樂史料，為後代子孫留下彌足珍貴的文化印記。
       </p>
       <div class="signTitle" style="text-align:right">國立傳統藝術中心主任</div>
-      <div style="text-align:right;margin-top:2em">
+      <div style="text-align:right;margin-top:1em">
         <img src="./../../../assets/centersign.png" alt="" />
         <br /><span>2021年7月31日</span>
       </div>

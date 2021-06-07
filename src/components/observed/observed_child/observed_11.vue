@@ -175,10 +175,10 @@
 <td>
 <p>臺南市政府文化局主辦、歸仁文化中心協辦</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>取消</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>取消</p>
 </td>
 <td>
@@ -192,10 +192,10 @@
 <td>
 <p>高雄市政府文化局</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>取消</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>取消</p>
 </td>
 <td>
@@ -375,13 +375,13 @@
 <table rules="all" style="border:1px solid" cellpadding="5">
 <tbody>
 <tr>
-<td class="tableCenter" width="6%">
+<td class="tableCenter" width="8%">
 <p>場次</p>
 </td>
-<td class="tableCenter" width="16%">
+<td class="tableCenter" width="20%">
 <p>日期時間</p>
 </td>
-<td class="tableCenter">
+<td class="tableCenter" width="18%">
 <p>節目名稱</p>
 </td>
 <td class="tableCenter">
@@ -745,7 +745,7 @@
 <p><strong>3.</strong><strong>校園巡迴－推廣國樂，服務偏鄉</strong></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;桃市國今年的推廣音樂會仍是採用樂團進入校園演出的方式，受到疫情影響，今年的校巡活動一直延到10月才開始進行，一共演出22場，外加1場社區演出（桃市國，2020）。桃市國為了服務在地的國小，尤其是偏鄉、資源較不足的學校，讓學子們能夠有機會近距離接觸國樂樂器，並欣賞優美的樂音。依舊將樂團分為A、B兩組，以通俗、趣味性高的曲目為主，帶給學子們一個知性與感性之旅。</p>
 <p><strong>4.</strong><strong>全民美育旗艦計畫－藝教宣導，藝同玩樂</strong></p>
-<p class="bkt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;國立臺灣藝術大學獲教育部支持，組成專責小組辦理表演藝術推廣系列活動「全民美育旗艦計畫」，以「藝術教育宣導」、「偏鄉學校推廣」、「慈善關懷」、「跨領域科技劇場」等四大方向主軸，結合國樂、舞蹈、音樂、戲劇等多元跨領域表演藝術與產官學的力量，在全臺各地及澎湖金門馬祖等離島，主動推送各類優質表演藝術，進行全民環島藝文播種，期許傳遞給全民生活美育，及優質跨領域藝術饗宴走入民眾生活。（國立臺灣藝術大學，2020）</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="bkt">國立臺灣藝術大學獲教育部支持，組成專責小組辦理表演藝術推廣系列活動「全民美育旗艦計畫」，以「藝術教育宣導」、「偏鄉學校推廣」、「慈善關懷」、「跨領域科技劇場」等四大方向主軸，結合國樂、舞蹈、音樂、戲劇等多元跨領域表演藝術與產官學的力量，在全臺各地及澎湖金門馬祖等離島，主動推送各類優質表演藝術，進行全民環島藝文播種，期許傳遞給全民生活美育，及優質跨領域藝術饗宴走入民眾生活。</span>（國立臺灣藝術大學，2020）</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;臺藝大中國音樂學系（以下簡稱國樂系）在2020年承辦此計畫，共執行4項活動，11場的演出（如表5）。其中除了前往校園巡演外，也在聖誕節前，到臺北市立動物園快閃演出「狂歡聖誕」，帶給現場民眾極大的驚喜。12月1日國樂系國樂團前往衛武營國家藝術文化中心演出，演奏的樂曲皆為各樂器的經典名作，並邀請知名演奏家一同協演，增添音樂會的可看性。音樂會中安排一首新創樂曲《紡》，由熊仁岳為笛演奏家任重與古箏演奏家郭靖沐新創作的單樂章協奏曲，樂曲共分成4個段落，「盲」、「星星搖籃歌」、「燎舞」與「灰燼之歌」，樂曲主旨為詮釋追夢的歷程，並透過每個局部高潮代表突破陰霾的意志。此次的演出除了達到藝術教育的推廣目的，更讓莘莘學子能夠有機會站在國家級的衛武營表演殿堂一展身手，意義非凡。</p>
 <span>表5：國樂系執行「全民美育旗艦計畫」場次表</span>
 <table rules="all" style="border:1px solid" cellpadding="5">
@@ -853,7 +853,7 @@
 <table rules="all" style="border:1px solid" cellpadding="5">
 <tbody>
 <tr>
-<td class="tableCenter" colspan="2">
+<td colspan="2">
 <p>音樂學研究生論文發表會</p>
 </td>
 </tr>
@@ -906,7 +906,7 @@
 </td>
 </tr>
 <tr>
-<td class="tableCenter" colspan="2">
+<td colspan="2">
 <p>演奏與詮釋－2020研究生學術研討會</p>
 </td>
 </tr>
@@ -959,7 +959,7 @@
 </td>
 </tr>
 <tr>
-<td class="tableCenter" colspan="2">
+<td colspan="2">
 <p>中華林產事業協會學術論文研究成果研討會</p>
 </td>
 </tr>
@@ -980,7 +980,7 @@
 </td>
 </tr>
 <tr>
-<td class="tableCenter" colspan="2">
+<td colspan="2">
 <p>重建臺灣音樂史國際學術研討會</p>
 </td>
 </tr>
@@ -1001,7 +1001,7 @@
 </td>
 </tr>
 <tr>
-<td class="tableCenter" colspan="2">
+<td colspan="2">
 <p>音樂的傳統與未來－2020臺灣音樂學會暨臺灣音樂學論壇年度研討會</p>
 </td>
 </tr>
@@ -1022,7 +1022,7 @@
 </td>
 </tr>
 <tr>
-<td class="tableCenter" colspan="2">
+<td colspan="2">
 <p>2020國立臺南藝術大學暨國際傳統音樂學會臺灣分會民族音樂學國際研討會</p>
 </td>
 </tr>
@@ -1894,7 +1894,7 @@
 <table rules="all" style="border:1px solid" cellpadding="5">
 <tbody>
 <tr>
-<td class="tableCenter">
+<td class="tableCenter" width="20%">
 <p>發表時間</p>
 </td>
 <td class="tableCenter">
@@ -2170,8 +2170,8 @@
 <h3><strong>結語</strong></h3>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2020年國樂的演出活動在疫情籠罩中度過，全年的創作數量有81首國人作品及4首編配的樂曲，另外還有至少寫作6首已創作完成卻因疫情影響必須延後發表的樂曲。今年職業樂團的委創樂曲大幅減少，是總量減少的關鍵，但是以今年的景況，81首的新創樂曲，也算是不錯的成績。這些作品的創作理念與手法，關注在我們所生活這塊土地上的多元樣貌，以不同的表現形式與聲響，述說臺灣美麗動人的故事。</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;因疫情影響，讓樂團有機會運用網路線上直播來分享美麗動聽的音樂，不僅撫慰了受到疫情干擾生活的不安情緒，同時也打開了樂團行銷的另一扇門，可說是「塞翁失馬，焉知非福！」</p>
-<p class="bkt">後記：</p>
-<p class="bkt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在疫情初發之際，當下完全無法預測2020國樂的生態會有何發展。雖然，演出活動一一被取消或改期，但是，我們的團隊仍舊兢兢業業地收集所有資料，最終才能順利完成年鑑國樂類的觀察。在此除了感謝各單位提供的寶貴資料外，也要謝謝任重、郭靖沐等願意無私的分享創作的理念與手法。當然最重要的還是要感謝我們堅強的團隊：林青儀、萬智懿、吳沛諭及蔡佩娟四位助理的努力。沒有妳們全年全心投入與詳實紀錄蹲點場次，這篇報告是無法完成的。在此，向妳們致上誠摯的謝意，完成蹲點的榮耀，全歸於妳們！</p>
+<p class="bkt"><strong>後記：</strong></p>
+<p class="bkt">&nbsp;&nbsp;&nbsp;&nbsp;在疫情初發之際，當下完全無法預測2020國樂的生態會有何發展。雖然，演出活動一一被取消或改期，但是，我們的團隊仍舊兢兢業業地收集所有資料，最終才能順利完成年鑑國樂類的觀察。在此除了感謝各單位提供的寶貴資料外，也要謝謝任重、郭靖沐等願意無私的分享創作的理念與手法。當然最重要的還是要感謝我們堅強的團隊：林青儀、萬智懿、吳沛諭及蔡佩娟四位助理的努力。沒有妳們全年全心投入與詳實紀錄蹲點場次，這篇報告是無法完成的。在此，向妳們致上誠摯的謝意，完成蹲點的榮耀，全歸於妳們！</p>
 
 <div style="text-align:left;word-break: break-all;">
 <h3><strong>參考資料</strong></h3>
@@ -2217,22 +2217,22 @@
 <tbody>
 <tr>
 <td class="tableCenter" width="6%">
-<p>流水號</p>
+<b>流水號</b>
 </td>
 <td class="tableCenter" width="10%">
-<p>首演日期</p>
+<b>首演日期</b>
 </td>
 <td class="tableCenter">
-<p>作曲者</p>
+<b>作曲者</b>
 </td>
 <td class="tableCenter" width="16%">
-<p>曲名</p>
+<b>曲名</b>
 </td>
 <td class="tableCenter">
-<p>首演單位及個人</p>
+<b>首演單位及個人</b>
 </td>
 <td class="tableCenter">
-<p>補助及委託單位</p>
+<b>補助及委託單位</b>
 </td>
 </tr>
 <tr>
@@ -3882,19 +3882,19 @@
 </tr>
 <tr>
 <td>&nbsp;</td>
-<td>
+<td class="tableCenter">
 <p><strong>首演日期</strong></p>
 </td>
-<td>
+<td class="tableCenter">
 <p><strong>作曲</strong><strong>/</strong><strong>編配者</strong></p>
 </td>
-<td>
+<td class="tableCenter">
 <p><strong>曲名</strong></p>
 </td>
-<td>
+<td class="tableCenter">
 <p><strong>首演單位及個人</strong></p>
 </td>
-<td>
+<td class="tableCenter">
 <p><strong>補助及委託單位</strong></p>
 </td>
 </tr>

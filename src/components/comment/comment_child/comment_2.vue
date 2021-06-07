@@ -641,6 +641,7 @@
         </tr>
       </tbody>
     </table>
+    <p></p>
     <p>
       <strong>（二）亞洲作曲家聯盟</strong><strong>/</strong
       ><strong>台灣作曲家協會</strong

@@ -14,7 +14,7 @@
     <table rules="all" style="border:1px solid" cellpadding="5">
       <tbody>
         <tr>
-          <td class="tableCenter">
+          <td width="20%" class="tableCenter">
             子計畫
           </td>
           <td class="tableCenter">
@@ -137,7 +137,7 @@
             2
           </td>
           <td>
-            週末聽八音
+            週末聽八音－和成八音團
           </td>
         </tr>
         <tr>

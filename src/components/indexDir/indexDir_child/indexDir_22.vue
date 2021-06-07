@@ -10,9 +10,9 @@
         <tr>
           <th style="width: 20%">名稱</th>
           <th style="width: 20%">負責人</th>
-          <th style="width: 20%">地址/電話</th>
-          <th style="width: 20%">其他聯絡方式</th>
-          <th>備註</th>
+          <th style="width: 25%">地址/電話</th>
+          <th>其他聯絡方式</th>
+          <th style="width: 25%">備註</th>
         </tr>
       </thead>
       <tbody>
@@ -57,8 +57,7 @@
         </tr>
         <tr>
           <td>
-            <p>VIT Dance</p>
-            <p>Group－泰友印越舞蹈社</p>
+            <p>VIT Dance Group－泰友印越舞蹈社</p>
           </td>
           <td>
             <p>陳秋柳</p>
@@ -151,7 +150,7 @@
         </tr>
         <tr>
           <td>
-            <p>空空把西非擊鼓樂團 Konkonba　Taiwan</p>
+            <p>空空把西非擊鼓樂團<br>Konkonba　Taiwan</p>
           </td>
           <td>
             <p>蔡俊典</p>
@@ -505,7 +504,7 @@
             <p>0937-356-603</p>
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/yishengger/">連結</a>
+            <a target="_" href="https://www.facebook.com/yishengger/">連結</a><br>
             <a href="mailto:yisingkuo@gmail.com">連結</a>
           </td>
           <td>
@@ -556,7 +555,7 @@
           </td>
           <td>&nbsp;</td>
           <td>
-            <a target="_" href="https://www.facebook.com/telee.ballets/">連結</a>
+            <a target="_" href="https://www.facebook.com/telee.ballets/">連結</a><br>
             <a href="mailto:djembe.ake@gmail.com">連結</a>
           </td>
           <td>

@@ -896,7 +896,7 @@
 <p></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;噶哈巫族的活動各為祭儀活動1則，推廣教育1則，傳習活動1則。祭儀活動為牛眠部落Azem文化祭儀傳承與推廣（南投縣埔里鎮牛眠社區活動中心），推廣教育為噶哈巫文化搖籃推動計畫成果展演（南投縣埔里鎮蜈蚣社區活動中心），傳習活動為「樂舞的記憶」歌謠班（南投埔里鎮蜈蚣社區活動中心）。</p>
 <h4><strong>九、平埔族</strong><strong>－</strong><strong>道卡斯族</strong></h4>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;道卡斯族是平埔族群當中的一支，原居於新竹、苗栗、臺中一帶的海岸平原區，即清代以後，所謂的竹塹社、後壠五社與蓬山八社等三大社群。<sup>2</sup>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;道卡斯族是平埔族群當中的一支，原居於新竹、苗栗、臺中一帶的海岸平原區，即清代以後，所謂的竹塹社、後壠五社與蓬山八社等三大社群。<sup>2</sup><br><br>
 <span>表11：道卡斯族全年活動列表</span>
 <table rules="all" style="border:1px solid" cellpadding="5">
 <tbody>

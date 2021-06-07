@@ -21,6 +21,7 @@ export default {
   components:{
     Share
   },
+  inject: ['initScroll'],
   data() {
     return {
       activeName:''
@@ -30,6 +31,7 @@ export default {
     clickLink (data) {
       this.activeName = data
       this.$router.push(`/comment/${data}`)
+      this.initScroll();
     }
   }
 };

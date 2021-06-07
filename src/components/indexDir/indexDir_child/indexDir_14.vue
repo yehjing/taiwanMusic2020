@@ -318,7 +318,7 @@
         <tr>
           <th style="width: 20%">名稱</th>
           <th style="width: 25%">地址/電話</th>
-          <th style="width: 25%">其他聯絡方式</th>
+          <th style="width: 20%">其他聯絡方式</th>
           <th>備註</th>
         </tr>
       </thead>
