@@ -4,7 +4,8 @@
     <div v-for="tab in tabs" :key="tab.name" @click="changeView(tab)">
       <div class="title rwdTitle">
         <h2>{{ tab.name }}</h2>
-        <span>{{tab.autor}}</span>
+        <!-- <span>{{tab.autor}}</span> -->
+        <span class="isMobile" style="padding-left: 0;"><img style="width: 100%;height: 100%;object-fit: cover;" :src="tab.img" alt=""></span>
       </div>
       <hr>
       <!-- <router-view></router-view> -->
@@ -29,6 +30,19 @@ import IndexDir21 from './indexDir_21.vue';
 import IndexDir22 from './indexDir_22.vue';
 import IndexDir23 from './indexDir_23.vue';
 
+import img1 from './../../../assets/videoTitle/1.jpg';
+import img2 from './../../../assets/videoTitle/2.jpg';
+import img3 from './../../../assets/videoTitle/3.jpg';
+import img4 from './../../../assets/videoTitle/4.jpg';
+import img5 from './../../../assets/videoTitle/5.jpg';
+import img9 from './../../../assets/videoTitle/9.jpg';
+import img10 from './../../../assets/videoTitle/10.jpg';
+import img11 from './../../../assets/videoTitle/11.jpg';
+import img12 from './../../../assets/videoTitle/12.jpg';
+import img13 from './../../../assets/videoTitle/13.jpg';
+import img14 from './../../../assets/videoTitle/14.jpg';
+import img15 from './../../../assets/videoTitle/15.jpg';
+
 
 const tabs = [
   // {
@@ -41,72 +55,84 @@ const tabs = [
     autor: '',
     component: IndexDir12,
     path: 'indexDir_12',
+    img: img1
   },
   {
     name: '北管音樂篇',
     autor: '',
     component: IndexDir13,
     path: 'indexDir_13',
+    img: img2
   },
   {
     name: '福佬歌謠篇',
     autor: '',
     component: IndexDir14,
     path: 'indexDir_14',
+    img: img3
   },
   {
     name: '客家音樂篇',
     autor: '',
     component: IndexDir15,
     path: 'indexDir_15',
+    img: img4
   },
   {
     name: '原住民音樂篇',
     autor: '',
     component: IndexDir16,
     path: 'indexDir_16',
+    img: img5
   },
   {
     name: '佛、釋教音樂篇',
     autor: '',
     component: IndexDir17,
     path: 'indexDir_17',
+    img: img9
   },
   {
     name: '道、法教音樂篇',
     autor: '',
     component: IndexDir18,
     path: 'indexDir_18',
+    img: img10
   },
   {
     name: '釋奠樂及其他篇',
     autor: '',
-    component: IndexDir22,
+    component: IndexDir23,
     path: 'indexDir_23',
+    img: img15
   },
   {
     name: '國樂篇',
     autor: '',
     component: IndexDir19,
     path: 'indexDir_19',
+    img: img11
   },
   {
     name: '西樂及混合編制篇',
     autor: '',
     component: IndexDir20,
     path: 'indexDir_20',
+    img: img12
   },
   {
     name: '流行音樂篇',
     autor: '',
     component: IndexDir21,
     path: 'indexDir_21',
+    img: img13
   },
   {
     name: '跨界音樂與其他篇',
     autor: '',
     component: IndexDir22,
     path: 'indexDir_22',
+    img: img14
   },
 ];
 
@@ -137,3 +163,11 @@ export default {
   },
 };
 </script>
+<style lang="scss" scoped>
+.isMobile {
+  @media (min-width: 992px) {
+    display: none !important;
+  }
+  
+}
+</style>

@@ -5,7 +5,7 @@
       <div class="title rwdTitle">
         <h2>{{ tab.name }}</h2>
         <!-- <span>{{tab.autor}}</span> -->
-        <span style="padding-left: 0;"><img style="width: 100%;height: 100%;object-fit: cover;" :src="tab.img" alt=""></span>
+        <span class="isMobile" style="padding-left: 0;"><img style="width: 100%;height: 100%;object-fit: cover;" :src="tab.img" alt=""></span>
       </div>
       <hr>
       <!-- <component  v-if="currentTab.name === tab.name" :is="currentTab.component"/> -->
@@ -69,3 +69,11 @@ export default {
   },
 };
 </script>
+<style lang="scss" scoped>
+.isMobile {
+  @media (min-width: 992px) {
+    display: none !important;
+  }
+  
+}
+</style>
