@@ -53,7 +53,7 @@ const tabs = [
   },
   {
     name: '2020年度客家音樂活動觀察與評介',
-    autor: '許馨文',
+    autor: '林曉英',
     component: Observed4,
     path: 'observed_4',
   },

@@ -11,7 +11,7 @@
         <tr>
           <th style="width: 20%">時間</th>
           <th style="width: 20%">活動名稱</th>
-          <th style="width: 25%">活動內容</th>
+          <th>活動內容</th>
         </tr>
       </thead>
       <tbody>
@@ -309,7 +309,7 @@
         <tr>
           <th style="width: 20%">時間</th>
           <th style="width: 20%">活動名稱</th>
-          <th style="width: 25%">活動內容</th>
+          <th>活動內容</th>
         </tr>
       </thead>
       <tbody>
