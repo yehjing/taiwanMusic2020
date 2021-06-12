@@ -237,6 +237,9 @@
 
 <style lang="scss" scoped>
 @media (max-width: 576px) {
+  hr{
+    display: block !important;
+  }
   .mobileSmall{
     line-height: 1;
   }

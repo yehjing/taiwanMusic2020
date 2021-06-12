@@ -2,7 +2,9 @@
   <section class="wrapContain">
     <aside class="linkLeft">
       <div class="middleItem noLeaf" :class="activeName === '' ? 'active' :''" @click="clickLink('')">
-        傳統音樂
+        <span>傳統音樂</span>
+        <img v-if="activeName === ''" src="./../../assets/arrowUp.png" alt="">
+        <img v-else src="./../../assets/arrowDown.png" alt="">
       </div>
       <template v-if="activeName === ''">
         <div class="middleItem noLeaf webMenuItem"
@@ -14,7 +16,9 @@
         </div>
       </template>
       <div class="middleItem noLeaf" :class="activeName === 'videoRecord_01' ? 'active' :''" @click="clickLink('videoRecord_01')">
-        藝術（當代創作）音樂
+        <span>藝術（當代創作）音樂</span>
+        <img v-if="activeName === 'videoRecord_01'" src="./../../assets/arrowUp.png" alt="">
+        <img v-else src="./../../assets/arrowDown.png" alt="">
       </div>
       <template v-if="activeName === 'videoRecord_01'">
         <div class="middleItem noLeaf webMenuItem"
@@ -26,7 +30,9 @@
         </div>
       </template>
       <div class="middleItem noLeaf" :class="activeName === 'videoRecord_02' ? 'active' :''" @click="clickLink('videoRecord_02')">
-        流行音樂
+        <span>流行音樂</span>
+        <img v-if="activeName === 'videoRecord_02'" src="./../../assets/arrowUp.png" alt="">
+        <img v-else src="./../../assets/arrowDown.png" alt="">
       </div>
       <template v-if="activeName === 'videoRecord_02'">
         <div class="middleItem noLeaf webMenuItem"
@@ -38,7 +44,9 @@
         </div>
       </template>
       <div class="middleItem noLeaf" :class="activeName === 'videoRecord_03' ? 'active' :''" @click="clickLink('videoRecord_03')">
-        跨界音樂與其他
+        <span>跨界音樂與其他</span>
+        <img v-if="activeName === 'videoRecord_03'" src="./../../assets/arrowUp.png" alt="">
+        <img v-else src="./../../assets/arrowDown.png" alt="">
       </div>
       <template v-if="activeName === 'videoRecord_03'">
         <div class="middleItem noLeaf webMenuItem"

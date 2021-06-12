@@ -2,7 +2,9 @@
   <section class="wrapContain">
     <aside class="linkLeft">
       <div class="middleItem noLeaf" :class="activeName === '' ? 'active' :''" @click="clickLink('')">
-        團體及個人名錄
+        <span>團體及個人名錄</span>
+        <img v-if="this.activeName === ''" src="./../../assets/arrowUp.png" alt="">
+        <img v-else src="./../../assets/arrowDown.png" alt="">
       </div>
       <template v-if="activeName === ''">
         <div class="middleItem noLeaf webMenuItem"
@@ -14,7 +16,9 @@
         </div>
       </template>
       <div class="middleItem noLeaf" :class="activeName === 'indexDir_01' ? 'active' :''" @click="clickLink('indexDir_01')">
-        重要音樂活動一覽表
+        <span>重要音樂活動一覽表</span>
+        <img v-if="activeName === 'indexDir_01'" src="./../../assets/arrowUp.png" alt="">
+        <img v-else src="./../../assets/arrowDown.png" alt="">
       </div>
       <template v-if="activeName === 'indexDir_01'">
         <div class="middleItem noLeaf webMenuItem"
