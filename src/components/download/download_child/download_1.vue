@@ -6,7 +6,7 @@
     <hr />
     <p class="firstRow"></p>
     <div style="text-align:center">
-      <a target="_" href="https://drive.google.com/file/d/1oHN7mc0Q2Z4FG59BoeIofEWUpCrFLGtW/view?usp=sharing">
+      <a target="_" href="https://drive.google.com/file/d/1v6ENBwyMP-td5ZebYhYWsTQ1yVq9kJjj/view?usp=sharing">
         <img width="596" src="./../../../assets/eBook.jpg" alt="2020臺灣音樂年鑑全文" />
       </a>
     </div>
