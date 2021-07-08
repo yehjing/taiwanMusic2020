@@ -10394,7 +10394,7 @@
 <img style="max-width:100%" src="./../../../assets/ob3/1.jpg" alt="" />
 </td>
 <td>
-<img style="max-width:100%" src="./../../../assets/ob3/2.jpg" alt="" />
+<img class="img95" src="./../../../assets/ob3/2.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -10409,7 +10409,7 @@
 </tr>
 <tr>
 <td>
-<img style="max-width:100%" src="./../../../assets/ob3/3.jpg" alt="" />
+<img class="img75" src="./../../../assets/ob3/3.jpg" alt="" />
 
 </td>
 <td>
@@ -10429,7 +10429,7 @@
 </tr>
 <tr>
 <td>
-<img style="max-width:100%" src="./../../../assets/ob3/5.jpg" alt="" />
+<img class="img88" src="./../../../assets/ob3/5.jpg" alt="" />
 
 </td>
 <td>
@@ -10453,7 +10453,7 @@
 
 </td>
 <td>
-<img style="max-width:100%" src="./../../../assets/ob3/8.jpg" alt="" />
+<img class="img85" src="./../../../assets/ob3/8.jpg" alt="" />
 
 </td>
 </tr>
@@ -10469,7 +10469,7 @@
 </tr>
 <tr>
 <td>
-<img style="max-width:100%" src="./../../../assets/ob3/9.jpg" alt="" />
+<img class="img66" src="./../../../assets/ob3/9.jpg" alt="" />
 
 </td>
 <td>
@@ -10489,7 +10489,7 @@
 </tr>
 <tr>
 <td>
-<img style="max-width:100%" src="./../../../assets/ob3/11.jpg" alt="" />
+<img class="img88" src="./../../../assets/ob3/11.jpg" alt="" />
 
 </td>
 <td>
@@ -10509,7 +10509,7 @@
 </tr>
 <tr>
 <td>
-<img style="max-width:100%" src="./../../../assets/ob3/13.jpg" alt="" />
+<img class="img88" src="./../../../assets/ob3/13.jpg" alt="" />
 
 </td>
 <td>
@@ -10529,7 +10529,7 @@
 </tr>
 <tr>
 <td>
-<img style="max-width:100%" src="./../../../assets/ob3/15.jpg" alt="" />
+<img class="img88" src="./../../../assets/ob3/15.jpg" alt="" />
 
 </td>
 <td>
@@ -10639,5 +10639,30 @@
     height:auto !important;
     width:80% !important;
   }
+}
+.img95{
+  display: block;
+  width: 95%;
+  margin: 0 auto;
+}
+.img75{
+  display: block;
+  width: 75%;
+  margin: 0 auto;
+}
+.img85{
+  display: block;
+  width: 85%;
+  margin: 0 auto;
+}
+.img66{
+  display: block;
+  width: 66%;
+  margin: 0 auto;
+}
+.img88{
+  display: block;
+  width: 88%;
+  margin: 0 auto;
 }
 </style>
