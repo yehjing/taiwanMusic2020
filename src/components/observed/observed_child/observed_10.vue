@@ -46,10 +46,10 @@
 </tr>
 <tr>
 <td>
-<img class="contentImg" src="./../../../assets/ob10/3.jpg" alt="" />
+<img class="img45" src="./../../../assets/ob10/3.jpg" alt="" />
 </td>
 <td>
-<img class="contentImg" src="./../../../assets/ob10/4.jpg" alt="" />
+<img class="img45" src="./../../../assets/ob10/4.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -101,10 +101,10 @@
 <tbody>
 <tr>
 <td>
-<img class="contentImg" src="./../../../assets/ob10/9.jpg" alt="" />
+<img class="img45" src="./../../../assets/ob10/9.jpg" alt="" />
 </td>
 <td>
-<img class="contentImg" src="./../../../assets/ob10/10.jpg" alt="" />
+<img class="img45" src="./../../../assets/ob10/10.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -117,7 +117,7 @@
 </tr>
 <tr>
 <td>
-<img class="contentImg" src="./../../../assets/ob10/11.jpg" alt="" />
+<img class="img45" src="./../../../assets/ob10/11.jpg" alt="" />
 </td>
 <td>
 <img class="contentImg" src="./../../../assets/ob10/12.jpg" alt="" />
@@ -133,10 +133,10 @@
 </tr>
 <tr>
 <td>
-<img class="contentImg" src="./../../../assets/ob10/13.jpg" alt="" />
+<img class="img45" src="./../../../assets/ob10/13.jpg" alt="" />
 </td>
 <td>
-<img class="contentImg" src="./../../../assets/ob10/14.jpg" alt="" />
+<img class="img45" src="./../../../assets/ob10/14.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -184,10 +184,10 @@
 <tbody>
 <tr>
 <td>
-<img class="contentImg" src="./../../../assets/ob10/17.jpg" alt="" />
+<img class="img45" src="./../../../assets/ob10/17.jpg" alt="" />
 </td>
 <td>
-<img class="contentImg" src="./../../../assets/ob10/18.jpg" alt="" />
+<img class="img45" src="./../../../assets/ob10/18.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -219,7 +219,7 @@
 <img class="contentImg" src="./../../../assets/ob10/21.jpg" alt="" />
 </td>
 <td>
-<img class="contentImg" src="./../../../assets/ob10/22.jpg" alt="" />
+<img class="img71" src="./../../../assets/ob10/22.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -291,7 +291,7 @@
 </tr>
 <tr>
 <td>
-<img class="contentImg" src="./../../../assets/ob10/29.jpg" alt="" />
+<img class="img71" src="./../../../assets/ob10/29.jpg" alt="" />
 </td>
 <td>
 <img class="contentImg" src="./../../../assets/ob10/30.jpg" alt="" />
@@ -355,10 +355,10 @@
 </tr>
 <tr>
 <td>
-<img class="contentImg" src="./../../../assets/ob10/37.jpg" alt="" />
+<img class="img40" src="./../../../assets/ob10/37.jpg" alt="" />
 </td>
 <td>
-<img class="contentImg" src="./../../../assets/ob10/38.jpg" alt="" />
+<img class="img40" src="./../../../assets/ob10/38.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -403,10 +403,10 @@
 </tr>
 <tr>
 <td>
-<img class="contentImg" src="./../../../assets/ob10/41.jpg" alt="" />
+<img class="img40" src="./../../../assets/ob10/41.jpg" alt="" />
 </td>
 <td>
-<img class="contentImg" src="./../../../assets/ob10/42.jpg" alt="" />
+<img class="img40" src="./../../../assets/ob10/42.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -422,7 +422,7 @@
 <img class="contentImg" src="./../../../assets/ob10/43.jpg" alt="" />
 </td>
 <td>
-<img class="contentImg" src="./../../../assets/ob10/44.jpg" alt="" />
+<img class="img40" src="./../../../assets/ob10/44.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -435,7 +435,7 @@
 </tr>
 <tr>
 <td>
-<img class="contentImg" src="./../../../assets/ob10/45.jpg" alt="" />
+<img class="img71" src="./../../../assets/ob10/45.jpg" alt="" />
 </td>
 <td>
 <img class="contentImg" src="./../../../assets/ob10/46.jpg" alt="" />
@@ -445,7 +445,7 @@
 <td class="tableCenter">
 <p>普度科儀進行，中尊道長戴上五佛冠（李秀琴攝影）</p>
 </td>
-<td>
+<td class="tableCenter">
 <p>普度科儀進行中（李秀琴攝影）</p>
 </td>
 </tr>
@@ -489,10 +489,10 @@
 </tr>
 <tr>
 <td>
-<img class="contentImg" src="./../../../assets/ob10/49.jpg" alt="" />
+<img class="img45" src="./../../../assets/ob10/49.jpg" alt="" />
 </td>
 <td>
-<img class="contentImg" src="./../../../assets/ob10/50.jpg" alt="" />
+<img class="img45" src="./../../../assets/ob10/50.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -508,7 +508,7 @@
 <img class="contentImg" src="./../../../assets/ob10/51.jpg" alt="" />
 </td>
 <td>
-<img class="contentImg" src="./../../../assets/ob10/52.jpg" alt="" />
+<img class="img45" src="./../../../assets/ob10/52.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -556,7 +556,7 @@
 <img class="contentImg" src="./../../../assets/ob10/57.jpg" alt="" />
 </td>
 <td>
-<img class="contentImg" src="./../../../assets/ob10/58.jpg" alt="" />
+<img class="img71" src="./../../../assets/ob10/58.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -616,10 +616,10 @@
 </tr>
 <tr>
 <td>
-<img class="contentImg" src="./../../../assets/ob10/63.jpg" alt="" />
+<img class="img40" src="./../../../assets/ob10/63.jpg" alt="" />
 </td>
 <td>
-<img class="contentImg" src="./../../../assets/ob10/64.jpg" alt="" />
+<img class="img40" src="./../../../assets/ob10/64.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -635,7 +635,7 @@
 <img class="contentImg" src="./../../../assets/ob10/65.jpg" alt="" />
 </td>
 <td>
-<img class="contentImg" src="./../../../assets/ob10/66.jpg" alt="" />
+<img class="img71" src="./../../../assets/ob10/66.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -648,10 +648,10 @@
 </tr>
 <tr>
 <td>
-<img class="contentImg" src="./../../../assets/ob10/67.jpg" alt="" />
+<img class="img45" src="./../../../assets/ob10/67.jpg" alt="" />
 </td>
 <td>
-<img class="contentImg" src="./../../../assets/ob10/68.jpg" alt="" />
+<img class="img45" src="./../../../assets/ob10/68.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -664,10 +664,10 @@
 </tr>
 <tr>
 <td>
-<img class="contentImg" src="./../../../assets/ob10/69.jpg" alt="" />
+<img class="img40" src="./../../../assets/ob10/69.jpg" alt="" />
 </td>
 <td>
-<img class="contentImg" src="./../../../assets/ob10/70.jpg" alt="" />
+<img class="img45" src="./../../../assets/ob10/70.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -680,10 +680,10 @@
 </tr>
 <tr>
 <td>
-<img class="contentImg" src="./../../../assets/ob10/71.jpg" alt="" />
+<img class="img45" src="./../../../assets/ob10/71.jpg" alt="" />
 </td>
 <td>
-<img class="contentImg" src="./../../../assets/ob10/72.jpg" alt="" />
+<img class="img40" src="./../../../assets/ob10/72.jpg" alt="" />
 </td>
 </tr>
 <tr>
@@ -910,5 +910,20 @@
 }
 .contentImg{
   width: 80% !important;
+}
+.img45{
+  display: block;
+  width: 45%;
+  margin: 0 auto;
+}
+.img40{
+  display: block;
+  width: 40%;
+  margin: 0 auto;
+}
+.img71{
+  display: block;
+  width: 71%;
+  margin: 0 auto;
 }
 </style>

@@ -139,8 +139,8 @@
     <table cellpadding="5">
       <tbody>
         <tr>
-          <td><img class="contentImg" src="./../../../assets/comment2/1.jpg" alt=""></td>
-          <td><img class="contentImg" src="./../../../assets/comment2/2.jpg" alt=""></td>
+          <td><img class="img50" src="./../../../assets/comment2/1.jpg" alt=""></td>
+          <td><img class="img50" src="./../../../assets/comment2/2.jpg" alt=""></td>
         </tr>
         <tr>
           <td>
@@ -151,7 +151,7 @@
           </td>
         </tr>
         <tr>
-          <td><img class="contentImg" src="./../../../assets/comment2/3.jpg" alt=""></td>
+          <td><img class="img50" src="./../../../assets/comment2/3.jpg" alt=""></td>
           <td>&nbsp;</td>
         </tr>
         <tr>
@@ -187,7 +187,7 @@
       <tbody>
         <tr>
           <td>
-            <p><img class="contentImg" src="./../../../assets/comment2/4.jpg" alt=""></p>
+            <p><img class="img28" src="./../../../assets/comment2/4.jpg" alt=""></p>
             <p></p>
           </td>
         </tr>
@@ -235,10 +235,10 @@
       <tbody>
         <tr>
           <td>
-            <p><img class="contentImg" src="./../../../assets/comment2/5.jpg" alt=""></p>
+            <p><img class="img55" src="./../../../assets/comment2/5.jpg" alt=""></p>
           </td>
           <td>
-            <p><img class="contentImg" src="./../../../assets/comment2/6.jpg" alt=""></p>
+            <p><img class="img55" src="./../../../assets/comment2/6.jpg" alt=""></p>
           </td>
         </tr>
         <tr>
@@ -251,10 +251,10 @@
         </tr>
         <tr>
           <td>
-            <p><img class="contentImg" src="./../../../assets/comment2/7.jpg" alt=""></p>
+            <p><img class="img55" src="./../../../assets/comment2/7.jpg" alt=""></p>
           </td>
           <td>
-            <p><img class="contentImg" src="./../../../assets/comment2/8.jpg" alt=""></p>
+            <p><img class="img55" src="./../../../assets/comment2/8.jpg" alt=""></p>
           </td>
         </tr>
         <tr>
@@ -266,7 +266,7 @@
           </td>
         </tr>
         <tr>
-          <td><img class="contentImg" src="./../../../assets/comment2/9.jpg" alt=""></td>
+          <td><img class="img55" src="./../../../assets/comment2/9.jpg" alt=""></td>
           <td>&nbsp;</td>
         </tr>
         <tr>
@@ -402,10 +402,10 @@
       <tbody>
         <tr>
           <td>
-            <p><img class="contentImg" src="./../../../assets/comment2/10.jpg" alt=""></p>
+            <p><img class="img63" src="./../../../assets/comment2/10.jpg" alt=""></p>
           </td>
           <td>
-            <p><img class="contentImg" src="./../../../assets/comment2/24.jpg" alt=""></p>
+            <p><img class="img50" src="./../../../assets/comment2/24.jpg" alt=""></p>
           </td>
         </tr>
         <tr>
@@ -438,7 +438,7 @@
       <tbody>
         <tr>
           <td>
-            <p><img class="contentImg" src="./../../../assets/comment2/12.jpg" alt=""></p>
+            <p><img class="img28" src="./../../../assets/comment2/12.jpg" alt=""></p>
           </td>
         </tr>
         <tr>
@@ -459,7 +459,7 @@
       <tbody>
         <tr>
           <td>
-            <p><img class="contentImg" src="./../../../assets/comment2/13.jpg" alt=""></p>
+            <p><img class="img28" src="./../../../assets/comment2/13.jpg" alt=""></p>
           </td>
         </tr>
         <tr>
@@ -485,7 +485,7 @@
       <tbody>
         <tr>
           <td>
-            <p><img class="contentImg" src="./../../../assets/comment2/23.jpg" alt=""></p>
+            <p><img class="img28" src="./../../../assets/comment2/23.jpg" alt=""></p>
           </td>
         </tr>
         <tr>
@@ -539,7 +539,7 @@
       <tbody>
         <tr>
           <td>
-            <p><img class="contentImg" src="./../../../assets/comment2/15.jpg" alt=""></p>
+            <p><img class="img28" src="./../../../assets/comment2/15.jpg" alt=""></p>
           </td>
         </tr>
         <tr>
@@ -605,10 +605,10 @@
       <tbody>
         <tr>
           <td>
-            <p><img class="contentImg" src="./../../../assets/comment2/16.jpg" alt=""></p>
+            <p><img class="img70" src="./../../../assets/comment2/16.jpg" alt=""></p>
           </td>
           <td>
-            <p><img class="contentImg" src="./../../../assets/comment2/17.jpg" alt=""></p>
+            <p><img class="img70" src="./../../../assets/comment2/17.jpg" alt=""></p>
           </td>
         </tr>
         <tr>
@@ -623,10 +623,10 @@
         </tr>
         <tr>
           <td>
-            <p><img class="contentImg" src="./../../../assets/comment2/18.jpg" alt=""></p>
+            <p><img class="img70" src="./../../../assets/comment2/18.jpg" alt=""></p>
           </td>
           <td>
-            <p><img class="contentImg" src="./../../../assets/comment2/19.jpg" alt=""></p>
+            <p><img class="img70" src="./../../../assets/comment2/19.jpg" alt=""></p>
           </td>
         </tr>
         <tr>
@@ -659,7 +659,7 @@
       <tbody>
         <tr>
           <td>
-            <p><img class="contentImg" src="./../../../assets/comment2/20.jpg" alt=""></p>
+            <p><img class="img28" src="./../../../assets/comment2/20.jpg" alt=""></p>
           </td>
         </tr>
         <tr>
@@ -685,7 +685,7 @@
       <tbody>
         <tr>
           <td>
-            <p><img class="contentImg" src="./../../../assets/comment2/21.jpg" alt=""></p>
+            <p><img class="img28" src="./../../../assets/comment2/21.jpg" alt=""></p>
           </td>
         </tr>
         <tr>
@@ -715,7 +715,7 @@
       <tbody>
         <tr>
           <td>
-            <p><img class="contentImg" src="./../../../assets/comment2/22.jpg" alt=""></p>
+            <p><img class="img28" src="./../../../assets/comment2/22.jpg" alt=""></p>
           </td>
         </tr>
         <tr>
@@ -783,5 +783,30 @@ export default {
 ol{
   list-style-type: decimal ;
   margin-inline-start: 20px;
+}
+.img50{
+  display: block;
+  width: 50%;
+  margin: 0 auto;
+}
+.img28{
+  display: block;
+  width: 28%;
+  margin: 0 auto;
+}
+.img55{
+  display: block;
+  width: 55%;
+  margin: 0 auto;
+}
+.img63{
+  display: block;
+  width: 63%;
+  margin: 0 auto;
+}
+.img70{
+  display: block;
+  width: 70%;
+  margin: 0 auto;
 }
 </style>
