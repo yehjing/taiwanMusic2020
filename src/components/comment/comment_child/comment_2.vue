@@ -402,7 +402,7 @@
       <tbody>
         <tr>
           <td>
-            <p><img class="img63" src="./../../../assets/comment2/10.jpg" alt=""></p>
+            <p><img class="img50" src="./../../../assets/comment2/10.jpg" alt=""></p>
           </td>
           <td>
             <p><img class="img50" src="./../../../assets/comment2/24.jpg" alt=""></p>
